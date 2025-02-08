@@ -5,7 +5,7 @@ Volume 51    Number 3   January 2022
 The Minuteman Repeater Association is a non-profit organization providing communications infrastructure and volunteers for community and emergency events.
 ----------
 
-Membership Meeting ~ Wednesday, 19 November 2021 ~ 7:00ó9:30 pm
+Membership Meeting ~ Wednesday, 19 November 2021 ~ 7:00‚Äî9:30 pm
 SKYWARN Training    Rob Macedo, KD1CY
 This is a Zoom Teleconference only.  Note the time change!
 
@@ -14,7 +14,7 @@ Non-members: send an email to contack@mmra to request the login info.
 
 This is a severe weather spotter training session, part of the National Weather Service (NWS) SKYWARN program.  Amateur Radio Operators comprise one third of all SKYWARN Spotters in the NWS Boston/Norton coverage area!
 
-This is a two-hour thirty-minute training session which discusses the development of thunderstorms, the criteria for ìsevereî thunderstorms, as well as the cloud features associated with severe thunderstorms and tornados. Additional information will be presented about winter storms and proper snow measurement and reporting of coastal flooding, river, stream, and urban flooding and rainfall measurements. The session will also present the procedure for reporting weather information to the National Weather Service. Safety procedures for the various forms of summer severe weather (severe thunderstorms, tornadoes and lightning), winter storms, and flooding will also be covered in the training session. 
+This is a two-hour thirty-minute training session which discusses the development of thunderstorms, the criteria for ‚Äúsevere‚Äù thunderstorms, as well as the cloud features associated with severe thunderstorms and tornados. Additional information will be presented about winter storms and proper snow measurement and reporting of coastal flooding, river, stream, and urban flooding and rainfall measurements. The session will also present the procedure for reporting weather information to the National Weather Service. Safety procedures for the various forms of summer severe weather (severe thunderstorms, tornadoes and lightning), winter storms, and flooding will also be covered in the training session. 
 
 Rob Macedo (Amateur Radio Call-Sign: KD1CY) was born and raised in Saratoga Springs, NY and moved to New Bedford, MA for college in 1991, where he went to UMASS-Dartmouth and graduated with an Electrical Engineering degree. He works at Dell Technologies where he has been for over 24 years. Rob is a senior principle hardware engineer and former Director of System Integration in the Drive Storage Media Engineering (DSME) department where he previously managed a global team of engineers working on disk drive and Solid State Drive evaluation in Dell-EMC products and now is a technical lead in this area working with the same global team of system integration engineers. Rob has always had a very strong interest in technology, meteorology, emergency management, emergency and public service event communications. Rob has been the Amateur Radio Emergency Services (ARES) SKYWARN Coordinator for NWS Boston/Norton (previously Taunton) for 23 years and is the Eastern Massachusetts ARES Section Emergency Coordinator. When he is not at work or doing Amateur Radio public service, emergency communications and weather spotting volunteer work, Rob enjoys movies, shows, time with family and friends, as well as sporting events.
 ----------
@@ -23,10 +23,10 @@ MMRA Repeater Architecture and Programming the 7330 Controller
 
 Bob DeMattia, K1IW
 
-Beginning his month, Bob DeMattia, K1IW will be hosting a series of technical presentations that go over the details of the MMRA repeaters and their internal workings.† All of these presentations will be Zoom only, and are restricted to club members who†have registered in advance.† These will be detailed technical discussions.† The first one will begin at 7PM on Wednesday January 26 and will cover general repeater architecture and how it is controlled by the SCOM 7330 controller.† We will be delving into the actual programming of the 7330 - what it is and how it is done.† Please†contact k1iw@mmra.org to preregister. 
+Beginning his month, Bob DeMattia, K1IW will be hosting a series of technical presentations that go over the details of the MMRA repeaters and their internal workings.¬† All of these presentations will be Zoom only, and are restricted to club members who¬†have registered in advance.¬† These will be detailed technical discussions.¬† The first one will begin at 7PM on Wednesday January 26 and will cover general repeater architecture and how it is controlled by the SCOM 7330 controller.¬† We will be delving into the actual programming of the 7330 - what it is and how it is done.¬† Please¬†contact k1iw@mmra.org to preregister. 
 
 ----------
-Presidentís Corner ~ David Hornbaker, N1DCH 
+President‚Äôs Corner ~ David Hornbaker, N1DCH 
 
 Happy New Year 2022!
 
@@ -34,11 +34,11 @@ Robert Macedo - KD1CY will be giving NWS SKYWARN training on January 19th at 7:0
 This membership meeting will be Zoom only.  There are several factors going into this decision: Rob KD1CY was only available via Zoom, the length of the meeting, Winter Weather, and the current COVID-19 surge.  Please note: the meeting start time 7:00 PM this is due to the length of the SKYWARN training.
 The information needed to join the meeting is in the announcement on the first page of this newsletter.  There is also a link that will take you directly to the meeting in the meeting announcement on the MMRA web page (www.mmra.org)  (note: you must be logged to see the link).
 
-MMRA Elections:† Elections of the MMRA officers and board members will occur during the May Membership Meeting.† Currently, the MMRA is missing one officer (see article on next page).† We would like to have a full slate of officers next year.† The long-term viability of the organization depends on members serving in these 
+MMRA Elections:¬† Elections of the MMRA officers and board members will occur during the May Membership Meeting.¬† Currently, the MMRA is missing one officer (see article on next page).¬† We would like to have a full slate of officers next year.¬† The long-term viability of the organization depends on members serving in these 
 important officer roles.
 
 VE Exams:  The January VE Session will be held at City Church Marlborough, 72 Jefferson St, Marlborough,
-Saturday †January 22nd at 9:00 AM.   For more information Contact Ron ñ WO1E at ve@mmra.org or wo1e@mmra.org
+Saturday ¬†January 22nd at 9:00 AM.   For more information Contact Ron ‚Äì WO1E at ve@mmra.org or wo1e@mmra.org
 
 Membership renewal:  All MMRA memberships expired in August.  Please check your profile and if your membership expired in 2021, please renew.  Renewals may be done on the website, or you can mail your renewal to Minuteman Repeater Association, PO Box 669, Stow, MA 01775-0669.  Please allow 7 days for us to process your renewal. Please allow 14 days for renewals that are mailed.  While you're on the website (https://www.mmra.org) checking your expiration date, please verify your email address. We have had several email bounces recently.
 
@@ -48,13 +48,13 @@ You can find out more information about how and when the repeaters are linked on
 Please remember to keep your profile up to date, especially if your email changes.  Note that if your callsign changes, send email to contact@mmra.org and we will update your callsign in the database.
 Best wishes to all for a happy and a sunspot filled New Year!
 
-73 ó Dave ñ N1DCH
+73 ‚Äî Dave ‚Äì N1DCH
 
 ----------
 The MMRA needs a Clerk!
 And other election related stuff ~ Larry Banks, W1DYJ
 
-You may have noticed that the minutes of our MMRA meetings have recently been submitted by your newsletter editor ó me.  Why?  Because one of our five corporate offices is vacant, that of Clerk.   Why do we need one?  First, our bylaws require it.  Second, having your newsletter editor generate the minutes gives too much power to one person ó the power of the pen.  Third, having a ninth set of eyes and brain on the Executive Board is important to the functioning of the club.  (The Executive Board consists of the President, V.P., Treasurer, Secretary, Clerk, and the four directors, all elected by the membership.)
+You may have noticed that the minutes of our MMRA meetings have recently been submitted by your newsletter editor ‚Äî me.  Why?  Because one of our five corporate offices is vacant, that of Clerk.   Why do we need one?  First, our bylaws require it.  Second, having your newsletter editor generate the minutes gives too much power to one person ‚Äî the power of the pen.  Third, having a ninth set of eyes and brain on the Executive Board is important to the functioning of the club.  (The Executive Board consists of the President, V.P., Treasurer, Secretary, Clerk, and the four directors, all elected by the membership.)
 
 What does the Clerk do?  From the bylaws:
 
@@ -72,8 +72,8 @@ osition, you receive twice as much as the appointed newsletter editor:  2 x $0 =
 
 What is the election process?
 
-The Clerk is elected by the membership at the annual meeting in May.  You may nominate yourself, but this must be done by 15 April.  To do this, you must inform the Secretary, JasonóW1HFP, although 
-letting our President, DaveóN1DCH, know as well is probably a good thing to do.  
+The Clerk is elected by the membership at the annual meeting in May.  You may nominate yourself, but this must be done by 15 April.  To do this, you must inform the Secretary, Jason‚ÄîW1HFP, although 
+letting our President, Dave‚ÄîN1DCH, know as well is probably a good thing to do.  
 
 Solicitation!
 
@@ -83,7 +83,7 @@ information.  I will also be happy to answer any questions you might have.
 The long-term viability of the organization depends on members serving in these 
 important officer roles.
 
-73 ó Larry ó W1DYJ
+73 ‚Äî Larry ‚Äî W1DYJ
 MMRA Newsletter Editor and Board of Directors member
 
 ----------
@@ -91,7 +91,7 @@ Repeater Report ~ Bob DeMatia, K1IW
 
 The club voted last fall to purchase five SCOM 7330 controllers and three MX800 repeaters to upgrade existing equipment.  Those arrived in November.
 
-I am happy to report that all the 7330's and all but one of the MX800s have been deployed.  Replacing the controller is no small undertaking.  Probably the biggest issue is the cabling†between the controller and repeater.  The SCOM 7K has two 25-pin connectors.  One is for all three radios while the other is for certain i/o connectors to turn relays and such on and off.† The 7330 retains the 
+I am happy to report that all the 7330's and all but one of the MX800s have been deployed.  Replacing the controller is no small undertaking.  Probably the biggest issue is the cabling¬†between the controller and repeater.  The SCOM 7K has two 25-pin connectors.  One is for all three radios while the other is for certain i/o connectors to turn relays and such on and off.¬† The 7330 retains the 
 I/O connector, albeit with a different pin out, and has three 9-pin connectors - a separate one for each radio.
 
 Most sites do not offer nice work bench areas to build cables and many are not even temperature controlled, so you do not want to be soldering and building
@@ -99,9 +99,9 @@ cables on site.  In some cases when the repeater was originally built, we antici
 
 However, not all sites had this, so I had to dig through documentation.  In the case of Marlborough east, the radio cable was almost 7330-ready, but had deviated from the plan because of the repeater having two receivers.  At our Prudential location, there were 9-pin connectors, but they were wired for an Arcom controller, so the wiring in the connector had to be changed.
 
-With all this done, what is next?† †We still have to
+With all this done, what is next?¬† ¬†We still have to
 install the third MX800 at 223.94 in
-Marlborough.† The Billerica 147.12 repeater will be upgraded in April, and the new Quincy 146.67
+Marlborough.¬† The Billerica 147.12 repeater will be upgraded in April, and the new Quincy 146.67
 repeater is on order - so all work is not done.
 
 ---------
@@ -116,7 +116,7 @@ Agenda
 Introductions
 
 In the room:
-N1DCH, Dave, President; W1HFP, Jason, Secretary and tonightís speaker; KV1J, Eric, Host
+N1DCH, Dave, President; W1HFP, Jason, Secretary and tonight‚Äôs speaker; KV1J, Eric, Host
 K1IW, Bob, Technical Officer & President Emeritus, KC1OXG, Bob, Member; KA1MOM, Bill, Member
 W1DYJ, Larry, Net Manager & Newsletter Editor; Plus one ham whose call I did not record...
 
@@ -125,7 +125,7 @@ K1KWP, Kevin, Treasurer; KC1JOS, Tom, Member; WA1MDD, John, Vice-President
 K8ZBE, Steve, Social Media Coordinator; K1BTZ, Jon, Net Controller
 
 Insurance Issue
-We need to send MMRAís insurance certificate to Eric, per Marlboroughís requirements
+We need to send MMRA‚Äôs insurance certificate to Eric, per Marlborough‚Äôs requirements
 (Kevin, K1KWP, did so after the meeting.)
 
 Repeater Update
@@ -140,17 +140,17 @@ Complete 7330 Status:
   *BCA (Billerica) - build this winter, install in spring
 
 Quincy repeaters are off
-ìBOB, K1IWî: I've lost track of the issues we've had with Quincy (QCY) this year.   It is a long trip, and it is down again with the stuck-transmitter problem (same problem we had in August).  The current plan is to pull the Mastr II on Friday and install the DR1X temporary repeater.
+‚ÄúBOB, K1IW‚Äù: I've lost track of the issues we've had with Quincy (QCY) this year.   It is a long trip, and it is down again with the stuck-transmitter problem (same problem we had in August).  The current plan is to pull the Mastr II on Friday and install the DR1X temporary repeater.
 
 We need a more permanent solution. There are two options: 
   *A new Kenwood system with Henry Power Amp - $2800
   *A used Quantar system (Quantar has sufficient power, so no amp is required)  - $1100 - $1600.  The quantar price is variable, depending on what's on eBay at the time.
 
-K1IWís recommendation is to go with Option 1.  
+K1IW‚Äôs recommendation is to go with Option 1.  
   *QCY is a difficult location to access, so reliability is key.  The Quantar is a good system, but it will probably be 10-20 years old and with an unknown history.  
   *We've had the UHF version of the Kenwood installed in Marlborough since March 2018 and haven't had a single issue with it.
-  *Fix Mastr†II currently in QCY and keep it as a spare for Marlborough, Weston , or Mendon.†
-Subsequent to this meeting, a membership vote was sent out via email for Bobís recommendation, Option 1. 
+  *Fix Mastr¬†II currently in QCY and keep it as a spare for Marlborough, Weston , or Mendon.¬†
+Subsequent to this meeting, a membership vote was sent out via email for Bob‚Äôs recommendation, Option 1. 
 
 Next VE Session: 9:00 am November 20th, Marlborough Central Fire Station
   *Contact Ron (WO1E@mmra.org) for more information
@@ -158,18 +158,18 @@ Next VE Session: 9:00 am November 20th, Marlborough Central Fire Station
   *Note:  Social Security numbers are no longer accepted by the FCC.  Everyone must have an FRN
 Next scheduled session: 18 December
 
-Upcoming Meetings  ñ Third Wednesday of the month
-  *December ñ Business Meeting ñ New England Sci-Tech & Zoom
-  *January ñ Robert Macedo ñ KD1CY ñ SKYWARN Training ñ New England Sci-Tech & Zoom
-  *February ñ Business Meeting ñ New England Sci-Tech & Zoom Teleconference
-  *March ñ Tim Duffy ñ K3LR ñ Grounding and Bonding ñ New England Sci-Tech & Zoom
-  *April ñ Business Meeting ñ New England Sci-Tech & Zoom Teleconference
-  *May ñ Philip Erickson, Ph.D. ñ W1PJE ñ Amateur Radio's Emerging Role in Investigating Space Weather        Within near-Earth space ñ Marlborough Central Fire Station & Zoom
+Upcoming Meetings  ‚Äì Third Wednesday of the month
+  *December ‚Äì Business Meeting ‚Äì New England Sci-Tech & Zoom
+  *January ‚Äì Robert Macedo ‚Äì KD1CY ‚Äì SKYWARN Training ‚Äì New England Sci-Tech & Zoom
+  *February ‚Äì Business Meeting ‚Äì New England Sci-Tech & Zoom Teleconference
+  *March ‚Äì Tim Duffy ‚Äì K3LR ‚Äì Grounding and Bonding ‚Äì New England Sci-Tech & Zoom
+  *April ‚Äì Business Meeting ‚Äì New England Sci-Tech & Zoom Teleconference
+  *May ‚Äì Philip Erickson, Ph.D. ‚Äì W1PJE ‚Äì Amateur Radio's Emerging Role in Investigating Space Weather        Within near-Earth space ‚Äì Marlborough Central Fire Station & Zoom
 
 The Main Event:
-Jason Peardon ñ W1HFP
-An Amateurís Guide to Space Weather 
-These are just a few of Jasonís slides.  They have been edited for space reasons.
+Jason Peardon ‚Äì W1HFP
+An Amateur‚Äôs Guide to Space Weather 
+These are just a few of Jason‚Äôs slides.  They have been edited for space reasons.
 
 ----------
 Annual TIaOS Net Report ~ Larry Banks, W1DYJ, Net Manager
@@ -184,13 +184,13 @@ hopefully will continue to participate.     I would like to thank our net contro
   *K1BTZ,Jonathan Traum
 
 ----------
-Treasurerís Report ~ Kevin Paetzold, K1KWP
+Treasurer‚Äôs Report ~ Kevin Paetzold, K1KWP
 
 The MMRA receives a significant amount of donations each year.  On behalf of the club I would like to acknowledge and thank people below who donated since my list in the May newsletter:
 AE1EI, K1IJ, K5TEC, KC1MJB, KC1MML, KC1NBN, KC1POQ, KC1X, KD1TF, N1DCH, N1HBR, W1BFM, W1BRI, W1HAI, W1HFP, W1MVP, WA1DX, and WM1T. 
 Hopefully I did not leave anyone off (and if I did I am sorry):
 
-As part of preparing to move, W1BRI sold items from his ìcollectionî at the convention in September and donated proceeds from those sales to the MMRA.
+As part of preparing to move, W1BRI sold items from his ‚Äúcollection‚Äù at the convention in September and donated proceeds from those sales to the MMRA.
 
 Detailed financial information is occasionally presented at business meetings.  These meetings generally occur in the months which do not have general membership meetings.  They are announced on the www.mmra.org website.  All members are invited and encouraged to attend these meetings.  Of course much more than the finances are discussed at these meetings including repeater status, repeater decisions, planning, etc.
 
@@ -206,10 +206,10 @@ Get the meeting information from the MMRA web site.  You must be logged into the
 The  Join Zoom Meeting link on the website will open a zoom webpage for the meeting, then 
 (on most OS/Browers) automatically open the meeting in the zoom client.
 
-73 ó Dave ó N1DCH
+73 ‚Äî Dave ‚Äî N1DCH
 
 ----------
-15 December 2021 Business Meeting ó Minutes
+15 December 2021 Business Meeting ‚Äî Minutes
 
 Brought to order by President Dave, N1DCH, at 7:35 pm at New England SciTech
 Present: Dave, N1DCH; Bob, K1IW
@@ -220,7 +220,7 @@ Agenda
 
 After introductions, Dave, N1DCH, expressed thanks to K5TEC and New England SciTech for once again hosting our business meeting.
 
-Treasurerís Report ñ Kevin, K1KWP
+Treasurer‚Äôs Report ‚Äì Kevin, K1KWP
   *Kevin gave an extensive report, with many graphs
   *Much of this will be published in the newsletter
 Some Highlights:
@@ -233,8 +233,8 @@ Some Highlights:
       *Web, Internet, ZOOM, etc.:  $958
 We currently have 226 paid memberships
 
-Repeater Status ñ Bob, K1IW
-Bob, K1IW ñ our Technical Officer ñ put many miles on his Mustang this past month!
+Repeater Status ‚Äì Bob, K1IW
+Bob, K1IW ‚Äì our Technical Officer ‚Äì put many miles on his Mustang this past month!
 Completed Repairs
    *Expired Internet CA certificates replaced at ten sites
       *Marlborough West, Belmont done remotely
@@ -248,24 +248,24 @@ Completed Repairs
    *Quincy: MastrII removed, DR1X installed (1 visit) [see below]
 
 Open Issues with solutions
-   *Burlington í88: Transmitter cut-outs (likely overheating)
+   *Burlington ‚Äô88: Transmitter cut-outs (likely overheating)
       *Will test new MX800s under similar conditions before installing
       *Improved cooling system to be added
       *Projected schedule: Late December
-   *Marlborough East í81: Erratic output power, low audio (2 unrelated issues)
+   *Marlborough East ‚Äô81: Erratic output power, low audio (2 unrelated issues)
       *Bryan, W1BRI,  to look at
-   *Weston has three issues (projected schedule ñ Late December):
+   *Weston has three issues (projected schedule ‚Äì Late December):
       *Bad R-Pi power supply causing internet drops
       *Replace 224.70 with new MX800
-      *Attempt†repair of Mastr†II final on 146.79 (probably the common interconnect problem).
+      *Attempt¬†repair of Mastr¬†II final on 146.79 (probably the common interconnect problem).
    *Belmont
       *Link out intermittent, to be monitored
       *Bad R-Pi power supply causing internet drops (late December)
 Open Issues -no plans to fix
-   *Belmont ë43: Poor RX sensitivity
+   *Belmont ‚Äò43: Poor RX sensitivity
       *Likely an antenna issue
       *No practical solution other than finding a new site
-   *North Reading ë715: No TX PL: Minor, not worth site visit
+   *North Reading ‚Äò715: No TX PL: Minor, not worth site visit
 Upcoming projects
    *Replace 7K with 7330 at Prudential (hopefully late December)
    *Replace 7K with 7330 at One Financial Center (hopefully late December)
@@ -293,7 +293,7 @@ Quincy Upgrade
       *Passed: 7-0
 
 VE Laptops
-We could use six or seven laptops for the VE sessions.  Any WIN10 laptop would work, and if they were identical for maintenance reasons, it would be good.  A newsletter blurb will be published, and a few participants on the ZOOM call volunteered to ìlook around.î
+We could use six or seven laptops for the VE sessions.  Any WIN10 laptop would work, and if they were identical for maintenance reasons, it would be good.  A newsletter blurb will be published, and a few participants on the ZOOM call volunteered to ‚Äúlook around.‚Äù
 
 Meeting Attendance and ZOOM URL Accessibility
    *There is a concern that we are not seeing many members at our meetings.
@@ -301,14 +301,14 @@ Meeting Attendance and ZOOM URL Accessibility
    *There was also a  general consensus that the ZOOM login information for meetings could be made more obvious on the MMRA web site.  Bob, Roger, and Larry agreed to consult with each other to make this happen. (Bob improved this the next day.)
 
 Upcoming meetings
-   * January Membership Meeting ñ Rob Macedo ñ KD1CY -- SKYWARN Training
+   * January Membership Meeting ‚Äì Rob Macedo ‚Äì KD1CY -- SKYWARN Training
       New England Sci-Tech, Natick & Zoom Teleconference
-      (Editorís note: this was changed to a ZOOM only meeting.)
+      (Editor‚Äôs note: this was changed to a ZOOM only meeting.)
    *February Business Meeting -- New England Sci-Tech, Natick & Zoom Teleconference
-   *March Membership Meeting ñTim Duffy ñ  K3LR -- Grounding and Bonding
+   *March Membership Meeting ‚ÄìTim Duffy ‚Äì  K3LR -- Grounding and Bonding
       New England Sci-Tech, Natick & Zoom Teleconference
    *April  Business Meeting -- New England Sci-Tech, Natick & Zoom Teleconference
-   *May Membership & Annual Meeting ñPhil Erickson ñ W1PJE
+   *May Membership & Annual Meeting ‚ÄìPhil Erickson ‚Äì W1PJE
       Amateur Radio's Emerging Role in Investigating Space Weather Within Near-Earth Space
       Marlborough Central Fire Station & Zoom Teleconference
 
@@ -320,11 +320,11 @@ Meeting adjourned at 9:14.
 Submitted by Larry Banks, W1DYJ 
 
 ------
-Donít Forget! Join Us.
+Don‚Äôt Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatís happening in the MMRA and ask your ham related questions.
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.
 
 Net Control Operators:
 Week 1	W1DYJ		Larry Banks	
@@ -342,18 +342,18 @@ NOTE: we need another NC to be available as a substitute.  If you are interested
 MMRA Leaders
 
 ------------
-Executive Board ó Officers
+Executive Board ‚Äî Officers
 President	Dave Hornbaker 	N1DCH 
 Vice President	John Spencer	WA1MDD
 Secretary	Jason Peardon 	W1HFP
 Treasurer	Kevin Paetzold	K1KWP
-Clerk 		OPEN	óóóó
+Clerk 		OPEN	‚Äî‚Äî‚Äî‚Äî
 
-Executive Board ó Directors
-Director  ª2023	Bob DeMattia	K1IW
-Director  ª2023	Roger Coulson	WA1NVC
-Director  ª2022	Rob Evans	N1BE
-Director  ª2022	James Lee	N1DDK
+Executive Board ‚Äî Directors
+Director  ¬ª2023	Bob DeMattia	K1IW
+Director  ¬ª2023	Roger Coulson	WA1NVC
+Director  ¬ª2022	Rob Evans	N1BE
+Director  ¬ª2022	James Lee	N1DDK
 
 Technical Officer	Bob DeMattia	K1IW
 
@@ -412,7 +412,7 @@ facebook: https://www.facebook.com/mmraham
 ----------
 
 MMRA VE SESSIONS
-Check out https://www.mmra.org/exam.html or email †ve@mmra.org 
+Check out https://www.mmra.org/exam.html or email ¬†ve@mmra.org 
 
 Ask your friends to become a member 
 Just let them know that it is not fully automated.  Although they can log into the MMRA website immediately, 
@@ -428,7 +428,7 @@ Waltham Wranglers Swap Net
 The MMRA Network connects to this swap net every Wednesday at 8:45 pm local and promptly at 9:59 pm switches over to the Heavy Hitters Traffic Net.  
 
 Heavy Hitters Traffic Net
-This net is active on our repeaters Sunday through Friday evenings from 10ó11 PM.
+This net is active on our repeaters Sunday through Friday evenings from 10‚Äî11 PM.
 
 In both cases, the repeaters that are active are:
 2m:  Mendon (61), Boston (82), North Reading (715), Quincy (67) and Marlborough (27) 

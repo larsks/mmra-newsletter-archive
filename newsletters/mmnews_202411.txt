@@ -1,7 +1,7 @@
 The Minuteman
 
 Volume 54    Number 2    November2024
-© 2024 MMRA
+¬© 2024 MMRA
 
 The Minuteman Repeater Association is a non-profit organization providing
 communications infrastructure and volunteers for community and emergency events.
@@ -32,29 +32,29 @@ David has worked in the computer industry for over 40 years. He owns and is pres
 
 Retention and the MMRA Elmer Forum ~ Kevin Paetzold, K1KWP
 
-If you were at the September meeting Fred, AB1OC (ARRL New England Division Director,) showed some pretty depressing statistics on the future of ham radio.  One was that even I (68) am significantly younger than the age of the average ham and that the average ham age goes up by almost a year every year.   Another statistic was that most new technician licensees just expire and never renew.   etc. etc. etc.    Demographics are clearly NOT on our sideÖ..
+If you were at the September meeting Fred, AB1OC (ARRL New England Division Director,) showed some pretty depressing statistics on the future of ham radio.  One was that even I (68) am significantly younger than the age of the average ham and that the average ham age goes up by almost a year every year.   Another statistic was that most new technician licensees just expire and never renew.   etc. etc. etc.    Demographics are clearly NOT on our side‚Ä¶..
 
 An issue for the MMRA in particular is that 60 members or more expire every year and do not renew.   If we had been able to retain 20% (about 12) of those members each year  in the last 5-6 years we would have had:
 
 - an extra 74 members (total of 315 vs 240)
 - An additional $7750 in income for last 6 years...
-- $1850 in additional income each year from then onÖ.  
+- $1850 in additional income each year from then on‚Ä¶.  
 
 I have proposed an MMRA "ElmerForum" (on Zoom) to try to increase the retention of new hams and new members.  The intention is to give new or prospective hams a place to get questions answered, how to use their ham radio license, getting them on the air, getting their license, info about local ham resources, programming their radio.  This is purposely being held on zoom so that unlicensed people can participate as well as using the multimedia aspect of zoom vs. just a repeater contact.
 
 I have heard members state that they do not think they are qualified to be an Elmer.  IMHO, that is completely wrong.  If you have a license and have been on the air then you are certainly able to mentor other hams.  The experience of new hams is just as important as people who have been licensed for decades.  For example, I bought most of my radios >20 years ago and I am not the best person to give advice on new equipment.
 
-I encourage members to seriously consider supporting and attending the Elmer Forum.  It will probably start slow but hopefully we will have enough critical mass of MMRA members to keep this going.  If no ìElmeringî candidates show up then we can just do some show and tell among ourselves :-).   My intent is to do this for four months and then reevaluate if this is worth our time/effort.
+I encourage members to seriously consider supporting and attending the Elmer Forum.  It will probably start slow but hopefully we will have enough critical mass of MMRA members to keep this going.  If no ‚ÄúElmering‚Äù candidates show up then we can just do some show and tell among ourselves :-).   My intent is to do this for four months and then reevaluate if this is worth our time/effort.
 
 A website with a "flyer" giving info on this is available at mmra.org/elmerforum.   The plan is the 2nd Wednesday of each month at 7:30 PM.   The first one is Wednesday Dec 11 at 7:30PM.  Additional sessions are January 8, February 12,  and March 12.   The Zoom information is available at:
 	mmra.org/elmerforum/elmer_zoominfo.txt
 
-By the way, another depressing statistic is that it seems most ARRL members are Extras and that most Technicians do not seem to ever join the ARRL.   I know there are  hams that have mixed feelings about belonging to the ARRL.  However I would remind people that it is the ARRL who is protecting our spectrum allocations before the FCC et.al.   It is probably only a matter of time before a Bezos, Musk, or Zuckerberg makes congress an offer they can not refuseÖ..
+By the way, another depressing statistic is that it seems most ARRL members are Extras and that most Technicians do not seem to ever join the ARRL.   I know there are  hams that have mixed feelings about belonging to the ARRL.  However I would remind people that it is the ARRL who is protecting our spectrum allocations before the FCC et.al.   It is probably only a matter of time before a Bezos, Musk, or Zuckerberg makes congress an offer they can not refuse‚Ä¶..
 ================================================================================
 
-Presidentís Corner ~ David Hornbaker, N1DCH 
+President‚Äôs Corner ~ David Hornbaker, N1DCH 
 
-Thanks to Fred Kemmerer ñ AB1OC ARRL New England Division Director.  Fred attended the September Membership meeting and gave an update on several issues affecting Amateur Radio including:  spectrum defense and the threat to the 900Mhz band, growing Amateur Radio, and automated VE testing.
+Thanks to Fred Kemmerer ‚Äì AB1OC ARRL New England Division Director.  Fred attended the September Membership meeting and gave an update on several issues affecting Amateur Radio including:  spectrum defense and the threat to the 900Mhz band, growing Amateur Radio, and automated VE testing.
 
 All MMRA memberships expired on August 31.  Please check your profile and if your membership expires in 2024, please renew.  If your membership expires in 2024, this is the last newsletter you will receive.  Renewals may be done on the website, or you can mail your renewal to Minuteman Repeater Association, PO Box 669, Stow, MA 01775-0669.  Please allow 7 days for us to process your renewal. Please allow 14 days for renewals that are mailed.  While you're on the website (https://www.mmra.org) checking your expiration date, please verify your email address.
 
@@ -75,9 +75,9 @@ Upcoming MMRA VE sessions:
 The December VE Session will be held on Saturday, December 21st  at 9:15 AM, at the Marlborough Public Library, Meeting Room 2,  Marlborough, MA https://www.bing.com/maps?q=22+Witherbee+Street+Marlborough%2C+MA+01752&PC=U531&FORM=ANCMS9
 Walk-ins are welcome.
 
-Please remember to bring a State ID, your FRN, and if upgrading, a copy of your current license (from FCC website ) or proof of license from ARRL or QRZ website.  For more information, contact Ron ñ WO1E at ve@mmra.org or wo1e@mmra.org.
+Please remember to bring a State ID, your FRN, and if upgrading, a copy of your current license (from FCC website ) or proof of license from ARRL or QRZ website.  For more information, contact Ron ‚Äì WO1E at ve@mmra.org or wo1e@mmra.org.
 
-Net Control Operators wanted!  Interested in becoming a control operator for the TIaOS net? Larry is looking for a back-up operator.  Contact Larry Banks ñ W1DYJ w1dyj@mmra.org.
+Net Control Operators wanted!  Interested in becoming a control operator for the TIaOS net? Larry is looking for a back-up operator.  Contact Larry Banks ‚Äì W1DYJ w1dyj@mmra.org.
 
 Do you know someone that has passed the Technician test (element 2) in the last year?  They are eligible for free membership in MMRA.  Have them send email to contact@mmra.org requesting membership.  The club secretary will contact them with details on how to qualify.
 ================================================================================
@@ -92,7 +92,7 @@ These images are easy to receive.  Many have
 reported receiving them with a Boafeng with a rubber duck.  I received my first picture during the 2021 event, Monday December 27th, using my IC-7100 and my Diamond V2000 Tri-Band Vertical.  There was a bit of QSB but the picture is pretty good.
 ================================================================================
 
-Treasurerís Report ~ Kevin Paetzold, K1KWP
+Treasurer‚Äôs Report ~ Kevin Paetzold, K1KWP
 
 The MMRA receives donations each year.  On behalf of the club I would like to acknowledge and thank the following members who have donated since my list in the September newsletter:
  
@@ -102,8 +102,8 @@ So far 221 members have either renewed or recently joined since September 1 when
 
 We have been investing significantly in system improvements for last few years which was more than usual/historically.  Because of those upgrades that may not need to continue BUT we have three repeaters (Quincy, Belmont, Billerica) which we will need to relocate before very long.   We will likely have significant costs associated with repeater re-locations if they actually happen:
 
-- Quincy will likely require new shelter, antennas? ó> quantum unit of commercial antenna climber
-- Belmont likely requires antenna(s) ó> quantum unit of commercial antenna climber
+- Quincy will likely require new shelter, antennas? ‚Äî> quantum unit of commercial antenna climber
+- Belmont likely requires antenna(s) ‚Äî> quantum unit of commercial antenna climber
 - Billerica (perhaps not much cost).   
 
 However I could easily see this being $10000 of spending.   It may not all happen in the same year but we need to monitor our spending to prepare for this.
@@ -111,9 +111,9 @@ However I could easily see this being $10000 of spending.   It may not all happe
 
 Repeater Updates ~ Bob DeMattia, K1IW
 
-Late in September, Marlborough 220 went off the air.  It looked like either the cable to the controller became unplugged or the repeater unit had no power.  When I got there, the distinct smell of burnt insulation in the shelter wasn't a good sign.† However, it turned out that the fuse itself is not blown.  Evidently, the fuse holder was oxidized enough that it created a high resistance path capable of getting very hot under normal TX current conditions.  Another 15 amp fuse which is in series with this one was perfectly fine.  I jumpered out the bad fuse/socket and the repeater was back on the air.
+Late in September, Marlborough 220 went off the air.  It looked like either the cable to the controller became unplugged or the repeater unit had no power.  When I got there, the distinct smell of burnt insulation in the shelter wasn't a good sign.¬† However, it turned out that the fuse itself is not blown.  Evidently, the fuse holder was oxidized enough that it created a high resistance path capable of getting very hot under normal TX current conditions.  Another 15 amp fuse which is in series with this one was perfectly fine.  I jumpered out the bad fuse/socket and the repeater was back on the air.
 
-And then, early in October, our North Reading site lost its internet connection.   With some nice weather, I had a chance to drive over there.  The problem was a bad Raspberry Pi power supply.† This is the third or fourth one I've had to replace.   The good news:  The aluminum plate we installed to cover the vent is working fantastically.† The shelter was as clean as we left it.
+And then, early in October, our North Reading site lost its internet connection.   With some nice weather, I had a chance to drive over there.  The problem was a bad Raspberry Pi power supply.¬† This is the third or fourth one I've had to replace.   The good news:  The aluminum plate we installed to cover the vent is working fantastically.¬† The shelter was as clean as we left it.
 ================================================================================
 
 Disaster Communications ~ Kevin Paetzold, K1KWP
@@ -158,7 +158,7 @@ The audio is multiplexed output (concurrently) from:
 
 Sometimes you will be hear more than one of the above at the same time.  There were many interesting things in these feeds  including numerous reports of apparent, purposeful, disinformation from media, Google, Waze, and NC government about road closures/openings.   This was supposedly an attempt to control traffic so that relief could get in.   However, if you were in a position of needing, water, food, fuel, prescriptions, home depot,  generators, wifi access and knowing which roads are actually open/passable is very important.   It is very clear from these recordings ham radio operators had a huge advantage over their neighbors.
 
-SARNET was almost completely just announcements to stay off those repeaters and it seemed to have very little other activity.  I donít live in Florida so I do not know the history of SARNET but that seemed pretty stupid to me.
+SARNET was almost completely just announcements to stay off those repeaters and it seemed to have very little other activity.  I don‚Äôt live in Florida so I do not know the history of SARNET but that seemed pretty stupid to me.
 
 The entire file is >400MB.  It seems to be too large for google drive/firefox to play directly.  It is available at: 	    https://tinyurl.com/3dvwjwny
 
@@ -167,17 +167,17 @@ I would hope that in a similar disaster situation the MMRA network/repeaters cou
 
 VE Report ~ Ron Rothman, WO1E
 
-Every now and again, a rare event takes place in amateur radio.  No, itís not the opening on 6 meters everyone is talking about. Itís an unlicensed candidate sitting for an exam and running the table or passing all three exams at one sitting.  That is exactly what happened at the MMRA exam session on November 9th James Mullally walked in with no license and left with his Amateur Extra.
+Every now and again, a rare event takes place in amateur radio.  No, it‚Äôs not the opening on 6 meters everyone is talking about. It‚Äôs an unlicensed candidate sitting for an exam and running the table or passing all three exams at one sitting.  That is exactly what happened at the MMRA exam session on November 9th James Mullally walked in with no license and left with his Amateur Extra.
 
-James was accompanied by his significant other, Jennifer, who earned a Technician license as well.  Both James and Jennifer had not obtained their FRN (Federal Registration Number) from the FCC prior to the exam.  I assisted them in securing their FRNís before they could sit for the exam.
+James was accompanied by his significant other, Jennifer, who earned a Technician license as well.  Both James and Jennifer had not obtained their FRN (Federal Registration Number) from the FCC prior to the exam.  I assisted them in securing their FRN‚Äôs before they could sit for the exam.
 
-All in all, we have 5 new hams who showed up and passed exams at this monthís session.  Congratulations to James and the others who became new hams on Saturday.
+All in all, we have 5 new hams who showed up and passed exams at this month‚Äôs session.  Congratulations to James and the others who became new hams on Saturday.
 ================================================================================
 
 18 September 2024 Membership Meeting ~ Minutes 
 Called to order @ 7:30 PM / New England Sci-Tech, Natick MA
 
-Repeater Status Report: - Bob DeMattia ñ K1IW	
+Repeater Status Report: - Bob DeMattia ‚Äì K1IW	
  - Quincy 2m .67 Repeater: No further word from the City of Quincy. Bob has resent the letter originally sent in May with no further response regarding a replacement site for the .67 repeater. 
  - (Formally) the Belmont Repeater: No further feedback on the Belmont Repeater. 
  - Billerica 147.12: We have advised them that we will be removing the equipment in the Spring, 2025. 147.12 will most likely be co-located with 224.88 in Burlington.
@@ -187,12 +187,12 @@ Here is a video of the repeater system report/update from K1IW including the cur
 status of the 3 repeaters sites that were or are at risk:
   https://mmra.org/video?rptr-rpt-sep24 
 
-ARRL Update and QA ñ Fred Kemmerer ñ AB1OC ñ ARRL New England Division Director
-Three Areas were discussed at our membership meeting. The discussion was very lengthy, taking more time during tonightís meeting than any of us anticipated. All of it was good. Here is a brief summary.
+ARRL Update and QA ‚Äì Fred Kemmerer ‚Äì AB1OC ‚Äì ARRL New England Division Director
+Three Areas were discussed at our membership meeting. The discussion was very lengthy, taking more time during tonight‚Äôs meeting than any of us anticipated. All of it was good. Here is a brief summary.
 
- - We must protect our spectrum. The 900 MHz band will no longer be a available to Amateur Radio if the FCC approves a proposal for it to be used commercially. The ARRL is working diligently to prevent that from happening and our help is needed to support the ARRLís efforts. Right now the FCC is open to comments by the Ham Radio Community to convince the FCC to leave that spectrum alone by declining commercial entities from using it.
- - The Ham Radio Community must grow. Our average age is 76. We need more Clubs to be engaged in attracting younger people into the Ham Radio/TV/Digital activities that we do. The ARRL has been and is issuing grant money to those organizations that are catering to youngsters getting on the air and using the STEM ñ Science Technology Engineering Mathematics ñ curriculum to educate and excite younger people. The NE Sci-Tech is a prime example, and more is needed.
- - Automating the VE testing, grading and licensing process is underway. Test taking, grading and submission by paper ñ manually ñ is too slow. The ARRL is trying to automate the VE process where new applicants will receive their callsign instantly The MMRA VE Team will eventually be automated once training, proper equipment and beta testing are completed.
+ - We must protect our spectrum. The 900 MHz band will no longer be a available to Amateur Radio if the FCC approves a proposal for it to be used commercially. The ARRL is working diligently to prevent that from happening and our help is needed to support the ARRL‚Äôs efforts. Right now the FCC is open to comments by the Ham Radio Community to convince the FCC to leave that spectrum alone by declining commercial entities from using it.
+ - The Ham Radio Community must grow. Our average age is 76. We need more Clubs to be engaged in attracting younger people into the Ham Radio/TV/Digital activities that we do. The ARRL has been and is issuing grant money to those organizations that are catering to youngsters getting on the air and using the STEM ‚Äì Science Technology Engineering Mathematics ‚Äì curriculum to educate and excite younger people. The NE Sci-Tech is a prime example, and more is needed.
+ - Automating the VE testing, grading and licensing process is underway. Test taking, grading and submission by paper ‚Äì manually ‚Äì is too slow. The ARRL is trying to automate the VE process where new applicants will receive their callsign instantly The MMRA VE Team will eventually be automated once training, proper equipment and beta testing are completed.
 
 Exam Session
 Saturday, September 21, 2024 at 9:15 AM
@@ -208,7 +208,7 @@ Zoom Only
 
  - November 20, 2024, 7:30 PM
 Membership Meeting 
-Programming Your Radio with CHIRP ñ Dave Hornbaker, N1DCH
+Programming Your Radio with CHIRP ‚Äì Dave Hornbaker, N1DCH
 Marlborough Central Fire Station and Zoom teleconferencing  - Hybrid Meeting
 
  - Tuesday night 8:00 PM (year-round) 
@@ -217,11 +217,11 @@ MMRA Linked Repeaters
 
 The meeting ended informally at 8:38  PM.
 
-Presentation by Larry Banks  - W1DYJ - ìInteractions Between Antennas In a 10/15/20m Stackî
+Presentation by Larry Banks  - W1DYJ - ‚ÄúInteractions Between Antennas In a 10/15/20m Stack‚Äù
 
-Larryís extensive and impressive background was published in the September MMRA Newsletter. Briefly stated here he was licensed in 1962, holds 3 degrees in EE from MIT, an accomplished DX chaser, editor of the MMRA Newsletter,  He is manager of the Net Control Operations for our weekly TIOS Net, active in non-Ham endeavors such as streaming Jazz and Classical Music Concerts and is an active Member of the MMRA helping all of us in many more ways than can be expressed here. 
+Larry‚Äôs extensive and impressive background was published in the September MMRA Newsletter. Briefly stated here he was licensed in 1962, holds 3 degrees in EE from MIT, an accomplished DX chaser, editor of the MMRA Newsletter,  He is manager of the Net Control Operations for our weekly TIOS Net, active in non-Ham endeavors such as streaming Jazz and Classical Music Concerts and is an active Member of the MMRA helping all of us in many more ways than can be expressed here. 
 
-After Larry provided a brief background and history of his 5 element 10m Yagi, a 20m Moxon and his addition of a 15m Dipole. Larry started his presentation with a definition of a transducer, which is both the antenna and the coax that connects it to the transceiver. Most important is whatís between your ears, which is why Larry had to explore why he was hearing something he did not understand. As an engineer, modeling each antenna individually and how their radiated patterns interacted provided a clue to this mystery. Larry examined both the forward direction gain and the long path (reverse) gain which resulted in some interesting clues. His measurements are included here beyond this summary. 
+After Larry provided a brief background and history of his 5 element 10m Yagi, a 20m Moxon and his addition of a 15m Dipole. Larry started his presentation with a definition of a transducer, which is both the antenna and the coax that connects it to the transceiver. Most important is what‚Äôs between your ears, which is why Larry had to explore why he was hearing something he did not understand. As an engineer, modeling each antenna individually and how their radiated patterns interacted provided a clue to this mystery. Larry examined both the forward direction gain and the long path (reverse) gain which resulted in some interesting clues. His measurements are included here beyond this summary. 
 
 This video is available at: https://mmra.org/video?pres-sep24
 
@@ -238,37 +238,37 @@ Slides for Larry's talk are at < qsl.net/w1dyj/Upper_HF_AntStack-web.pdf >
 ========-
 
 16 October 2024 Business Meeting ~ Minutes
-Called to order @ 7: 30 PM © 2024, MMRA
+Called to order @ 7: 30 PM ¬© 2024, MMRA
 
-Repeater Status Report: - Bob DeMattia ñ K1IW
+Repeater Status Report: - Bob DeMattia ‚Äì K1IW
  - Belmont Ed KC1CLA is looking into options for a new site.
  - Billerica 147.12: The current plan 
 We need 3-4 people to repair the Antenna in November. This must get done before winter sets in.
 We are okay at this site until April-May. If we cannot find a better site between now and then, we will consolidate the repeater into Burlington.
- - Burlington -224.88 ñ Bruce & Larry will be in touch with Bob ñ
+ - Burlington -224.88 ‚Äì Bruce & Larry will be in touch with Bob ‚Äì
 Bob reports the link-radio is burnt out. Burlington will be delinked until replaced.
 Bob does not have time to go there. He could give someone a replacement, if someone can volunteer to do the swap or we can wait until Billerica gets consolidated at Burlington. 
- - North Reading ñ Raspberry Pi power cube failed, but Bob replaced it last weekend. 
- - Quincy 2m .67 Repeater Still no word ñ letter or phone call ñ from the Mayorís Office. The current plan is to leave the repeater in its current location until:
+ - North Reading ‚Äì Raspberry Pi power cube failed, but Bob replaced it last weekend. 
+ - Quincy 2m .67 Repeater Still no word ‚Äì letter or phone call ‚Äì from the Mayor‚Äôs Office. The current plan is to leave the repeater in its current location until:
 They provide another site at which point we will move the repeater OR
-They will tell us we have to go and í67 will go to Marlborough East site.
+They will tell us we have to go and ‚Äô67 will go to Marlborough East site.
  - All other Repeaters: Functioning normally.
 
-Boston 900 MHz, 1 Financial Place ñ Roger, WA1NVC
+Boston 900 MHz, 1 Financial Place ‚Äì Roger, WA1NVC
 What has been done for Boston and what is recommended. 
-With salt and corrosion damage ñ to rebuild from two other machines is not a good option. The best solution is to replace it. Roger found a new Quantar for $400. Roger made a motion for the Board to approve up to $400 for a replacement Quantar, seconded by me (KC1LPZ) and voted unanimously by the Board of Directors. 
+With salt and corrosion damage ‚Äì to rebuild from two other machines is not a good option. The best solution is to replace it. Roger found a new Quantar for $400. Roger made a motion for the Board to approve up to $400 for a replacement Quantar, seconded by me (KC1LPZ) and voted unanimously by the Board of Directors. 
 The 900 MHz band is very active with mixed modes, which means a combination of digital modes like Fusion, P25 along with FM. These Quantar Repeaters can handle it even though they are not connected to the MMRA repeater network.
 
 Club Activities: - Stephen, KC1LPZ   
 This agenda item was included at tonight's meeting because there is a continuing concern that we need younger people to participate in the various Amateur Radio/Digital activities that are offered to all licensed hams. Larry, W1DYJ, and I shared some ideas in preparation for an ARRL Regional conference call back in May. With limited time much was not covered. Please refer to the June Meeting Minutes where greeting and coaching (Elmering) were described. More on Elmering is presented by Kevin, K1KWP, later in this report. 
 
 Marketing - At tonight's Business Meeting the focus was on marketing, i.e. where do we find and attract new people and how do we keep them engaged.
-Where ñFamily, Friends, Neighbors, Religious Groups, Scouting, Schools, Sports, Public Events
-How ñ Activities geared towards young people such as ñ 
+Where ‚ÄìFamily, Friends, Neighbors, Religious Groups, Scouting, Schools, Sports, Public Events
+How ‚Äì Activities geared towards young people such as ‚Äì 
 POTA, SOTA, Emergency Communications, Building Radios, Fox Hunts, Digital Modes such as FT8, FT4, DMR, D-Star, Fusion and DXing.
 The Message to attract new people must be compelling and youthful. 
 
-What I am about to put in words here, I had suggested on John Iwucís ñ WB1VXY ñ zoom call on FARA where both NE Regional Candidates, Fred & Tom, were debating for our vote. Okay, here goes:
+What I am about to put in words here, I had suggested on John Iwuc‚Äôs ‚Äì WB1VXY ‚Äì zoom call on FARA where both NE Regional Candidates, Fred & Tom, were debating for our vote. Okay, here goes:
 If any industry is slated to cease to exist it is the Tobacco Industry, but that industry is thriving (and I am not promoting tobacco use) because they are masters at marketing. Many have made real profits owning stocks in the tobacco industry.
 
 Final Summary:
@@ -276,10 +276,10 @@ Rather than re-inventing the wheel, we should look closely at what they are doin
 
 This leads me to ask what is your favorite experience or passion in Amateur Radio. Submit a short paragraph or one sentence to Larry who can publish it in our Newsletter.  Your passion can be compelling.
 
-MMRA Elmer Forum ñ Kevin, K1KWP
+MMRA Elmer Forum ‚Äì Kevin, K1KWP
 Kevin offered to organize a monthly Elmer session on Zoom to address the issues new Hams are having, particularly on programming their radios along with other concerns. Kevin will post that on our website, Larry will publish these tutorial sessions in our newsletter and it will be promoted on our weekly TIOS Net. Kevin is starting these Elmer Sessions on Zoom and expects others to volunteer as Elmers on these ongoing monthly zoom sessions.
 
-Treasurerís Report - Kevin, K1KWP 	
+Treasurer‚Äôs Report - Kevin, K1KWP 	
 The MMRA fiscal year 2024-2025 started on June 1st and will end on May 31, 2025. The MMRA membership year for 2024-25 started on September 1st and ends on August 31. 2025.
 
 Total Actual Funds, $22,842.38 with actual spending this year around $3,800. About $700 has already been paid. Not included yet is any additional spending by the Board, Maintenance, improvements, etc.
@@ -326,31 +326,31 @@ Speaker: Dave Hornbaker - N1DCH
 Programming Your Radio with CHIRP
 Marlborough Central Fire Station & Zoom
 
-December 18, 2024:  Business Meeting ó Zoom 
+December 18, 2024:  Business Meeting ‚Äî Zoom 
 
 January 20, 2025: Membership Meeting
 Speaker: TBD
 Location: TBD
 
-February 18, 2025:  Business Meeting ó Zoom 
+February 18, 2025:  Business Meeting ‚Äî Zoom 
 
 March 19, 2025: Membership Meeting
 Speaker: TBD
 Location: TBD
 
-April 16, 2025:  Business Meeting ó Zoom 
+April 16, 2025:  Business Meeting ‚Äî Zoom 
 
 May 21, 2025: Annual Meeting & Elections
 Speaker: TBD
 Location: TBD
 
-June 18, 2025:  Business Meeting ó Zoom 
+June 18, 2025:  Business Meeting ‚Äî Zoom 
 ================================================================================
 
-Donít Forget ó  Join Us!
+Don‚Äôt Forget ‚Äî  Join Us!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatís happening in the MMRA and ask your ham related questions.
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.
 
 Net Control Operators:
 	Week 1	W1DYJ	Larry Banks	
@@ -367,7 +367,7 @@ If you are interested, email W1DYJ@mmra.org
 
 MMRA Leaders
 
-Executive Board ó Officers
+Executive Board ‚Äî Officers
      President       Dave Hornbaker     N1DCH
      
 Vice President  John Spencer       WA1MDD
@@ -376,7 +376,7 @@ Vice President  John Spencer       WA1MDD
      Clerk           Stephen Babbitt    KC1LPZ
 
 
-Executive Board ó Directors
+Executive Board ‚Äî Directors
      Director  >2025    Bob DeMattia    K1IW
      Director  >2025    Roger Coulson   WA1NVC
      Director  >2026    Rob Evans       N1BE
@@ -435,7 +435,7 @@ general business.
 
 The Minuteman newsletter is emailed one week before each general interest meeting.  Members are encouraged to submit articles: send to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8pm the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8pm the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
@@ -492,7 +492,7 @@ Our weekly club net on most of the MMRA repeaters,
 Tuesday night at 8:00 pm local.
 
 Heavy Hitters Traffic Net
-This ARRL NTS net is active on our repeaters Sunday to Friday evenings from 9:45ó11 PM and Saturday from 10-11.  
+This ARRL NTS net is active on our repeaters Sunday to Friday evenings from 9:45‚Äî11 PM and Saturday from 10-11.  
 
 Coast Guard Net
 Sundays at 11:00 AM local.

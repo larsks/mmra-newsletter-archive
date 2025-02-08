@@ -1,13 +1,13 @@
 The Minuteman
 
 Volume 53    Number 3    January 2024
-© 2024 MMRA
+¬© 2024 MMRA
 
 The Minuteman Repeater Association is a non-profit organization providing
 communications infrastructure and volunteers for community and emergency events.
 ----------
-Membership Meeting: Wednesday, 17 January 2024  ~7:30ó9:30 pm
-A 10m FM†Antenna†to†fit†into my†Attic ó Larry Banks, W1DYJ
+Membership Meeting: Wednesday, 17 January 2024  ~7:30‚Äî9:30 pm
+A 10m FM¬†Antenna¬†to¬†fit¬†into my¬†Attic ‚Äî Larry Banks, W1DYJ
 
 This is a Hybrid meeting: New England SciTech + ZOOM
 
@@ -15,16 +15,16 @@ Members: log into your account on MMRA.ORG to obtain the ZOOM info.
 Non-members: send an email to contact@mmra to request the ZOOM info.
 
 In my role as the MMRA TIaOS Net Manager, I should be able to monitor all of our
-repeaters.  I didnít have 10m†FM†capability.
+repeaters.  I didn‚Äôt have 10m¬†FM¬†capability.
 
-I have a homebrew 6m†FM ground plane in my attic†to monitor the MMRA 6m repeater.  I decided†to put a 10m FM antenna in my attic without adding another coax run.††The
-attic height is ~5í and a 10m†ground plane is at least†8í tall with†~16í diameter†radials, so I had to shorten both the height and the length of the radials.
+I have a homebrew 6m¬†FM ground plane in my attic¬†to monitor the MMRA 6m repeater.  I decided¬†to put a 10m FM antenna in my attic without adding another coax run.¬†¬†The
+attic height is ~5‚Äô and a 10m¬†ground plane is at least¬†8‚Äô tall with¬†~16‚Äô diameter¬†radials, so I had to shorten both the height and the length of the radials.
 
-And how do I feed it in parallel with the 6m GP?  This gave me an opportunity to learn about using coax as a matching†network.   This is the story.
+And how do I feed it in parallel with the 6m GP?  This gave me an opportunity to learn about using coax as a matching¬†network.   This is the story.
 
 Larry was licensed in 1962 as novice KN1VFX and became W1DYJ in 1966.  From 1969 to 1985 he was an engineer and
-project manager for Hewlett-Packard Medical R&D in Waltham and Andover MA, involved in developing diagnostic cardiac equipment.  In 1985 he was asked to organized the cardiac R&D labís CAD environment and the SW Testing and Quality group, along with managing the Printed Circuit Layout group, the technical library, ongoing technical education, and ISO9001 as the R&D Section Manager for ìR&D Process Improvement.î In 1993 he moved to HP Medical Education to be responsible for technical and project management training. When Agilent split out of HP in 1995, he became Agilent 
-Technologyís global program manager for their Learning Management System.  He ìretiredî in 2005 and then consulted for Avago Technologies (now Broadcom) on eLearning technologies through 2012. 
+project manager for Hewlett-Packard Medical R&D in Waltham and Andover MA, involved in developing diagnostic cardiac equipment.  In 1985 he was asked to organized the cardiac R&D lab‚Äôs CAD environment and the SW Testing and Quality group, along with managing the Printed Circuit Layout group, the technical library, ongoing technical education, and ISO9001 as the R&D Section Manager for ‚ÄúR&D Process Improvement.‚Äù In 1993 he moved to HP Medical Education to be responsible for technical and project management training. When Agilent split out of HP in 1995, he became Agilent 
+Technology‚Äôs global program manager for their Learning Management System.  He ‚Äúretired‚Äù in 2005 and then consulted for Avago Technologies (now Broadcom) on eLearning technologies through 2012. 
 
 Larry holds three degrees in EE from MIT. He spends his time chasing DX and contesting in Woburn, traveling with his wife Maren and attending as many jazz and classical concerts as they can.  He is the net manager and newsletter editor for the MMRA, publications editor for HamXposition, a member of the YCCC, and a member of the Merrymeeting ARA in mid-coast Maine where they used to have a 2nd home in Harpswell.
 ----------
@@ -42,14 +42,14 @@ Duties:
 If you are interested, send an email to contact@mmra.org
 ----------
 
-Presidentís Corner ~ David Hornbaker, N1DCH 
+President‚Äôs Corner ~ David Hornbaker, N1DCH 
 
-Happy New Year!   May your year be filled with QSOís and the sunspots be many.
+Happy New Year!   May your year be filled with QSO‚Äôs and the sunspots be many.
 
 In person: Everyone is invited to attend in person, the January membership meeting at
 New England Sci-Tech, Natick, Directions: https://www.nescitech.org/directions/
 
-Guest Speaker: Larry Banks ñ W1DYJ ñ A 10m FM Antenna to fit into my Attic. 
+Guest Speaker: Larry Banks ‚Äì W1DYJ ‚Äì A 10m FM Antenna to fit into my Attic. 
 
 Meetings are a great place to meet and greet your fellow hams and to welcome our new
 members.  Bring a friend, you do not have to be a member to attend.
@@ -63,9 +63,9 @@ VE Exams:  The January VE Session will be held on Saturday, January 20 at 9:00 A
 
 https://www.bing.com/maps?q=72%20Jefferson%20Street+marlborough+ma&FORM=HDRSC4
 
-Walk-ins are welcome.  Please remember to bring a State ID, your FRN, and if upgrading, an Official copy of your current license.  For more information, contact Ron ñ WO1E at ve@mmra.org or wo1e@mmra.org.
+Walk-ins are welcome.  Please remember to bring a State ID, your FRN, and if upgrading, an Official copy of your current license.  For more information, contact Ron ‚Äì WO1E at ve@mmra.org or wo1e@mmra.org.
 
-MMRA Secretary:  Jason ñ W1HFP has informed us that he will not continue as club secretary.   
+MMRA Secretary:  Jason ‚Äì W1HFP has informed us that he will not continue as club secretary.   
 
 Membership renewal:  All MMRA memberships expired on August 31.  Please check your profile and if your membership expired in 2023, please renew.  Renewals may be done on the website, or you can mail your renewal to Minuteman Repeater Association, PO Box 669, Stow, MA
 01775-0669.  Please allow 7 days for us to process your renewal. Please allow 14 days for
@@ -78,7 +78,7 @@ ability to link up the repeaters in case of an emergency or to support an event 
 You can find out more information about how and when the repeaters are linked on the website (https://www.mmra.org/repeaters/repeater_linking.html).
 
 Please remember to keep your profile up to date, especially if your email changes.  Note that if your callsign changes, send email to contact@mmra.org and we will update your callsign in the database.
-73óDave
+73‚ÄîDave
 ----------
 
 15 November 2023 Membership Meeting ~ Minutes
@@ -94,35 +94,35 @@ What is it?
 $3,000 emergency fund that can be used for repairs only of an existing repeater..
 Requires Board approval.
 History and why we need it?
-Originally approved in 2018 after .925 died and meeting to vote was cancelled by a noríeaster.
+Originally approved in 2018 after .925 died and meeting to vote was cancelled by a nor‚Äôeaster.
 .925 was down for a couple of months.
-Why didnít we vote on it in May?
+Why didn‚Äôt we vote on it in May?
 Those of us on the Board forgot to add it to the agenda and no one caught the mistake.
 Emergency Fund vote is supposed to occur on our May Meeting
-Why canít we vote now (like the Newsletter announced)?
+Why can‚Äôt we vote now (like the Newsletter announced)?
 Newsletter announcement had to be published 7 days before the next meeting, according to the by-laws.
 
-Repeater Status Report: - Bob DeMattia ñ K1IW
+Repeater Status Report: - Bob DeMattia ‚Äì K1IW
 
-Boston Prudential Repeater 146.82 ñ is off the air. The new repeater has been installed, but there is a problem with the antenna. Club vote is in progress to approve up to $3K expense. We need to add a 2nd feedline and the Pru has given us permission to do so.
+Boston Prudential Repeater 146.82 ‚Äì is off the air. The new repeater has been installed, but there is a problem with the antenna. Club vote is in progress to approve up to $3K expense. We need to add a 2nd feedline and the Pru has given us permission to do so.
 [Editor:  this is now resolved and 146.82 is back on the air, better than ever.]
 
-Brookline ñ Remote RX has been removed. The DSTAR repeater is still there.
+Brookline ‚Äì Remote RX has been removed. The DSTAR repeater is still there.
 
-Weston ñ The 146.79 2M ñ Status has not changed. SWR is still 2:1 at the radio end. Since the weather was not cooperative at the Campion Center on the 9/26 visit with NN1C, this will have to wait until Spring.
+Weston ‚Äì The 146.79 2M ‚Äì Status has not changed. SWR is still 2:1 at the radio end. Since the weather was not cooperative at the Campion Center on the 9/26 visit with NN1C, this will have to wait until Spring.
 
-10m Repeater ñ Weston ñ After some tuning, receiver breaks squelch at -119dBm, an 11dB improvement, still not great. Bernie, N1IMO, the owner of the linked NH repeater network and also owner of two-way radio company in Nashua, is donating a Kenwood TK-6110 as a possible replacement receiver. Bob will be picking it up today. If this radio has better sensitivity, it will replace the aging Mastr II receiver and will be wiring it in a few days.
+10m Repeater ‚Äì Weston ‚Äì After some tuning, receiver breaks squelch at -119dBm, an 11dB improvement, still not great. Bernie, N1IMO, the owner of the linked NH repeater network and also owner of two-way radio company in Nashua, is donating a Kenwood TK-6110 as a possible replacement receiver. Bob will be picking it up today. If this radio has better sensitivity, it will replace the aging Mastr II receiver and will be wiring it in a few days.
 
-North Reading ñ146.715 ñ Replacement is ready to install ñ scheduled to be done on Saturday, December 2nd.
+North Reading ‚Äì146.715 ‚Äì Replacement is ready to install ‚Äì scheduled to be done on Saturday, December 2nd.
 
-Burlington ñ 224.88 - Bob suspects drop-outs occur when there is doubling/heterodyning
-on ë925. It appears the ë88 link decoder is more sensitive to this than others. Still need to try putting the link radio in CSQ mode for during the TIOS Net.
+Burlington ‚Äì 224.88 - Bob suspects drop-outs occur when there is doubling/heterodyning
+on ‚Äò925. It appears the ‚Äò88 link decoder is more sensitive to this than others. Still need to try putting the link radio in CSQ mode for during the TIOS Net.
 
-900 MHz Repeater ñ 927.0625 W1OG has informed us that he has picked up the 900 MHz Quantars and is checking them out before handing them over to the club. WA1NVC has volunteered to do the set-up work on it.
+900 MHz Repeater ‚Äì 927.0625 W1OG has informed us that he has picked up the 900 MHz Quantars and is checking them out before handing them over to the club. WA1NVC has volunteered to do the set-up work on it.
 
-Belmont ñ 145.43 ñEX-BELMONT ñ is off the air due to loss of site. Board to discuss options at the December meeting. This repeater will be rebuilt before it is installed at its new location. The second Kenwood repeater, which was intended as the Mendon replacement, will probably be used for this. Joe Weisse, W1HAI, suggested the MMRA send the family who had graciously allowed the repeater to remain on their property, (until selling their home) a ìThank Youî from us on their generosity.
+Belmont ‚Äì 145.43 ‚ÄìEX-BELMONT ‚Äì is off the air due to loss of site. Board to discuss options at the December meeting. This repeater will be rebuilt before it is installed at its new location. The second Kenwood repeater, which was intended as the Mendon replacement, will probably be used for this. Joe Weisse, W1HAI, suggested the MMRA send the family who had graciously allowed the repeater to remain on their property, (until selling their home) a ‚ÄúThank You‚Äù from us on their generosity.
 
-Future Projects ñ In addition to the TK-6110 mentioned above, N1IMO is donating two Motorola Quantor VHF repeaters to the club. If these check out, they can be used to upgrade the remaining VHF Mastr IIís that are running Mendon and Marlborough West.
+Future Projects ‚Äì In addition to the TK-6110 mentioned above, N1IMO is donating two Motorola Quantor VHF repeaters to the club. If these check out, they can be used to upgrade the remaining VHF Mastr II‚Äôs that are running Mendon and Marlborough West.
 
 VE Exam Session
 Saturday, October 21st at 9:00 AM
@@ -133,10 +133,10 @@ Note: SS#s, are no longer accepted by the FCC. Everyone must have an FRN.
 .
 Upcoming Meetings
 
-December 20, 2023, 7:30 PM Business Meeting ñ Zoom Teleconference only. 
+December 20, 2023, 7:30 PM Business Meeting ‚Äì Zoom Teleconference only. 
 
-January 17, 2024, 7:30 PM ñ A 10m Antenna . . .to fit in my attic . .
-Speaker Larry Banks ñ W1DYJ
+January 17, 2024, 7:30 PM ‚Äì A 10m Antenna . . .to fit in my attic . .
+Speaker Larry Banks ‚Äì W1DYJ
 New England Sci-Tech, Natick and Zoom
 
 February 20, 2024, 7:30 PM Business Meeting- Zoom Teleconference only.
@@ -145,7 +145,7 @@ Speaker TBD; Location TBD
 
 April 17, 2024, 7:30 PM Business Meeting- Zoom Teleconference only
 
-May 15, 2024, 7:30 PM Membership Meeting ñ Twenty Things Iíve Learned While Curating the Digital Library of Amateur Radio & Communications
+May 15, 2024, 7:30 PM Membership Meeting ‚Äì Twenty Things I‚Äôve Learned While Curating the Digital Library of Amateur Radio & Communications
 Annual Officer Elections
 Emergency Fund Vote
 Speaker: Kay Savetz 
@@ -158,17 +158,17 @@ MMRA Linked Repeaters
 
 Presentation 
 
-A Smorgasbord of Radio ñ The People, Places and Incidents ñ By Dom Mallozzi, N1DM
+A Smorgasbord of Radio ‚Äì The People, Places and Incidents ‚Äì By Dom Mallozzi, N1DM
 
-This historical research covered 13 Scientists and Engineers starting in 1864 that contributed to the development of radio and telephony communications that most take for granted. Starting with James Clerk Maxwell (1857-1894 UK) who developed a set of mathematical equations citing radio waves existed mathematically and are known today as ìMaxwellís Equationsî. Developing further was Heinrich Hertz (1857-1894 Germany) who demonstrated the existence of radio waves in 1886 by producing electric sparks. His research was the foundation of frequency set by international agreement on Weights and Measures. Others followed like Marconi, Dr. Karl Braun, Nikola Tesla, Lee De Forest, Reginand Fessenden, John Stone Stone, Greenleaf Pickard, and Edwin Armstrong, as radio signals developed from tonal sounds, to remote control, to voice and eventually long distance worldwide communications. Companies like RCA, GE and AT&T and many other businesses developed from the work of these great scientists and engineers.
+This historical research covered 13 Scientists and Engineers starting in 1864 that contributed to the development of radio and telephony communications that most take for granted. Starting with James Clerk Maxwell (1857-1894 UK) who developed a set of mathematical equations citing radio waves existed mathematically and are known today as ‚ÄúMaxwell‚Äôs Equations‚Äù. Developing further was Heinrich Hertz (1857-1894 Germany) who demonstrated the existence of radio waves in 1886 by producing electric sparks. His research was the foundation of frequency set by international agreement on Weights and Measures. Others followed like Marconi, Dr. Karl Braun, Nikola Tesla, Lee De Forest, Reginand Fessenden, John Stone Stone, Greenleaf Pickard, and Edwin Armstrong, as radio signals developed from tonal sounds, to remote control, to voice and eventually long distance worldwide communications. Companies like RCA, GE and AT&T and many other businesses developed from the work of these great scientists and engineers.
 
 The Places: Siaconset, Nantucket, MA., Point Judith & Block Island, RI., Brant Rock, Marshfield, MA; Bar Harbor, Belfast, Houlton, ME; and Chatham & Marion MA; are deep in the historical development of radio communications ranging from ship to shore transmission to across the ocean and laying of the transatlantic cable which started with telephony and later voice communication. The transatlantic telephone receiver used SSB on approximately 60 KHz. Later a transatlantic phone call from NYC to London, which was not a direct route, cost $529 per minute, which is equivalent to $2,646 in 2023. Please note this summary here leaves out an enormous amount of details that was fascinating to us as Dom presented his slides. 
 
 The Real QRO Station: Is a US Navy Radio Station, NAA, in Cutler, ME that started in 1961 with a very low frequency transmitter around 24 KHz with a power of 2 Megawatts. The antenna is 75 miles of wire on 26 towers. 
 
-Events: The most known incident was the Titanic which sank on April 14, 1912 where 1,514 died and only 710 were saved after the RMS Carpathia responded to a wireless distress call. That horrific tragedy resulted in major changes in radio operations where monitoring is constantly performed. Another standard was ìSOSî as the only accepted international distress call. 
+Events: The most known incident was the Titanic which sank on April 14, 1912 where 1,514 died and only 710 were saved after the RMS Carpathia responded to a wireless distress call. That horrific tragedy resulted in major changes in radio operations where monitoring is constantly performed. Another standard was ‚ÄúSOS‚Äù as the only accepted international distress call. 
 
-Again, I strongly recommend viewing Domís entire slide deck below. Consider this summary cursory. 
+Again, I strongly recommend viewing Dom‚Äôs entire slide deck below. Consider this summary cursory. 
 
 The slide deck:
 
@@ -181,23 +181,23 @@ Annual TIaOS Net Report ~ Larry Banks, W1DYJ
 
 [A graph of the annual average attendance, 2007 - 2023]
 
-In 2023 weekly participation was around 18.  The largest participation during 2023 was on both 28 February and 25 April, with 26 check-ins. I want to thank Tom, KB1OQA; Ed, KC1CLA; Kevin, K1KWP; and Jonathan, K1BTZ for being net controls during this past year.  We all hope to hear you Tuesday nights at 8 pm.   And we would be HAPPY to have you (any of youÖ) volunteer to be a Back-Up NC!!!    We have a script you can use..  All of our current NCs would welcome you to the ìclub.î  
+In 2023 weekly participation was around 18.  The largest participation during 2023 was on both 28 February and 25 April, with 26 check-ins. I want to thank Tom, KB1OQA; Ed, KC1CLA; Kevin, K1KWP; and Jonathan, K1BTZ for being net controls during this past year.  We all hope to hear you Tuesday nights at 8 pm.   And we would be HAPPY to have you (any of you‚Ä¶) volunteer to be a Back-Up NC!!!    We have a script you can use..  All of our current NCs would welcome you to the ‚Äúclub.‚Äù  
 ----------
 
-Keeping Amateur Radio Alive ~ Stephen Babbitt ñ KC1LPZ
+Keeping Amateur Radio Alive ~ Stephen Babbitt ‚Äì KC1LPZ
 
 For some species extinction is gradual, not necessarily from the footprint of man. Nature has a
-demanding and cruel way of separating the fit from the unfit whether it is fair to those that are on the path to obliteration or survival. Man may believe it can one day control natureís destiny, but we have yet to solve our own destiny of peacefully coexisting with one another. 
+demanding and cruel way of separating the fit from the unfit whether it is fair to those that are on the path to obliteration or survival. Man may believe it can one day control nature‚Äôs destiny, but we have yet to solve our own destiny of peacefully coexisting with one another. 
 
-Letís relate this to the hobby we love so dearly: Ham Radio. Can we attract and excite the next
+Let‚Äôs relate this to the hobby we love so dearly: Ham Radio. Can we attract and excite the next
 generation to our great pastime that we cherish so passionately?  Can we convey the enjoyable
 memories and experiences Ham Radio has enriched our own lives?  If we can articulate our passion, our hobby will live far beyond our time on this planet. 
 
-How passionate are you to pass along what we do? We donít need to form a committee to study the causes on why our numbers are decreasing, We have, inadvertently, let the next generation stare
+How passionate are you to pass along what we do? We don‚Äôt need to form a committee to study the causes on why our numbers are decreasing, We have, inadvertently, let the next generation stare
 aimlessly into their smart phones and computers, where they perceive they can contact the world and our endless libraries of information at the touch of their modern technology. There is some truth to that notion. But what critical thinking have we shared to help them discriminate between fact and fantasy? Social media is a cesspool where humans and non-human bots can interact with many vulnerable
 individuals becoming susceptible to being gaslighted. 
 
-Ham Radio by contrast means all of us are licensed and must follow the basic guidelines to communicate with one another. This is the right to be on the air rather than sitting in someoneís basement
+Ham Radio by contrast means all of us are licensed and must follow the basic guidelines to communicate with one another. This is the right to be on the air rather than sitting in someone‚Äôs basement
 anonymously behind a keyboard. Now add that Hams can communicate in any number of hazardous situations, like power outages: we can remain on the air without the internet or cell phones. Being
 identifiable by our callsign we are more likely to be careful with the information we pass on to others. Ham Radio operators do not have all the answers, but we do care to help others when they may need assistance. 
 
@@ -223,7 +223,7 @@ Algonquin Flea - Saturday, February 17, 2024, 9 am to 1 pm
 Called to order @ 7:33 PM 
 
 MMRA Secretary Position Opening
-Jason ñ W1HFP ñ has indicated he will not run for Secretary next year
+Jason ‚Äì W1HFP ‚Äì has indicated he will not run for Secretary next year
 The Board wants to identify candidates for this position.
 The new secretary will need to be trained.
 Duties:
@@ -234,43 +234,43 @@ Duties:
 A motion was made that Dave and Kevin will be performing the duties as Acting Secretary, which was passed unanimously.
 
 AREDN Update
-Roger ñ WA1NVC ñ attended an AREDN meeting and reports the Mass AREDN group must focus on its primary mission: setting up their communication system to increase interest and usage of the MESH network.
+Roger ‚Äì WA1NVC ‚Äì attended an AREDN meeting and reports the Mass AREDN group must focus on its primary mission: setting up their communication system to increase interest and usage of the MESH network.
 
-Repeater Status Report: - Bob DeMattia ñ K1IW
+Repeater Status Report: - Bob DeMattia ‚Äì K1IW
 
-Belmont Relocation ó Various sites in Belmont were suggested, all of which will mean starting from scratch cold calling people in Belmont. 
+Belmont Relocation ‚Äî Various sites in Belmont were suggested, all of which will mean starting from scratch cold calling people in Belmont. 
 To that end, Bob is working with Ed Curley who will approach the Emergency Management Director for Belmont to determine if we can interest him in having a Ham Radio Repeater. 
-Since the installation probably canít happen until Spring, Bob thinks we should take the time to find a good site and not just use a site we have because it is there. 
+Since the installation probably can‚Äôt happen until Spring, Bob thinks we should take the time to find a good site and not just use a site we have because it is there. 
 
-Brookline ñ WA1NVC suggested we replace the DSTAR in Brookline with 145.43. We will need to reinstall a link antenna and feedline. We suspect the main antenna feedline may be damaged. So this is not as trivial as it may sound.
+Brookline ‚Äì WA1NVC suggested we replace the DSTAR in Brookline with 145.43. We will need to reinstall a link antenna and feedline. We suspect the main antenna feedline may be damaged. So this is not as trivial as it may sound.
 We could probably move 145.16 back to Marlborough East, which makes it sort of redundant with the UHF machine. Also, 145.16 is the only Boston-area D-Star system currently available. Bob suggests we should make an extra effort to find a different site.
 W1HAI suggests we could find a site in Middleborough.
 
-Quincy 2m .67 Repeater ñ On last nightís TIOS Net the repeater failed to link up to the network. Currently Quincy 2m repeater has been disconnected from Hub1. Some technical issues persist requiring onsite maintenance. Bob is waiting for the City of Quincy to response to his initial contact attempt. This is not a high priority because .82 on the Pru has pretty much similar coverage.
+Quincy 2m .67 Repeater ‚Äì On last night‚Äôs TIOS Net the repeater failed to link up to the network. Currently Quincy 2m repeater has been disconnected from Hub1. Some technical issues persist requiring onsite maintenance. Bob is waiting for the City of Quincy to response to his initial contact attempt. This is not a high priority because .82 on the Pru has pretty much similar coverage.
 
-North Reading ó On Saturday, 12/2 the first Kenwood NXR-710 was installed. 
+North Reading ‚Äî On Saturday, 12/2 the first Kenwood NXR-710 was installed. 
 
-Belmont Repeater ó Until a new location is found, the second Kenwood NXR710 will be part of the Belmont rebuild. The NXR-710 is necessary for Belmont because its receiver can go down to 144 MHz. The Quantars cannot without difficult modifications. 
+Belmont Repeater ‚Äî Until a new location is found, the second Kenwood NXR710 will be part of the Belmont rebuild. The NXR-710 is necessary for Belmont because its receiver can go down to 144 MHz. The Quantars cannot without difficult modifications. 
 
-Hopkinton ó Tone Problem: The output tone on Hopkinton had to be disabled because the transmitter (on 449.575) gets into the link receiver (on 449.925).
+Hopkinton ‚Äî Tone Problem: The output tone on Hopkinton had to be disabled because the transmitter (on 449.575) gets into the link receiver (on 449.925).
 This is a 350 KHz difference. One possible solution would be to change the frequency of Hopkinton to a lower frequency. Several are available in the low 448 MHz range.
 Hopkinton is fully synthesized, so the only work that would need to be done would be to set the new frequency and tune the duplexers.
 While no official vote was taken, the Board is receptive to changing the Hopkinton frequency. 
 
 Donated Equipment
 In addition to donating the TK6110 for the new 10m receiver, N1IMO, also donated two fully functional Motorola Quantar repeaters (like the one we put up at the Pru). 
-Bob is recommending we designate these as the replacements for Marlborough West and Mendon, which are our last two VHF Mastr IIís.
+Bob is recommending we designate these as the replacements for Marlborough West and Mendon, which are our last two VHF Mastr II‚Äôs.
 The largest expense Bob sees here is for the battery backup on 147.27. The Quantar requires 24V for its battery input, which is done with two 12V btteries in series. We currently have only one.
-Other than that, Bob doesnít see a lot of other expenses in getting these replacements ready to install. Both systems are operating without issues, so there is no rush to do this, but it wonít hurt to get them ready to go. 
+Other than that, Bob doesn‚Äôt see a lot of other expenses in getting these replacements ready to install. Both systems are operating without issues, so there is no rush to do this, but it won‚Äôt hurt to get them ready to go. 
 Lowell Hub2 Problem
 For similar reasons, the Lowell repeater on 442.250 is not linkable to HUB2. This is because its transmit frequency is 450 KHz away from the receive frequency of 442.7.
 Lowell could work correctly with a change to a 446-448 frequency as well. Lowell is a little trickier because it is crystal controlled Mastr II and it is less than trivial to take a Mastr II with high RX, low TX and flip it. 
 Perhaps, if the club someday approves a replacement repeater for 442.250, we could change the frequency at the same time, except for the special-case repeaters on 10m, 6m, and Brookline DSTAR.
 
 Linking Issue Summary
-A discussion on the linking issue primarily came from Roger and Kevin with Kevin asking if we could just change the frequency to HUB2 to solve the problem with Lowell and Hopkinton?  Roger thought that was a good idea. They will discuss it in greater detail with Bob later on. Bob expressed some reservations with no resolution finalized at tonightís meeting as this is a work in progress.
+A discussion on the linking issue primarily came from Roger and Kevin with Kevin asking if we could just change the frequency to HUB2 to solve the problem with Lowell and Hopkinton?  Roger thought that was a good idea. They will discuss it in greater detail with Bob later on. Bob expressed some reservations with no resolution finalized at tonight‚Äôs meeting as this is a work in progress.
 
-Equipment List ó In summary, a  spreadsheet ñ 5 pages ñ was presented listing what the MMRA has and where these pieces of equipment are located. 
+Equipment List ‚Äî In summary, a  spreadsheet ‚Äì 5 pages ‚Äì was presented listing what the MMRA has and where these pieces of equipment are located. 
 
 VE Exam Session
 Saturday, January 20th at 9:00 AM
@@ -280,8 +280,8 @@ Copy of license required if upgrading ( or proof from the ARRL or QRZ )
 Note: SS#s, are no longer accepted by the FCC. Everyone must have an FRN
 
 Upcoming Meetings
-January 17, 2024, 7:30 PM ñ A 10m Antenna . . .to fit in my attic. 
-Speaker Larry Banks ñ W1DYJ
+January 17, 2024, 7:30 PM ‚Äì A 10m Antenna . . .to fit in my attic. 
+Speaker Larry Banks ‚Äì W1DYJ
 New England Sci-Tech, Natick and Zoom
 
 February 21, 2024, 7:30 PM Business Meeting- Zoom Teleconference only.
@@ -293,7 +293,7 @@ April 17, 2024, 7:30 PM Business Meeting- Zoom Teleconference only
 May 15, 2024, 7:30 PM Membership Meeting
 Annual Officer Elections
 Emergency Fund Vote
-Speaker: Kay Savetz  ñ Twenty Things Iíve Learned While Curating the Digital Library of Amateur Radio & Communications
+Speaker: Kay Savetz  ‚Äì Twenty Things I‚Äôve Learned While Curating the Digital Library of Amateur Radio & Communications
 New England Sci-Tech, Natick and Zoom
 
 Tuesday night 8:00 PM (year-round) 
@@ -306,7 +306,7 @@ Deadline, Friday, December 29, 2023
 Email W1DYJ@mmra.org
 
 Meeting Attendees:
-David Hornbaker, N1DCH; Larry Banks, W1DYJ; Kevin W Paetzold, K1KWP; Roger Coulson, WA1NVC; Ed Curley, KC1CLA; Stephen Babbitt,  KC1LPZ; Ken Horton, KA1GFN; Deb Horton, N1NVJ; Joe Weisse, W1HAI; Joe Fratto, N1RLO; Bruce Pigot, KC1US; Jim Gessner, K1YSO; Glenn Axelrod, KC1HPZ; Jim Babb, AA1BA; Kevin OíHara, KA1SC; Jon Traum, K1BTZ; Yuri Bohnar, KC1LNQ; Alan Lewis, K1ALL; Eric Balles, W1ENB; Bob DeMattia, K1IW;  Danielle Babbitt, KC1TTM.
+David Hornbaker, N1DCH; Larry Banks, W1DYJ; Kevin W Paetzold, K1KWP; Roger Coulson, WA1NVC; Ed Curley, KC1CLA; Stephen Babbitt,  KC1LPZ; Ken Horton, KA1GFN; Deb Horton, N1NVJ; Joe Weisse, W1HAI; Joe Fratto, N1RLO; Bruce Pigot, KC1US; Jim Gessner, K1YSO; Glenn Axelrod, KC1HPZ; Jim Babb, AA1BA; Kevin O‚ÄôHara, KA1SC; Jon Traum, K1BTZ; Yuri Bohnar, KC1LNQ; Alan Lewis, K1ALL; Eric Balles, W1ENB; Bob DeMattia, K1IW;  Danielle Babbitt, KC1TTM.
 
 Meeting Adjourned at 8:53 PM
 Respectfully Submitted by Stephen M Babbitt, KC1LPZ, Clerk
@@ -324,7 +324,7 @@ PATRIOTIC...station and skill always ready for service to country and community.
 Paul M. Segal, W9EEA, 1928
 ----------
 
-Treasurerís Report ~ Kevin Paetzold, K1KWP
+Treasurer‚Äôs Report ~ Kevin Paetzold, K1KWP
 
 The MMRA receives a significant amount of donations each year. On behalf of the club I would like to acknowledge and thank people below who donated since my list in the November newsletter: 
 
@@ -338,7 +338,7 @@ As noted in the previous newsletter N1CTY donated a bunch of radio equipment to 
 BTech UV25-X4 Mobile, Beofang F8-HP HT, Kenwood THF-6A HT, Tram 2-band base antenna,
 Ed Fong 1-band base antenna, and a Pyramid 10amp Power Supply.   There are also many HT antennas and accessories including large capacity batteries, drop in charger, USB programming cables for the above.  
 
-If you are interested in any of the above before the flea send email to contact@mmra.org.  Reasonable market based offers only please. However keep in mind that we want to avoid paying eBay fees, PayPal fees, postage, shipping costs, etcÖ so feel free to take that into account :-).
+If you are interested in any of the above before the flea send email to contact@mmra.org.  Reasonable market based offers only please. However keep in mind that we want to avoid paying eBay fees, PayPal fees, postage, shipping costs, etc‚Ä¶ so feel free to take that into account :-).
 ----------
 
 North Reading 2m Replacement ~ 2 December 2023
@@ -350,10 +350,10 @@ to swap in our new Kenwood NXR710 repeater.
 [Some photos taken by W1DYJ]
 ----------
 
-Donít Forget ó  Join Us!
+Don‚Äôt Forget ‚Äî  Join Us!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatís happening in the MMRA and ask your ham related questions.
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.
 
 Net Control Operators:
 	Week 1	W1DYJ	Larry Banks	
@@ -369,7 +369,7 @@ NOTE: we need another NC to be available as a substitute.  If you are interested
 
 MMRA Leaders
 
-Executive Board ó Officers
+Executive Board ‚Äî Officers
 	President		Dave Hornbaker	N1DCH
 	
 Vice President 	John Spencer	WA1MDD
@@ -378,12 +378,12 @@ Vice President 	John Spencer	WA1MDD
 	Clerk 		Stephen Babbitt 	KC1LPZ
 
 
-Executive Board ó Directors
-	Director  ª2024	Rob Evans	N1BE
+Executive Board ‚Äî Directors
+	Director  ¬ª2024	Rob Evans	N1BE
 
-	Director  ª2024	James Lee	N1DDK
-	Director  ª2025	Bob DeMattia	K1IW
-	Director  ª2025	Roger Coulson	WA1NVC
+	Director  ¬ª2024	James Lee	N1DDK
+	Director  ¬ª2025	Bob DeMattia	K1IW
+	Director  ¬ª2025	Roger Coulson	WA1NVC
 
 Appointed 
 	Technical Officer	Bob DeMattia	K1IW
@@ -446,7 +446,7 @@ https://creativecommons.org/licenses/by/4.0/
 ----------
 
 MMRA VE SESSIONS
-Check out https://www.mmra.org/exam.html or email †ve@mmra.org 
+Check out https://www.mmra.org/exam.html or email ¬†ve@mmra.org 
 
 Ask your friends to become a member 
 Just let them know that it is not fully automated.  Although they can log into the MMRA website immediately, 
@@ -464,7 +464,7 @@ Go to < MMRA.ORG > and log in to do so.
 
 Heavy Hitters Traffic Net
 This net is active on our repeaters Sunday through Friday evenings from 9:45-11pm
-and on Saturday from 10ó11 PM.
+and on Saturday from 10‚Äî11 PM.
 
 The repeaters that are active are:
 2m:  Mendon (146.61), Quincy (146.67), North Reading (146.715), Boston (146.82), and

@@ -1,6 +1,6 @@
 The Minuteman Repeater Association
 
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.Â  
 
 The Minuteman
 
@@ -10,7 +10,7 @@ May 2015
 
 Membership Meeting ~ Wednesday, May 20 ~ 7 PM
 Officers Report to Members
-and General Elections 
+and General ElectionsÂ 
 
 This is our official annual membership meeting which will include the elections of officers for 2015-2016
 
@@ -24,13 +24,13 @@ Talkin: 146.79
 
 >From Route 20 heading East towards Weston:
 Head East on Route 20. After entering Weston on Route 20 bear left onto Boston Post Road. From Boston Post Road turn left onto Concord Road. 
-————————————————-
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 The Campion Center is on Concord Road. However, before you get to it, there will be a fork on Concord Road where Concord road takes a turn to the left.  You will find Campion a short distance after the fork. It will be a large building with a dome on your right.
 
 Then follow above.
 ----------
 
-President’s Corner ~ Bob DeMattia, K1IW
+Presidentâ€™s Corner ~ Bob DeMattia, K1IW
 
 MMRA Elections are being held at the next meeting on May 20th.  Once again, the board received no nominations for officers, so the entire board is running unopposed.  Assuming things go as they probably will, I'll be beginning my 12th term as MMRA president following the election.
 
@@ -57,16 +57,16 @@ Treasurer    	Kevin Paetzold 	K1KWP
 
 Clerk      	Bob Evans   	N1BE
 
-Director  »2017 	Steve Schwarm 	W3EVE
+Director  Â»2017 	Steve Schwarm 	W3EVE
 
-Director  »2017 	Roger Coulson 	WA1NVC
+Director  Â»2017 	Roger Coulson 	WA1NVC
 
 
 Ongoing Directors elected last year:
 
-Director  »2016 	Clark Conti 	N1NVK
+Director  Â»2016 	Clark Conti 	N1NVK
 
-Director  »2016	Mike Neilsen 	W1MPN
+Director  Â»2016	Mike Neilsen 	W1MPN
 ----------
 
 Notice of
@@ -115,40 +115,40 @@ Public Service Report ~ David Wolfe, KG1H
 Public Service Events sponsored by the MMRA or other ham organizations that members of the MMRA participate in and/or MMRA repeaters support:
 
 CF Cycle For Life - 11 October 2014
-Sutton Chain of Lights – 03 December 2014
-Ashland Half-Marathon & 5K Race – 21 March 2015 (POSTPONED)
-119th Boston Marathon – 20 April 2015
-Run of the Charles – 26 April 2015
-Project Bread’s Walk for Hunger – 02 May 2015
-MS Ride the Vineyard – 02 May 2015
-MS Journey of Hope Walk, Natick – 16 May 2015
-Westford Apple Blossom Parade – 16 May 2015
-MS Cape Cod Getaway – 27 June 2015
+Sutton Chain of Lights â€“ 03 December 2014
+Ashland Half-Marathon & 5K Race â€“ 21 March 2015 (POSTPONED)
+119th Boston Marathon â€“ 20 April 2015
+Run of the Charles â€“ 26 April 2015
+Project Breadâ€™s Walk for Hunger â€“ 02 May 2015
+MS Ride the Vineyard â€“ 02 May 2015
+MS Journey of Hope Walk, Natick â€“ 16 May 2015
+Westford Apple Blossom Parade â€“ 16 May 2015
+MS Cape Cod Getaway â€“ 27 June 2015
 ----------
 
 BOSTON MARATHON 2015 ~ Tom Turner, KB1OQA
 
-Monday, April 20th was cold, showery, and in the high 30’s to low 40’s as I awoke at 0200 Hrs., had breakfast, and made preparations for the drive to Hopkinton, MA, the starting point for the 19th running of the Boston Marathon.  I had been assigned to work as a communications “Shadow” for one of the B.A.A. employees whose duty it was to oversee the so-called “Corrals,” where 30,000 runners from around the world form up to begin the 26.2 mile run to the Finish Line in Boston, MA.
+Monday, April 20th was cold, showery, and in the high 30â€™s to low 40â€™s as I awoke at 0200 Hrs., had breakfast, and made preparations for the drive to Hopkinton, MA, the starting point for the 19th running of the Boston Marathon.Â  I had been assigned to work as a communications â€œShadowâ€ for one of the B.A.A. employees whose duty it was to oversee the so-called â€œCorrals,â€ where 30,000 runners from around the world form up to begin the 26.2 mile run to the Finish Line in Boston, MA.
 
-Each year, approximately 300 Amateur Radio Operators volunteer their time, providing vital and needed communications services for this event.  Some work outside along the course itself in various roles, while others work inside at various Net Control points along the route.
-On arrival in Hopkinton, I was directed to the State Park, where I parked my car, and was taken by shuttle bus to the Town Common.  Our START Team of approximately 34 Hams were issued the necessary credentials for the areas we would be working in, such as the Athletes Village, Town Common, and the Starting  Line area.  Our Team was also briefed on the start times of the various segments of the Marathon, along with relevant updates, such as assignment changes, weather conditions,  etc.
+Each year, approximately 300 Amateur Radio Operators volunteer their time, providing vital and needed communications services for this event.Â  Some work outside along the course itself in various roles, while others work inside at various Net Control points along the route.
+On arrival in Hopkinton, I was directed to the State Park, where I parked my car, and was taken by shuttle bus to the Town Common.Â  Our START Team of approximately 34 Hams were issued the necessary credentials for the areas we would be working in, such as the Athletes Village, Town Common, and the StartingÂ  Line area.Â  Our Team was also briefed on the start times of the various segments of the Marathon, along with relevant updates, such as assignment changes, weather conditions,Â  etc.
 
-There was a high Police presence comprised of Federal, Local, and State Law enforcement agencies and security was extremely tight, as was the case in 2014.  Security sweeps took place periodically   to insure the safety of everyone involved; BAA  personnel, Runners, and volunteers alike.
+There was a high Police presence comprised of Federal, Local, and State Law enforcement agencies and security was extremely tight, as was the case in 2014.Â  Security sweeps took place periodicallyÂ Â  to insure the safety of everyone involved; BAAÂ  personnel, Runners, and volunteers alike.
 
 The START Team operated on several simplex frequencies, supplemented by a repeater frequency to insure complete and seamless communications during this event.
 
-Shortly before 10 AM, the race began. Since everyone can’t be at the Starting Line at the same time, releases are staggered.  The runners are released in four “waves,” due to their large numbers, and it’s quite a sight to see.
+Shortly before 10 AM, the race began. Since everyone canâ€™t be at the Starting Line at the same time, releases are staggered.Â  The runners are released in four â€œwaves,â€ due to their large numbers, and itâ€™s quite a sight to see.
 
-By 11:30 AM, the last of the runners had crossed the Starting Line and were on their way to Boston.  There were no emergencies in Hopkinton involving those running or working the event.  The rain began to pour as I made my way back to the Bus Stop to pick up my car for the ride home.
+By 11:30 AM, the last of the runners had crossed the Starting Line and were on their way to Boston.Â  There were no emergencies in Hopkinton involving those running or working the event.Â  The rain began to pour as I made my way back to the Bus Stop to pick up my car for the ride home.
 
-For new Hams interested in Public Service venues, the Boston Marathon provides a great learning opportunity.  Many of us have worked this event for several years, gaining much knowledge about radio usage, and making new friends at the same time.  I would recommend it to all.
+For new Hams interested in Public Service venues, the Boston Marathon provides a great learning opportunity.Â  Many of us have worked this event for several years, gaining much knowledge about radio usage, and making new friends at the same time.Â  I would recommend it to all.
 ---------
 
 March Membership Meeting Notes 
 Dick Frey - WA2AAU
-VHF CONTESTING – Let’s Just Do It
+VHF CONTESTING â€“ Letâ€™s Just Do It
 
-Dick is President of both the North East Weak Signal Group, the premier VHF/UHF club in the Northeast, and of the Mt. Greylock Expeditionary Force (W2SZ— the VHF contest group on Greylock Mt.)
+Dick is President of both the North East Weak Signal Group, the premier VHF/UHF club in the Northeast, and of the Mt. Greylock Expeditionary Force (W2SZâ€” the VHF contest group on Greylock Mt.)
 
 Dick showed us how VHF Contesting works, and why it is fun.  He covered how to get involved, how far you can talk, what is a rover station, and more. 
 
@@ -170,11 +170,11 @@ Saturday, 22 August ~ Mid-summer Get Together
 Boxboro ARRL Convention Dinner
 ----------
 
-Don’t Forget! Join Us.
+Donâ€™t Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -198,10 +198,10 @@ Clerk			Bob Evans	N1BE
 * Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  »2015		Steve Schwarm	W3EVE
-Director  »2015		Roger Coulson	WA1NVC
-Director  »2016		Clark Conti	N1NVK
-Director  »2016		Mike Neilsen	W1MPN
+Director  Â»2015		Steve Schwarm	W3EVE
+Director  Â»2015		Roger Coulson	WA1NVC
+Director  Â»2016		Clark Conti	N1NVK
+Director  Â»2016		Mike Neilsen	W1MPN
 
 Repeater Trustees
 * Belmont 145.430	James Lee	N1DDK
@@ -216,7 +216,7 @@ Repeater Trustees
 * Marlborough 53.810; Quincy 146.670; 
        Marlborough 449.575  Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
-       448.225, 449.925,  927.700 — all as W1MRA
+       448.225, 449.925,  927.700 â€” all as W1MRA
 	Bill Northup	N1QPR
 * Mendon 146.610	Jim Podsiadlo	AE1C
 * Quincy 224.40	Bill Dunn	N1KUG

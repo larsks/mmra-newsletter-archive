@@ -4,7 +4,7 @@ Volume 37, Number 6
 May 2008
 -------------------
 
-Membership Meeting ~ 21 May — 7:30PM
+Membership Meeting ~ 21 May â€” 7:30PM
 Astronomy Night (and General Elections)
 The Clay Center Observatory
 Ron Dantowitz, Director ~ Clay Center Observatory
@@ -15,7 +15,7 @@ An aeronautical engineer, an astronomer, an educator, and winner of the Alan She
 
 >From 1988-2000 Mr. Dantowitz was Lecturer of Astronomy at the Hayden Planetarium at the Boston Museum of Science.  He spent more than a decade developing techniques for ultra-high resolution astronomical imaging. His astronomical images have been featured in hundreds of newspapers and dozens of magazines. In 2000 Dantowitz joined the faculty of Dexter and Southfield Schools in Brookline, where he is the Director of the Clay Center Observatory.
 
-In October 2004 Mr. Dantowitz collaborated with Burt Rutan and Scaled Composites to photograph the X-Prize launches of SpaceShipOne, the first commercial manned spacecraft. Ron’s telescopically tracked videos of the XPrize flights were seen on television news by more than one billion people worldwide. In 2005 he collaborated with NASA, the US Naval Observatory, and several European space agencies to bounce a high power laser off a cube mirror placed on the International Space Station to yield some of the most detailed photos of a space satellite in orbit by a ground-based telescope.
+In October 2004 Mr. Dantowitz collaborated with Burt Rutan and Scaled Composites to photograph the X-Prize launches of SpaceShipOne, the first commercial manned spacecraft. Ronâ€™s telescopically tracked videos of the XPrize flights were seen on television news by more than one billion people worldwide. In 2005 he collaborated with NASA, the US Naval Observatory, and several European space agencies to bounce a high power laser off a cube mirror placed on the International Space Station to yield some of the most detailed photos of a space satellite in orbit by a ground-based telescope.
 
 One of Ron's current projects is a specialized van to house a mobile observatory and communications center that will allow students and astronomers to take their research to off-site locations. Another collaboration with the US Naval Observatory allows the Clay Center telescopes to be used for finding new planets around distant stars.
 
@@ -37,7 +37,7 @@ IMPORTANT: HUB1 (449.925) had a power amplifier failure on April 18th. All repea
 ----------------------
 
 MMRA April Board of Directors Meeting
-Bob Evans — N1BE — Clerk
+Bob Evans â€” N1BE â€” Clerk
 
 MMRA board meeting minutes by N1BE.
 
@@ -68,7 +68,7 @@ The meeting adjourned at 8:45 PM.
 
 ---------------------------------
 
-President’s Message
+Presidentâ€™s Message
 Bob DeMattia, K1IW
 
 As MMRA finishes up its active membership year, I can certainly state that it has been a good one. The year ends on a high note with MMRA taking a leadership role in two large public service events: MMRA is teamed with the Framingham Amateur Radio Association for the Boston Marathon. MMRA Director Steve, W3EVE coordinates over 100 amateur operators along the route, and MMRA treasurer Kevin, K1KWP gets all the technical details working for marathon net control. At the Walk for Hunger, MMRA member Eric, KA1NCF is the chief organizer of all the ham volunteers. Countless other members participate as volunteers in these events. In addition to MMRA member participation, MMRA repeaters play an important role in these, as well as other, public service efforts.
@@ -94,7 +94,7 @@ Rick Zach, K1RJZ, a founder of GEMOTO and also Chief Engineer of WCVB TV gave tw
 
 ------------------------------
 
-Treasurer’s Report
+Treasurerâ€™s Report
 Kevin Paetzold, K1KWP
 
 Shortly before the last membership meeting in March (and after the newsletter was already in the mail) the MMRA found out that the city of Marlborough was making plans to move forward on plans to make improvements at the Slygo Hill site (MRW) in Marlborough. Indications were that the board would need to be making decisions (and probably spending funds) before the May meeting could occur (this has indeed been the case). An email went out to the membership that the board was going to ask for approval to spend up to $5000 at the March meeting. After the motion was made and seconded it received unanimous approval.
@@ -134,11 +134,11 @@ Web Page Editor			Bob DeMattia	K1IW
 
 -------------------------------------
 
-Don’t Forget!
+Donâ€™t Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net. Join us! This is a good way to keep up with what is happening in the MMRA and ask your ham related questions. If you would like to tray your hand at Net Control contact me at W1DYJ@mmra.org – we have a script you can use to start with. This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIAOS Net. Join us! This is a good way to keep up with what is happening in the MMRA and ask your ham related questions. If you would like to tray your hand at Net Control contact me at W1DYJ@mmra.org â€“ we have a script you can use to start with. This is good practice for a number of ham related operations, from emergency preparedness to contesting.
 
 Current Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire

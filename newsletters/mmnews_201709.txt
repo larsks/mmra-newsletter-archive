@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.Â  
 
 The Minuteman
 Volume 47, Number 1
@@ -29,7 +29,7 @@ President: 		Dave, KG1H
 Vice-President:		John, WA1MDD
 Treasurer: 		Kevin, K1KWP
 Secretary:        	John, W1JMC 
-Clerk:			open (YOU could do this…)
+Clerk:			open (YOU could do thisâ€¦)
 Director >> 2019:       Bob, K1IW
 Director >> 2019:       Roger, WA1NVC 
 ----------
@@ -120,11 +120,11 @@ Location: TBD
 May Membership (and Annual) Meeting Presentation
 
 Truths & Myths about Station Grounding 
-Neil Goodell ~ AE1P  
-(These are just a few of Neil’s slides.)
+Neil Goodell ~ AE1PÂ  
+(These are just a few of Neilâ€™s slides.)
 ----------
 
-Early Ham History – Part 1
+Early Ham History â€“ Part 1
 
 
 >From W1DYJ: I recently obtained an ARRL Handbook from 1962, the year I was first licensed. The first few pages are a wonderful, short history of the early years of Ham radio. I hope you enjoy reading this as much as I did. It is in 5 parts.
@@ -132,13 +132,13 @@ Here is Part 1: 1900 through WW1
 
 Amateur radio is a scientific hobby, a means of gaining personal skill in the fascinating art of electronics and an opportunity to communicate with fellow citizens by private short-wave radio. Scattered over the globe are over 250,000 amateur radio operators who perform a service defined in international law as one of "self-training, intercommunication and technical investigations carried on by . . . duly authorized persons interested in radio technique solely with a personal aim and without pecuniary interest."
 
->From a humble beginning at the turn of the century, amateur radio has grown to become an established institution. Today the American followers of amateur radio number over 200,000, trained communicators from whose ranks will come the professional communications specialists and executives of tomorrow—just as many of today's radio leaders were first attracted to radio by their early interest in amateur radio communication. A powerful and prosperous organization now provides a bond between amateurs and protects their interests; an internationally respected magazine is published solely for their benefit. The military services seek the cooperation of the amateur in developing communications reserves. Amateur radio supports a manufacturing industry which, by the very demands of amateurs for the latest and best equipment, is always up-to-date in its designs and production techniques—in itself a national asset. Amateurs have won the gratitude of the nation for their heroic performances in times of natural disaster; traditional amateur skills in emergency communication are also the stand-by system for the nation's civil defense. Amateur radio is, indeed, a magnificently useful institution.
+>From a humble beginning at the turn of the century, amateur radio has grown to become an established institution. Today the American followers of amateur radio number over 200,000, trained communicators from whose ranks will come the professional communications specialists and executives of tomorrowâ€”just as many of today's radio leaders were first attracted to radio by their early interest in amateur radio communication. A powerful and prosperous organization now provides a bond between amateurs and protects their interests; an internationally respected magazine is published solely for their benefit. The military services seek the cooperation of the amateur in developing communications reserves. Amateur radio supports a manufacturing industry which, by the very demands of amateurs for the latest and best equipment, is always up-to-date in its designs and production techniquesâ€”in itself a national asset. Amateurs have won the gratitude of the nation for their heroic performances in times of natural disaster; traditional amateur skills in emergency communication are also the stand-by system for the nation's civil defense. Amateur radio is, indeed, a magnificently useful institution.
 
 Although as old as the art of radio itself, amateur radio did not always enjoy such prestige. Its first enthusiasts were private citizens of an experimental turn of mind whose imaginations went wild when Marconi first proved that messages actually could be sent by wireless. They set about learning enough about the new scientific marvel to build homemade spark transmitters. By 1912 there were numerous Government and commercial stations, and hundreds of amateurs; regulation was needed, so laws, licenses and wavelength specifications appeared. There was then no amateur organization nor spokesman. The official viewpoint toward amateurs was something like this:
 
 	"Amateurs ? . . . Oh, yes. . . . Well, stick 'em on 200 meters and below; they'll never get out of their backyards with that."
 
-But as the years rolled on, amateurs found out how, and DX (distance) jumped from local to 500-mile and even occasional 1000-mile two-way contacts. Because all long-distance messages had to be relayed, relaying developed into a fine art— an ability that was to prove invaluable when the Government suddenly called hundreds of skilled amateurs into war service in 1917. Meanwhile U.S. amateurs began to wonder if there were amateurs in other countries across the seas and if, some day, we might not span the Atlantic on 200 meters.
+But as the years rolled on, amateurs found out how, and DX (distance) jumped from local to 500-mile and even occasional 1000-mile two-way contacts. Because all long-distance messages had to be relayed, relaying developed into a fine artâ€” an ability that was to prove invaluable when the Government suddenly called hundreds of skilled amateurs into war service in 1917. Meanwhile U.S. amateurs began to wonder if there were amateurs in other countries across the seas and if, some day, we might not span the Atlantic on 200 meters.
 
 The above is COPYRIGHT 1962 by ARRL.  The Handbook back then cost $3.50. 
 Next time Part 2: The Birth of the ARRL
@@ -184,11 +184,11 @@ Wednesday, 20 June ~ Business Meeting
 Location: NEAG (Hudson)
 ----------
 
-Don’t Forget! Join Us.
+Donâ€™t Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -218,10 +218,10 @@ Clerk	open
 * Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  »2018		Clark Conti	N1NVK
-Director  »2018		James Lee	N1DDK
-Director  »2019		Bob DeMattia	K1IW
-Director  »2019		Roger Coulson	WA1NVC
+Director  Â»2018		Clark Conti	N1NVK
+Director  Â»2018		James Lee	N1DDK
+Director  Â»2019		Bob DeMattia	K1IW
+Director  Â»2019		Roger Coulson	WA1NVC
 
 Repeater Trustees
 * Belmont 145.430	Ed Curley	KC1CLA
@@ -235,7 +235,7 @@ Repeater Trustees
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
 
-       448.225, 449.925,  927.700 — all as W1MRA
+       448.225, 449.925,  927.700 â€” all as W1MRA
 
 			Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP

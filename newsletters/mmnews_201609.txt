@@ -1,6 +1,6 @@
 The Minuteman Repeater Association
 
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.Â  
 
 The Minuteman
 Volume 46, Number 1
@@ -30,21 +30,21 @@ All MMRA members with paid-up 2-year memberships as of 11am September 11, 2016 w
 Also of interest at Boxboro! 2016
 
 DIGITAL RADIO REPEATER MODES		3 PM Sat., Cotillion Room
-Rick Zach, K1RJZ, Moderator		Rick will lead a discussion about digital voice repeater technologies: DMR, D-Star, Fusion, and NXDN, “on an equal footing in a single unbiased presentation. These will be presented from the perspective of five subject matter experts with technology breakout sessions to follow.  An emphasis will be to present the acceptance status of each in New England as of September 2016.
+Rick Zach, K1RJZ, Moderator		Rick will lead a discussion about digital voice repeater technologies: DMR, D-Star, Fusion, and NXDN, â€œon an equal footing in a single unbiased presentation. These will be presented from the perspective of five subject matter experts with technology breakout sessions to follow.  An emphasis will be to present the acceptance status of each in New England as of September 2016.
   
 PROGRAM YOUR RADIOS WITH OPEN SOURCE SOFTWARE	10 AM Sat., Board Room
 James Lee, N1DDK		This presentation is an overview of Chirp software which is used to program most radios.  What is Chirp?  Supported radios?  Common problems and solutions?  A workshop will follow. Power supplies along with computers and programming cables will be available.
 
 CARE AND FEEDING OF ASTRON POWER SUPPLIES
 11 AM Sat., Board Room	James Lee, N1DDK
-Astron’s are the most common supplies found in most ham shacks. This talk will outline repairs and upgrades to a few Astron supplies: the RS20, RS35, and other models.  Photos and hands on parts will allow attendees to walk away with the confidence to repair their supply.
+Astronâ€™s are the most common supplies found in most ham shacks. This talk will outline repairs and upgrades to a few Astron supplies: the RS20, RS35, and other models.  Photos and hands on parts will allow attendees to walk away with the confidence to repair their supply.
 ----------
 
-President’s Corner ~ David Wolfe, KG1H
+Presidentâ€™s Corner ~ David Wolfe, KG1H
 
 As the president of the MMRA, I participated in the ARRL New England Division Cabinet Meeting on Saturday, July 9th.  Even though not all MMRA members are members of the ARRL, most of the subjects discussed apply to all hams.  Attendees initiated most of subjects that were discussed.
 
-The Air Force is involved in a major upgrade to the PAVE Phased Array Warn (PAVE PAWS) in both Cape Cod and California requiring additional testing next year.  They reported that the noise floor is increasing across the band.  The information that came down to ARRL is that the impacts to the ham utilization of the 440 MHz band may require ‘adjustments’ from what it is now, and may require an ‘extension’ of the impact radius. As you might recall, some 440 MHz repeaters close to PAVE PAWS were shut down and others further out (impact radius) required that their output power be greatly reduced.  The ARRL is monitoring the situation.
+The Air Force is involved in a major upgrade to the PAVE Phased Array Warn (PAVE PAWS) in both Cape Cod and California requiring additional testing next year.  They reported that the noise floor is increasing across the band.  The information that came down to ARRL is that the impacts to the ham utilization of the 440 MHz band may require â€˜adjustmentsâ€™ from what it is now, and may require an â€˜extensionâ€™ of the impact radius. As you might recall, some 440 MHz repeaters close to PAVE PAWS were shut down and others further out (impact radius) required that their output power be greatly reduced.  The ARRL is monitoring the situation.
 
 The general consensus of all the attendees is that the number of hams that participate in public service events across New England has been greatly reduced from what it has been several years ago.  Some thought that the increasing age of those participating has been the main reason, and that the new/younger hams have not picked up the interest.  Some associations rely on preprogrammed cell phones, a few on DMR.  That lead to a discussion of how we need to attract the young to become hams and participate in these events.  Any ideas are welcome.
 
@@ -61,7 +61,7 @@ Quincy 146.67 is currently running on temporary equipment while the permanent ri
 
 Hopkinton Heliax Cables donated to MMRA
 
-Thanks to Rick Zach, K1RJZ, on the afternoon of July 21, the MMRA removed twelve donated 160+ foot sections of Heliax cable (and some antennas) as they were removed by contractors from a 200’ tower in Hopkinton.  Here are photos of the operation, thanks to Rick and Dave, KG1H.  (Following are 9 photos.)
+Thanks to Rick Zach, K1RJZ,Â on the afternoon of July 21,Â the MMRA removed twelveÂ donated 160+ foot sections of Heliax cable (and some antennas) as they were removed by contractors from a 200â€™ tower in Hopkinton.  Here are photos of the operation, thanks to Rick and Dave, KG1H.  (Following are 9 photos.)
 ----------
 
 May Membership ANNUAL Meeting
@@ -112,7 +112,7 @@ Although KG1H had an agenda item about DMR, we did not discuss this item due to 
 Next we discussed a few open issues needing action in the near term.
 - W1BRI proposed a new home for 449.575.  Bryan will move the repeater if the site is available.
 - When 449.575 is moved K1IW offered to pick up feedline and accessories at the same time.
-- K1IW is replacing two repeater power supplies – Brookline is already done.
+- K1IW is replacing two repeater power supplies â€“ Brookline is already done.
 - We have to do more work on the antenna mounts in North Reading - deferred until autumn.
 - Determine cause of failure and repair North Reading 446.775 failure - K1IW volunteered to do this, W1DYJ offered to come along to learn about the site.
 - Isolate source of Quincy 146.67 intermittent noise - W1BRI has parts and plans to go to the site to replace a marginal N-connector.
@@ -129,7 +129,7 @@ We adjourned at 20:49.
 Upcoming MMRA Meetings
 
 Saturday, 11 Sept ~ Membership Meeting
-Introduction to MMRA & Door Prize Drawing  
+Introduction to MMRA & Door Prize DrawingÂ  
 At the Boxboro! 2016 ARRL Convention
 Holiday Inn, Boxborough 
 
@@ -140,38 +140,38 @@ Wed, 19 Oct ~ Business Meeting
 Location: Stratus, Maynard
 
 Wednesday, 16 Nov ~ Membership Meeting
-Topic—TBD
-Location—TBD
+Topicâ€”TBD
+Locationâ€”TBD
 
 Wed, 21 Dec ~ Business Meeting
 Location: Stratus, Maynard
 
 Wednesday, 18 Jan ~ Membership Meeting
-Topic—TBD
-Location—TBD
+Topicâ€”TBD
+Locationâ€”TBD
 
 Wed, 15 Feb ~ Business Meeting
 Location: Stratus, Maynard
 
 Wednesday, 15 Mar ~ Membership Meeting
-Topic—TBD
-Location—TBD
+Topicâ€”TBD
+Locationâ€”TBD
 
 Wed, 19 April ~ Business Meeting
 Location: Stratus, Maynard
 
 Wednesday, 17 May ~ Membership Meeting
-Topic—TBD
-Location—TBD
+Topicâ€”TBD
+Locationâ€”TBD
 ----------
 
-Don’t Forget! 
+Donâ€™t Forget! 
 Join Us.
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -195,11 +195,11 @@ Clerk			Bob Evans	N1BE
 * Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  »2017		Steve Schwarm	W3EVE
-Director  »2017		Roger Coulson	WA1NVC
-Director  »2018		Clark Conti	N1NVK
-Director  »2018		James Lee	N1DDK
-Director  »2017		Bob DeMattia	K1IW
+Director  Â»2017		Steve Schwarm	W3EVE
+Director  Â»2017		Roger Coulson	WA1NVC
+Director  Â»2018		Clark Conti	N1NVK
+Director  Â»2018		James Lee	N1DDK
+Director  Â»2017		Bob DeMattia	K1IW
 
 Repeater Trustees
 * Belmont 145.430	Ed Curley	KC1CLA
@@ -213,7 +213,7 @@ Repeater Trustees
 * Marlborough 53.810,  Quincy 146.670; 
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
-       448.225, 449.925,  927.700 — all as W1MRA
+       448.225, 449.925,  927.700 â€” all as W1MRA
 	Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP
 * N. Reading 146.715	Bruce Pigott	KC1US
@@ -263,7 +263,7 @@ For more information:  http://mit.edu/w1gsl/Public/ne-fleas
 12 Nov 		Bourne MA 	FARA @UpperCC VoTech
   3 Dec 	Windsor CT 	VR+C Mus 115 Pierson LN
 
-2017———————————————————————-
+2017â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
   4 Mar 	Chicopee MA 	MtTomARA  @8:30 S@6:30
 31 Mar 		Lewiston ME 	AARC ME Conv @Ramada
   8 Apr 	Newton MA 	PHSNE Photographica

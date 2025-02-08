@@ -1,6 +1,6 @@
 The Minuteman Repeater Association
 
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.† 
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.¬† 
 ----------
 
 The Minuteman
@@ -13,7 +13,7 @@ All 2014 memberships expired on August 31st! Time to renew either on the Member'
 ----------
 
 Membership Meeting ~ Wednesday, November 18 ~ 7 PM
-New Approaches to VHF/UHF Frequency Sharing† 
+New Approaches to VHF/UHF Frequency Sharing¬† 
 Lee Lemoine N3LEE
 Meeting Co-sponsored by New England Spectrum Management
 
@@ -56,14 +56,14 @@ The MMRA meets (usually) on the 3rd Wednesday of each month from September to Ju
 The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at 
 newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
 Email to the club leadership should be sent to 
 contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
 
-An email distribution list for club members named ìMMRAî is at: www.yahoogroups.com/.  
+An email distribution list for club members named ‚ÄúMMRA‚Äù is at: www.yahoogroups.com/.  
 
 You can also follow us on twitter @mmraham and like us on Facebook: https://www.facebook.com/mmraham.
 
@@ -93,7 +93,7 @@ Photo 1
 The CCMCC, owned and operated by the Clay Center Observatory at Dexter Southfield School, is equipped with an integrated shock-absorbing server rack with 4 Mac Minis running Windows 7 and OS X.  Thirteen articulating touch screen displays are permanently mounted and can be used for such things as operation of telescopes, displaying weather maps, data logging, radio operations, and accessing the Internet.
 
 Photo 2
-The CCMCC is equipped with GPS for position (APRS) and time,2m/70cm FM amateur radio station, NOAA weather radio with alert, a 2kW generator, 2kW inverter, networking, amplified cellular Internet. The 2î trailer hitch and large flat roof are ideal for mounting extra communications antennas for additional stations. In large events, 10x10 pop-up tents can be positioned at the side door and rear door to provide a sheltered place for spectators to gather and for information tables with literature.
+The CCMCC is equipped with GPS for position (APRS) and time,2m/70cm FM amateur radio station, NOAA weather radio with alert, a 2kW generator, 2kW inverter, networking, amplified cellular Internet. The 2‚Äù trailer hitch and large flat roof are ideal for mounting extra communications antennas for additional stations. In large events, 10x10 pop-up tents can be positioned at the side door and rear door to provide a sheltered place for spectators to gather and for information tables with literature.
 
 Photo 3
 The CCMCC can be used as a mobile amateur radio communications center.
@@ -142,27 +142,27 @@ Mike, W1MPN, is heading up a process that would be used to develop a budget for 
 
 October Business Meeting ~ Bob Evans, Clerk, N1BE
 
-The MMRA board of directors held a business meeting at the headquarters of Stratus Technologies in Maynard on October 21 at 7 PM.† In attendance were K1KWP, K1IW, N1BE, W3EVE, N1BDA, W1MPN, N1DDK, W1BRI, WA1NVC, N1NVK and KG1H.
+The MMRA board of directors held a business meeting at the headquarters of Stratus Technologies in Maynard on October 21 at 7 PM.¬† In attendance were K1KWP, K1IW, N1BE, W3EVE, N1BDA, W1MPN, N1DDK, W1BRI, WA1NVC, N1NVK and KG1H.
 
 
 
-Kevin, K1KWP gave a treasurer's report covering balances, income and spending.† A review of membership numbers shows that last year had the highest number of members in the last ten years.† Dues are still arriving for the year that began on Sept 1 so we do not have a final count for this year.
+Kevin, K1KWP gave a treasurer's report covering balances, income and spending.¬† A review of membership numbers shows that last year had the highest number of members in the last ten years.¬† Dues are still arriving for the year that began on Sept 1 so we do not have a final count for this year.
 
 
 
-Bob, K1IW discussed the Boston Marathon.† The director of the marathon will be organizing and recruiting communicators in the next marathon.† We expect the organizers to decide which repeater assets they want to use and request them from the MMRA public service coordinator.† Bob has given them guidance on what historically been used.
+Bob, K1IW discussed the Boston Marathon.¬† The director of the marathon will be organizing and recruiting communicators in the next marathon.¬† We expect the organizers to decide which repeater assets they want to use and request them from the MMRA public service coordinator.¬† Bob has given them guidance on what historically been used.
 
 
 
-Mike, W1MPN, discussed an outline of the process that could be used to develop a budget for the next fiscal year in time for the annual meeting in May.† Mike also made suggestions for Risk Management to assure the long term viability of the MMRA.† The board informally discussed these suggestions.† Based on the sense of the board, Mike will look for volunteers to form a committee to develop a budget for the annual meeting in May.† The board was interested in Risk Management, but needed more information to consider before taking action.† Mike suggested that he might get someone to provide pro-bono legal advice on this matter at a future business meeting.
+Mike, W1MPN, discussed an outline of the process that could be used to develop a budget for the next fiscal year in time for the annual meeting in May.¬† Mike also made suggestions for Risk Management to assure the long term viability of the MMRA.¬† The board informally discussed these suggestions.¬† Based on the sense of the board, Mike will look for volunteers to form a committee to develop a budget for the annual meeting in May.¬† The board was interested in Risk Management, but needed more information to consider before taking action.¬† Mike suggested that he might get someone to provide pro-bono legal advice on this matter at a future business meeting.
 
 
 
-Bob, K1IW discussed antenna work at Hopkinton.† This was a refined proposal based upon discussing Hopkinton at a recent business meeting.† This includes antennas, feed lines, a tower climber and miscellaneous items.† The board agreed to an expenditure not to exceed $6000 for this project.† Bob will ask the membership to approve this expenditure at the November meeting.
+Bob, K1IW discussed antenna work at Hopkinton.¬† This was a refined proposal based upon discussing Hopkinton at a recent business meeting.¬† This includes antennas, feed lines, a tower climber and miscellaneous items.¬† The board agreed to an expenditure not to exceed $6000 for this project.¬† Bob will ask the membership to approve this expenditure at the November meeting.
 
 
 
-Bob next discussed the Boxboro convention.† This is now an annual event.† We needed a better antenna or a better location for the talk-in radio.† To address this issue, Bob is seeking access to another location at the hotel.
+Bob next discussed the Boxboro convention.¬† This is now an annual event.¬† We needed a better antenna or a better location for the talk-in radio.¬† To address this issue, Bob is seeking access to another location at the hotel.
 
 
 
@@ -230,12 +230,12 @@ Boxboro ARRL Convention
 Holiday Inn, Boxborough 
 ----------
 
-Donít Forget! Join Us.
+Don‚Äôt Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  
-Keep up with whatís happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  
+Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -259,10 +259,10 @@ Clerk			Bob Evans	N1BE
 * Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2017		Steve Schwarm	W3EVE
-Director  ª2017		Roger Coulson	WA1NVC
-Director  ª2016		Clark Conti	N1NVK
-Director  ª2016		Mike Neilsen	W1MPN
+Director  ¬ª2017		Steve Schwarm	W3EVE
+Director  ¬ª2017		Roger Coulson	WA1NVC
+Director  ¬ª2016		Clark Conti	N1NVK
+Director  ¬ª2016		Mike Neilsen	W1MPN
 
 Repeater Trustees
 * Belmont 145.430	James Lee	N1DDK
@@ -278,7 +278,7 @@ Repeater Trustees
 			Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
  
-       448.225, 449.925,  927.700 ó all as W1MRA
+       448.225, 449.925,  927.700 ‚Äî all as W1MRA
 		
 	Bill Northup	N1QPR
 * Mendon 146.610	Jim Podsiadlo	AE1C
@@ -302,7 +302,7 @@ Additional, non-Voting
 
 Previous issues of the MMRA Newsletter are available at:
 
-www.mmra.org Ë Newsletter Archive (on the left)
+www.mmra.org √® Newsletter Archive (on the left)
 ----------
 
 MMRA VE Sessions

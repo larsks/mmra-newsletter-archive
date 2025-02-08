@@ -1,7 +1,7 @@
 The Minuteman
 
 Volume 53    Number 5    May 2024
-© 2024 MMRA
+Â© 2024 MMRA
 
 The Minuteman Repeater Association is a non-profit organization providing
 communications infrastructure and volunteers for community and emergency events.
@@ -15,10 +15,10 @@ Members: log into your account on MMRA.ORG to obtain the ZOOM info.
 Non-members: send an email to contact@mmra to request the ZOOM info.
 
 Kay will present a talk titled "Twenty Things I've Learned While Curating the Digital 
-Library of Amateur Radio & Communications.” The fast-paced talk will show some of the highlights of DLARC. Kay will share fascinating and hilarious documents, show lost and re-discovered bits of ham radio's history, and reveal what they’ve learned about the ham community.  
+Library of Amateur Radio & Communications.â€ The fast-paced talk will show some of the highlights of DLARC. Kay will share fascinating and hilarious documents, show lost and re-discovered bits of ham radio's history, and reveal what theyâ€™ve learned about the ham community.Â  
 
-Kay Savetz, K6KJN, is curator of Digital Library of Amateur Radio & Communications (DLARC.) DLARC is a project of Internet Archive, the non-profit digital library that’s best known for “The Wayback 
-Machine.” Since 2022, Kay has been building DLARC, which has grown to be an unparalleled resource about ham radio, shortwave communications, and related technologies.   A ham since 1989, Kay is also a historian specializing in Atari computers, having published more than 400 oral history interviews with people from the early days of microcomputing. 
+Kay Savetz, K6KJN, is curator ofÂ Digital Library of Amateur Radio & Communications (DLARC.) DLARC is a project of Internet Archive, the non-profit digital library thatâ€™s best known for â€œThe Wayback 
+Machine.â€ Since 2022, Kay has been building DLARC, which has grown to be an unparalleled resource about ham radio, shortwave communications, and related technologies.   A ham since 1989, Kay is also a historian specializing in Atari computers, having published more than 400 oral history interviews with people from the early days of microcomputing. 
 ----------
 
 This is our Annual Meeting
@@ -30,16 +30,16 @@ Note: Repeater Frequency Switch!
 Hopkinton is now 447.775
 ----------
 
-President’s Corner ~ David Hornbaker, N1DCH 
+Presidentâ€™s Corner ~ David Hornbaker, N1DCH 
 
 Happy Spring!  I hope all your antenna projects are going well and safely!
-I would like to encourage everyone to attend the MMRA Annual Membership Meeting and Election.  In addition to voting for new officers and directors, we have two additional items to vote on: 1) Changes to the MMRA Bylaws.  A link to the new by-laws was emailed to all voting members on March 28th (link on page 4).   2) Emergency fund – The emergency fund allows the MMRA Board to approve emergency 
+I would like to encourage everyone to attend the MMRA Annual Membership Meeting and Election.  In addition to voting for new officers and directors, we have two additional items to vote on: 1) Changes to the MMRA Bylaws.  A link to the new by-laws was emailed to all voting members on March 28th (link on page 4).   2) Emergency fund â€“ The emergency fund allows the MMRA Board to approve emergency 
 repairs above the normal $500 limit.  These funds can only be used to repair/replace an existing repeater system on an emergency basis.  Apart from last year, we have had this in place since 2018, and was 
-implemented because Hub1 died, and a nor’easter cancelled a membership meeting where the vote was scheduled.  Hub1 was off air for a couple of months with the delay in approval and the delay in ordering a new repeater.
+implemented because Hub1 died, and a norâ€™easter cancelled a membership meeting where the vote was scheduled.  Hub1 was off air for a couple of months with the delay in approval and the delay in ordering a new repeater.
 
-After the vote is complete, Kay Savetz – K6KJN will be speaking on the Twenty Things I’ve Learned While Curating the Digital Library of Amateur Radio & Communications.
+After the vote is complete, Kay Savetz â€“ K6KJN will be speaking on the Twenty Things Iâ€™ve Learned While Curating the Digital Library of Amateur Radio & Communications.
 
-Please make plans to attend this month’s meeting, We need to ensure that we have a quorum for the elections.  If you cannot make it to New England Sci-Tech, you can join the Zoom meeting: 
+Please make plans to attend this monthâ€™s meeting, We need to ensure that we have a quorum for the elections.  If you cannot make it to New England Sci-Tech, you can join the Zoom meeting: 
 https://us02web.zoom.us/j/88455380823?pwd=b1MyY0FsVXozWnAxRGZpOVR4Z1RHZz09.  
 I look forward to seeing you all at the meeting.
 
@@ -63,12 +63,12 @@ Walk-ins are welcome.
 Important Votes during this Annual Meeting
 
 Annual Officer Elections
-President: 		Dave Hornbaker, N1DCH
-Vice President: 	John Spencer, WA1MDD 
+President:Â 		Dave Hornbaker, N1DCH
+Vice President:Â 	John Spencer, WA1MDDÂ 
 Secretary:		Ken Horton, KA1GFN
-Treasurer: 		Kevin Paetzold, K1KWP
-Clerk: 			Stephen Babbitt, KC1LPZ
-Directors to 2026: 	Robert Evans, N1BE	&	James Lee, N1DDK
+Treasurer:Â 		Kevin Paetzold, K1KWP
+Clerk:Â 			Stephen Babbitt, KC1LPZ
+Directors to 2026:Â 	Robert Evans, N1BE	&	James Lee, N1DDK
 
 Vote on Emergency Repeater Repair Fund: $4000
 
@@ -88,7 +88,7 @@ A clean non marked up version of the proposed new bylaws is available at:
 Please attend this important meeting to ensure that we have a quorum.
 ----------
 
-Treasurer’s Report ~ Kevin Paetzold, K1KWP
+Treasurerâ€™s Report ~ Kevin Paetzold, K1KWP
 
 The MMRA receives donations each year. In the 2023-2024 fiscal year I recorded $1059.27 in donations. In the last 10 years the MMRA has averaged about $1200 in donations each year.  On behalf of the club I would like to acknowledge and thank K1YSO who donated since my list in the March newsletter.
 
@@ -96,26 +96,26 @@ As of this writing there are 236 paid memberships for the 2023-2024 year.  At th
 renewed and fully expired on Jan 1,2024.
 
 I plan to be at the 
-“NE HamXposition” on 
+â€œNE HamXpositionâ€ on 
 August 22-25. I hope to see you there.
 ----------
 
 A little Black Box
 
-A little black box of Jewels and Rocks,
+AÂ little black box of Jewels and Rocks,
 with lanterns that flicker and glow,
 Make lighter the gloom in my little back room,
 where often I hasten to go.
 An anthem it peals of whistles and squeals
 and of voices so ghostly and queer
 That you'd never decry, should you chance to pass by,
-what a brotherhood foregathers here! 
+what a brotherhood foregathers here!Â 
 Each separate tone has a soul of its own;
 each voice is the voice of a friend,
 United through space in this gathering-place
 at the radiant rainbow's end.
 Reverberant sounds ride the wave that rebounds,
-like the waves of the sea from afar,
+like the waves of the seaÂ from afar,
 Reporting the doings, the comings and goings of
 brothers, wherever thay are.
 A curious band, spread over the land,
@@ -127,7 +127,7 @@ but I'll carry my love to the tomb,
 Of that little black box and the joys it unlocks
 when I enter that little back room!
 
-~ By Max P. Vander Horck, WA6HUW, QST, November 1966
+~ By Max P. Vander Horck, WA6HUW, QST, NovemberÂ 1966
 [Editor: thanks to Jack, W1WEF, YCCC member]
 ----------
 
@@ -159,30 +159,30 @@ Connecting hearts and minds, through day and darkest night.
 
 VE Update ~ Ron Rothman, WO1E
 
-The March MMRA Volunteer Examiner licensing session was held at the Marlborough Fire Station on March 23rd in Marlborough, MA.  Those VE’s in attendance included Steve Babbitt KC1LPZ, Alen Lewis K1ALL, Scott Anderson NE1RD, James Whelan KX1M, Ed Moore Jr. WE1I, Eric Williams KV1J and Ron Rothman WO1E.
+The March MMRA Volunteer Examiner licensing session was held at the Marlborough Fire Station on March 23rd in Marlborough, MA.  Those VEâ€™s in attendance included Steve Babbitt KC1LPZ, Alen Lewis K1ALL, Scott Anderson NE1RD, James Whelan KX1M, Ed Moore Jr. WE1I, Eric Williams KV1J and Ron Rothman WO1E.
 
 The number of candidates being tested was six, which is a good number for a walk-in exam. We had four new 
 Technicians and one upgrade to General.  Unfortunately, one candidate did not earn a new license or an upgrade.
 
-The April VE session was held at the Marlborough Fire Station on April 20th  in Marlborough, MA.  Those VE’s in 
+The April VE session was held at the Marlborough Fire Station on April 20th  in Marlborough, MA.  Those VEâ€™s in 
 attendance included Steve Babbitt KC1LPZ, Alen Lewis K1ALL, Eric Williams KV1J, Dave Hornbaker N1DCH and Ron Rothman WO1E.
 
 The number of candidates being tested was two.  We had one new Technician.  Unfortunately, one candidate did not earn a new license or an upgrade.
 
 Our next VE testing session will be held on May 18th at 9;00 AM at City Church Marlborough 72 Jefferson Street, Second Floor (Shoe Box Building) Marlborough, MA.
 
-Once again, The MMRA VE team will be on hand at the HamXposition on August 24th at the 10:00 AM session.  In addition, I have been appointed to coordinate the exam sessions at the HamXposition.  There will be three testing sessions Saturday at 10:00 AM, 1:00PM and Sunday at 10:00 AM.  If you are a VE and want to help, please contact me on my cell (774) 258-0058 or email rrothman22@gmail.com.  If you are interested in becoming a VE, please contact me as well.  It’s not as hard as you may think to get certified as a Volunteer Examiner.
+Once again, The MMRA VE team will be on hand at the HamXposition on August 24th at the 10:00 AM session.  In addition, I have been appointed to coordinate the exam sessions at the HamXposition.  There will be three testing sessions Saturday at 10:00 AM, 1:00PM and Sunday at 10:00 AM.  If you are a VE and want to help, please contact me on my cell (774) 258-0058 or email rrothman22@gmail.com.  If you are interested in becoming a VE, please contact me as well.  Itâ€™s not as hard as you may think to get certified as a Volunteer Examiner.
 ----------
 
 20 March 2024 Membership Meeting ~ Minutes
 
 Called to order @ 7:29 PM             New England Sci-Tech Center in Natick, MA
 
-Repeater Status Report: 3/20/24 - Bob DeMattia – K1IW 
+Repeater Status Report: 3/20/24 - Bob DeMattia â€“ K1IW 
 
-Marlborugh/Hopkinton 70 cm – 448.225/449.575 – The frequency swap has taken place. Hopkinton is now 448.225 (pl 88.5 linked and pl 71.9 local) and Marlborough DSTAR is now 449.575 MHz (pl 88.5). The Hopkinton repeater will change frequencies again due to conflict with the Mt. Washington repeater, which is on the same frequency and PL.  This will happen after the Boston Marathon.  (Editor: this final change has occurred.)
+Marlborugh/Hopkinton 70 cm â€“ 448.225/449.575 â€“ The frequency swap has taken place. Hopkinton is now 448.225 (pl 88.5 linked and pl 71.9 local) and Marlborough DSTAR is now 449.575 MHz (pl 88.5). The Hopkinton repeater will change frequencies again due to conflict with the Mt. Washington repeater, which is on the same frequency and PL.Â  This will happen after the Boston Marathon.Â  (Editor: this final change has occurred.)
 
-Quincy: 146.670 –The link radio on the repeater has been fixed. It is operating normally.  
+Quincy: 146.670 â€“The link radio on the repeater has been fixed. It is operating normally.  
 
 Belmont: (formally) - Ed, KC1CLA, is working relocating to a new site. 
 
@@ -190,11 +190,11 @@ All other repeaters are in nominal operation.
 -------------------
 The Ballot Listing for the May 15, 2024, Annual Meeting
 
-President: 		Dave Hornbaker, N1DCH
-Vice President: 	John Spencer, WA1MDD 
+President:Â 		Dave Hornbaker, N1DCH
+Vice President:Â 	John Spencer, WA1MDDÂ 
 Secretary:		Ken Horton, KA1GFN
-Treasurer: 		Kevin Paetzold, K1KWP
-Clerk: 			Stephen Babbitt, KC1LPZ
+Treasurer:Â 		Kevin Paetzold, K1KWP
+Clerk:Â 			Stephen Babbitt, KC1LPZ
 Directors:		Robert Evans, N1BE
 			James Lee, N1DDK
 
@@ -211,7 +211,7 @@ Upcoming Meetings
 
 April 17, 2024, 7:30 PM Business Meeting- Zoom Teleconference only
 
-May 15, 2024, 7:30 PM Membership Meeting – Twenty Things I’ve Learned While Curating
+May 15, 2024, 7:30 PM Membership Meeting â€“ Twenty Things Iâ€™ve Learned While Curating
 the Digital Library of Amateur Radio & Communications
 Speaker: Kay Savetz 
 Annual Officer Elections
@@ -224,9 +224,9 @@ MMRA Linked Repeaters
 
 Meeting ended informally at 7:46 PM
 
-Presentation by Scott Andersen, NE1RD, “The 100 Pound DXpedition – The first 20 years.”  
+Presentation by Scott Andersen, NE1RD, â€œThe 100 Pound DXpedition â€“ The first 20 years.â€  
 
-It was the Airlines’ limitation of carrying up to two bags not exceeding 22 kg for each bag (approximately 100 lbs). Scott was very humble, sharing with us the mistakes he made on his travels to the various places, like the Virgin Islands. He carried more than he needed, did not relax enough to enjoy the non-ham activities like scuba diving and often picked a less than optimum location to set up his station. In summary he was teaching us to carry light, i.e. one antenna, concentrate on operating on one band and pick the highest location to operate your station rather than just being close to the water.  Scott posted his daily activities to a blog and he has a website at https://www.bsandersen.com for more information.   
+It was the Airlinesâ€™ limitation of carrying up to two bags not exceeding 22 kg for each bag (approximately 100 lbs). Scott was very humble, sharing with us the mistakes he made on his travels to the various places, like the Virgin Islands. He carried more than he needed, did not relax enough to enjoy the non-ham activities like scuba diving and often picked a less than optimum location to set up his station. In summary he was teaching us to carry light, i.e. one antenna, concentrate on operating on one band and pick the highest location to operate your station rather than just being close to the water.  Scott posted his daily activities to a blog and he has a website at https://www.bsandersen.com for more information.   
      
 Meeting Attendees:
 David Hornbaker, N1DCH; Larry Banks, W1DYJ; Kevin W Paetzold, K1KWP; Bob DeMattia, K1IW; Stephen Babbitt, KC1LPZ; Shelley Northup, N1VJE; Bill Northup, N1QPR; 
@@ -245,50 +245,50 @@ There follows some of Bruce's skides.
 Called to order @ 7:30 PM 
 
 Elections: The Ballot Listing for the May 15, 2024, Annual Meeting
-President: 		Dave Hornbaker, N1DCH
-Vice President: 	John Spencer, WA1MDD 
+President:Â 		Dave Hornbaker, N1DCH
+Vice President:Â 	John Spencer, WA1MDDÂ 
 Secretary:		Ken Horton, KA1GFN
-Treasurer: 		Kevin Paetzold, K1KWP
-Clerk: 		Stephen Babbitt, KC1LPZ
-Directors: 		Robert Evans, N1BE
+Treasurer:Â 		Kevin Paetzold, K1KWP
+Clerk:Â 		Stephen Babbitt, KC1LPZ
+Directors:Â 		Robert Evans, N1BE
 			James Lee, N1DDK
 
 Emergency Fund: N1DCH made a motion to allocate $4,000, seconded by KC1LPZ and passed unanimously.
  
 Bylaws: The Board has approved the changes and must be voted on by the membership.
 
-Treasurer’s Report – Kevin K1KWP
+Treasurerâ€™s Report â€“ Kevin K1KWP
 
 Overall, we are in good shape with a projected $20K in the bank. Currently our expenses are still greater than the revenue, but that gap is narrowing from last year. Visual details provided separately.
 
-HamXposition – Larry – W1DYJ
+HamXposition â€“ Larry â€“ W1DYJ
 
 Larry B made a motion that we spend $350 for the Centerfold Ad spot, seconded by Dave H and passed unanimously.
 Prizes: Last year we spent $450 for the 3 prizes. One of the prizes, a Yaesu VX-6R HT was donated back to the MMRA. K1KWP made a motion to allocate $200 for the 2nd and 3rd Place Prizes which was seconded by W1DYJ and passed unanimously.
 Room Management regarding when and who will be there was discussed. No decision was finalized tonight.
-Call-In Station – A discussion was made on the station location being in a spot where there is more foot traffic. Also the days to operate it was discussed with no final consensus made.
+Call-In Station â€“ A discussion was made on the station location being in a spot where there is more foot traffic. Also the days to operate it was discussed with no final consensus made.
 
-Repeater Status Report - Bob DeMattia – K1IW
+Repeater Status Report - Bob DeMattia â€“ K1IW
 
-New “Modeset” architecture implemented across the network for easier / more reliable network reconfiguration (900MHz Repeaters have not received the update yet).
+New â€œModesetâ€ architecture implemented across the network for easier / more reliable network reconfiguration (900MHz Repeaters have not received the update yet).
 No major issues with any systems
 According to NN1C (BAA ham radio coordinator) the MMRA repeaters performed perfectly for the marathon.
-Quincy 2m .67 Repeater Currently working with the City of Quincy for 67’s replacement site.
-(Formally) the Belmont Repeater: Currently working with the Town of Belmont for 43’s replacement site. 
-Billerica 147.12: Currently awaiting word from a Billerica private property owner for 12’s replacement site.
+Quincy 2m .67 Repeater Currently working with the City of Quincy for 67â€™s replacement site.
+(Formally) the Belmont Repeater: Currently working with the Town of Belmont for 43â€™s replacement site. 
+Billerica 147.12: Currently awaiting word from a Billerica private property owner for 12â€™s replacement site.
 All other Repeaters: Functioning normally.
 
-Hub 1 Linking – Joe Weisse – W1HAI – was making an inquiry on linking at night all three “NEW ENG” echolink nodes to hub 1. No decision was made at tonight’s meeting.
+Hub 1 Linking â€“ Joe Weisse â€“ W1HAI â€“ was making an inquiry on linking at night all three â€œNEW ENGâ€ echolink nodes to hub 1. No decision was made at tonightâ€™s meeting.
 
-Echolink: Also noted is Echolink is not working. During the Marathon it was disconnected but restored afterwards. During tonight’s meeting echolink was not working, but Bob has reset it.
+Echolink: Also noted is Echolink is not working. During the Marathon it was disconnected but restored afterwards. During tonightâ€™s meeting echolink was not working, but Bob has reset it.
 
 Club Activities - Stephen, KC1LPZ 
 
-Support to New or less Active Hams – The purpose of this agenda item is to precisely target the 
+Support to New or less Active Hams â€“ The purpose of this agenda item is to precisely target the 
 concerns and unasked questions that frustrate these folks from being active.
 Programming radios is one real concern. K1KWP suggests we have a radio clinic to address that problem. The frequency and format for this clinic was discussed.
 Other Elmering activities were mentioned.
-Elmering is a “team” effort, not the responsibility falling upon one of us to do coaching. As a team we can provide the right answers to move people forward.
+Elmering is a â€œteamâ€ effort, not the responsibility falling upon one of us to do coaching. As a team we can provide the right answers to move people forward.
 W1DYJ and KC1LPZ are planning to put together a proposal.
 Our experiences must be shared to excite and motivate these new members.
 
@@ -302,14 +302,14 @@ Note: SS#s, are no longer accepted by the FCC. Everyone must have an FRN
 
 Upcoming Meetings
 
-May 15, 2024, 7:30 PM Membership Meeting – Twenty Things I’ve Learned While Curating the Digital Library of Amateur Radio & Communications
+May 15, 2024, 7:30 PM Membership Meeting â€“ Twenty Things Iâ€™ve Learned While Curating the Digital Library of Amateur Radio & Communications
 Speaker: Kay Savetz 
 Annual Officer Elections
 Emergency Fund Vote 
 New England Sci-Tech & Zoom Teleconference
 
 August 25, 2024 12:00 PM
-HamXposition – Royal Plaza Hotel, Marlborough, MA
+HamXposition â€“ Royal Plaza Hotel, Marlborough, MA
 Introduction to the MMRA and Raffle
 
 Tuesday night 8:00 PM (year-round) 
@@ -327,10 +327,10 @@ Meeting Adjourned at 9:19 PM
 Respectfully Submitted by Stephen M Babbitt, KC1LPZ, Clerk
 ----------
 
-Don’t Forget —  Join Us!
+Donâ€™t Forget â€”  Join Us!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.
 
 Net Control Operators:
 	Week 1	W1DYJ	Larry Banks	
@@ -347,7 +347,7 @@ If you are interested, email W1DYJ@mmra.org
 
 MMRA Leaders
 
-Executive Board — Officers
+Executive Board â€” Officers
      President       Dave Hornbaker     N1DCH
      
 Vice President  John Spencer       WA1MDD
@@ -356,7 +356,7 @@ Vice President  John Spencer       WA1MDD
      Clerk           Stephen Babbitt    KC1LPZ
 
 
-Executive Board — Directors
+Executive Board â€” Directors
      Director  >2024    Rob Evans       N1BE
 
      Director  >2024    James Lee       N1DDK
@@ -438,7 +438,7 @@ Go to < MMRA.ORG > and log in to do so.
 
 Heavy Hitters Traffic Net
 This net is active on our repeaters Sunday through Friday evenings from 9:45-11pm
-and on Saturday from 10—11 PM.
+and on Saturday from 10â€”11 PM.
 
 The repeaters that are active are:
 2m:  Mendon (146.61), Quincy (146.67), North Reading (146.715), Boston (146.82), and

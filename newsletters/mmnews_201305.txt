@@ -32,8 +32,8 @@ Secretary	John McGovern	W1JMC
 Treasurer	Kevin Paetzold	K1KWP
 Clerk		Bob Evans	N1BE
 Tech. Officer	Bryan Cerqua	W1BRI
-Director ª2015	Steve Schwarm	W3EVE
-Director ª2015	Roger Coulson	WA1NVC
+Director ¬ª2015	Steve Schwarm	W3EVE
+Director ¬ª2015	Roger Coulson	WA1NVC
 ----------
 
 About the Minuteman Repeater Association
@@ -45,14 +45,14 @@ The MMRA meets (usually) on the 3rd Wednesday of each month from September to Ju
 
 The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
 Email to the club leadership should be sent to 
 contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
 
-An email distribution list for club members named ìMMRAî is at: www.yahoogroups.com/
+An email distribution list for club members named ‚ÄúMMRA‚Äù is at: www.yahoogroups.com/
 No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
 ----------
 
@@ -78,7 +78,7 @@ Reauthorization of Sligo and Belmont purchases, previously approved in July 2012
 
 Here are the descriptions from last years online ballot:
 
-Bob next led a discussion of replacement antennas and other expenses related to rebuilding the tower by the City of Marlborough at MRW. At present all MMRA antennas are off the tower, several hundred feet lower near the shelter. However, there is much uncertainty about whether our shelter will need to be moved and where MMRA antennas will be finally positioned. The discussion suggested optimistically for two replacement VHF and UHF antennas, for a 6-meter antenna, + for tower climbers, + for coax/cable trays and to move the shelter. We ask the membership to allow the board to spend up to for this purpose.† Authorize the MMRA board to expend up to $8000 for work at Sligo as detailed in the MMRA meeting minutes from June 20, 2012.
+Bob next led a discussion of replacement antennas and other expenses related to rebuilding the tower by the City of Marlborough at MRW. At present all MMRA antennas are off the tower, several hundred feet lower near the shelter. However, there is much uncertainty about whether our shelter will need to be moved and where MMRA antennas will be finally positioned. The discussion suggested optimistically for two replacement VHF and UHF antennas, for a 6-meter antenna, + for tower climbers, + for coax/cable trays and to move the shelter. We ask the membership to allow the board to spend up to for this purpose.¬† Authorize the MMRA board to expend up to $8000 for work at Sligo as detailed in the MMRA meeting minutes from June 20, 2012.
 
 The 145.43 repeater is located at the house of the previous trustee, WA1RTT. MMRA fixed this repeater multiple times. Now that WA1RTT has become a silent key we need to consider the disposition of this repeater. Several components of this repeater belong to the widow of WA1RTT. K1IW proposed offering the widow for the power supply, Vocom PA, duplexer and rack with RF metering so that except for antenna and feedline, the MMRA will completely own the 145.43 repeater. The board approved polling the membership to approve this expenditure. Authorize the purchase of the 145.43 Power Amplifier, Duplexers and Astron Power Supply from the estate of WA1RTT for the sum of $600.
 
@@ -87,7 +87,7 @@ The reauthorization will be taken as one vote.  The $8000 sligo figure is an est
 
 Report on April 10 Technical Meeting
 
-Bob DeMattia ó K1IW 
+Bob DeMattia ‚Äî K1IW 
 
 The April 10th MMRA meeting was a bit different from most - there were no guest speakers, and no treasurer reports.  Instead, MMRA held an informal discussion with members interested in participated in the upkeep of our systems.  Nineteen members attended, and there were several more that expressed interested but had other commitments.
 
@@ -101,9 +101,9 @@ Other things on tap:
 	* Replacement of mast at Weston
 ----------
 
-Presidentís Corner ~ Marathon Thoughts
+President‚Äôs Corner ~ Marathon Thoughts
 
-Bob DeMattia ó K1IW 
+Bob DeMattia ‚Äî K1IW 
 
 As you know, 245 amateur radio operators participated as volunteers at this years Boston Marathon.  For many of us, the events of April 15th are a fading memory.  But others will have had their lives permanently changed.   
  
@@ -115,7 +115,7 @@ We live in a tough and competitive society.  Americans enjoy far less vacation a
 ----------
 
 Results of MMRA Membership Survey
-Bob DeMattia ó K1IW
+Bob DeMattia ‚Äî K1IW
 
 At the end of March, members were invited to participate in a membership survey.  The survey asked members opinions on the clubs activities, officers, and repeater systems. A total of 106 members participated; not all answered every question. 
 
@@ -139,7 +139,7 @@ Do members like our meetings?  Only 31% of respondents indicate that they always
 
 Finally, the big question - how likely are they to renew?  99 respondents said they were very or somewhat likely to renew.  3 said they weren't sure.  1 said "small chance".  There were three that did not respond to this question.  Would they recommend to a friend who asked if it is a good idea to join?  103 said definitely join or maybe while the remainder were neutral or no response.  (Author's note: It is interesting that 103 people would recommend our club to another ham, but only 99 said they would probably renew.
 
-The full survey results are available in both PDF and CSV format†on our website:†
+The full survey results are available in both PDF and CSV format¬†on our website:¬†
 	http://www.mmra.org/survey2013.xls
 
 	http://www.mmra.org/survey2013.pdf
@@ -170,7 +170,7 @@ I'm proud of the actions of the section's ARES members and other Marathon Amateu
 
 Remote Receiver for the Boston 2M Repeater
 
-Bob DeMattia ó K1IW 
+Bob DeMattia ‚Äî K1IW 
 
 A few weeks ago, MMRA placed a remote receiver into service for our Boston/Back Bay repeater, located on the Prudential tower.  This receiver alleviates the receiver problems we have at the tower.
 
@@ -190,13 +190,13 @@ David Wolfe ~ KG1H
 
 Brett Smith (AB1RL) asked me to pass this along to alert you to Public Service activities in May that are being supported by the Boston Amateur Radio Club.
 
-ìMay has arrived with warmer weather, and that means we're thick in the middle of the public service season. There are two events in May that BARC provides support for, and both could use more help:
+‚ÄúMay has arrived with warmer weather, and that means we're thick in the middle of the public service season. There are two events in May that BARC provides support for, and both could use more help:
 
 Saturday May 18: the MS Journey of Hope Walk in Natick. To volunteer or for more information, please contact Rick Savage, KB1LYJ: rpsavage@comcast.net, (781) 289 7364.
 
 Sunday May 19: the National Brain Tumor Society Boston Bike Ride, from Waltham to Carlisle. To volunteer or for more information, please contact Jim Bradley, KB1JKJ: bradleyjab@gmail.com, (781) 953 8928.
 
-Amateurs help keep these events safe and running smoothly for anyone, and it's a great feeling to be a part of that. I hope you'll join us for one of these events if you can. If you ever have questions about any of BARC's public service events, contact me at this address, or phone (859) 466 5915.î
+Amateurs help keep these events safe and running smoothly for anyone, and it's a great feeling to be a part of that. I hope you'll join us for one of these events if you can. If you ever have questions about any of BARC's public service events, contact me at this address, or phone (859) 466 5915.‚Äù
 ----------
 
 MMRA March Membership Meeting
@@ -204,13 +204,13 @@ Bob Evans ~ N1BE ~ Clerk
 
 Members approved an expenditure not to exceed $100 to purchase a replacement mast for Weston 10-meter antenna.
 
-Members approved an expenditure not to exceed $1500 to purchase an ICOM ID-RP-2C (D-Star capable) controller.† This was tied 8 in favor and 8 against before there was a vote by the MMRA President.† Bob, K1IW then cast an additional vote in favor based upon e-mail discussion of this issue prior to the meeting where in Bobís opinion a majority of responders favored use of D-Star.
+Members approved an expenditure not to exceed $1500 to purchase an ICOM ID-RP-2C (D-Star capable) controller.¬† This was tied 8 in favor and 8 against before there was a vote by the MMRA President.¬† Bob, K1IW then cast an additional vote in favor based upon e-mail discussion of this issue prior to the meeting where in Bob‚Äôs opinion a majority of responders favored use of D-Star.
 ----------
 
 MMRA D-Star Vote at March Meeting
-Bob DeMattia ó K1IW 
+Bob DeMattia ‚Äî K1IW 
 
-At the March meeting, the membership voted to approve the purchase of a D-Star controller for not more than $1500.† The membership vote was 9 to 8, with K1IW casting the deciding vote.  My decision to vote positive was based on input I had received prior to the meeting from members who were not able to attend.  After the vote was over, I was asked by a club member if the announcement about the vote had been performed according to the bylaws. 
+At the March meeting, the membership voted to approve the purchase of a D-Star controller for not more than $1500.¬† The membership vote was 9 to 8, with K1IW casting the deciding vote.  My decision to vote positive was based on input I had received prior to the meeting from members who were not able to attend.  After the vote was over, I was asked by a club member if the announcement about the vote had been performed according to the bylaws. 
 
 The bylaws require 7 days advance notice.  An email announcement had gone out in a timely fashion to all members stating that the newsletter was available  on our website, and the newsletter did include information about the vote.  However, the email itself did not have information about the vote.  This is certainly a gray area.  In future emails, the board will ensure that information about pending votes is directly contained in the email.  As for the proceeding at the March meeting, I researched Roberts Rules of order, as is dictated by the club bylaws.  The rules state that if a participant feels that a procedure isn't being followed, he is required to call a point-of-order at the time it is noticed.  Once this is done, there is a defined process in place in which to  explore whether there is a problem in the voting procedure.  Having done this after voting has been closed and tabulated deprives the membership of the chance to debate the procedural issue.
 
@@ -225,7 +225,7 @@ Wednesday June 19, 7PM
 Stratus, Maynard
 ----------
 
-2012ó2013 Meetings
+2012‚Äî2013 Meetings
 
 22 May ~ Membership Meeting
 Annual Meeting & Elections
@@ -241,13 +241,13 @@ Location TBA
 Location TBA 
 ----------
 
-Donít Forget!
+Don‚Äôt Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ñ we have a script you can use.  
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ‚Äì we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -272,10 +272,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2014		Clark Conti	N1NVK
-Director  ª2014		Mike Neilsen	W1MPN
-Director  ª2013		Steve Schwarm	W3EVE
-Director  ª2013		Roger Coulson	WA1NVC
+Director  ¬ª2014		Clark Conti	N1NVK
+Director  ¬ª2014		Mike Neilsen	W1MPN
+Director  ¬ª2013		Steve Schwarm	W3EVE
+Director  ¬ª2013		Roger Coulson	WA1NVC
 
 Repeater Trustees, Appointed
 Boston 927.0625		Rick Zach	K1RJZ
@@ -288,7 +288,7 @@ Marlboro 53.810; Quincy 146.670; Southboro 449.575
 
 			Bryan Cerqua	W1BRI
 Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
-Belmont 145.430;  Weston 442.700 ó all as W1MRA
+Belmont 145.430;  Weston 442.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Weston 146.790		Bob Evans	N1BE

@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.† 
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.¬† 
 
 The Minuteman
 Volume 44, Number 1
@@ -20,7 +20,7 @@ Location: Northborough Public Library
 Talkin: 147.27
 ----------
 
-Presidentís Corner ó SLIGO is BACK!
+President‚Äôs Corner ‚Äî SLIGO is BACK!
 
 
 As you may have heard, the club's main site in Marlborough is finally being restored to its full glory.  Work began September 11 to put our five antennas back on the top of the water tank, and is likely finished by the time this article gets to your inbox.  It's been a trying time for club members and officers alike as we patiently, and perhaps sometimes impatiently, waited for the go-ahead from city officials.  That go ahead came the last week of July.  In the next few weeks, we made the last few purchases needed and awaited the availability of the tower climber.
@@ -72,13 +72,13 @@ Unlocking your Car with your Brain
 
 Larry, W1DYJ, Editor
 
-This is a great way to demonstrate some of the laws of physics, especially if youíve lost your car in a parking lot.  I tried this and it works ó and proves that my brain is just a bag of salt water!  The video is about 4 minutes long.  [Thanks to my friend Bruce, W1ZE.]  
+This is a great way to demonstrate some of the laws of physics, especially if you‚Äôve lost your car in a parking lot.  I tried this and it works ‚Äî and proves that my brain is just a bag of salt water!  The video is about 4 minutes long.  [Thanks to my friend Bruce, W1ZE.]  
  < www.youtube.com/embed/0Uqf71muwWc?feature=player_embedded >
 ----------
 
 
-Sligo is Back! ó The Story
-Bob DeMattia, President  ó K1IW
+Sligo is Back! ‚Äî The Story
+Bob DeMattia, President  ‚Äî K1IW
 
 In May, 2012 the City of Marlborough began the phase of its Sligo Hill water tower restoration project in which the tower's iconic cone-shaped top was to be removed.  The tower, built in the late 1800's, had fallen into disrepair.  The iron structure was rusted through in many places.  Earlier phases of the restoration included sandblasting and painting of the tower's sides and removal of the remains of the towers 6' 
 diameter standpipe.  These were completed without disruption to MMRA.   However, for the next phase to proceed, MMRA's antennas (as well as all others) needed to be removed.  We were told that we would be back up in about three months.
@@ -153,8 +153,8 @@ Vice President		Steve Telsey	N1BDA
 Secretary		John McGovern	W1JMC
 Treasurer		Kevin Paetzold	K1KWP
 Clerk			Bob Evans	N1BE
-Director  ª2016		Clark Conti	N1NVK
-Director  ª2016		Mike Neilsen	W1MPN
+Director  ¬ª2016		Clark Conti	N1NVK
+Director  ¬ª2016		Mike Neilsen	W1MPN
 
 
 Public Service Activity Summary
@@ -236,7 +236,7 @@ I'd like to welcome as our new Section Emergency Coordinator Mike Neilsen, W1MPN
 
 Section Manager (SM) - Phil Temples, K9HI
 
-[Mike is one of our DirectorsóEd.]
+[Mike is one of our Directors‚ÄîEd.]
 ----------
 
 
@@ -249,7 +249,7 @@ August Business Meeting ~ Bob Evans, Clerk, N1BE
 
 The MMRA conducted a business meeting at 7:00 PM on August 20 at the headquarters of Stratus Technologies in Maynard, MA. K1KWP, K1IW, W1DYJ, N1BDA, WA1NVC, N1DDK, N1NVK, K1BOS, KG1H, N1BE, W1MPN, W3EVE and KB1LOY participated at this meeting. 
 
-Treasurerís Report: 
+Treasurer‚Äôs Report: 
 The meeting opened with a treasurer's report by Kevin, K1KWP.  We reviewed the current balance, current and expected spending for the 2014-2015 fiscal year, income and spending per fiscal year, power consumption at sites where MMRA pays for electricity and progress on member renewals for the new fiscal year. 
 
 MMRA participation in the ARRL convention in Hartford was essentially cost free since we collected dues to cover the club's costs.  The MMRA sold 8 more LARCAN transmitters for a profit of about $1160.  It is not known whether additional LARCANs will be available for the MMRA to sell. 
@@ -273,7 +273,7 @@ Larry, W1DYJ noted that we need to replace one of the TIAOS net control operator
 The meeting adjourned at 8:45 PM.
 ----------
 
-MMRAís Technical, Informational and Other Stuff Net 
+MMRA‚Äôs Technical, Informational and Other Stuff Net 
 needs another Net Control
 
 Larry, W1DYJ, Net Manager
@@ -290,17 +290,17 @@ TIaOS Net Script
 7:55	This is [call], net control for this weeks MMRA technical, informational, and other stuff net.  The net is scheduled to begin in 5 minutes at 8PM.  Please make any last minute calls before the net at this time.  Thank you.  This is [call], [name] in [town].
 
 
-8:00	This is [call], [name] in [town].  I am the net control for this weekís MMRA technical, informational, and other stuff net.  This net meets weekly @ 8 PM eastern time on the linked repeaters of the MMRA system.  The system has over 20 repeaters on the 10, 6, 2, 1ºM, and the 70 and 33cm bands plus EchoLink & IRLP. We also have an equal number of affiliated repeaters that can be linked.  
+8:00	This is [call], [name] in [town].  I am the net control for this week‚Äôs MMRA technical, informational, and other stuff net.  This net meets weekly @ 8 PM eastern time on the linked repeaters of the MMRA system.  The system has over 20 repeaters on the 10, 6, 2, 1¬ºM, and the 70 and 33cm bands plus EchoLink & IRLP. We also have an equal number of affiliated repeaters that can be linked.  
 
 Most of these repeaters are capable of being linked into one large system for public service and emergency communications.  The primary purpose of this net is to test this linked system.  This net also allows the exchange of any technical, informational, or other stuff related to Ham radio that the members of the net wish to announce or discuss. (Good place to break.)
 
 I will go up the list of repeaters by frequency and accept check-ins from each repeater.  I will then proceed back up the list asking for comments from each you.  Note that I will ask for check-ins from the MMRA 6M, 2M and 220 repeaters, then EchoLink & IRLP, then the MMRA 440 and 900 repeaters, and finally all of the Affiliate Repeaters.
 
-This is very important:  When checking-in, wait a good two seconds after keying up to talk as there are many links interconnecting.  Then please say ìThis isî (then break to check for doubling, and key up again, wait that two seconds and giveÖ) ìyour call, your name and your location.î 
+This is very important:  When checking-in, wait a good two seconds after keying up to talk as there are many links interconnecting.  Then please say ‚ÄúThis is‚Äù (then break to check for doubling, and key up again, wait that two seconds and give‚Ä¶) ‚Äúyour call, your name and your location.‚Äù 
 
-This is an open system, so everyone is invited to check in.  If you can hear me, you can check in!  I will start with check-ins on the: Marlboro 53.81 repeater, PL of 71.9Ö
+This is an open system, so everyone is invited to check in.  If you can hear me, you can check in!  I will start with check-ins on the: Marlboro 53.81 repeater, PL of 71.9‚Ä¶
 
-MMRA advertisement at some pointÖ  Remember to ask for late check-ins oftenÖ  Remember to remind the members of the 2-second wait and to check for doublingÖ
+MMRA advertisement at some point‚Ä¶  Remember to ask for late check-ins often‚Ä¶  Remember to remind the members of the 2-second wait and to check for doubling‚Ä¶
 
 
 End	This is [call], net control and this is the conclusion of this weeks MMRA technical, informational, and other stuff net.  Thank you to all the stations that checked in and thank you to all the stations that stood by while we held the net.  Also thanks to all those people in the MMRA whose behind the scenes actions make this repeater network possible.  The repeaters will stay linked until 11PM. Stations are encouraged to stay on the air and utilize the network. This is [call], [name] in [town], clear.
@@ -310,7 +310,7 @@ Upcoming MMRA Meetings
 
 
 Wed, 24 Sept ~ Membership Meeting
-The Art and Science of Radio Direction Finding, Bob RavensteinóW1FDR
+The Art and Science of Radio Direction Finding, Bob Ravenstein‚ÄîW1FDR
 Northborough Public Library
 
 Wed, 15 Oct ~ Business Meeting
@@ -323,14 +323,14 @@ Wed, 17 Dec ~ Business Meeting
 Stratus, Maynard
 
 Wed, 21 Dec ~ Membership Meeting
-Amateur Radio and the Weather, Mike NeilsenóW1MPN
+Amateur Radio and the Weather, Mike Neilsen‚ÄîW1MPN
 Location TBA
 
 Wed, 18 Feb ~ Business Meeting
 Stratus, Maynard
 
 Wed, 18 Mar ~ Membership Meeting
-Weak Signals and DXíing
+Weak Signals and DX‚Äôing
 Location TBA
 
 Wed, 15 Apr ~ Business Meeting
@@ -350,14 +350,14 @@ Wed, 19 Aug ~ Business Meeting
 Stratus, Maynard
 ----------
 
-Donít Forget! Join Us.
+Don‚Äôt Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
 
-The MMRAís repeaters are linked Tuesday nights for the TIaOS Net.  Keep up with whatís happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIaOS Net.  Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.  
 
-Want to try your hand at Net Control?  Contact me at W1DYJ@mmra.org  ñ we have a script you can use.
+Want to try your hand at Net Control?  Contact me at W1DYJ@mmra.org  ‚Äì we have a script you can use.
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -382,10 +382,10 @@ Clerk			Bob Evans	N1BE
 * Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2015		Steve Schwarm	W3EVE
-Director  ª2015		Roger Coulson	WA1NVC
-Director  ª2016		Clark Conti	N1NVK
-Director  ª2016		Mike Neilsen	W1MPN
+Director  ¬ª2015		Steve Schwarm	W3EVE
+Director  ¬ª2015		Roger Coulson	WA1NVC
+Director  ¬ª2016		Clark Conti	N1NVK
+Director  ¬ª2016		Mike Neilsen	W1MPN
 
 Repeater Trustees
 * Belmont 145.430	James Lee	N1DDK
@@ -400,7 +400,7 @@ Repeater Trustees
 	
 			Bryan Cerqua	W1BRI
 * Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
-         Weston 442.700 ó all as W1MRA
+         Weston 442.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 * Mendon 146.610	Jim Podsiadlo	AE1C
 * Quincy 224.40		Bill Dunn	N1KUG
@@ -453,7 +453,7 @@ See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
 29 Nov	Windsor CT	VR+C Mus 
 115 Pierson LN
 
-óó2015óó
+‚Äî‚Äî2015‚Äî‚Äî
 7 Mar	Chicopee MA	MtTomARA @MooseLodge
 27,28 Mar Lewiston ME	AARC ME Conv @Ramada
 1,2 May Deerfield NH	NEARfest XVII @FG

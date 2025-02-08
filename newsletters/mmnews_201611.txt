@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.† 
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.¬† 
 
 The Minuteman
 Volume 46, Number 2
@@ -12,11 +12,11 @@ Linux in the Hamshack
 Andy Stewart, KB1OIQ 
 There's a lot of good, free software out there to make our hobby more fun and operating easier.  Come hear about it from Andy.
 
-Andy has been running Linux user groups since 1997, and taught Linux classes for several years in Chelmsford.† Two students, who were hams, convinced Andy to become a ham in 2007.  
+Andy has been running Linux user groups since 1997, and taught Linux classes for several years in Chelmsford.¬† Two students, who were hams, convinced Andy to become a ham in 2007.  
 
 
 
-Andy has been the President of the Police Amateur Radio Team (PART) in Westford for the last 8 years, and holds an amateur extra license.† He created "Andy's Ham Radio Linux" in 2011 as a way to give back to both the ham and Linux communities.  Andy is also an ARRL Assistant Section Manager for EMA.
+Andy has been the President of the Police Amateur Radio Team (PART) in Westford for the last 8 years, and holds an amateur extra license.¬† He created "Andy's Ham Radio Linux" in 2011 as a way to give back to both the ham and Linux communities.  Andy is also an ARRL Assistant Section Manager for EMA.
 
 
 
@@ -26,16 +26,16 @@ engineer.
 Holiday Inn Boxboro:  take Exit 28 off Rt.495 and head East.  Take the first right off Rt.111 to hotel.
 ----------
 
-James, N1DDKís talk on CHIRP is now an ARRL Webinar; look for it on the ARRL YouTube channel.
+James, N1DDK‚Äôs talk on CHIRP is now an ARRL Webinar; look for it on the ARRL YouTube channel.
 ----------
 
-The MMRA has a number of rolls of 1 5/8î hardline available for sale for $300.  See the Presidentís Corner for details, page 3.
+The MMRA has a number of rolls of 1 5/8‚Äù hardline available for sale for $300.  See the President‚Äôs Corner for details, page 3.
 ----------
 
 Quincy: 146.67 and 224.40 are rebuilt, back on the air at full power, and linkable.  (See page 4.)
 ----------
 
-Presidentís Corner ~ David Wolfe, KG1H
+President‚Äôs Corner ~ David Wolfe, KG1H
 
 The following is a summary of the MMRA activities at the recent Boxborough Convention:
 
@@ -133,42 +133,42 @@ We adjourned at 9 PM.
 Upcoming MMRA Meetings
 
 Wednesday, 16 Nov ~ Membership Meeting
-TopicóLinux in the Hamshack,
+Topic‚ÄîLinux in the Hamshack,
 Andy Stewart, KB1OIQ
-LocationóHoliday Inn, Boxborough
+Location‚ÄîHoliday Inn, Boxborough
 
 Wed, 21 Dec ~ Business Meeting
 Location: Stratus, Maynard
 
 Wednesday, 18 Jan ~ Membership Meeting
-Topicó12V Power for Emergency Power Use in Ham Stations
+Topic‚Äî12V Power for Emergency Power Use in Ham Stations
 Greg Troxel, N1DAM
-LocationóNorthborough Free Library
+Location‚ÄîNorthborough Free Library
 
 Wed, 15 Feb ~ Business Meeting
 Location: Stratus, Maynard
 
 Wednesday, 15 Mar ~ Membership Meeting
-TopicóTBD
-LocationóTBD
+Topic‚ÄîTBD
+Location‚ÄîTBD
 
 Wed, 19 April ~ Business Meeting
 Location: Stratus, Maynard
 
 Wednesday, 17 May ~ Membership Meeting
-TopicóTBD
-LocationóTBD
+Topic‚ÄîTBD
+Location‚ÄîTBD
 
 Wed, 21 June ~ Business Meeting
 Location: Stratus, Maynard
 ----------
 
-Donít Forget! Join Us.
+Don‚Äôt Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  
-Keep up with whatís happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  
+Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -184,7 +184,7 @@ IRLP node 4133
 
 Previous issues of the MMRA Newsletter are available 
 at:
-www.mmra.org Ë Newsletter Archive (on the left)
+www.mmra.org √® Newsletter Archive (on the left)
 ----------
 
 MMRA VE Sessions
@@ -210,11 +210,11 @@ Clerk			Bob Evans		N1BE
 * Technical Officer	Bryan Cerqua		W1BRI
 
 Board of Directors
-Director  ª2017		Steve Schwarm		W3EVE
-Director  ª2017		Roger Coulson		WA1NVC
-Director  ª2018		Clark Conti		N1NVK
-Director  ª2018		James Lee		N1DDK
-Director  ª2017		Bob DeMattia		K1IW
+Director  ¬ª2017		Steve Schwarm		W3EVE
+Director  ¬ª2017		Roger Coulson		WA1NVC
+Director  ¬ª2018		Clark Conti		N1NVK
+Director  ¬ª2018		James Lee		N1DDK
+Director  ¬ª2017		Bob DeMattia		K1IW
 
 Repeater Trustees
 * Belmont 145.430	Ed Curley		KC1CLA
@@ -229,7 +229,7 @@ Repeater Trustees
 		Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
  
-      448.225, 449.925,  927.700 ó all as W1MRA
+      448.225, 449.925,  927.700 ‚Äî all as W1MRA
 	Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold		K1KWP
 * N. Reading 146.715	Bruce Pigott		KC1US

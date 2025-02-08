@@ -162,8 +162,8 @@ Upcoming Meetings
         MMRA Linked Repeaters
 The meeting ended informally at 8:15 PM.
 
-Presentation by Dave Hornbaker: N1DCH - ï¿½Programming Your Radio with CHIRPï¿½ Davidï¿½s interest in radio began as a youngster when he hung around his Uncle Myron Hornbakerï¿½s shack ï¿½ W0GFU (SK) in Fowler, Kansas. In 1975 he earned a First-Class Radiotelephone Operator License (now General Radiotelephone Operator License). At a local telephone company David installed IMTS Telephones in automobiles. Later he worked for Wichita, KS television
-station ï¿½ KAKE-TV as a master control operator. David has worked in the Computer Industry for over 40 years.  He owns and is President of DCH Consulting Services, an Information Technology Company, has a Master of Science, Information Technology Degree from the University of Massachusetts and is President of the MMRA.
+Presentation by Dave Hornbaker: N1DCH - Ã¯Â¿Â½Programming Your Radio with CHIRPÃ¯Â¿Â½ DavidÃ¯Â¿Â½s interest in radio began as a youngster when he hung around his Uncle Myron HornbakerÃ¯Â¿Â½s shack Ã¯Â¿Â½ W0GFU (SK) in Fowler, Kansas. In 1975 he earned a First-Class Radiotelephone Operator License (now General Radiotelephone Operator License). At a local telephone company David installed IMTS Telephones in automobiles. Later he worked for Wichita, KS television
+station Ã¯Â¿Â½ KAKE-TV as a master control operator. David has worked in the Computer Industry for over 40 years.  He owns and is President of DCH Consulting Services, an Information Technology Company, has a Master of Science, Information Technology Degree from the University of Massachusetts and is President of the MMRA.
 
 CHIRP is free, open-source software for programming many radios from various manufacturers. This software is available on Windows, MacOS and Linux. There are two versions of CHIRP: Next and Legacy. Next is the newest version and Legacy is the older version. To download CHIRP go to https://chirpmyradio.com/projects/chirp/wiki/ .
 
@@ -189,81 +189,81 @@ Respectfully Submitted by Stephen M Babbitt, KC1LPZ, Clerk
 MMRA Business Meeting - December 18, 2024-Called to order @ 7: 31 PM 
 
 Repeater Status Report: Bob DeMattia, K1IW
-ï¿½ Belmont: 145.43: Ed, KC1CLA, has has contacted them during the last month and they have not responded.
+Ã¯Â¿Â½ Belmont: 145.43: Ed, KC1CLA, has has contacted them during the last month and they have not responded.
 The plan is to move 145.43 to Burlington.
-ï¿½ Billerica 147.12: Bob has been in contact with the Town Manager, currently awaiting an approval.
+Ã¯Â¿Â½ Billerica 147.12: Bob has been in contact with the Town Manager, currently awaiting an approval.
 o If Billerica site becomes available, move 147.12 and 224.88 to the new Billerica site.
 o If the Billerica site is not available, the repeater will move 147.12 to Burlington.
-ï¿½ Boston 146.82: Power output has dropped ï¿½ K1BOS is investigating. He has tightened all connections with no
+Ã¯Â¿Â½ Boston 146.82: Power output has dropped Ã¯Â¿Â½ K1BOS is investigating. He has tightened all connections with no
 improvement. He will return with a Wattmeter.
-ï¿½ Boston 927.0625: The new Boston 900 Repeater has been built by WA1NVC. It is in burn-in testing.
-ï¿½ Burlington 224.88: The Burlington (link radio needs repair. (TX no power) Bob will fix it once we figure out the
+Ã¯Â¿Â½ Boston 927.0625: The new Boston 900 Repeater has been built by WA1NVC. It is in burn-in testing.
+Ã¯Â¿Â½ Burlington 224.88: The Burlington (link radio needs repair. (TX no power) Bob will fix it once we figure out the
 Billerica situation.
-ï¿½ Lowell 442.250: The Lowell link radio needs repair (TX low power). The link still works through North Reading,
+Ã¯Â¿Â½ Lowell 442.250: The Lowell link radio needs repair (TX low power). The link still works through North Reading,
 so there is no immediate need to make the trip to repair it.
-ï¿½ Marlborough 449.925: Hub1 link radio needs repair (TX low power and TX audio needs PL filter). The link radio
-is in Bobï¿½s garage for repairs.
-ï¿½ Marlborough 927.700: WA1NVC discussing upgrade.
-ï¿½ Marlborough West ï¿½ While many may not have noticed, the anemometer at Marlborough West is fixed.
-ï¿½ Quincy 146.67: With no word ï¿½ letter or phone call ï¿½ from the Mayorï¿½s Office - the current plan looks likely to
+Ã¯Â¿Â½ Marlborough 449.925: Hub1 link radio needs repair (TX low power and TX audio needs PL filter). The link radio
+is in BobÃ¯Â¿Â½s garage for repairs.
+Ã¯Â¿Â½ Marlborough 927.700: WA1NVC discussing upgrade.
+Ã¯Â¿Â½ Marlborough West Ã¯Â¿Â½ While many may not have noticed, the anemometer at Marlborough West is fixed.
+Ã¯Â¿Â½ Quincy 146.67: With no word Ã¯Â¿Â½ letter or phone call Ã¯Â¿Â½ from the MayorÃ¯Â¿Â½s Office - the current plan looks likely to
 move 146.67 to Marlborough East.
-ï¿½ All other Repeaters: Functioning normally.
+Ã¯Â¿Â½ All other Repeaters: Functioning normally.
 
 Allowing Members to Look Up Members: Kevin, K1KWP
-ï¿½ Should members be allowed to look up members on the MMRA Website?
-ï¿½ Should members be able to determine the membership status of another member (Active, Grace, Expired or Non-Member)?
+Ã¯Â¿Â½ Should members be allowed to look up members on the MMRA Website?
+Ã¯Â¿Â½ Should members be able to determine the membership status of another member (Active, Grace, Expired or Non-Member)?
 
-The discussion varied. Roger suggested we keep it simple to name and callsign. Membership status ranged from member to non-member all the way from member to membership in the grace period (September 1st to December 31st) to recently expired membership from January 1st onward to one year or longer. No decision on this subject was made at tonightï¿½s meeting other than investigating it further before any formal motion is made.
+The discussion varied. Roger suggested we keep it simple to name and callsign. Membership status ranged from member to non-member all the way from member to membership in the grace period (September 1st to December 31st) to recently expired membership from January 1st onward to one year or longer. No decision on this subject was made at tonightÃ¯Â¿Â½s meeting other than investigating it further before any formal motion is made.
 
 MMRA Elmer Forum: Kevin, K1KWP
 These Elmering sessions are on Zoom to both licensed and unlicensed Hams on the 2nd Wednesday of each month. November 13, 2024, was our initial informal Elmer Meeting Event, which was attended by a few people. On December 11, 2024, our first formal Elmer Session, was attended by 14 people, with one who was not licensed yet. We had several questions asked from recent new Hams. Many questions about licensing and upgrading, several questions on VHF/UHF and even more HF related questions.
 
-One comment Kevin saw in the zoom chat section said, ï¿½I have learned more about ham radio from the MMRA than from the ARRL.ï¿½ We had some attendees that found round zero (from November) interesting enough that they came to this December forum and plan to come to the next in January.
+One comment Kevin saw in the zoom chat section said, Ã¯Â¿Â½I have learned more about ham radio from the MMRA than from the ARRL.Ã¯Â¿Â½ We had some attendees that found round zero (from November) interesting enough that they came to this December forum and plan to come to the next in January.
 
 Social media: Dave, N1DCH
-ï¿½ We have 915 followers on Facebook
-ï¿½ Should we have regular posts:
-     ï¿½ Announcements
-     ï¿½ Meetings
-     ï¿½ Elmer Forum
-     ï¿½ TIaOS Net
-     ï¿½ VE Sessions
-     ï¿½ Other events, e.g. Ham Exposition, Algonquin Flea Market
-ï¿½ Should we add other Social Media? Return to X (Twitter) other Social Media Sites?
+Ã¯Â¿Â½ We have 915 followers on Facebook
+Ã¯Â¿Â½ Should we have regular posts:
+     Ã¯Â¿Â½ Announcements
+     Ã¯Â¿Â½ Meetings
+     Ã¯Â¿Â½ Elmer Forum
+     Ã¯Â¿Â½ TIaOS Net
+     Ã¯Â¿Â½ VE Sessions
+     Ã¯Â¿Â½ Other events, e.g. Ham Exposition, Algonquin Flea Market
+Ã¯Â¿Â½ Should we add other Social Media? Return to X (Twitter) other Social Media Sites?
 
-Tonightï¿½s discussion includes putting some of our presentations on YouTube to draw attention to the MMRA and Amateur Radio. Other social media sites where younger people are active received discussion. Updating our events was discussed with K8ZBE offering to assist in some of the updating.
+TonightÃ¯Â¿Â½s discussion includes putting some of our presentations on YouTube to draw attention to the MMRA and Amateur Radio. Other social media sites where younger people are active received discussion. Updating our events was discussed with K8ZBE offering to assist in some of the updating.
 
 Algonquin Flea: Saturday, February 15, 2025
-ï¿½ Place: 117 Charles W Whitcomb School (Marlborough Middle School)
-ï¿½ Doors open at 9:00 AM
-ï¿½ Setup available 6:30 AM
-ï¿½ MMRA VE Team providing VE testing
+Ã¯Â¿Â½ Place: 117 Charles W Whitcomb School (Marlborough Middle School)
+Ã¯Â¿Â½ Doors open at 9:00 AM
+Ã¯Â¿Â½ Setup available 6:30 AM
+Ã¯Â¿Â½ MMRA VE Team providing VE testing
       At tonight's meeting we discussed staffing our table(s) and what items we will be selling.
-ï¿½ Exam Session
-     ï¿½ Saturday, January 18, 2025, at 9:15 AM
-     ï¿½ Marlborough Public Library, David Meeting Room, 18 Witherbee Street, Marlborough, MA 01752
-ï¿½ Please tell your friends, who are interested in taking tests, that they must have photo IDs and FRNs (and please obtain your FRN # from the FCC Website prior to arrival).
-ï¿½ Copy of license required if upgrading (or proof from the ARRL or QRZ )
-ï¿½ Note: SS#s, are no longer accepted by the FCC. Everyone must have an FRN.
+Ã¯Â¿Â½ Exam Session
+     Ã¯Â¿Â½ Saturday, January 18, 2025, at 9:15 AM
+     Ã¯Â¿Â½ Marlborough Public Library, David Meeting Room, 18 Witherbee Street, Marlborough, MA 01752
+Ã¯Â¿Â½ Please tell your friends, who are interested in taking tests, that they must have photo IDs and FRNs (and please obtain your FRN # from the FCC Website prior to arrival).
+Ã¯Â¿Â½ Copy of license required if upgrading (or proof from the ARRL or QRZ )
+Ã¯Â¿Â½ Note: SS#s, are no longer accepted by the FCC. Everyone must have an FRN.
 
 Upcoming Meetings
-ï¿½ January 8, 2025 7:30 PM
+Ã¯Â¿Â½ January 8, 2025 7:30 PM
    Elmer Forum   Zoom Only (Open to all)
-   Meeting Id ï¿½ 876 8326 0138 o Passcode ï¿½ elmer
+   Meeting Id Ã¯Â¿Â½ 876 8326 0138 o Passcode Ã¯Â¿Â½ elmer
 
-ï¿½ January 15, 2025, 7:30 PM Membership Meeting
-   Andyï¿½s Ham Radio Linux
+Ã¯Â¿Â½ January 15, 2025, 7:30 PM Membership Meeting
+   AndyÃ¯Â¿Â½s Ham Radio Linux
    Speaker: Andy Stewart -KB1OIQ
    Marlborough Central Fire Station + ZOOM
 
-ï¿½ February 12, 2025 7:30 PM
+Ã¯Â¿Â½ February 12, 2025 7:30 PM
    Elmer Forum   Zoom Only (Open to all)
-   Meeting Id ï¿½ 876 8326 0138 o Passcode ï¿½ elmer
+   Meeting Id Ã¯Â¿Â½ 876 8326 0138 o Passcode Ã¯Â¿Â½ elmer
 
-ï¿½ February 19, 2025 7:30 PM
+Ã¯Â¿Â½ February 19, 2025 7:30 PM
    Business Meeting   Zoom
 
-ï¿½ Tuesday night 8:00 PM (year-round)
+Ã¯Â¿Â½ Tuesday night 8:00 PM (year-round)
    Technical, information and Other Stuff Net
    MMRA Linked Repeaters
 
@@ -308,32 +308,32 @@ Consult the MMRA website for the most up-to-date information.
 ZOOM Teleconference login info is available once you log into your account on MMRA.ORG
 Non-members: if you wish to attend, email contact@mmra.org.
 
-Elmer Forums ï¿½ ZOOM only ï¿½ 1/8, 2/12, 3/12
+Elmer Forums Ã¯Â¿Â½ ZOOM only Ã¯Â¿Â½ 1/8, 2/12, 3/12
 
 January 20, 2025: Membership Meeting
-    Andyï¿½s Ham Radio Linux ï¿½
+    AndyÃ¯Â¿Â½s Ham Radio Linux Ã¯Â¿Â½
     Speaker: Andy Stewart -KB1OIQ
     Marlborough Central Fire Station
 
-February 18, 2025: Business Meeting ï¿½ Zoom
+February 18, 2025: Business Meeting Ã¯Â¿Â½ Zoom
 
 March 19, 2025: Membership Meeting
     Speaker: TBD
     Location: TBD
 
-April 16, 2025: Business Meeting ï¿½ Zoom
+April 16, 2025: Business Meeting Ã¯Â¿Â½ Zoom
 
 May 21, 2025: Annual Meeting & Elections
     Speaker: TBD
     Location: TBD
 
-June 18, 2025: Business Meeting ï¿½ Zoom
+June 18, 2025: Business Meeting Ã¯Â¿Â½ Zoom
 ----------
 
-Donï¿½t Forget ï¿½  Join Us!
+DonÃ¯Â¿Â½t Forget Ã¯Â¿Â½  Join Us!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
-The MMRAï¿½s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatï¿½s happening in the MMRA and ask your ham related questions.
+The MMRAÃ¯Â¿Â½s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatÃ¯Â¿Â½s happening in the MMRA and ask your ham related questions.
 
 Net Control Operators:
 	Week 1	W1DYJ	Larry Banks	
@@ -350,7 +350,7 @@ If you are interested, email W1DYJ@mmra.org
 
 MMRA Leaders
 
-Executive Board ï¿½ Officers
+Executive Board Ã¯Â¿Â½ Officers
      President       Dave Hornbaker     N1DCH
      
 Vice President       John Spencer       WA1MDD
@@ -358,7 +358,7 @@ Vice President       John Spencer       WA1MDD
      Treasurer       Kevin Paetzold     K1KWP
      Clerk           Stephen Babbitt    KC1LPZ
 
-Executive Board ï¿½ Directors
+Executive Board Ã¯Â¿Â½ Directors
      Director  >2025    Bob DeMattia    K1IW
      Director  >2025    Roger Coulson   WA1NVC
      Director  >2026    Rob Evans       N1BE
@@ -413,7 +413,7 @@ general business.
 
 The Minuteman newsletter is emailed one week before each general interest meeting.  Members are encouraged to submit articles: send to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8pm the MMRA links most of the repeaters for an open net.  The topic is ï¿½Technical Information and Other Stuffï¿½.   Join us!
+Each Tuesday evening at 8pm the MMRA links most of the repeaters for an open net.  The topic is Ã¯Â¿Â½Technical Information and Other StuffÃ¯Â¿Â½.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
@@ -465,7 +465,7 @@ Tuesday night at 8:00 pm local.
 
 Heavy Hitters Traffic Net
 This ARRL NTS net is active on our repeaters Sunday to Friday
-evenings from 9:45ï¿½11 PM and Saturday from 10-11.
+evenings from 9:45Ã¯Â¿Â½11 PM and Saturday from 10-11.
 
 Coast Guard Net
 Sundays at 11:00 AM local.

@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.Â  
 
 The Minuteman
 Volume 47, Number 5
@@ -10,7 +10,7 @@ Membership Meeting ~ Wednesday, 16 May 7:00 PM
 
 Annual Meeting & Elections
 
-Talk: One Ham’s Journey with Antennas ~ Larry Banks, W1DYJ
+Talk: One Hamâ€™s Journey with Antennas ~ Larry Banks, W1DYJ
 Location: Campion Center, Weston
 
 Talk-in: 146.79  pl 146.2
@@ -19,25 +19,25 @@ Talk-in: 146.79  pl 146.2
 During the 56 years that Larry has been a ham, he has built and used many antennas.
 Using ARRL awards as goals, he will survey his antennas in Woburn and Harpswell, ME, as he pursued these awards. Some antenna theory will be included. This is not a how-to talk, it is a you-can-do-it-too talk, designed to get you thinking. 
 
-Larry was licensed in 1962 as novice KN1VFX and then Technician, K1VFX.  He received W1DYJ in 1966 while in college in Cambridge.   He was an engineer and manager for Hewlett-Packard Medical in Waltham and Andover from 1969 to 1993.  From 1985 to 1993 he was the Section Manager
-responsible for establishing the Cardiac R&D lab’s Computer Aided Design environment, the
-SW Testing and Quality group, and ongoing Technical Education.  Moving to HP Medical Education in 1993, he was responsible for technical (R&D) education and Project Management training.   He 
-became Agilent Technology’s manager for their global LMS (Learning Management System) when Agilent split out of HP in 1999.  “Retiring” in 2005,  he consulted for Avago Technologies 
-(now Broadcom) serving as global manager for their corporate LMS until 2012.  Larry holds three 
-degrees in Electrical Engineering from MIT.  When he is not experimenting with antennas, he chases DX and contests (160 through 432), both in Woburn and at his second home in Maine, and travels with his wife Maren.   He is also the Net Manager and Newsletter Editor for the MMRA, publications manager for FEMARA, and a member of the YCCC and NEWS.
+Larry was licensed in 1962 as novice KN1VFX and then Technician, K1VFX.Â  He received W1DYJ in 1966 while in college in Cambridge.Â Â  He was an engineer and manager for Hewlett-Packard Medical in Waltham and Andover from 1969 to 1993.Â  From 1985 to 1993 he was the Section Manager
+responsible for establishing the Cardiac R&D labâ€™s Computer Aided Design environment, the
+SW Testing and Quality group, and ongoing Technical Education.Â  Moving to HP Medical Education in 1993, he was responsible for technical (R&D) education and Project Management training.   He 
+became Agilent Technologyâ€™s manager for their global LMS (Learning Management System) when Agilent split out of HP in 1999.Â  â€œRetiringâ€ in 2005,  he consulted for Avago Technologies 
+(now Broadcom) serving as global manager for their corporate LMS until 2012.Â  Larry holds three 
+degrees in Electrical Engineering from MIT.Â  When he is not experimenting with antennas, he chases DX and contests (160 through 432), both in Woburn and at his second home in Maine, and travels with his wife Maren.Â Â  He is also the Net Manager and Newsletter Editor for the MMRA, publications manager for FEMARA, and a member of the YCCC and NEWS.
 ----------
 
 MMRA Officer Nominations:
-	* KG1H David Wolfe – President 
+	* KG1H David Wolfe â€“ President 
 	* WA1MDD John Spencer -- Vice President 
-	* K1KWP Kevin Paetzold – Treasurer 
-	* N1DCH David Hornbaker – Secretary 
-	* N1NVK Clark Conti – Director  ? 2020
-	* N1DDK James Lee – Director  ? 2020
+	* K1KWP Kevin Paetzold â€“ Treasurer 
+	* N1DCH David Hornbaker â€“ Secretary 
+	* N1NVK Clark Conti â€“ Director  ? 2020
+	* N1DDK James Lee â€“ Director  ? 2020
 Nominations for Clerk are still solicited
 ----------
 
-President’s Corner
+Presidentâ€™s Corner
 
 David Wolfe ~ KG1H
 
@@ -62,26 +62,26 @@ Dave, N1DCH; Kevin, K1KWP; and Larry, W1DYJ.
  
 Old Business: Upcoming Meetings
 The Annual Meeting will be at the Campion Center on 16 May at 7 PM.  Election of officers will be held.  Nominations:
-KG1H David Wolfe – President 
+KG1H David Wolfe â€“ President 
 WA1MDD John Spencer -- Vice President 
-K1KWP Kevin Paetzold – Treasurer 
-N1DCH David Hornbaker – Secretary 
-N1NVK Clark Conti – Director 
-N1DDK James Lee – Director
+K1KWP Kevin Paetzold â€“ Treasurer 
+N1DCH David Hornbaker â€“ Secretary 
+N1NVK Clark Conti â€“ Director 
+N1DDK James Lee â€“ Director
 The position of Clerk is unfilled; we need a nominee.
-After the elections and any additional business, Larry, W1DYJ, will present “One Ham’s Journey with Antennas.”
+After the elections and any additional business, Larry, W1DYJ, will present â€œOne Hamâ€™s Journey with Antennas.â€
  
 Boxboro Convention:  After some discussion, it was decided that our September Membership Meeting will be held during the ARRL New England Boxboro Convention, the weekend of Sept. 7-9, date and time to be announced.  
 Moved (K1WP), seconded (KG1H), and voted that we 
 allocate $100 for an advertisement in the Convention Program.  
-Moved (K1WP), seconded (N1NVK), and voted that we allocate $400 for “door prizes,” with one of the prizes to be awarded to a participant of the membership meeting.
+Moved (K1WP), seconded (N1NVK), and voted that we allocate $400 for â€œdoor prizes,â€ with one of the prizes to be awarded to a participant of the membership meeting.
 
-Treasurer’s Report
+Treasurerâ€™s Report
 Kevin, K1KWP, detailed our financial situation.  We are 
 currently ahead for the year, although we are down about $700 in dues.  President David will send out a dues reminder.
  
 Boston Marathon MMRA Equipment (Bob, K1IW)
-Everything worked really well this year.  This is the first year we used HUB2 for linking.  It ran like a trooper.  In the future, we should continue to use HUB2, leaving HUB1 available for normal traffic.  (Editor’s note: Bob, K1IW, and John, WA1MDD, spent a great deal of time setting up net control at the Clay Center.)
+Everything worked really well this year.  This is the first year we used HUB2 for linking.  It ran like a trooper.  In the future, we should continue to use HUB2, leaving HUB1 available for normal traffic.  (Editorâ€™s note: Bob, K1IW, and John, WA1MDD, spent a great deal of time setting up net control at the Clay Center.)
  
 Hub 1 449.825 Repeater Status (Bryan, W1BRI)
 > Checking out PA with repeater and all is OK, PA is putting out 75W with Kenwood repeater driving the input. 
@@ -125,12 +125,12 @@ Six photos -- the captions:
 	The Antenna Farm
 	Watching the presentation
 	Superfood for a Super Station
-	One tower’s base
-	20M @ 170’
+	One towerâ€™s base
+	20M @ 170â€™
 	18 el on 15M
 ----------
 
-The NEW Hub 1 ~ a “Teaser” 
+The NEW Hub 1 ~ a â€œTeaserâ€ 
 
 Thanks to Bryan, W1BRI, for both the photos and all of the work.  
 Perhaps by the time you read this, Hub 1 will be back on the air!
@@ -140,7 +140,7 @@ Two phptos:
 	Testing the new Henry RF power amplifier 
 ----------
 
-Early Ham History – Part 5
+Early Ham History â€“ Part 5
 
 
 >From W1DYJ: I recently obtained an ARRL Handbook from 1962, the year I was first licensed. The first few pages are a wonderful, short history of the early years of Ham radio. I hope you enjoy reading this as much as I did.  It is in 5 parts.
@@ -151,9 +151,9 @@ Throughout these many years the amateur was careful not to slight experimental d
 resourcefulness and his ability to make the most of what is at hand. In 1924, first amateur experiments in the vicinity of 56 Mc. indicated that band to be practically worthless for DX. Nonetheless, great "short-haul" activity eventually came about in the band and new gear was developed to meet its special problems. Beginning in 1934 a series of investigations by the brilliant experimenter, Ross Hull (later QST's editor), developed the theory of v.h.f. wave-bending in the lower atmosphere and led amateurs to the attainment of better distances; while occasional manifestations of ionospheric propagation, with still greater distances, gave the band uniquely erratic performance. By Pearl Harbor thousands of amateurs were spending much of their time on this and the next higher band, many having worked hundreds of stations at distances up to 
 several thousand miles. Transcontinental 6-meter DX is not uncommon; during solar peaks, even the oceans have been bridged! It is a tribute to these indefatigable amateurs that today's concept of v.h.f. propagation was developed largely through amateur research.
 
-The amateur is constantly in the forefront of technical progress. His incessant curiosity, his eagerness to try anything new, are two reasons. Another is that ever-growing amateur radio continually overcrowds its frequency assignments, spurring amateurs to the development and adoption of new techniques to permit the accommodation of more stations. For examples, amateurs turned from spark to c.w., designed more selective receivers, adopted crystal control and pure d.c. power supplies. From the ARRL's own laboratory in 1932 came James Lamb's "single-signal" superheterodyne—the world's most advanced high-frequency radiotelegraph receiver—and, in 1936, the "noise-silencer" circuit. Amateurs are now turning to speech "clippers" to reduce bandwidths of phone transmissions and "single-sideband suppressed-carrier" systems as well as even more selectivity in receiving equipment for greater efficiency in spectrum use.
+The amateur is constantly in the forefront of technical progress. His incessant curiosity, his eagerness to try anything new, are two reasons. Another is that ever-growing amateur radio continually overcrowds its frequency assignments, spurring amateurs to the development and adoption of new techniques to permit the accommodation of more stations. For examples, amateurs turned from spark to c.w., designed more selective receivers, adopted crystal control and pure d.c. power supplies. From the ARRL's own laboratory in 1932 came James Lamb's "single-signal" superheterodyneâ€”the world's most advanced high-frequency radiotelegraph receiverâ€”and, in 1936, the "noise-silencer" circuit. Amateurs are now turning to speech "clippers" to reduce bandwidths of phone transmissions and "single-sideband suppressed-carrier" systems as well as even more selectivity in receiving equipment for greater efficiency in spectrum use.
 
-During World War II, thousands of skilled amateurs contributed their knowledge to the development of secret radio devices, both in Government and private laboratories. Equally as important, the prewar technical progress by amateurs provided the keystone for the development of modern military communications equipment. Perhaps more important today than individual contributions to the art is the mass cooperation of the amateur body in Government projects such as propagation studies; each participating station is in reality a separate field laboratory from which reports are made for correlation and analysis. An outstanding example was varied amateur participation in several activities of the International Geophysical Year program. ARRL, with Air Force sponsorship, conducted an intensive study of v.h.f. propagation phenomena— DX transmissions via little-understood methods such as meteor and auroral reflections, and transequatorial scatter. ARRL-affiliated clubs and groups have operated precision receiving antennas and apparatus to help track earth satellites via radio. For volunteer astronomers searching visually for the satellites, other amateurs have manned networks to provide instant radio reports of sightings to a central agency so that an orbit might be computed.
+During World War II, thousands of skilled amateurs contributed their knowledge to the development of secret radio devices, both in Government and private laboratories. Equally as important, the prewar technical progress by amateurs provided the keystone for the development of modern military communications equipment. Perhaps more important today than individual contributions to the art is the mass cooperation of the amateur body in Government projects such as propagation studies; each participating station is in reality a separate field laboratory from which reports are made for correlation and analysis. An outstanding example was varied amateur participation in several activities of the International Geophysical Year program. ARRL, with Air Force sponsorship, conducted an intensive study of v.h.f. propagation phenomenaâ€” DX transmissions via little-understood methods such as meteor and auroral reflections, and transequatorial scatter. ARRL-affiliated clubs and groups have operated precision receiving antennas and apparatus to help track earth satellites via radio. For volunteer astronomers searching visually for the satellites, other amateurs have manned networks to provide instant radio reports of sightings to a central agency so that an orbit might be computed.
 
 The above is COPYRIGHT 1962 by ARRL.  The Handbook back then cost $3.50. 
 Here ends the readings from 1962
@@ -164,13 +164,13 @@ Note: Meeting locations are subject to change. Consult the MMRA website for the 
 
 
 Wednesday, 16 May ~ Annual Meeting
-Topic: One Ham’s Journey with Antennas
+Topic: One Hamâ€™s Journey with Antennas
 
 Larry Banks, W1DYJ
 Location: Campion Center, Weston
 
 Wednesday, 20 June ~ Business Meeting
-Location: Marlborough MA library 
+Location: Marlborough MA libraryÂ 
 ----------
 
 Previous issues of the MMRA Newsletter are available at:
@@ -190,18 +190,18 @@ Accredited by the ARRL VEC
 ----------
 
 MMRA Leaders
-Executive Board — Officers
+Executive Board â€” Officers
 President	David Wolfe	KG1H
 Vice President	John Spencer	WA1MDD
 Secretary	John McGovern	W1JMC
 Treasurer	Kevin Paetzold	K1KWP
 Clerk		open
 
-Executive Board — Directors
-Director  »2018	Clark Conti	N1NVK
-Director  »2018	James Lee	N1DDK
-Director  »2019	Bob DeMattia	K1IW
-Director  »2019	Roger Coulson	WA1NVC
+Executive Board â€” Directors
+Director  Â»2018	Clark Conti	N1NVK
+Director  Â»2018	James Lee	N1DDK
+Director  Â»2019	Bob DeMattia	K1IW
+Director  Â»2019	Roger Coulson	WA1NVC
 
 Technical Officer
 * Technical Officer	Bryan Cerqua	W1BRI
@@ -218,7 +218,7 @@ Repeater Trustees
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
 
-       448.225, 449.925,  927.700 — all as W1MRA
+       448.225, 449.925,  927.700 â€” all as W1MRA
 
 			Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP

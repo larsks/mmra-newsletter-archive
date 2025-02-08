@@ -16,11 +16,11 @@ Astronomy Night (and General Elections)
 
 The Clay Center Observatory
 
-Alan Sliski —  Chief Technology Officer, Orbital Therapy LLC
+Alan Sliski â€”  Chief Technology Officer, Orbital Therapy LLC
 
-Mr. Sliski will give a brief history of SETI and talk about the recent development of OSETI, the optical search for extraterrestrial intelligence at Harvard’s Oak Ridge Observatory, as well as a peek at the technology behind a new generation of radiation therapy equipment.  A brief demonstration of a plasma loudspeaker will be also attempted.
+Mr. Sliski will give a brief history of SETI and talk about the recent development of OSETI, the optical search for extraterrestrial intelligence at Harvardâ€™s Oak Ridge Observatory, as well as a peek at the technology behind a new generation of radiation therapy equipment.  A brief demonstration of a plasma loudspeaker will be also attempted.
 
-Talk in — 146.82
+Talk in â€” 146.82
 
 A serial entrepreneur, inventor, physicist, engineer, and amateur astronomer, Mr. Sliski is a generalist in the age of specialization with 26 patents issued and is a co-founder of
 Orbital Therapy, a start-up designing radiation therapy equipment for treating breast cancer.
@@ -48,7 +48,7 @@ renewing members.
 
 ------------------
 
-Membership Meeting ~ 20 May — 7:30PM
+Membership Meeting ~ 20 May â€” 7:30PM
 Astronomy Night (and General Elections)
 The Clay Center Observatory
 
@@ -68,7 +68,7 @@ Follow the VFW Parkway into West Roxbury. After Corey Street get in left lane. L
 -----------------
 
 Boston Area Hams Provide Communications Support for Annual Marathon
-Copyright © 2009, American Radio Relay League, Inc. All Rights Reserved. 
+Copyright Â© 2009, American Radio Relay League, Inc. All Rights Reserved. 
 
 More than 250 Amateur Radio operators provided communication support for the 113th running of the Boston Marathon on Monday, April 20, also known as Patriots' Day. With more than 26,000 official runners and 500,000 spectators along the 26 mile route, the marathon utilized amateurs at the starting line, along the course at each water and first aid station along the route, and at the finish line.
 
@@ -90,13 +90,13 @@ Patriots' Day -- a state holiday in Massachusetts and Maine -- commemorates the 
 
 MMRA March Membership Meeting
 
-The March meeting was held jointly with the Framingham Amateur Radio Association (FARA).  Miles Mann, WF1F, told us all about SSTV on the ISS.  Miles’ presentation can be found at:
+The March meeting was held jointly with the Framingham Amateur Radio Association (FARA).  Miles Mann, WF1F, told us all about SSTV on the ISS.  Milesâ€™ presentation can be found at:
 http://www.mmra.org/spacecamstatclub.pdf 
 
 -------------------
 
 MMRA April Board of Directors Meeting
-Bob Evans — N1BE — Clerk
+Bob Evans â€” N1BE â€” Clerk
 
 The board met at 19:30 EDT on April 15th in the Waltham Weston Corporate Center.  Present were K1KWP, WA1NVC, K1IW, W1MPN, KC1US, W3EVE, N1BDA and N1BE.
 
@@ -110,9 +110,9 @@ Bob, K1IW led a discussion of repeater status:
 - Weston .79 is transmitting distorted audio.  The symptoms indicate the link receiver may be off frequency.  K1IW plans to investigate this.
 - Southboro .575 is not responding to touch tones.  It is also stuck linked to HUB1.  K1IW will unlink it after the meeting.  This again may be an issue with settings stored within the controller somehow getting changed.
 - At the Marlboro East site trees need to be removed before they cause problems with the antennas.  Roger planned to line up some assistance to work on this since many of the officers were busy with Public Service commitments.
-- HUB1 .925 is working well.  Echolink out is now being used by members.  Roger obtained a donated 100AH AGM battery for backup power on HUB1.  The board approved up to $150 to purchase a West Mountain Radio Super PWRgate PG40S Backup Power System for use in this application.  Roger will recycle some no longer useful batteries in the MRW shelter as part of setting this up.
+- HUB1 .925 is working well.  Echolink out is now being used by members.  Roger obtained a donated 100AH AGM battery for backup power on HUB1.Â  The board approved up to $150 to purchase a West Mountain Radio Super PWRgate PG40S Backup Power System for use in this application.  Roger will recycle some no longer useful batteries in the MRW shelter as part of setting this up.
 - .27 is frequently keying up with a weak unmodulated carrier and courtesy beeps.  This goes out on the link transmitter and, due to proximity, blocks other signals from being heard by the HUB1 receiver.  Bob will disable linking by .27 for now to avoid this problem.
-- Mendon .61 received audio level is too weak when connected to the network.  (No action.)
+- Mendon .61 received audio level is too weak when connected to the network.Â  (No action.)
 
 Bob reported a status update from the Mayor on Marlboro's plans for the MRW site.  Bidding has closed for the "Rehabilitation of Sligo Hill Water Tower & Appurtenant Work".  The bids were about $200K higher than expected, but this is under negotiation.  Bob thought the City would make a final go or no-go decision in this cycle rather than deferring that for another round of bidding.  This mostly has impact only on the antenna work MMRA needs to perform at that site.  Replacement of the MRW radio shelter is being pursued regardless of the tower work.  We are waiting for the new shelter to be transported from Maine to Massachusetts.
 
@@ -120,7 +120,7 @@ Bruce, KC1US, gave an overview of public service events using MMRA repeaters for
 
 No action was taken on the possible bylaw changes discussed in the last newsletter as the bylaws already cover those issues.
 
-The board discussed nominations for next month's election of officers and directors.  All incumbents ending their term and present at this board meeting agreed to be nominated for the office they currently hold.  This covered every office except Secretary.  For this position, K1KWP and K1IW are pursuing nominations from past officers and members who have expressed an interest in getting more involved with the MMRA.
+The board discussed nominations for next month's election of officers and directors.Â  All incumbents ending their term and present at this board meeting agreed to be nominated for the office they currently hold.  This covered every office except Secretary.  For this position, K1KWP and K1IW are pursuing nominations from past officers and members who have expressed an interest in getting more involved with the MMRA.
 
 This left us with a few quick discussions.
 - Since it is spring we got the yearly query about what is the MMRA doing about Field Day.  We took no action since the active board members have already committed their available time to repeater and public service projects.  There can be an MMRA Field Day, but someone would have to step forward to coordinate the event.  This is not a huge effort, and there would be support from the board.  So if this interests you, please step forward via an e-mail to contact@mmra.org.
@@ -151,7 +151,7 @@ Paul M. Segal, W9EEA, 1928
 
 -----------------
 
-April Treasurer’s Report
+April Treasurerâ€™s Report
 Kevin Paetzold, K1KWP
 
 Income	   Dues			$5307
@@ -191,17 +191,17 @@ Web Page Editor			Bob DeMattia		K1IW
 
 -------------
 
-Don’t Forget!
+Donâ€™t Forget!
 Every Tuesday @ 8 PM
 
 Technical, Informational and Other Stuff Net
 
 
-The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
 
 We need another net control!
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org â€“ we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
 
 Current Net Control Operators:
 

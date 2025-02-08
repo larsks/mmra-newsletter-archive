@@ -14,13 +14,13 @@ Talk in on 146.79
 
 Directions to the MMRA Meeting
 
->From Rt. 128 — Take Rt. 128 to Rt. 20 WEST in Waltham. Take right from Rt. 20 onto Boston Post Road.  Take right from Rt. 20 onto Concord Road.  The Campion Center is on Concord Road. At the fork in the road, before arriving at the Campion Center, bear left.
+>From Rt. 128 â€” Take Rt. 128 to Rt. 20 WEST in Waltham. Take right from Rt. 20 onto Boston Post Road.  Take right from Rt. 20 onto Concord Road.  The Campion Center is on Concord Road. At the fork in the road, before arriving at the Campion Center, bear left.
 
->From Rt. 20 heading East — Head East on Rt. 20.  After entering Weston bear left onto Boston Post Road.  From Boston Post Road turn left onto Concord Road. At the fork in the road, before arriving at the Campion Center, bear left.
+>From Rt. 20 heading East â€” Head East on Rt. 20.  After entering Weston bear left onto Boston Post Road.  From Boston Post Road turn left onto Concord Road. At the fork in the road, before arriving at the Campion Center, bear left.
 ----------------
 
 MMRA February Board of Directors Meeting
-Bob DeMattia, K1IW — President
+Bob DeMattia, K1IW â€” President
 
 The board meeting began at 7:30pm. Bob DeMattia K1IW, Kevin Paetzold K1KWP, Roger Coulson WA1NVC, and Steve Schwarm W3EVE were in attendance.
 
@@ -52,9 +52,9 @@ The board meeting closed at 9:30pm.
 -------------------
 
 Antenna Work at Weston Hub 2 in December 
-Bryan Cerqua — W1BRI
+Bryan Cerqua â€” W1BRI
 
-(This should have been in the last Newsletter — Editor.)
+(This should have been in the last Newsletter â€” Editor.)
 
 New antennas were installed on HUB2 main repeater and link radio. 
 
@@ -64,7 +64,7 @@ Thanks go to the crew, Nat NG1Z, Bob K1IW and W1BRI
 -----------------
 
 Update on Stoneham 440
-Larry Banks — W1DYJ
+Larry Banks â€” W1DYJ
 
 As we all know, the antenna at Stoneham 440 was changed from a vertical to a corner reflector pointing AWAY from Cape Cod because of the interference it was causing to the PAVE PAWS radar station in Sandwich.  Here is an update from the ARRL.
 
@@ -88,32 +88,32 @@ Henderson said that the ARRL has a "fairly good understanding of what strength l
 
 Henderson reiterated that "any specific mitigation number from the Air Force is an exact measurement, not a 'predicted' number from a computer analysis." 
 
-Once NESMC approves a tentative coordination, Henderson explained that NESMC would forward the complete information on the new repeater to the Air Force for authorization on a case-by-case basis, as provided for in Title 47 §2.106 Footnote US7. "During a 60 day trial period, the Air Force would contact NESMC for an immediate shut-down of a new repeater causing harmful interference. If that happens the new repeater would have to remain off the air until it can be successfully mitigated." 
+Once NESMC approves a tentative coordination, Henderson explained that NESMC would forward the complete information on the new repeater to the Air Force for authorization on a case-by-case basis, as provided for in Title 47 Â§2.106 Footnote US7. "During a 60 day trial period, the Air Force would contact NESMC for an immediate shut-down of a new repeater causing harmful interference. If that happens the new repeater would have to remain off the air until it can be successfully mitigated." 
 
 While this new process is a bit burdensome to NESMC and the repeater owners, it goes a long way toward keeping Amateur Radio in a position where 70 cm operation can grow with careful attention to the effect of our operations on the primary users. 
 ----------------------
 
 Notes on the Membership Meeting of 10 January 2008
 WA1JXR, Greg Algieri ~ Antenna Analyzers
-Larry Banks — W1DYJ
+Larry Banks â€” W1DYJ
 
 Greg, WA1JXR, gave us a really good overview of what Antenna Analyzers can do for us in our constant quest for better antennas and feed lines.  They can do a LOT MORE that just give us an SWR reading!
 
 This was a joint meeting with the Algonquin Amateur Radio Club, and we expect to have a joint meeting with the AARC group in the future.
 
-Here are some highlights from the meeting — if you were not there, you really should think about attending future meetings.
+Here are some highlights from the meeting â€” if you were not there, you really should think about attending future meetings.
 
-Before the meeting…
+Before the meetingâ€¦
 
-More before the meeting…
+More before the meetingâ€¦
 
 Ed, K1DIN, President of the AARC making his introductory remarks...
 
-Greg, WA1JXR, introducing himself…
+Greg, WA1JXR, introducing himselfâ€¦
 
 The Talk!
 
-What can an Antenna Analyzer do — more than you realize…
+What can an Antenna Analyzer do â€” more than you realizeâ€¦
 
 What IS an Antenna Analyzer???
 
@@ -139,7 +139,7 @@ PATRIOTIC...station and skill always ready for service to country and community.
 Paul M. Segal, W9EEA, 1928
 ---------------------
 
-Treasurer’s Report
+Treasurerâ€™s Report
 Kevin Paetzold, K1KWP
 
 Income	   Dues			$3854.71
@@ -156,10 +156,10 @@ Expenses   Spent to date	$2681.66
 	   Total		$3088.07
 ---------------------
 
-President’s Message
+Presidentâ€™s Message
 Bob DeMattia, K1IW
 
-March is the time of year when we begin the nomination process for next year’s officers. Every year, this is a pretty mundane affair and the same board is reelected. While I appreciate the vote of confidence from the membership, it would be nice to see some "new blood" take the reigns occasionally. This year is a prime opportunity - our club secretary and one of the director's have already announced they will not be seeking another term. If you're interested in taking a more active part 
+March is the time of year when we begin the nomination process for next yearâ€™s officers. Every year, this is a pretty mundane affair and the same board is reelected. While I appreciate the vote of confidence from the membership, it would be nice to see some "new blood" take the reigns occasionally. This year is a prime opportunity - our club secretary and one of the director's have already announced they will not be seeking another term. If you're interested in taking a more active part 
 in the club, we need you!
 
 Club officers take on the duties of keeping the club operating efficiently by processing and tracking memberships, and decided maintenance issues. They also help set the direction of the club in the future.
@@ -200,14 +200,14 @@ VEC Liaison			Bill Wade		K1IJ
 Web Page Editor			Bob DeMattia		K1IW
 --------------------
 
-Don’t Forget!
+Donâ€™t Forget!
 Every Tuesday @ 8 PM
 Technical, Informational
 and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
 
-If you would like to tray your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+If you would like to tray your hand at Net Control contact me at W1DYJ@mmra.org  â€“ we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
 
 Current Net Control Operators:
 

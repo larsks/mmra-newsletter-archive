@@ -39,8 +39,8 @@ Bolton 29.620 131.8 W1OJ Affiliated, PTL
 Marlboro 53.810 71.9 W1BRI PTL 
 Norwell 145.250 77.0 AC1M Affiliated, PTL 
 Mendon 146.610 146.2 N1BHI FTL 
-Quincy 146.670 146.2 W1BRI PTLóproblem linking 
-Stoneham 146.715 146.2 N1NVL PTLóproblem hearing 
+Quincy 146.670 146.2 W1BRI PTL‚Äîproblem linking 
+Stoneham 146.715 146.2 N1NVL PTL‚Äîproblem hearing 
 Weston 146.790 146.2 N1BE PTL 
 Brookline 146.820 146.2 K5TEC FTL 
 Brookline 146.985 88.5 W1FCC Affiliated, PTL 
@@ -82,8 +82,8 @@ articles is the last Friday of the month preceding
 the meeting. 
 Each Tuesday evening at 8PM the 
 MMRA links most of the repeaters for an 
-open net. The topic is ìTechnical Information 
-and Other Stuffî. Please join us. 
+open net. The topic is ‚ÄúTechnical Information 
+and Other Stuff‚Äù. Please join us. 
 Membership in the MMRA is open to all 
 radio amateurs. Annual dues are $25 per 
 individual or $35 per family. See our 
@@ -284,7 +284,7 @@ our September meeting to hear Gordon Pettengill,
 W1OUN, talk about the early days of Moonbounce. 
 The photos and slides below are of or by Gordon. 
 Our many thanks go out to W1OUN! 
-Before Gordonís talk, VP Steve Telsey, N1BDA, ran 
+Before Gordon‚Äôs talk, VP Steve Telsey, N1BDA, ran 
 the business meeting. Discussions included a repeater 
 update; the need for a net control for the 1st 
 Tuesday; Roger, WA1NVC's 10M Project; and Treasurer 
@@ -372,7 +372,7 @@ James Cahill KB1LOY
 VEC Liaison Bill Wade K1IJ 
 Web Page Editor Bob DeMattia K1IW 
 TIME TO RENEW YOUR 
-MEMBERSHIP, IF YOU HAVENíT 
+MEMBERSHIP, IF YOU HAVEN‚ÄôT 
 
 WE'RE ON THE WEB! 
 HTTP://WWW.MMRA.ORG/ 

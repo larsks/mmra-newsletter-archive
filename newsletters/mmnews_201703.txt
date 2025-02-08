@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.Â  
 
 The Minuteman
 
@@ -9,7 +9,7 @@ March 2017
 
 Membership Meeting ~ Wednesday, 15 March, 7 PM
 Truths & Myths about Station Grounding 
-Neil Goodell ~ AE1P  
+Neil Goodell ~ AE1PÂ  
 Location: Leominster Emergency Management              Talkin: 147.27
 
 First introduced to Ham Radio at the age of 12, when I was given an old Knight R-100A, and a box full of 73 and Popular Electronics magazine.  Got sidetracked with the usual teenage activities, sports and trucks, and did not return back to Amateur Radio until 2002, when I started studying and passed my tech, receiving the call KB1KOX.  I then upgraded to general, while the 5 wpm code requirement was still in place, and Extra six months after that, and have enjoyed the Hobby ever since. 
@@ -17,7 +17,7 @@ First introduced to Ham Radio at the age of 12, when I was given an old Knight R
 One of the best experiences I have had concerning Amateur Radio was being the Site Supervisor for five sites during the 2014 WRTC event held in New England.  It was a lot of work but also a lot of fun, and a pleasure to meet and spend time with some of the best of the best in Amateur radio contesting.  As far as the hobby goes, I enjoy all aspects: contesting, ragchewing, rtty and digital, homebrewing and antenna building...there is so much to do, never a dull moment.
 In my personal life I am a Master Electrician, spent 20+ years as an Electrical Foreman in commercial projects, mostly in Hospitals and Power Plants, and now am the Electrician for the City of Keene in the Utilities Division.
 
-Being an Electrician, I had already known of the importance of Grounding, and, using that to tie in directly to Amateur radio: How important Grounding is to our “Radio Shacks”, as far as lightning protection and RF grounding.  I look forward to sharing the importance of grounding to your group on the 15th.
+Being an Electrician, I had already known of the importance of Grounding, and, using that to tie in directly to Amateur radio: How important Grounding is to our â€œRadio Shacksâ€, as far as lightning protection and RF grounding.  I look forward to sharing the importance of grounding to your group on the 15th.
 ----------
 
 Notice: We will be asking the club membership to approve the purchase of a duplexer for the 53.81 repeater at Marlborough East for $1000 
@@ -32,7 +32,7 @@ Using Route 2 Westbound:
   > 0.4 miles down the ramp, bear left, DO NOT get on I-190.  Bearing left will put you
  on the Leominster Connector/Mechanic Street.
   > Follow this for approximately 1.2 miles, then turn left on 5th Ave.
-? Leominster EMA is 0.1 miles ahead at the intersection of Carter & 5th. 
+? Leominster EMA is 0.1 miles ahead at the intersection of Carter & 5th.Â 
 
 Using Route 2 Eastbound:
   > Take exit 33, "I-190 / Mechanic St".
@@ -68,7 +68,7 @@ These are a few of the key slides presented by Greg.
 (Then follows two pages od slides from Greg's talk.)
 ----------
 
-Fund raising for the MMRA — or — How the MMRA club affords all these shiny toys and how you can help.
+Fund raising for the MMRA â€” or â€” How the MMRA club affords all these shiny toys and how you can help.
 James Lee N1DDK, Board member.
 
 As a member of the MMRA, you probably know that the MMRA supports over 20 repeaters at a dozen sites.  At some of the sites we need to pay either rent or electricity, or both.  Your dues basically pay for the ongoing operating costs and minor maintenance.  If you have been attending the business meetings or reading the minutes in the newsletters you have seen the club is continuously spending money on upgrades and improvements to the repeater system.  A few years ago we spent over $10,000 in needed maintenance at the Marlborough west hub site, AKA Hub1 or Slygo.  How did we afford it?  Donations!
@@ -83,7 +83,7 @@ How you can help:
 
 Help sell things: Selling things on eBay and at flea markets takes time.  This time of year there is a Ham radio, electronics, or general flea market nearly every month?  Do you go to these?  Can you go to one and relieve another volunteer for a few hours at a MMRA table?  MMRA has an EBAY and PayPal account.  Can you list and help pack and ship some of our items?
 
-Solicit Donations:  When your company or someone you know is disposing of assets ask if they can be donated to the club for re-use, re-sale or recycling.  Be above board and be sure it is legal and ethical for anything that is given to MMRA.  No valueless boat anchors: you don't want to haul an item less that $10 value, weighing 100 pounds, in and out of a flea market, and it won’t be worth shipping.
+Solicit Donations:  When your company or someone you know is disposing of assets ask if they can be donated to the club for re-use, re-sale or recycling.  Be above board and be sure it is legal and ethical for anything that is given to MMRA.  No valueless boat anchors: you don't want to haul an item less that $10 value, weighing 100 pounds, in and out of a flea market, and it wonâ€™t be worth shipping.
 
 What do we have?
 
@@ -107,43 +107,43 @@ New England Cabinet Meeting ~ Springfield MA - January 7, 2017
 Tom Frenaye, K1KI, ARRL NE Division Director
 
 I.	Introductions
-	a.	What’s coming up at the board meeting
+	a.	Whatâ€™s coming up at the board meeting
 II.	Topics
 	a.	Amateur Parity Act in Congress
-		i.	We got very close, but …  stalled by Sen. Nelson (FL) though we did some extra work there
-		ii.	Greg Walden W7EQI is now chair of House Energy and Commerce – should help
-		iii.	FCC won’t act without a push from Congress
+		i.	We got very close, but â€¦  stalled by Sen. Nelson (FL) though we did some extra work there
+		ii.	Greg Walden W7EQI is now chair of House Energy and Commerce â€“ should help
+		iii.	FCC wonâ€™t act without a push from Congress
 		Iv.	Likely to be reintroduced this year
 	b.	FCC
 		i.	Been pretty quiet
 		ii.	Nothing yet on LF bands (135-137 KHz and 472-479 KHz)
 		iii.	Enforcement
 			1.	About 1/3 of FCC field offices have been closed
-			2.	We’re attempting to upgrade the OO/FCC relationship
-			3.	Leaning toward fewer OO’s, but upgrading training, roles, etc.
-			4.	Unfortunately, most OO generated info can’t be directly used by the FCC in proceedings
+			2.	Weâ€™re attempting to upgrade the OO/FCC relationship
+			3.	Leaning toward fewer OOâ€™s, but upgrading training, roles, etc.
+			4.	Unfortunately, most OO generated info canâ€™t be directly used by the FCC in proceedings
 				5.	There has been improved pirate radio enforcement
 				6.	Jawboning is often effective, and FCC can be good at this
-				7.	Can ARRL’s role be increased?
-				8.	We’re doing better with the FCC with power line noise issues
-			9.	LED light issues – cheaper ones may not be so good …
-			10.	Solar – much variation in inverters concerning RF noise
+				7.	Can ARRLâ€™s role be increased?
+				8.	Weâ€™re doing better with the FCC with power line noise issues
+			9.	LED light issues â€“ cheaper ones may not be so good â€¦
+			10.	Solar â€“ much variation in inverters concerning RF noise
 				11.	So far, not many reported problems with wind generators
 				12.	New FCC chairman soon
 		Iv.	Licensing
 			1.	FCC has rejected several petitions concerning merging some license classes
-			2.	Do we really need an entry level license like the old Novice – is the problem interest, or difficulty
-			3.	If we’re shooting for 11 year olds, is the math and technical of the technician exam too much?
+			2.	Do we really need an entry level license like the old Novice â€“ is the problem interest, or difficulty
+			3.	If weâ€™re shooting for 11 year olds, is the math and technical of the technician exam too much?
 			4.	Note that National Conference of Volunteer Exam Coordinators (NCVEC) are accepting suggestions for the tech question pool
 			5.	65% of new hams get licensed through self-study
 	c.	Getting new hams
-		I.	Continuous club support may be a key factor – support in schools, etc.
-		ii.	Problem with a lot of school clubs – active members graduate !  Achieving continuity is tough
+		I.	Continuous club support may be a key factor â€“ support in schools, etc.
+		ii.	Problem with a lot of school clubs â€“ active members graduate !  Achieving continuity is tough
 		iii.	Keeping kids in involves social as well as technical things
 		iv.	Since only 20% or so of hams are club members, outreach has to go beyond clubs
 		v.	Consider advertising on social media
 		vi.	License classes can be a good opportunity to build elmering relationships in addition to training
-		vii.	In NE – about 1200 new hams in 2016, 513 upgrades
+		vii.	In NE â€“ about 1200 new hams in 2016, 513 upgrades
 	d.	Boxboro Convention (K1TWF)
 		i.	Weekend after Labor Day (Sept 8-10)
 		ii.	Be there or be square
@@ -164,7 +164,7 @@ II.	Topics
 	h.	Discussion on boosting college radio activity - perhaps a college contest
 	i.	Towers
 		i.	Some legislative action out west concerning towers (crop duster laws)
-		ii.	Federal law passed this summer – covers only areas with few/no people, but some potential impact to us (FAA)
+		ii.	Federal law passed this summer â€“ covers only areas with few/no people, but some potential impact to us (FAA)
 III.	Auction
 	a.	The book auction raised $218 for the new fund to promote collegiate ham radio activity.
 
@@ -223,7 +223,7 @@ Bryan Cerqua ~ W1BRI
 
 Before discussing the rational for going full duplex at the 53.81 Marlboro east site, a brief history on 53.81 repeater is in order.
 
-The MMRA six meter repeater is the one I’ve been involved with the most of any repeater so far.  The 53.81 repeater was a converted GE MASTR II station that was initially on 42 MHz (photo 1).  The first and only MMRA six meter repeater was on the air around October of 1996 using a homebrew Hamtronics controller (photo2).  I remember the installation day when we had a bunch of hefty hams show up to help muscle the repeater from Eddie’s (N1NOM) nimrod mobile into the shelter, (photos 3 & 4).  Some of you old timers might recognize some of the folks in the photo. 
+The MMRA six meter repeater is the one Iâ€™ve been involved with the most of any repeater so far.  The 53.81 repeater was a converted GE MASTR II station that was initially on 42 MHz (photo 1).  The first and only MMRA six meter repeater was on the air around October of 1996 using a homebrew Hamtronics controller (photo2).  I remember the installation day when we had a bunch of hefty hams show up to help muscle the repeater from Eddieâ€™s (N1NOM) nimrod mobile into the shelter, (photos 3 & 4).  Some of you old timers might recognize some of the folks in the photo. 
 
 The repeater is operated as a split site with the transmitter located on the east side of Marlboro and the receiver on the west side.  The Slygo hill receiver on 52.81 relays the signal via UHF to the transmitter site where it rebroadcasts out on 53.81 MHz.  
 
@@ -233,43 +233,43 @@ Around October of 2010 the MMRA acquired a bunch of solid state power amplifier 
 
 The Slygo hill receiver side of the repeater also has a long history. When the six meter repeater went on the air the receive antenna was mounted to a 10 foot mast off the fence surrounding the Slygo shelter. The coverage was not great but it basically worked pretty well.  For many years I kept trying to convince the city of Marlboro to allow the MMRA to put an antenna up on the water tank that is about 100 feet off the ground.  The day finally arrive in October of 1998, and with the help of Bill WA1NLR we had a PD83 coaxial type antenna mounted on the south side of the water tank.  
 
-The coverage towards the south was fantastic however the coverage towards the north was hampered due to the blockage of water tank’s metal cone.  To help improve things another receiver was installed at Slygo on a thirty foot mast.  This antenna gave better coverage towards the north. The selection on what receiver was used was based on which PL tone was used.   I was constantly telling users if you’re towards the south of Marlboro to use one PL tone and if you’re towards the north to use the other PL tone.  After a few years of this I got tired explaining which PL to use and built a dual MASTR II receiver voter that would automatically select the best receiver based on the best SNR (photo7).
+The coverage towards the south was fantastic however the coverage towards the north was hampered due to the blockage of water tankâ€™s metal cone.  To help improve things another receiver was installed at Slygo on a thirty foot mast.  This antenna gave better coverage towards the north. The selection on what receiver was used was based on which PL tone was used.   I was constantly telling users if youâ€™re towards the south of Marlboro to use one PL tone and if youâ€™re towards the north to use the other PL tone.  After a few years of this I got tired explaining which PL to use and built a dual MASTR II receiver voter that would automatically select the best receiver based on the best SNR (photo7).
 
 The voter was in service until the city of Marlboro decides to spend $750,000 on renovating the water tank between November 2011 and August 2012.  During this time the repeater was stuck using just the lower antenna.  For this period most of the MMRA repeaters at Slygo were operating on temporary antennas that were at ground elevation.
 
-With the renovation completed on the water tank the MMRA had to wait until September 2014 to get the antennas back up on the tank.  It was a long time coming for the MMRA and we finally celebrated this event with a nice cake that Bob (K1IW) presented at one of the MMRA meetings at the Northborough library.  Now that things are back to normal with most of the MMRA repeaters working better than ever since the cone of the tank is no longer made of metal (photo 8),  except for the 6 meter repeater receiver.  It didn’t take long to discover that something up on the tank produced broadband type noise that severely hampered reception.  Much effort was spent on trying to locate the noise source (another story for a later newsletter).   The top mounted PD83 6 meter antenna in its new location is probably parked next to a noisy cell phone power supply; not much we can do at this point but live with the noise.
+With the renovation completed on the water tank the MMRA had to wait until September 2014 to get the antennas back up on the tank.  It was a long time coming for the MMRA and we finally celebrated this event with a nice cake that Bob (K1IW) presented at one of the MMRA meetings at the Northborough library.  Now that things are back to normal with most of the MMRA repeaters working better than ever since the cone of the tank is no longer made of metal (photo 8),  except for the 6 meter repeater receiver.  It didnâ€™t take long to discover that something up on the tank produced broadband type noise that severely hampered reception.  Much effort was spent on trying to locate the noise source (another story for a later newsletter).   The top mounted PD83 6 meter antenna in its new location is probably parked next to a noisy cell phone power supply; not much we can do at this point but live with the noise.
 
-Just recently the Marlboro east site was totally cleaned up by Bob (K1IW), James (N1DDK) and me,  (photos 9 & 10).  All the equipment was removed and transported to Bob’s garage where we re-racked all the repeaters and Larcan amplifier into one rack.  This created a lot of extra space in the shelter.  Prior to this there was hardly any room to even move in the shelter.  At one of the board meetings the subject of trying the receiver at the transmit site on the east side of town was suggested.  To do this would require a large duplexer. With the help of Roger (WA1NVC) the MMRA obtained a loaner set of duplexers.  Roger and I transported the duplexer to the Marlboro east site.  Before the duplexer could be used I had to rivet on the bottom covers and tune them to 53.81 (photos 11 & 12).  To support running full duplex, I had to construct another six meter receiver.  I wanted to keep the Slygo split site receiver active also so I used an audio summing amplifier that allows using the audio from Slygo or the audio from the local duplex receiver.  The Slygo receiver requires a PL tone of 100 Hz and the local receiver requires a PL tone 71.9 Hz, here we go again with the two different PL tones! (Photos 13 & 14.)
+Just recently the Marlboro east site was totally cleaned up by Bob (K1IW), James (N1DDK) and me,  (photos 9 & 10).  All the equipment was removed and transported to Bobâ€™s garage where we re-racked all the repeaters and Larcan amplifier into one rack.  This created a lot of extra space in the shelter.  Prior to this there was hardly any room to even move in the shelter.  At one of the board meetings the subject of trying the receiver at the transmit site on the east side of town was suggested.  To do this would require a large duplexer. With the help of Roger (WA1NVC) the MMRA obtained a loaner set of duplexers.  Roger and I transported the duplexer to the Marlboro east site.  Before the duplexer could be used I had to rivet on the bottom covers and tune them to 53.81 (photos 11 & 12).  To support running full duplex, I had to construct another six meter receiver.  I wanted to keep the Slygo split site receiver active also so I used an audio summing amplifier that allows using the audio from Slygo or the audio from the local duplex receiver.  The Slygo receiver requires a PL tone of 100 Hz and the local receiver requires a PL tone 71.9 Hz, here we go again with the two different PL tones! (Photos 13 & 14.)
 
 The full duplexer configuration is working quite nicely.  If a user is weak into the full duplex site then can try the Slygo site; even with the high noise floor it still provides some value.   
 The MMRA also has a third receiver in Hopkinton that uses a 173.8 Hz PL tone.  Currently the UHF side of this cross band receiver is not working; I hope to get access to the site soon to fix it.  Once fixed there is a possibility that this third receiver may be relocated to a better location such as Quincy.  The Marlboro east site is looking very nice now, you can see some of the latest photos of the repeaters on the MMRA web page (photo 15.)
 
-As you can see this 6 meter repeater has quite a busy history.  It’s one of my favorite repeaters so please give it a try.  By the way the Larcan 53.81 power amp is running smoothly at 300W so you should have no trouble hearing it.
+As you can see this 6 meter repeater has quite a busy history.  Itâ€™s one of my favorite repeaters so please give it a try.  By the way the Larcan 53.81 power amp is running smoothly at 300W so you should have no trouble hearing it.
 ----------
 
 Upcoming MMRA Meetings
 
 Wednesday, 15 Mar ~ Membership Meeting
-Topic—Truths & Myths about Station Grounding ~ Neil Goodell ~ AE1P  
-Location—Leominster Emergency Management 
+Topicâ€”Truths & Myths about Station Grounding ~ Neil Goodell ~ AE1PÂ  
+Locationâ€”Leominster Emergency Management 
 
 Wed, 19 April ~ Business Meeting
 Location: New England Airgun in Hudson 
 
 Wednesday, 24 May ~ Membership Meeting
-Topic—End of Year Meeting / Officer’s Reports / Elections
-Location—TBD
+Topicâ€”End of Year Meeting / Officerâ€™s Reports / Elections
+Locationâ€”TBD
 
 Wed, 21 June ~ Business Meeting
 Location: TBD
 ----------
 
-Don’t Forget! Join Us.
+Donâ€™t Forget! Join Us.
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	

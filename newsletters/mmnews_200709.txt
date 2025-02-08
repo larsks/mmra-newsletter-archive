@@ -27,7 +27,7 @@ For more information: http://www.westboroughlib.org/geninfo.html
 ARRL and TAPR		26th Annual Digital Communications Conference
 September 28-30, 2007  Hartford, Connecticut
 
-This is the premier Digital Communication Conference for Ham Radio.  Several members of the MMRA will be going and car-pooling.  Technical sessions include APRS, Software Defined Radio, future AMSAT birds, etc.  A ìDemo Roomî for experimenters will be open.  Info at http://www.tapr.org.
+This is the premier Digital Communication Conference for Ham Radio.  Several members of the MMRA will be going and car-pooling.  Technical sessions include APRS, Software Defined Radio, future AMSAT birds, etc.  A ‚ÄúDemo Room‚Äù for experimenters will be open.  Info at http://www.tapr.org.
 
 Contact James, KB1LOY or Kevin, K1KWP if you are interested.
 
@@ -62,7 +62,7 @@ On behalf of the American Red Cross of Massachusetts Bay Chapter, I welcome you 
 
 This year we will be using both 2m and 70cm along with APRS on 70cm 
 
-This yearís events will be held from October 19 to 21.
+This year‚Äôs events will be held from October 19 to 21.
 If you are available to work one, two or all three of these days, (full days only....its almost impossible to change staff during the day, as all the roads are closed) 
 please let me know.  
 
@@ -82,7 +82,7 @@ First Aid Station Committee
 
 -----------------
 
-Presidentís Report
+President‚Äôs Report
 Bob DeMattia, K1IW
 
 As fall approaches, it's the start of a new MMRA membership year.  All memberships run from September 1st to August 31st, so unless you are one of the few that renewed over the summer, your membership has probably expired. For those reading the newsletter online, the first screen you see after you log in will display a prominent reminder of your membership status. For those receiving pony express issues, check the date on your mailing label. The main (and almost exclusive) source of MMRA's income is membership dues. Dues and the sweat equity of the technical committee are what keep the repeaters running, so please remember to renew your membership today. 
@@ -91,10 +91,10 @@ While I'm on the topic of reminders, my second one is that "This is your club". 
 
 -----------------
 
-Treasurerís Report
+Treasurer‚Äôs Report
 Kevin Paetzold, K1KWP
 
-I have been the treasurer of the MMRA for the past four years (I previously served as president and vice-president for several years).  Most members are aware of the general membership meetings which are held five times each year.  There are also another set of meetings of the MMRA which usually occur in the months which do not have general membership meetings.  Even though these meetings are generally known as the ìBoard Meetingsî all members are invited and encouraged to attend as this is the forum where most decisions (and votes) that relate to the policies, operation, and funding  of the club and the repeater system occur.  Information which is presented at the ìBoard Meetingsî generally includes detailed financial information.  The purpose of this article is to make some of this financial information more visible to the membership at large.
+I have been the treasurer of the MMRA for the past four years (I previously served as president and vice-president for several years).  Most members are aware of the general membership meetings which are held five times each year.  There are also another set of meetings of the MMRA which usually occur in the months which do not have general membership meetings.  Even though these meetings are generally known as the ‚ÄúBoard Meetings‚Äù all members are invited and encouraged to attend as this is the forum where most decisions (and votes) that relate to the policies, operation, and funding  of the club and the repeater system occur.  Information which is presented at the ‚ÄúBoard Meetings‚Äù generally includes detailed financial information.  The purpose of this article is to make some of this financial information more visible to the membership at large.
 
 The MMRA fiscal year runs from the time of the elections (which occur at the May meeting each year) to the next election.  The May 2006 through May 2007 fiscal year concluded at the election meeting in May 2007 at which point the May 2007 through May 2008 fiscal year commenced.  
 
@@ -108,7 +108,7 @@ Although the numbers in this article indicate that the MMRA once again operated 
 
 Although some members have already renewed their membership we need to collect an additional $3148.00 in dues to reach the same membership level as 2006-2007.
 
-I hope that this article has given the members who do not attend the ìBoard Meetingsî some insights into some of the recurring costs for operating the system as well as the one time costs that occur when putting new and/or improved repeaters on the air.  If you would like more information about these aspects of the MMRA I strongly  encourage you to attend one or more board meetings in the future.
+I hope that this article has given the members who do not attend the ‚ÄúBoard Meetings‚Äù some insights into some of the recurring costs for operating the system as well as the one time costs that occur when putting new and/or improved repeaters on the air.  If you would like more information about these aspects of the MMRA I strongly  encourage you to attend one or more board meetings in the future.
 
 73,  Kevin (K1KWP)
 Treasurer, Minuteman Repeater Association
@@ -122,7 +122,7 @@ Our last meeting of the 2006 to 2007 MMRA year was our Annual Meeting, held at t
 
 ANNUAL MEETING
 
-Bob DeMattia held our Annual Meeting in the conference hall.  Short reports from our Treasurer, Kevin, and our Technical Officer, Bryan, preceded the main event ó our elections.  All nominees were elected, our current officers are listed later in this Newsletter
+Bob DeMattia held our Annual Meeting in the conference hall.  Short reports from our Treasurer, Kevin, and our Technical Officer, Bryan, preceded the main event ‚Äî our elections.  All nominees were elected, our current officers are listed later in this Newsletter
 
 	Picture: Bob doing an election Song & Dance
 
@@ -131,7 +131,7 @@ CLAY CENTER DISCUSSION and CLAY CENTER TOUR
 Ron, the Director of the Clay Center Observatory, described the latest education and research collaborations involving the Clay Center.  For more information about Ron, see our May 2007 Newsletter. 
 
 	Picture: Ron introducing his talk
-	Picture: Ronís introductory slide
+	Picture: Ron‚Äôs introductory slide
 	Picture: One photo from the Clay Center telescope
 	Picture: The gang looking at the new Clay Center tracking scopes
 	Picture: The Repeaters
@@ -162,9 +162,9 @@ Paul M. Segal, W9EEA, 1928
 Update on Stoneham 440
 Larry Banks, W1DYJ
 
-As you know by now, the Stoneham 440 repeater is on a list of about 160 repeaters that have been cited by the Air Force as interfering with the two Pave Paws radar systems in the US ó most in California but about 40 here.  The Pave Paws installation is in Sandwich and has been upgraded which is why this is a problem.
+As you know by now, the Stoneham 440 repeater is on a list of about 160 repeaters that have been cited by the Air Force as interfering with the two Pave Paws radar systems in the US ‚Äî most in California but about 40 here.  The Pave Paws installation is in Sandwich and has been upgraded which is why this is a problem.
 
-We have received our mitigation information from the ARRL, who has been working with the Air Force and the FCC in an attempt to keep these repeaters on the air.  From our original RF output of 20 W to a 5 dB omni directional antenna (~63W ERP) we have been asked to reduce our power in the Pave Paws direction by 24 dB ó or to 78 mW!
+We have received our mitigation information from the ARRL, who has been working with the Air Force and the FCC in an attempt to keep these repeaters on the air.  From our original RF output of 20 W to a 5 dB omni directional antenna (~63W ERP) we have been asked to reduce our power in the Pave Paws direction by 24 dB ‚Äî or to 78 mW!
 
 We will discuss this at our 19 Sept. meeting.  We have a number of thoughts on how to do this and keep the repeater on the air.  We need to act quickly to show that we understand that the 440 ham band is a secondary player to the Air Force.  Come with your thoughts as we probably have not thought of everything.
 
@@ -173,7 +173,7 @@ We will discuss this at our 19 Sept. meeting.  We have a number of thoughts on h
 Quincy Antenna Party
 Larry Banks, W1DYJ
 
-Late last April, and too late to make the May Newsletter, the Quincy 2M antenna was raised about 40 feet to the top of the tower.  Charlotte Richardson, KQ1F, and Paul Young, K1XM, were the tower crew, for which the MMRA owes a great debt ó and they did this for the price of a good dinner!
+Late last April, and too late to make the May Newsletter, the Quincy 2M antenna was raised about 40 feet to the top of the tower.  Charlotte Richardson, KQ1F, and Paul Young, K1XM, were the tower crew, for which the MMRA owes a great debt ‚Äî and they did this for the price of a good dinner!
 
 Bob, N1BE, and Bryan, W1BRI were the support crew.
 
@@ -211,13 +211,13 @@ Web Page Editor			Bob DeMattia		K1IW
 
 -------------------
 
-Donít Forget!
+Don‚Äôt Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
 
-We need a control operator for the first Tuesday  of each month ñ contact me at W1DYJ@mmra.org if you would like to running the net some evening ñ we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+We need a control operator for the first Tuesday  of each month ‚Äì contact me at W1DYJ@mmra.org if you would like to running the net some evening ‚Äì we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
 
 Current Net Control Operators:
 

@@ -1,6 +1,6 @@
 The Minuteman Repeater Association
 
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.Â  
 
 The Minuteman
 Volume 45, Number 6
@@ -16,15 +16,15 @@ MMRA Officers Report to Members & General Election
 Programming Your Radio with CHIRP
 James Lee N1DDK 
 
-Location:   Northborough Public Library ~ Talk-in 147.27
+Location: Â Â Northborough Public Library ~ Talk-in 147.27
 
 CHIRP is universal software that supports programming of just about any modern radio. N1DDK will show us how easy it is to use. Best of all, 
 the software is FREE! 
 
-James was originally licensed as KA1KUB in 1982.  He became active 
-developing Chirp software when he purchased a  TYT9800 quad band 
+James was originally licensed as KA1KUB in 1982.Â Â He became active 
+developing Chirp software when he purchased a  TYT9800Â quad band 
 6, 10, 2, 440 mobile radio and wanted to easily program it.    He is currently 
-a hardware development Engineer for Qualcomm in Boxborough.
+a hardware development Engineer forÂ Qualcomm in Boxborough.
 
 Nominations
  David Wolfe, 		KG1H	President
@@ -49,7 +49,7 @@ Opposite the Gulf Station on the right, turn left into Patty Lane.
 The Northborough Free Library parking lot will be on the left.
 ----------
 
-President’s Corner ~ Bob DeMattia ~ K1IW
+Presidentâ€™s Corner ~ Bob DeMattia ~ K1IW
 
 When I wrote my first president's corner in September 2004, I outlined where we were as a club and some areas I'd work to improve.  My main concern was meeting attendance, which ranged from maybe a dozen at some meetings to occasionally close to forty.  I'm happy to report that at our last few general meetings, the average has moved to about 25, though the maximum is still about forty.  Progress, yes - but it's taken us twelve years to improve to this point. 
 
@@ -95,7 +95,7 @@ Contact David, KG1H, for details:  KG1H@ MMRA.org
 
 Burlington Repeaters have moved to North Reading
 
-The MMRA Burlington repeaters - 146.715 and 446.775 have been relocated to North Reading.  Input PL has not changed.  This site is expected to improve coverage, especially to the North, but generally in all directions.
+The MMRA Burlington repeaters - 146.715 and 446.775 have been relocated to North Reading.Â  Input PL has not changed.Â  This site is expected to improve coverage, especially to the North, but generally in all directions.
 
 Please give them a try and send us your signal reports!  Some photos from the move are below.  (KG1H photos unless noted.)
 
@@ -139,12 +139,12 @@ David Wolfe, KG1H
 
 Public Service Events sponsored by the MMRA or other ham organizations that members of the MMRA participate in and/or MMRA repeaters support:
 
-Sutton Chain of Lights – 05 Dec 2015
-Ashland Half-Marathon & 5K Race – 19 March 2016 
-2016 Boston Marathon – 18 April 2016	
-Run of the Charles – 24 April 2016
-Westford Kiwanis Apple Blossom Parade– 14 May 2016
-Brain Tumor Association Boston Ride– 15 May 2016
+Sutton Chain of Lights â€“ 05 Dec 2015
+Ashland Half-Marathon & 5K Race â€“ 19 March 2016 
+2016 Boston Marathon â€“ 18 April 2016	
+Run of the Charles â€“ 24 April 2016
+Westford Kiwanis Apple Blossom Paradeâ€“ 14 May 2016
+Brain Tumor Association Boston Rideâ€“ 15 May 2016
 Wellesley Parade, 22 May 2016
 ----------
 
@@ -193,7 +193,7 @@ March Membership Meeting
 
 Antenna Modeling ~ Larry Banks, W1DYJ
 
-Larry’s presentation started with some history about why Larry started modeling antennas.  It then highlighted the various software packages available in three ARRL Books: The Handbook, OH4UN’s Low Band DXing, and The Antenna Book.  Using some of his homebrew antennas as examples, Larry showed how to use four packages – TLW, YW, HFTA, and EZNEC.
+Larryâ€™s presentation started with some history about why Larry started modeling antennas.  It then highlighted the various software packages available in three ARRL Books: The Handbook, OH4UNâ€™s Low Band DXing, and The Antenna Book.  Using some of his homebrew antennas as examples, Larry showed how to use four packages â€“ TLW, YW, HFTA, and EZNEC.
 
 A few of his slides are below.
 ----------
@@ -223,12 +223,12 @@ for details:
 K1IW @ mmra.org
 ----------
 
-Don’t Forget! Join Us.
+Donâ€™t Forget! Join Us.
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -268,10 +268,10 @@ Clerk			Bob Evans	N1BE
 * Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  »2017		Steve Schwarm	W3EVE
-Director  »2017		Roger Coulson	WA1NVC
-Director  »2016		Clark Conti	N1NVK
-Director  »2016		Mike Neilsen	W1MPN
+Director  Â»2017		Steve Schwarm	W3EVE
+Director  Â»2017		Roger Coulson	WA1NVC
+Director  Â»2016		Clark Conti	N1NVK
+Director  Â»2016		Mike Neilsen	W1MPN
 
 Repeater Trustees
 * Belmont 145.430	James Lee	N1DDK
@@ -286,7 +286,7 @@ Repeater Trustees
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
 
-       448.225, 449.925,  927.700 — all as W1MRA
+       448.225, 449.925,  927.700 â€” all as W1MRA
 	Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP
 * N. Reading 146.715	Bruce Pigott	KC1US

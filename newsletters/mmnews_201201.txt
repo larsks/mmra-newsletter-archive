@@ -9,7 +9,7 @@ Membership Meeting ~ Wednesday, 18 January 2012 @ 7:00 PM
 Introduction to D-Star
 
 Northborough Free Library ~ 34 Main Street (Rt. 20), Northborough
-Talk in ó 147.27
+Talk in ‚Äî 147.27
 Terry Stader KA8SCP will be visiting to provide an introduction to D-Star digital radio technology.  With the MMRA D-Star repeater now on the air, the timing couldn't be more appropriate!
 
 Directions to The Northborough Free Library from I-495:
@@ -22,18 +22,18 @@ The Northborough Free Library parking lot will be on the left.
 Quincy 220 back on the air!
 Thanks to Bryan, W1BRI,
 and Roger, WA1NVC!  
-Bryan can hit it with his rubber duck on a VX7 portable†at 300mW from his Milford 2nd floor shack room.  Roger can also, with his Alinco HT from Framingham.  Power into the antenna cable was measured at 45W.
+Bryan can hit it with his rubber duck on a VX7 portable¬†at 300mW from his Milford 2nd floor shack room.  Roger can also, with his Alinco HT from Framingham.  Power into the antenna cable was measured at 45W.
 --------
 
 For those of you that would like to try 222 or 900:
 
-Alinco just released the first amateur dual band handheld for 900 MHz and 222 MHz. ó The Alinco DJ-G29T
+Alinco just released the first amateur dual band handheld for 900 MHz and 222 MHz. ‚Äî The Alinco DJ-G29T
 http://www.alinco.com/Products/DJ-G29/
 --------
 
-Presidentís Corner
+President‚Äôs Corner
 
-Bob DeMattia ó K1IW 
+Bob DeMattia ‚Äî K1IW 
 
 August isn't too far away, right?  If you're involved with the New England Convention, August is never too far away, but especially now.
 
@@ -44,7 +44,7 @@ We need ideas and volunteers to help out with the planning and execution at this
 
 MMRA Repeaters used for Public Service in 2011
 
-Bruce Pigott ó KC1US
+Bruce Pigott ‚Äî KC1US
 
 This is a summary of the repeaters used for public service events in the past year.  The coverage area of both the suburbs and downtown Boston is a great asset for organizations looking for communications support. 
 
@@ -67,11 +67,11 @@ Fri to Sun, Oct 21 to Oct 23	146.820	Mass. Bay Red Cross		Head of the Charles Re
 November 16th Membership Meeting
 Ham Radio at the Boston Marathon
 
-About 50 Hams attended the November meeting, held at MEMA Headquarters in Framingham.  After a business meeting which included a Treasurerís report and an update on the status of all repeaters, the main event was a presentation about the Boston Marathon.
+About 50 Hams attended the November meeting, held at MEMA Headquarters in Framingham.  After a business meeting which included a Treasurer‚Äôs report and an update on the status of all repeaters, the main event was a presentation about the Boston Marathon.
 --------
 
-MMRA Repeater Controller Primer ñ Part 2 - Linking
-Bob DeMattia ó K1IW 
+MMRA Repeater Controller Primer ‚Äì Part 2 - Linking
+Bob DeMattia ‚Äî K1IW 
 
 In the last installment, I discussed how the MMRA repeater systems were standardized.  This was done for two reasons: (1) to make it easier to maintain all of them and (2) to provide a consistent set of control commands for both control-ops and users.  With a large linked network, one of the biggest problems to overcome is keeping the linking commands from getting too complicated.  It would be good if people are able to remember how to link and de-link without confusion, but at the same time have lots of flexibility.
 
@@ -79,11 +79,11 @@ Each MMRA repeater can operate unlinked, linked to HUB1, or linked to HUB2.  The
 
 When an MMRA member changes the link state with a user command, the change is temporary.  After nine minutes of repeater inactivity, the controller will revert to the default state.  The default state may be permanently changed by the control-op version of the linking command, or by automatically scheduled event such as the MMRA TIOS net link up on Tuesday nights.
 
-The three commands are of course ìDelinkî, ìLink to HUB1î, and ìLink to HUB2î.  For dual-repeater sites, there is only one controller and one link radio, so there are no combinations where one repeater is linked to HUB1 and the other is linked to HUB2 at the same time.  Also, one repeater cannot link to both HUBs at the same time.
+The three commands are of course ‚ÄúDelink‚Äù, ‚ÄúLink to HUB1‚Äù, and ‚ÄúLink to HUB2‚Äù.  For dual-repeater sites, there is only one controller and one link radio, so there are no combinations where one repeater is linked to HUB1 and the other is linked to HUB2 at the same time.  Also, one repeater cannot link to both HUBs at the same time.
 
 The controller operates in one of eight modes.  These modes and the transitions between them are explained best in the table to the right.  If a command is not listed for a particular state, it has no effect.  Note that if there is a command that would change the linking from HUB1 to HUB2, then the repeater not being linked by the new command will always end up unlinked.
 
-When linking, you shouldnít have to worry much about this table.  Just enter the link you want to change and the controller will take care of the rest.  When you say ìLink to HUB1î, the controller looks at which repeater you are on and assumes that repeater.  This allows you to use the same command, for example, on 147.27 or on 224.88 but that command will translate to ìLink R1 to H1î or ìLink R2 to H1î automatically.  When you are on a HUB, there are specific unique linking commands for each repeater.
+When linking, you shouldn‚Äôt have to worry much about this table.  Just enter the link you want to change and the controller will take care of the rest.  When you say ‚ÄúLink to HUB1‚Äù, the controller looks at which repeater you are on and assumes that repeater.  This allows you to use the same command, for example, on 147.27 or on 224.88 but that command will translate to ‚ÄúLink R1 to H1‚Äù or ‚ÄúLink R2 to H1‚Äù automatically.  When you are on a HUB, there are specific unique linking commands for each repeater.
 
 Transition Table    (H1 = HUB1, H2 = HUB2)
 
@@ -133,15 +133,15 @@ State 	Repeater 1	Repeater 2	Command
 7	linked H2	linked H2	Link R2 to H1	2
 7	linked H2	linked H2	Link R1 to R2	4
 
-In the next installment, Iíll provide a little more detail on how the SCOM controller decodes and executes DTMF commands.
+In the next installment, I‚Äôll provide a little more detail on how the SCOM controller decodes and executes DTMF commands.
 --------
 
 Marlborough West Shelter Gets an Upgrade 
-Bob DeMattia ó K1IW 
+Bob DeMattia ‚Äî K1IW 
 
-You may have seen this photo, or one like it, in previous issues of The Minuteman.  This was the shelter that housed the MMRAís main Hub repeater, 449.925, as well as 147.27, 224.88, 927.700, the receive end of 53.81, the 447.875 affiliated repeater, and the APRS node.  
+You may have seen this photo, or one like it, in previous issues of The Minuteman.  This was the shelter that housed the MMRA‚Äôs main Hub repeater, 449.925, as well as 147.27, 224.88, 927.700, the receive end of 53.81, the 447.875 affiliated repeater, and the APRS node.  
 
-The club had gotten used to the frequent rodent visitors that found many ways to access the interior.  However, after the heavy rainstorms in mid-August 2011, we were treated to a new problem when we found moisture inside the shelter.  This prompted the addition of the blue tarp.  While the tarp endured the subsequent tropical storm Irene, it didnít provide full protection.  Moisture and electronics donít generally mix well, so the decision was made that the shelter needed to be replaced before it went through another winter.
+The club had gotten used to the frequent rodent visitors that found many ways to access the interior.  However, after the heavy rainstorms in mid-August 2011, we were treated to a new problem when we found moisture inside the shelter.  This prompted the addition of the blue tarp.  While the tarp endured the subsequent tropical storm Irene, it didn‚Äôt provide full protection.  Moisture and electronics don‚Äôt generally mix well, so the decision was made that the shelter needed to be replaced before it went through another winter.
 
 The club knew this day was coming for a long time.  In 2009, Bob Stone, N1KMA donated a new shelter to the club.  All we had to do and come and get it (Bob lives in Maine), so we did!
 
@@ -150,7 +150,7 @@ The shelter laid in waiting for nearly two years.  In that time, the inside was 
 
 On October 21st, club members descended on the old shelter and removed all the equipment.  Later in the evening, the old shelter was dragged onto a flatbed truck and hauled away.
 
-The equipment was brought to K1IWís garage for safe storage 
+The equipment was brought to K1IW‚Äôs garage for safe storage 
 
 The next morning, the ground was graded to provide  a flat surface.
 And the new shelter was put in place by crane. 
@@ -198,27 +198,27 @@ KC1US reported on the use of the MMRA network for public service events in the y
 The meeting adjourned at 9:00 PM.
 --------
 
-2011ó2012 Meetings
+2011‚Äî2012 Meetings
 
 21 September 
-Rob Macedo, KC1CY ó Tornadoes and Hurricanes
+Rob Macedo, KC1CY ‚Äî Tornadoes and Hurricanes
 Westborough Public Library ~ 7:00 PM
 
-19 October  ó Business Meeting
+19 October  ‚Äî Business Meeting
 Southborough House of Pizza
 
 16 November 
 Ham Radio at The Boston Marathon
 MEMA Hqtrs, Framingham ~ 7:30 PM
 
-14 December ó Business Meeting
+14 December ‚Äî Business Meeting
 Stratus, Maynard 
 
 18 January
-All About D-Star  ó Terry Stader, KA8SCP
+All About D-Star  ‚Äî Terry Stader, KA8SCP
 Northborough Free Library  ~ 7:00 PM
 
-15 February ó Business Meeting
+15 February ‚Äî Business Meeting
 Conexant, Waltham ` 7:00 PM
 
 21 March
@@ -232,18 +232,18 @@ No meeting in April
 TBA & MMRA General Elections
 TBA ~ 7:00 PM
 
-20 June ó Business Meeting
+20 June ‚Äî Business Meeting
 Kennedy's Pub, Marlboro ~ 7:00 PM
 --------
 
-Donít Forget!
+Don‚Äôt Forget!
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ñ we have a script you can use.  
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ‚Äì we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -252,7 +252,7 @@ Week 3	KQ1Y		Tim Wortley
 Week 4	K1KWP		Kevin Paetzold	
 Week 5 	W1DYJ		Larry Banks
 
-To connect using the digital modes during the Net: Use the New England Reflector: connect via *NEW-ENG*, node 9123.  You can find this under ìNode Typesî >> ìConferences.î
+To connect using the digital modes during the Net: Use the New England Reflector: connect via *NEW-ENG*, node 9123.  You can find this under ‚ÄúNode Types‚Äù >> ‚ÄúConferences.‚Äù
 
 For the HHTN, use *NEW-ENG2*, node 9127
 --------
@@ -270,10 +270,10 @@ Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
 ------------------
-Director  ª2012	Clark Conti	N1NVK
-Director  ª2012	Mike Neilsen	W1MPN
-Director  ª2013	Steve Schwarm	W3EVE
-Director  ª2013	Roger Coulson	WA1NVC
+Director  ¬ª2012	Clark Conti	N1NVK
+Director  ¬ª2012	Mike Neilsen	W1MPN
+Director  ¬ª2013	Steve Schwarm	W3EVE
+Director  ¬ª2013	Roger Coulson	WA1NVC
 
 Repeater Trustees, Appointed
 ----------------------------
@@ -288,7 +288,7 @@ Marlboro 53.810, Quincy 146.670, Southboro 449.575
 	
 		Bryan Cerqua	W1BRI
 Marlboro 144.390, 47.270, 224.880, 449.925, 
-Weston 442.700, 927.700 ó all as W1MRA
+Weston 442.700, 927.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Weston 146.790		Bob Evans	N1BE
@@ -344,7 +344,7 @@ See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
 
 If you haven't renewed...
 Dues are due.
-$25/year ó $35/family
+$25/year ‚Äî $35/family
 ($10 extra for snailmail Newsletter)
 http://www.mmra.org/
 ...or mail your check,

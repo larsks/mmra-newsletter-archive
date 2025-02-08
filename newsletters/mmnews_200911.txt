@@ -16,7 +16,7 @@ Directions
 From West or South:
 
 Take Route 128 to route 28 N, Randolph Ave. toward Milton.
-At fourth traffic light turn left on Reedsdale Road (staying on 28N). There is a Tedeschiís on the right and a church on the left.
+At fourth traffic light turn left on Reedsdale Road (staying on 28N). There is a Tedeschi‚Äôs on the right and a church on the left.
 At next traffic light turn left onto Canton Ave.
 Library is on this corner, use the 1st driveway to turn left into parking lot. 
 
@@ -40,16 +40,16 @@ The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and publ
 Massachusetts.
 The MMRA meets (usually) on the 3rd Wednesday of September, November, January, March, and May.  Meeting time, locations and talk-in frequency vary.  These are announced in the newsletter and on weekly nets.  Meetings are open to all interested parties.
 The Minuteman newsletter is Emailed one week before each meeting.  Members are encouraged to submit articles.  Articles may be sent to the editor via email to newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 Email to the club leadership should be sent to contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
-An email distribution list for club members named ìMMRAî is at: www.yahoogroups.com/
+An email distribution list for club members named ‚ÄúMMRA‚Äù is at: www.yahoogroups.com/
 No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
 
 ----------
 
 Public Service and the MMRA
-Bruce, KC1US ó Public Service Coordinator 
+Bruce, KC1US ‚Äî Public Service Coordinator 
 
 One of the objectives of the Minuteman Repeater Association is to be active in Public Service.  Due to repeater locations and linking, the systems themselves are called on many times.  
 
@@ -86,9 +86,9 @@ Next Up...
 ----------
 
 MMRA October Board of Directors Meeting
-Bob Evans ó N1BE ó Clerk
+Bob Evans ‚Äî N1BE ‚Äî Clerk
 
-Bob Evans ó N1BE ó Clerk
+Bob Evans ‚Äî N1BE ‚Äî Clerk
 
 The MMRA board met at 19:00 EDT on October 21 at Stratus Technologies in Maynard, MA.  Present were K1KWP, WA1NVC, K1IW, W1MPN, KC1US, W3EVE, N1BDA, W1DYJ, K1RJZ and N1BE.
 
@@ -118,7 +118,7 @@ Boston 900 MHz is receiving noise from Part-15 devices.  A trial of moving the i
 
 N1BDA suggested we consider an MMRA policy for use of digital modes on analog repeaters.  The board passed this motion unanimously: The MMRA Network is intended for voice communications.  Digital transmissions on analog repeaters are not permitted except where authorized.  For experimenting, digital modes such as MT-63, PSK-31 and Olivia are only authorized on Belmont 145.43.  These transmissions must be accompanied by a voice ID.
 
-Future meetings were discussed.† We are seeking speakers and meeting locations for January 20 and March 17.
+Future meetings were discussed.¬† We are seeking speakers and meeting locations for January 20 and March 17.
 
 Finally we had a round table discussion of Public Service events.  It was suggested that KC1US continue to notify the board and members of repeater usage in the two weeks before an event.  Use of twitter was also suggested as an easy way to get a notice on the MMRA web site.  K1KWP noted the newly released clarification of the rules from the FCC which confirmed that paid employees of a non-profit organization may not use Amateur Radio as a control operator to support a fund raising event.  W1MPN discussed interoperability and interference issues facing state and municipal agencies.
 
@@ -154,27 +154,27 @@ A new shelter for MRW was moved from Maine to Marlboro. Many thanks to N1KMA for
 24 October Foxhunt
 Dick MacPherson ~ KB1W
 
-It was a very dismal day. The ëfoxí did not mind, as it was his day finally for another few hours of freedom before the hunters descend on him again. On a day like this, the ëfoxí has some advantages over the hunters. He has a choice of staying under a roof and keeping dry, while the hunters are continually going out in the elements to take their bearings.
+It was a very dismal day. The ‚Äòfox‚Äô did not mind, as it was his day finally for another few hours of freedom before the hunters descend on him again. On a day like this, the ‚Äòfox‚Äô has some advantages over the hunters. He has a choice of staying under a roof and keeping dry, while the hunters are continually going out in the elements to take their bearings.
 
 With such dismal conditions, he also takes advantage of yelling loud as his voice will propagate and reflect off the near by hills and create echoes thru the valleys below. Is this the day the fox sees final freedom?
 
-At 10 AM on October 24, 2009 the hunt commenced. Today the hunting territory was centered on the Burlington Repeater with his hiding territory limited to a radius of 10 miles. The foxís voice could be heard every 5 minutes for 30 seconds during the next hours. To the hunters this would often present a tease, always wishing for a little longer transmission. As the hunt went on it appeared that the weather & rain was causing problems with the signal they heard, as it would at times vary as reported.
+At 10 AM on October 24, 2009 the hunt commenced. Today the hunting territory was centered on the Burlington Repeater with his hiding territory limited to a radius of 10 miles. The fox‚Äôs voice could be heard every 5 minutes for 30 seconds during the next hours. To the hunters this would often present a tease, always wishing for a little longer transmission. As the hunt went on it appeared that the weather & rain was causing problems with the signal they heard, as it would at times vary as reported.
 
 The hunt continued and during the first hour the fox could hear the hunters going wildly around the countryside and at times away from his location. Yes, this may be the final day for freedom.
 
-It was not just the hunters on the repeater, in addition, we heard from others (ex: W1GFF) at home reporting they are ëListening & Enjoying the Huntí.
+It was not just the hunters on the repeater, in addition, we heard from others (ex: W1GFF) at home reporting they are ‚ÄòListening & Enjoying the Hunt‚Äô.
 
-After an hour and twenty minutes the foxís voice was getting sore from yelling so loud and reduced his power from 50 to 20 watts. Still there are no hunters showing themselves. The fox at times would try and tease the hunters with some subtle hints.
+After an hour and twenty minutes the fox‚Äôs voice was getting sore from yelling so loud and reduced his power from 50 to 20 watts. Still there are no hunters showing themselves. The fox at times would try and tease the hunters with some subtle hints.
 
 As the second hour mark approaches the fox gets braver and starts to give hints to taunt the hunters with his freedom he may soon enjoy forever.
 
 Too smart he got, because at 12:20, the N1OMJ team (with N1TBN & AB1IC) came round the corner. The fox was found and his freedom had ended.
 
-The ëfoxí was finally located at Whip Hill Road in Stoneham.
+The ‚Äòfox‚Äô was finally located at Whip Hill Road in Stoneham.
 
 The fox continued his transmissions and at 12:43, VK3MD came around the corner. He was soon followed up by AA1VS at 12:49.
 
-By 1:00 the remaining hunters arrived at site and the hunting stories started to develop among the hunters. A few decided to continue the stories over lunch at Polcariís in Woburn.
+By 1:00 the remaining hunters arrived at site and the hunting stories started to develop among the hunters. A few decided to continue the stories over lunch at Polcari‚Äôs in Woburn.
 
 Despite the weather a good time was had by all.
 
@@ -182,7 +182,7 @@ Again would like to thank, the Minute Man Repeater Association, for use of their
 
 Although the fox has been captured again he will soon be released again. The first hunter, N1OMJ, who took the fox captive will be the fox on the next hunt. Stayed tuned, the details of the next hunt will be announced.
 
-Join the fun and try your skills. Talk to a hunter, grab a ride or try on your own. You soon will be enjoying the sport of ëfox huntingí.
+Join the fun and try your skills. Talk to a hunter, grab a ride or try on your own. You soon will be enjoying the sport of ‚Äòfox hunting‚Äô.
 
 ----------
 
@@ -194,11 +194,11 @@ Pay on line with PayPal:
 1-  Go to the MMRA home page at
  www.mmra.org
  
-2-  Click on Memberís Login at bottom left
+2-  Click on Member‚Äôs Login at bottom left
  
 3-  Login in with your call and password
  
-4-  If you are not paid up, you will see ìItís Membership Renewal Time!  Please verify your information below is correct and click here to renew now.  Click there, and pay!
+4-  If you are not paid up, you will see ‚ÄúIt‚Äôs Membership Renewal Time!  Please verify your information below is correct and click here to renew now.  Click there, and pay!
 
 ----------
 
@@ -213,10 +213,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2010		Clark Conti	N1NVK
-Director  ª2010		Mike Neilsen	W1MPN
-Director  ª2011		Steve Schwarm	W3EVE
-Director  ª2011		Roger Coulson	WA1NVC
+Director  ¬ª2010		Clark Conti	N1NVK
+Director  ¬ª2010		Mike Neilsen	W1MPN
+Director  ¬ª2011		Steve Schwarm	W3EVE
+Director  ¬ª2011		Roger Coulson	WA1NVC
 
 Repeater Trustees, Appointed
 Belmont 145.430		Larry Arone	WA1RTT
@@ -226,7 +226,7 @@ Burlington 146.715	Chris Conti	N2NVL
 Burlington 446.775	Larry Banks	W1DYJ
 Hopkinton 223.940	Kevin Paetzold	K1KWP
 Marlboro 53.810, Quincy 146.670, Southboro 449.575	Bryan Cerqua	W1BRI
-Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700 ó all as W1MRA
+Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Quincy 224.400		Bill Dunn	N1KUG
@@ -243,7 +243,7 @@ Web Page Editor		Bob DeMattia	K1IW
 
 ----------
 
-Treasurerís Report
+Treasurer‚Äôs Report
 Kevin Paetzold ~ K1KWP 
 
 INCOME
@@ -294,16 +294,16 @@ Total expected remaining expense$1418.81
 
 ----------
 
-Donít Forget!
+Don‚Äôt Forget!
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
 
 We need another net control!
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org ñ we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org ‚Äì we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
 
 Current Net Control Operators:
 

@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.Â  
 
 The Minuteman
 Volume 47, Number 4
@@ -36,7 +36,7 @@ If you are interested, or have a suggested name, please send it to contact@mmra.
 by 15 April.
 ----------
 
-President’s Corner
+Presidentâ€™s Corner
 
 David Wolfe ~ KG1H
 
@@ -123,14 +123,14 @@ The meeting was brought to order at 6:30 pm at the Marlborough Library.  Present
 * Kevin, K1KWP, our treasurer, was unable to attend.  We are told that all is well.
  
 Agenda Item: MMRA Calendar
-* It’s on line: www.mmra.org/meetings.html
+* Itâ€™s on line: www.mmra.org/meetings.html
 * A discussion concerning where to hold the next two business meetings (18 April and 20 June) ensued.  All present agreed that the Marlborough Library was a fine location and is available at a very nominal cost.  (As the MMRA is more or less located in Marlborough, supporting Marlborough City services is also a good thing to do.)  KG1H will make the reservations. (Done and acknowledged after the meeting.)
-* The Annual Meeting is scheduled on 16 May at the Campion Center in Weston.  As that is the day before the annual Dayton Hamvention, a discussion about delaying the meeting by one week ensued.  The consensus was to keep it on the 16th.  W1DYJ will make the reservation for the room at the Campion Center.  We also need a place for the dinner beforehand, as the “old” place is gone.  Suggestions solicited.
+* The Annual Meeting is scheduled on 16 May at the Campion Center in Weston.  As that is the day before the annual Dayton Hamvention, a discussion about delaying the meeting by one week ensued.  The consensus was to keep it on the 16th.  W1DYJ will make the reservation for the room at the Campion Center.  We also need a place for the dinner beforehand, as the â€œoldâ€ place is gone.  Suggestions solicited.
  
 Agenda Item: Repeater Status
 Marlborough 449.925 Hub 1
 * W1BRI confirmed that the problem is the transmitter
-* The membership-wide motion to spend up to $2000 to replace it overwhelmingly passed – 66 yes / 0 no
+* The membership-wide motion to spend up to $2000 to replace it overwhelmingly passed â€“ 66 yes / 0 no
 * The originally recommended replacement unit: Kenwood TKR850 is no longer available, requiring us to purchase a new Kenwood NXR810 at additional cost.  Either of these require an amplifier: a Henry 70w or 100w amplifier.  The consensus was to go with the more robust amp, at $960.  However this combination (NXR810/Henry 100w amp) is over the $2000 the membership voted to approve.
     >  Moved by N1NVK, seconded by WA1MDD, and voted unanimously that we recommend that the club spend the additional money.  (As this is over $500 a vote of the membership is required.)
     > K1IW will generate a second Internet vote of the Membership to fund the Henry amplifier. (Sent out after the meeting.)
@@ -155,7 +155,7 @@ Agenda Item: Upcoming Meeting
 * Skype Presentation in March 20, 2018
 * The topic will be the the K3LR super-contest station  (Impressive - see www.k3lr.com)
 * Bob Naumann, W5OV, giving the presentation
-* To be held at the Northborough Library – non-members invited
+* To be held at the Northborough Library â€“ non-members invited
 * General reminder to interested hams (W1DYJ will send invite to NEWS and YCCC clubs.)
  
 Agenda Item: Next Newsletter
@@ -169,16 +169,16 @@ Agenda Item: Upcoming Elections
     > WA1NVC Director, 2020
 KG1H will email those absent to get their decision
 	(answers received are shown.)
-    > W1JMC Secretary — NO
-    > K1KWP Treasurer  — YES
-    > N1DDK Director, 2020 — YES
-* We need a Clerk – names solicited
+    > W1JMC Secretary â€” NO
+    > K1KWP Treasurer  â€” YES
+    > N1DDK Director, 2020 â€” YES
+* We need a Clerk â€“ names solicited
 * Announcement to be in newsletter: need names by 18 April business meeting
  
 The meeting was adjourned at 7:45 pm.
 ----------
 
-Early Ham History – Part 4
+Early Ham History â€“ Part 4
 
 
 >From W1DYJ: I recently obtained an ARRL Handbook from 1962, the year I was first licensed. The first few pages are a wonderful, short history of the early years of Ham radio. I hope you enjoy reading this as much as I did.  It is in 5 parts.
@@ -211,7 +211,7 @@ expeditions were assisted by amateur radio, the several explorations of the Anta
 Since 1913 amateur radio has been the principal, and in many cases the only, means of outside 
 communication in several hundred storm, flood and earthquake emergencies in this country. The 1936 and 1937 eastern states floods, the Southern 
 California flood and Long Island-New England 
-hurricane disaster in 1938, the Florida-Gulf Coast hurricanes of 1947, and the 1955 flood disasters called for the amateur's greatest emergency effort. In these disasters and many others—tornadoes, sleet storms, forest fires, blizzards—amateurs played a major role in the relief work and earned wide commendation for their resourcefulness in 
+hurricane disaster in 1938, the Florida-Gulf Coast hurricanes of 1947, and the 1955 flood disasters called for the amateur's greatest emergency effort. In these disasters and many othersâ€”tornadoes, sleet storms, forest fires, blizzardsâ€”amateurs played a major role in the relief work and earned wide commendation for their resourcefulness in 
 effecting communication where all other means had failed. During 1938 ARRL inaugurated a new 
 emergency-preparedness program, registering 
 personnel and equipment in its Emergency Corps and putting into effect a comprehensive program of cooperation with the Red Cross, and in 1947 a 
@@ -232,7 +232,7 @@ Next time Part 5: Technical Developments
 Upcoming MMRA Meetings
 Note: Meeting locations are subject to change. Consult the MMRA website for the most up-to-date information.
 
-Tuesday, 20 Mar ~ Membership Meeting — note one day early
+Tuesday, 20 Mar ~ Membership Meeting â€” note one day early
 Topic: The K3LR Super-Contest station (via Skype)
 Bob Naumann, W5OV
 Location: Northborough Free Library 
@@ -241,7 +241,7 @@ Wednesday, 18 April ~ Business Meeting
 Location: TBD
 
 Wednesday, 16 May ~ Annual Meeting
-Topic: One Ham’s Journey with Antennas
+Topic: One Hamâ€™s Journey with Antennas
 
 Larry Banks, W1DYJ
 Location: Campion Center, Weston
@@ -250,11 +250,11 @@ Wednesday, 20 June ~ Business Meeting
 Location: TBD
 ----------
 
-Don’t Forget! Join Us.
+Donâ€™t Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -284,18 +284,18 @@ Accredited by the ARRL VEC
 
 MMRA Leaders
 
-Executive Board — Officers
+Executive Board â€” Officers
 President	David Wolfe	KG1H
 Vice President	John Spencer	WA1MDD
 Secretary	John McGovern	W1JMC
 Treasurer	Kevin Paetzold	K1KWP
 Clerk		open
 
-Executive Board — Directors
-Director  »2018	Clark Conti	N1NVK
-Director  »2018	James Lee	N1DDK
-Director  »2019	Bob DeMattia	K1IW
-Director  »2019	Roger Coulson	WA1NVC
+Executive Board â€” Directors
+Director  Â»2018	Clark Conti	N1NVK
+Director  Â»2018	James Lee	N1DDK
+Director  Â»2019	Bob DeMattia	K1IW
+Director  Â»2019	Roger Coulson	WA1NVC
 
 Technical Officer
 * Technical Officer	Bryan Cerqua	W1BRI
@@ -313,7 +313,7 @@ Repeater Trustees
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
 
-       448.225, 449.925,  927.700 — all as W1MRA
+       448.225, 449.925,  927.700 â€” all as W1MRA
 		
 	Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP

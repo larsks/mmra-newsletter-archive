@@ -11,9 +11,9 @@ MEMA Headquarters in Framingham
 Organizers of this event will give a behind the scenes look at what goes into running the ham operations each year.  
 ----------
 
-Itís Another Year!
+It‚Äôs Another Year!
 Dues are due.
-$25/year ó $35/family
+$25/year ‚Äî $35/family
 
 ($10 extra for snailmail Newsletter)
 
@@ -31,10 +31,10 @@ The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and publ
 Massachusetts.
 The MMRA meets (usually) on the 3rd Wednesday of September, November, January, March, and May.  Meeting time, locations and talk-in frequency vary.  These are announced in the newsletter and on weekly nets.  Meetings are open to all interested parties.
 The Minuteman newsletter is Emailed one week before each meeting.  Members are encouraged to submit articles.  Articles may be sent to the editor via email to newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 Email to the club leadership should be sent to contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
-An email distribution list for club members named ìMMRAî is at: www.yahoogroups.com/
+An email distribution list for club members named ‚ÄúMMRA‚Äù is at: www.yahoogroups.com/
 No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
 ----------
 
@@ -48,9 +48,9 @@ being taken to make audio recordings of
 repeater activity.
 ----------
 
-Presidentís Corner
+President‚Äôs Corner
 
-Bob DeMattia ó K1IW 
+Bob DeMattia ‚Äî K1IW 
 
 Although many club members are familiar with MMRA's seven two meter repeaters and perhaps our 449.925 HUB, the club also operates many other repeaters that get a lot less use.  
 
@@ -64,7 +64,7 @@ Why not try our ten meter repeater on 29.68? You never know when the band will o
 
 Rounding out the bands, we operate a six meter system on 53.81 and two repeaters on 900 MHz - one in Marlborough on 927.7 and a second at the top of One Financial Center in Boston on 927.0625. 
  
-So whatever band you like to operate ó from 29 MHz to 927 MHz, MMRA has a repeater for you.  Take a look at our repeater list on page 2, then try out some of MMRA's best kept secrets.
+So whatever band you like to operate ‚Äî from 29 MHz to 927 MHz, MMRA has a repeater for you.  Take a look at our repeater list on page 2, then try out some of MMRA's best kept secrets.
 
 Bob
 ----------
@@ -74,9 +74,9 @@ HUB 1 Renovation Update
 On October 22, we completed most of the work on MMRA's longest running project: the HUB1 shelter renovation.  Forward movement on this project was encouraged when the shelter developed some moisture issues during the August rainstorms and again during tropical store Irene.  The work began in earnest on Friday the 21st when all of the equipment was removed from the old shelter.  By Sunday, 147.27, 449.925, and 927.7 were back on the air.  The APRS and 224.88 shortly followed. All of the systems at this site are now back to normal.  Keep an eye on our January issue when we will publish a full report.
 ----------
 
-Treasurerís Report
+Treasurer‚Äôs Report
 
-Kevin Paetzold ó K1KWP
+Kevin Paetzold ‚Äî K1KWP
 
 The MMRA 2010-2011 fiscal year ended on May 31.  In this report I will refer to the 2010-2011 year as "last year".  We are now in the 2011-2012 fiscal year which I will refer to as "this year".
 
@@ -95,8 +95,8 @@ Last year was a "Boxborough Year".  This means that a significant amount of memb
 Total spending last year was $6259 vs. the gross income of $6763.  From that perspective the MMRA had a surplus year as income exceeded spending by $503.   However when the dues for this year (collected last year) are subtracted our spending (last year) exceeded our income by ($1141).  It is expected that $543 in additional dues will be collected for this year.  44 members from last year have not yet renewed for this year.
 -----------
 
-MMRA Repeater Controller Primer ñ Part 1 - Standardization
-Bob DeMattia ó K1IW 
+MMRA Repeater Controller Primer ‚Äì Part 1 - Standardization
+Bob DeMattia ‚Äî K1IW 
 
 The repeater controller is the heart of any repeater system.  It takes the audio, signal detect, and "PL" tone detect lines from the receiver, injects voice and CW messages, and generates the audio and PTT signals to control the transmitter.  In addition, other inputs such an intrusion and power fail detection are processed by the controller.
 
@@ -105,17 +105,17 @@ Arcom RC210 controller.
 
 Prior to "standardization," the MMRA sites had different configurations.  Some used SCOM 7Ks, others used older SCOM 5Ks, and some used even older types.  Sites with two repeaters had a separate controller for each.  If these sites were link capable, a specially built hardware box was use to cross connect the two controllers to the link radio.  Each hardware box was slightly different.  There was much work involved in keeping all the control code for the different controllers in sync.  DTMF commands across the MMRA network were inconsistent.
 
-The first step was combining the separate controllers at the dual repeater sites.  This began at the Weston site when the 224.700 5K controller and the custom built hardware linking box was removed.  Everything was then connected directly to the 2m repeaterís 7K.
+The first step was combining the separate controllers at the dual repeater sites.  This began at the Weston site when the 224.700 5K controller and the custom built hardware linking box was removed.  Everything was then connected directly to the 2m repeater‚Äôs 7K.
 
 Because  a 7K  only has two and one-half ports, getting it to operate with three full ports requires a trick.  The vestigial third port is receive only; it doesn't have the audio or control lines to control a transmitter.  To accomplish this, one of the 7K's logic outputs is set up to operate the PTT line.  The  transmit audio for the third port comes from the audio line that would normally be used for the autopatch audio.  Since none of our sites have the autopatch board installed, this works out nicely.  The last two pieces of the puzzle are to (1) configure the macros on the controller to turn the logic output on and off based on activity from a connected receiver and (2) change a capacitor in the autopatch audio circuit to provide the correct frequency response to the transmitter audio input.  With all the hardware and firmware in place, it is a simple task to tell the controller which receivers should activate which transmitter.
 
-Once the Weston site was converted, it was left to run as a trial for several months.  After the kinks were worked out on Weston, I performed identical conversions on Quincy, Stoneham, Marlborough East, and Marlborough West.  At a later time, Stoneham and Marlborough East were moved to their present day locations in Burlington and Mendon respectively.  The latter move created a bit of a setback, as the controller at Marlborough East was running both 53.81 and 146.610.  When '61 was moved, it took the controller with it.  53.81 went back to using its old Hamtronics controller.  It remained this way until the 29.68 machine was installed, at which time a new 7K controller was installed to handle 6m and 10m.  The new single repeater sites at Brookline and Lowell were built using 7Kís.  Finally, the older 5K-based single repeater sites at Shrewsbury (now Southborough), and Hopkinton were converted to 7Ks.
+Once the Weston site was converted, it was left to run as a trial for several months.  After the kinks were worked out on Weston, I performed identical conversions on Quincy, Stoneham, Marlborough East, and Marlborough West.  At a later time, Stoneham and Marlborough East were moved to their present day locations in Burlington and Mendon respectively.  The latter move created a bit of a setback, as the controller at Marlborough East was running both 53.81 and 146.610.  When '61 was moved, it took the controller with it.  53.81 went back to using its old Hamtronics controller.  It remained this way until the 29.68 machine was installed, at which time a new 7K controller was installed to handle 6m and 10m.  The new single repeater sites at Brookline and Lowell were built using 7K‚Äôs.  Finally, the older 5K-based single repeater sites at Shrewsbury (now Southborough), and Hopkinton were converted to 7Ks.
 
 All of the linking is controlled with the SCOM.  The 7330 is capable of operating any combination of three repeaters or link radios.  At HUB1, port #1 is the 449.925 repeater, port 2 is the IRLP RF link, and port 3 is unused.  At HUB2, port #1 is the 442.700 repeater, port 2 is the RF link to HUB1, and port 3 is unused.  Sometime in the future, HUB2 will have an IRLP placed on port 2 and the RF link will move to port 3.
 
 At all the non-HUB sites, ports 1 and 2 are repeaters while port 3 is the RF link back to the HUBs. For example, at Marlborough West, 147.27 is on port 1 and 224.88 is on port 2.  At sites with only one repeater, for example Mendon, port 2 is unused.  If MMRA wanted to add a second repeater, the controller code is already set up to operate port 2.
 
-In the next installment of this article, Iíll review how MMRA linking commands work.
+In the next installment of this article, I‚Äôll review how MMRA linking commands work.
 ----------
 
 September Membership Meeting 
@@ -185,20 +185,20 @@ Considering that there are 20 MMRA members with board meeting voting rights we h
 The meeting adjourned at 8:13 PM. 
 ----------
 
-2011ó2012 Meetings
+2011‚Äî2012 Meetings
 
 16 November 
 Ham Radio at The Boston Marathon
 MEMA Hqtrs, Framingham ~ 7:30 PM
 
-14 December ó Business Meeting
+14 December ‚Äî Business Meeting
 Stratus, Maynard 
 
 18 January
-All About D-Star  ó Terry Stader, KA8SCP
+All About D-Star  ‚Äî Terry Stader, KA8SCP
 Cary Memorial Library (Lexington, MA)  ~ 7:00 PM
 
-15 February ó Business Meeting
+15 February ‚Äî Business Meeting
 Conexant, Waltham 
 
 21 March
@@ -212,19 +212,19 @@ No meeting in April
 TBA & MMRA General Elections
 TBA ~ 7:00 PM
 	
-20 June ó Business Meeting
+20 June ‚Äî Business Meeting
 
 Kennedy's Pub, Marlboro
 ----------
 
-Donít Forget!
+Don‚Äôt Forget!
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ñ we have a script you can use.  
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ‚Äì we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -233,7 +233,7 @@ Week 3	KQ1Y		Tim Wortley
 Week 4	K1KWP		Kevin Paetzold	
 Week 5 	W1DYJ		Larry Banks
 
-To connect using the digital modes during the Net: Use the New England Reflector: connect via *NEW-ENG*, node 9123.  You can find this under ìNode Typesî >> ìConferences.î
+To connect using the digital modes during the Net: Use the New England Reflector: connect via *NEW-ENG*, node 9123.  You can find this under ‚ÄúNode Types‚Äù >> ‚ÄúConferences.‚Äù
 For the HHTN, use *NEW-ENG2*, node 9127
 ----------
 
@@ -259,10 +259,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2012		Clark Conti	N1NVK
-Director  ª2012		Mike Neilsen	W1MPN
-Director  ª2013		Steve Schwarm	W3EVE
-Director  ª2013		Roger Coulson	WA1NVC
+Director  ¬ª2012		Clark Conti	N1NVK
+Director  ¬ª2012		Mike Neilsen	W1MPN
+Director  ¬ª2013		Steve Schwarm	W3EVE
+Director  ¬ª2013		Roger Coulson	WA1NVC
 
 Repeater Trustees, Appointed
 Belmont 145.430		Larry Arone	WA1RTT
@@ -276,7 +276,7 @@ Marlboro 53.810, Quincy 146.670, Southboro 449.575
 		
 	Bryan Cerqua	W1BRI
 Marlboro 144.390, 47.270, 224.880, 449.925, 
-Weston 442.700, 927.700 ó all as W1MRA
+Weston 442.700, 927.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Weston 146.790		Bob Evans	N1BE

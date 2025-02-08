@@ -1,7 +1,7 @@
 The Minuteman
 
 Volume 54    Number 1    September 2024
-© 2024 MMRA
+Â© 2024 MMRA
 
 The Minuteman Repeater Association is a non-profit organization providing
 communications infrastructure and volunteers for community and emergency events.
@@ -15,29 +15,29 @@ This is a Hybrid meeting: New England SciTech + ZOOM
 Members: log into your account on MMRA.ORG to obtain the ZOOM info.
 Non-members: send an email to contact@mmra to request the ZOOM info.
 
-In 2000 Larry homebrewed a 5 element 10m Yagi and put it on a roof tower.  In 2004 he added a 20m homebrew Moxon.  Finally, in 2010 he added a homebrew 15m dipole.   Now and then he heard something he didn’t understand.  Recent modeling revealed counterintuitive antenna patterns.
+In 2000 Larry homebrewed a 5 element 10m Yagi and put it on a roof tower.  In 2004 he added a 20m homebrew Moxon.  Finally, in 2010 he added a homebrew 15m dipole.   Now and then he heard something he didnâ€™t understand.  Recent modeling revealed counterintuitive antenna patterns.
 
 Larry was licensed in 1961 as novice KN1VFX and became W1DYJ in 1966.  He was an engineer and project manager in Hewlett-Packard Medical's Cardiac lab in Waltham and Andover MA 
-starting in 1969.  In 1985 he started the Cardiac R&D lab’s Printed Circuit CAD group and the 
+starting in 1969.  In 1985 he started the Cardiac R&D labâ€™s Printed Circuit CAD group and the 
 SW Quality Testing team. He moved to HP Medical Education in 1993, responsible for technical and project management training. When Agilent split out of HP in 1999, he became Agilent 
-Technology’s global program manager for their Learning Management System. "Retiring" in 2005, he then consulted for Avago (now Broadcom) on eLearning technologies through 2012.  Larry holds three degrees in EE from MIT.  He spends his time chasing DX and contesting in Woburn, traveling with his wife Maren, and attending (now also streaming) many jazz and classical 
+Technologyâ€™s global program manager for their Learning Management System. "Retiring" in 2005, he then consulted for Avago (now Broadcom) on eLearning technologies through 2012.  Larry holds three degrees in EE from MIT.  He spends his time chasing DX and contesting in Woburn, traveling with his wife Maren, and attending (now also streaming) many jazz and classical 
 concerts.  He is the net manager and newsletter editor for the MMRA, publications editor for HamXposition, and a member of the YCCC.
 ----------
 
-President’s Corner ~ David Hornbaker, N1DCH 
+Presidentâ€™s Corner ~ David Hornbaker, N1DCH 
 
 All MMRA memberships expire on August 31.  Please check your profile and if your membership expires in 2024, please 
 renew.  Renewals may be done on the website, or you can mail your renewal to Minuteman Repeater Association, PO Box 669, Stow, MA 01775-0669.  Please allow 7 days for us to process your renewal. Please allow 14 days for renewals that are mailed.  While you're on the website (https://www.mmra.org) checking your expiration date, please verify your email 
 address.
 
-I would like to thank those that stopped by the MMRA booth during HamXposition.  It was great seeing you in person!  We had 2 new members sign up, 7 new hams applied for free memberships, and 27 renewals.   We sold a total of $362 in raffle tickets.  We had more visitors at our booth’s new location in the main hall.
+I would like to thank those that stopped by the MMRA booth during HamXposition.  It was great seeing you in person!  We had 2 new members sign up, 7 new hams applied for free memberships, and 27 renewals.   We sold a total of $362 in raffle tickets.  We had more visitors at our boothâ€™s new location in the main hall.
 
-This year, the MMRA VE team lead by Ron – WO1E, conducted all three VE sessions on Saturday and Sunday.
+This year, the MMRA VE team lead by Ron â€“ WO1E, conducted all three VE sessions on Saturday and Sunday.
 The team administered a total of 19 tests during the weekend.  See below for a complete report.
 
 Congratulations to the raffle winners and special thanks to those who participated in the MMRA raffle.
 
-Join us for the September 18, 2024, membership meeting at New England Sci-Tech in Natick, MA.  Larry Banks – W1DYJ will be discussing his 10/15/20m stack and the interactions between the antennas.  If you cannot make it to Natick, this is a 
+Join us for the September 18, 2024, membership meeting at New England Sci-Tech in Natick, MA.  Larry Banks â€“ W1DYJ will be discussing his 10/15/20m stack and the interactions between the antennas.  If you cannot make it to Natick, this is a 
 hybrid meeting, and the Zoom meeting information is available on the website (www.mmra.org).  You must be logged into the website to view the information.
 
 Join us Tuesday nights at 8:00 PM for our weekly Technical Information and Other Stuff (TIaOS) net.  There will be a lively discussion on all sorts of HAM issues, including equipment, antennas, software, repeaters, and other stuff.  The main 
@@ -53,25 +53,25 @@ Upcoming MMRA VE sessions:
 https://www.bing.com/maps?q=22+Witherbee+Street+Marlborough%2C+MA+01752&PC=U531&FORM=ANCMS9
 Walk-ins are welcome.
 
-Please remember to bring a State ID, your FRN, and if upgrading, a copy of your current license (from FCC website ) or proof of license from ARRL or QRZ website.  For more information, contact Ron – WO1E at ve@mmra.org or wo1e@mmra.org.
+Please remember to bring a State ID, your FRN, and if upgrading, a copy of your current license (from FCC website ) or proof of license from ARRL or QRZ website.  For more information, contact Ron â€“ WO1E at ve@mmra.org or wo1e@mmra.org.
 
-Net Control Operators wanted!  Interested in becoming a control operator for the TIaOS net? Larry is looking for a back-up operator.  Contact Larry Banks – W1DYJ w1dyj@mmra.org.
+Net Control Operators wanted!  Interested in becoming a control operator for the TIaOS net? Larry is looking for a back-up operator.  Contact Larry Banks â€“ W1DYJ w1dyj@mmra.org.
 
 Do you know someone that has passed the Technician test (element 2) in the last year?  They are eligible for free membership in MMRA.  Have them send email to contact@mmra.org requesting membership.  The club secretary will contact them with details on how to qualify.
 
-73 — Dave – N1DCH
+73 â€” Dave â€“ N1DCH
 
 ----------
 
 May Annual Meeting Results
 
 Annual Officer Election ~ Passed Unanimously
-President: 		Dave Hornbaker, N1DCH
-Vice President: 	John Spencer, WA1MDD 
+President:Â 		Dave Hornbaker, N1DCH
+Vice President:Â 	John Spencer, WA1MDDÂ 
 Secretary:		Ken Horton, KA1GFN
-Treasurer: 		Kevin Paetzold, K1KWP
-Clerk: 			Stephen Babbitt, KC1LPZ
-Directors to 2026: 	Robert Evans, N1BE
+Treasurer:Â 		Kevin Paetzold, K1KWP
+Clerk:Â 			Stephen Babbitt, KC1LPZ
+Directors to 2026:Â 	Robert Evans, N1BE
 
 			James Lee, N1DDK
 
@@ -98,33 +98,33 @@ YAESU VX-6R  144 / 220 / 430 HT
 Digital Multimeter
        Winner: Peter Janney, KC1PBJ 
    Third Prize:
-JUMBOSPOT MMDVM Hotspot 
+JUMBOSPOTÂ MMDVM Hotspot 
        
 Winner: Joe Fratto, K1UN 
  * Friday Dinner
    The MMRA was delighted to have 
-Dr. Tamitha Skov, WX6SWW, known as the “Space Weather Woman,” and Saturday night’s featured speaker, sit at our table.  Her talk was outstanding!
+Dr. Tamitha Skov, WX6SWW, known as the â€œSpace Weather Woman,â€ and Saturday nightâ€™s featured speaker, sit at our table.  Her talk was outstanding!
 ----------
 
 VE Update: HamXposition+++ ~ Ron Rothman, WO1E
 
-Over the past year, the MMRA VE team conducted exams from August at HamXposition 23 until June 2024.  Besides HamXposition and the Algonquin Flea, exams were held at the Marlborough Fire Station and City Church in Marlborough.  July is the only month where exams are not given. During the 2023 / 2024 season, 57 exams were given. Twenty Six (26) Technicians, 11 Generals and 12 Amateur Extras either upgraded or earned a new license. Only six (6) candidates failed to earn a license. 
+Over the past year, the MMRA VE team conducted exams from August at HamXposition 23 until June 2024.Â  Besides HamXposition and the Algonquin Flea, exams were held at the Marlborough Fire Station and City Church in Marlborough.  July is the only month where exams are not given. During the 2023 / 2024 season, 57 exams were given. Twenty Six (26) Technicians, 11 Generals and 12 Amateur Extras either upgraded or earned a new license. Only six (6) candidates failed to earn a license.Â 
 
-This year we lost one of our own.  Willie McConnell KB1MFG 
-became a SK after a long illness.  Willie joined the MMRA VE team on March 18, 2006.  During that time, he participated in a total of 196 VE sessions. Willie will be remembered as always welcoming to the candidates greeting them with a smile on his face and words that would put a nervous candidate at ease.
+This year we lost one of our own.Â  Willie McConnell KB1MFG 
+became a SK after a long illness.Â  Willie joined the MMRA VE team on March 18, 2006.Â  During that time, he participated in a total of 196 VE sessions. Willie will be remembered as always welcoming to the candidates greeting them with a smile on his face and words that would put a nervous candidate at ease.
 
     				Willie will be missed!
 
-MMRA conducted all three exam sessions at this years HamXposition 2024.  Exams were held at 9:00 AM and 
-1:00 PM on Saturday August 24th and 10:00 AM on Sunday August 25th. The results were as follows: 
+MMRA conducted all three exam sessions at this years HamXposition 2024.Â  Exams were held at 9:00 AM and 
+1:00 PM on Saturday August 24th and 10:00 AM on Sunday August 25th. The results were as follows:Â 
 Element 2 Technician 		7 New Hams
 Element 3 General 		4 Upgrades
 Element 4 Extra 		2 Upgrades
-Failed to earn a license   	6			Total taking a test:  19
+Failed to earn a licenseÂ Â  	6			Total taking a test:  19
 
-The number of candidates is down from the pre-Covid days at Boxboro when MMRA had over 30 candidates at the 9:00 AM session alone.  We need to do a better job of promoting testing at the convention.  I would like to thank all of the VE’s who volunteered their time in the important job of licensing new hams.
+The number of candidates is down from the pre-Covid days at Boxboro when MMRA had over 30 candidates at the 9:00 AM session alone.Â  We need to do a better job of promoting testing at the convention.  I would like to thank all of the VEâ€™s who volunteered their time in the important job of licensing new hams.
 
-73,  Ron – WO1E
+73,  Ron â€“ WO1E
 MMRA / ARRL VEC Liaison
 ----------
 
@@ -132,12 +132,12 @@ MMRA / ARRL VEC Liaison
 
 Called to order @ 7:30 PM / New England Sci-Tech, Natic MA
 Elections: The Ballot Listing for the May 15, 2024, Annual Meeting
-President: 		Dave Hornbaker, N1DCH
-Vice President: 	John Spencer, WA1MDD 
+President:Â 		Dave Hornbaker, N1DCH
+Vice President:Â 	John Spencer, WA1MDDÂ 
 Secretary:		Ken Horton, KA1GFN
-Treasurer: 		Kevin Paetzold, K1KWP
-Clerk: 			Stephen Babbitt, KC1LPZ
-Directors: 		Robert Evans, N1BE / James Lee, N1DDK
+Treasurer:Â 		Kevin Paetzold, K1KWP
+Clerk:Â 			Stephen Babbitt, KC1LPZ
+Directors:Â 		Robert Evans, N1BE / James Lee, N1DDK
 
 Election: The entire slate of Officers and Directors was moved by W1DYJ, second by N1QPR and passed unanimously. 
 
@@ -145,16 +145,16 @@ Emergency Fund: W1DYJ moved to allocate $4,000, second by N1DCH was passed unani
  
 Bylaws: A motion by N1DCH, second by K1KWP that the proposed changes be accepted., which the membership has unanimously approved.
 
-HamXposition – Larry – W1DYJ
+HamXposition â€“ Larry â€“ W1DYJ
 Larry stated this  event will have Dr Tamitha Skow as the main speaker on Space Weather..
 Prizes: Bob purchased the 2nd and 3rd place prizes. One of the prizes, - our 1st place prize -- -a Yaesu VX-6R HT was donated back to the MMRA.
 Fox Box: Kevin will hide it 3 times during the Ham Exposition weekend.
 Room Management regarding when and who will be there was discussed. No decision was finalized tonight.
 Call-In Station The station will be operating. 
 
-Repeater Status Report: - Bob DeMattia – K1IW	
-New “Modset” architecture implemented across the network for easier / more reliable network reconfiguration (900MHz Repeaters have not received the update yet).
-Quincy 2m .67 Repeater: Making progress with the City of Quincy for 67’replacement site.
+Repeater Status Report: - Bob DeMattia â€“ K1IW	
+New â€œModsetâ€ architecture implemented across the network for easier / more reliable network reconfiguration (900MHz Repeaters have not received the update yet).
+Quincy 2m .67 Repeater: Making progress with the City of Quincy for 67â€™replacement site.
 (Formally) the Belmont Repeater: Currently working with the Town of Belmont for replacement site. 
 Billerica 147.12: Currently awaiting word from a Billerica private property owner for replacement site.
 All other Repeaters: Functioning normally.
@@ -168,7 +168,7 @@ Note: SS#s, are no longer accepted by the FCC. Everyone must have an FRN.
 
 Upcoming Meetings
 August 25, 2024 12:00 PM
-HamXposition – Royal Plaza Hotel, Marlborough, MA
+HamXposition â€“ Royal Plaza Hotel, Marlborough, MA
 Introduction to the MMRA and Raffle
 
 Tuesday nights @ 8:00 PM (year-round) 
@@ -177,7 +177,7 @@ MMRA Linked Repeaters
 
 The meeting ended informally at 7: 54 PM.
 
-Presentation by Kay Savetz  - K6KJN - “Twenty Things I’ve Learned While Curating the Digital Library of Amateur Radio & Communications.”  To provide a simple summary she mentioned the “Wayback” machine that allows the ability to search the internet since its founding. The digital library is similar. Kay’s presentation was in reverse order starting with item #20.  “Marshall H Ensor”, created nightly one hour lectures – about 60 of them -- sponsored by QST. Item # 19 is “Hap Holly’s” RAIN (Radio Amateur Information Network) Report which has 1300 episodes. Item #18 “Don’t Mess with . . . the Museum Janitor who wrote in 1944 a letter requesting visitors not to throw their cigarette butts on the floor as ashtrays were provided. Item #17 had 40 years of TAPR Conferences, which preceded packet audio. More related Ham Radio conferences were included in this subject area. The MMRA Newsletters are filed under Item #15. That section includes Ham Club Newsletters that have been digitized along with many other club documents where available. Throughout this entire presentation so many HAM Related books, magazines, audio conversations, audio programs, videos in every imaginable format is being digitized.  It seems like there is an inexhaustible supply of material. However, Kay pointed out their collection is far from complete with Item #2 giving us a listing of just a subset on what is identified as missing. The process of digitizing is ongoing as this library seeks to locate private collections. Item #1 is “Hams are generous with their knowledge” willing to share with others. Based on all the questions from us, this presentation clearly sparked a deep interest to continue to use this digital library on an ongoing basis. This digital library is addicting.  
+Presentation by Kay Savetz  - K6KJN - â€œTwenty Things Iâ€™ve Learned While Curating the Digital Library of Amateur Radio & Communications.â€  To provide a simple summary she mentioned the â€œWaybackâ€ machine that allows the ability to search the internet since its founding. The digital library is similar. Kayâ€™s presentation was in reverse order starting with item #20.  â€œMarshall H Ensorâ€, created nightly one hour lectures â€“ about 60 of them -- sponsored by QST. Item # 19 is â€œHap Hollyâ€™sâ€ RAIN (Radio Amateur Information Network) Report which has 1300 episodes. Item #18 â€œDonâ€™t Mess with . . . the Museum Janitor who wrote in 1944 a letter requesting visitors not to throw their cigarette butts on the floor as ashtrays were provided. Item #17 had 40 years of TAPR Conferences, which preceded packet audio. More related Ham Radio conferences were included in this subject area. The MMRA Newsletters are filed under Item #15. That section includes Ham Club Newsletters that have been digitized along with many other club documents where available. Throughout this entire presentation so many HAM Related books, magazines, audio conversations, audio programs, videos in every imaginable format is being digitized.  It seems like there is an inexhaustible supply of material. However, Kay pointed out their collection is far from complete with Item #2 giving us a listing of just a subset on what is identified as missing. The process of digitizing is ongoing as this library seeks to locate private collections. Item #1 is â€œHams are generous with their knowledgeâ€ willing to share with others. Based on all the questions from us, this presentation clearly sparked a deep interest to continue to use this digital library on an ongoing basis. This digital library is addicting.  
 
 DLARC is at: https://archive.org/details/dlarc
 
@@ -196,17 +196,17 @@ Respectfully Submitted by Stephen M Babbitt, KC1LPZ, Clerk
 DLARC: A Personal Perspective ~ Larry Banks, W1DYJ
 
 
-Kay’s presentation of the Ham Radio archive DLARC (see previous pages) immediately raised my curiosity about two topics.
+Kayâ€™s presentation of the Ham Radio archive DLARC (see previous pages) immediately raised my curiosity about two topics.
 
-Many of you know that W1DYJ is not my original call.  I was first licensed as KN1VFX (novice) in December of 1961.  W1DYJ is an “Additional Station License” I received in 1966 when I wanted a second station at my college apartment in Brookline.  FCC regulations were far more strict back then — a second station at a different location required a separate “Station License.”   (This was way before Vanity Calls.  Back then you could not purchase a call of your own choosing.  You took whatever the FCC sent you.)
+Many of you know that W1DYJ is not my original call.  I was first licensed as KN1VFX (novice) in December of 1961.  W1DYJ is an â€œAdditional Station Licenseâ€ I received in 1966 when I wanted a second station at my college apartment in Brookline.  FCC regulations were far more strict back then â€” a second station at a different location required a separate â€œStation License.â€   (This was way before Vanity Calls.  Back then you could not purchase a call of your own choosing.  You took whatever the FCC sent you.)
 
-I have often wondered who was the first ham to have W1DYJ. DLARC gave me my opportunity.  In the Fall 1932 edition I found a Ray Webster in Duxbury with the call W1DYJ/p.  Interesting!  Like me, I guess Ray wanted a second call — a portable.  I wonder if it was a vacation home?  Ray is no longer listed in the 1937 edition.
+I have often wondered who was the first ham to have W1DYJ. DLARC gave me my opportunity.  In the Fall 1932 edition I found a Ray Webster in Duxbury with the call W1DYJ/p.  Interesting!  Like me, I guess Ray wanted a second call â€” a portable.  I wonder if it was a vacation home?  Ray is no longer listed in the 1937 edition.
 
 Ray was not in the Summer 1931 edition.  The last 1x3 listed in 1931 is W1CYE.
 
-I found a Bob Small of North Reading in the 1946 edition, the year I was born.  He wasn’t in the 1947 edition.  Two hams had WN1DYJ novice calls: Dick Newton in Concord (1955) and Bob Bell in Norwalk CT, summer 1965 and Spring 1966.  Neither kept the call.  I wonder if that is why I got the call in 1966 — someone at the FCC may have seen that Bob/WN1DYJ had dropped his license and was holding my request in their hand and decided to just give it to me!  I consider myself lucky to have this call. 
+I found a Bob Small of North Reading in the 1946 edition, the year I was born.  He wasnâ€™t in the 1947 edition.  Two hams had WN1DYJ novice calls: Dick Newton in Concord (1955) and Bob Bell in Norwalk CT, summer 1965 and Spring 1966.  Neither kept the call.  I wonder if that is why I got the call in 1966 â€” someone at the FCC may have seen that Bob/WN1DYJ had dropped his license and was holding my request in their hand and decided to just give it to me!  I consider myself lucky to have this call. 
 
-                  So, I’m the fifth person to have this call!
+                  So, Iâ€™m the fifth person to have this call!
 
 When Kay mentioned that DLARC has a lot of instrumentation manuals I was also immediately curious about whether I could find a manual for an instrument I worked on during the summers of 1967 and 1968.  I was working in R&D for Singer Metrics in Bridgeport CT, near my hometown of Stratford.  Singer Metrics was a division of Singer Sewing Machine Company.  I found the manual!  My project was to develop the control circuits of a low frequency extender plug-in for a signal generator: the SG-1000.  I learned all about waveguide cut-off frequency in this project.   
 
@@ -217,22 +217,22 @@ DLARC has many gems!
 
 Called to order @ 7:31 PM via ZOOM
 
-HamXposition – Larry – W1DYJ –
+HamXposition â€“ Larry â€“ W1DYJ â€“
 Approved Tri-Fold printing not to exceed $250.
 MMRA Table will be in the hallway across from the exhibition hall.
-Call in Station – Rig and Antenna:
-	N1DCH – Antenna, Mast & Coax
-	K1KWP – Radio, coax and power supply.
-Linking – last year we had all Marlborough repeaters linked. We decided not to link 6 & 10 this year – They are not listed in our program ad.
-Foxbox – K1KWP plans on deploying on Friday and moving the Foxbox at least once.
-Table Staffing – K1KWP will coordinate
+Call in Station â€“ Rig and Antenna:
+	N1DCH â€“ Antenna, Mast & Coax
+	K1KWP â€“ Radio, coax and power supply.
+Linking â€“ last year we had all Marlborough repeaters linked. We decided not to link 6 & 10 this year â€“ They are not listed in our program ad.
+Foxbox â€“ K1KWP plans on deploying on Friday and moving the Foxbox at least once.
+Table Staffing â€“ K1KWP will coordinate
 A laptop and connected TV is also needed
 
-Repeater Status Report: - Bob DeMattia – K1IW
+Repeater Status Report: - Bob DeMattia â€“ K1IW
 
-Mendon 146.610 Link Receiver has failed – not decoding PL tones.  Bob was able to fix this by recycling power on the link radio, but the problem returned two weeks later. A replacement radio is ready and will be swapped in the next time Bob can get to the site probably by the end of June.
+Mendon 146.610 Link Receiver has failed â€“ not decoding PL tones.  Bob was able to fix this by recycling power on the link radio, but the problem returned two weeks later. A replacement radio is ready and will be swapped in the next time Bob can get to the site probably by the end of June.
 
-(Formally) the Belmont Repeater – 145.430 – The Repeater is now on the air currently at Bob’s house. Ed KC1CLA is going to the Town of Belmont on finding a new location. With a congested schedule, this may take a bit longer to resolve
+(Formally) the Belmont Repeater â€“ 145.430 â€“ The Repeater is now on the air currently at Bobâ€™s house. Ed KC1CLA is going to the Town of Belmont on finding a new location. With a congested schedule, this may take a bit longer to resolve
 Temporarily located in Boxborough
 Small Antenna
 Running 6W instead of 100W
@@ -240,7 +240,7 @@ Site elevation lower in height from its prior Belmont site
 
 Quincy 2m .67 Repeater A letter was sent to the Mayor prior to Hamvention In a follow up call on May 31st, they indicated there were issues with the site we had suggested, but they are working on it. They will get back to Bob on it. Since no further word was said from the City of Quincy, the current plan is to leave the repeater in its current location until:
 	They provide another site at which point we will move the repeater OR
-	They will tell us we have to go and ’67 will go to the Marlborough East site.
+	They will tell us we have to go and â€™67 will go to the Marlborough East site.
 
 Billerica 147.12: No further progress on a new site. The antenna is still at a tilt. The Current plan is to leave the antenna in place until the following:
 We find another site at which point we will move OR
@@ -251,14 +251,14 @@ All other Repeaters: Functioning normally.
 ARRL News Bulletin: Bob suggests we do a concise weekly report on the network. W1HAI offered his assistance. N1DCH, K1KWP, W1DYJ & KC1LPZ support this idea within the framework of Part 97.
 
 Club Activities: - Stephen, KC1LPZ 
-Support to New or less Active Hams – The purpose of this agenda item is to precisely target the concerns and unasked questions that frustrate these folks from being active. Also attracting younger people to obtain a Ham Radio License.
+Support to New or less Active Hams â€“ The purpose of this agenda item is to precisely target the concerns and unasked questions that frustrate these folks from being active. Also attracting younger people to obtain a Ham Radio License.
 
 Summary of the May 6th Regional ARRL Conference Call: 
 	With various clubs struggling to address this same issue, several ideas were generated in the limited time we had on this conference call.
-	Greet, greet, greet – i.e. make new folks feel welcome to join in on what we do.
+	Greet, greet, greet â€“ i.e. make new folks feel welcome to join in on what we do.
 	Follow up by engaging them to want to be involved.
 	Create activities at regular intervales such as social gatherings, workshops, training and Elmering.to name a few of the wide range of Amateur Radio/Digital activities.
-	The ARRL does provide Grant Monies to many organizations that have specific programs getting young people “on the air”. On grant money the MMRA should support all the efforts K5TEC at the NE Sci-Tech Center does rather than duplicate their proven programs.
+	The ARRL does provide Grant Monies to many organizations that have specific programs getting young people â€œon the airâ€. On grant money the MMRA should support all the efforts K5TEC at the NE Sci-Tech Center does rather than duplicate their proven programs.
 
 The MMRA brings the following assets:
 	On UHF and VHF we have 20+ Repeaters where anyone in Eastern Massachusetts and Southern NH can access to communicate with one another. Few Clubs have that kind of capability. Plus we have IRLP / Echolink to extend these capabilities.
@@ -266,7 +266,7 @@ The MMRA brings the following assets:
 	On our weekly NET we must pay close attention to new folks joining us.
 	Welcoming and greeting new folks on our system is our major asset and we need to utilize our extensive system at every opportunity.
 
-The MMRA’s Drawbacks:
+The MMRAâ€™s Drawbacks:
 	Social gatherings have not worked in the past because our members are geographically distant due to our extensive communication system resulting in extremely low attendance. That is one reason we also use Zoom as an alternative to increase attendance.
 	The MMRA does not do Field Day because our system does not extensively involve HF. Plus many of our members are involved in other surrounding clubs that do Field Day and are more local to these members.
 
@@ -282,10 +282,10 @@ Note: SS#s, are no longer accepted by the FCC. Everyone must have an FRN.
 
 Upcoming Meetings
 August 25, 2024 12:00 PM
-HamXposition – Royal Plaza Hotel, Marlborough MA
+HamXposition â€“ Royal Plaza Hotel, Marlborough MA
 Introduction to the MMRA and Raffle
 
-September 18, 2024, 7:30 PM Membership Meeting – 
+September 18, 2024, 7:30 PM Membership Meeting â€“ 
 Speaker: TBA
 New England Sci-Tech & Zoom Teleconference
 
@@ -318,11 +318,11 @@ Meeting Adjourned at 8:39 PM
 Respectfully Submitted by Stephen M Babbitt, KC1LPZ, Clerk
 ----------
 
-Treasurer’s Report ~ Kevin Paetzold (K1KWP)
+Treasurerâ€™s Report ~ Kevin Paetzold (K1KWP)
 
 The MMRA receives a donations each year. On behalf of the club I would like to acknowledge and thank the following members who have donated since my list in the May newsletter:
 			WW1U, N1CVO, K1UN, KA1SC, KA1GDQ
-I was at the “NE HamXposition” on August 22-25. It was good to see so many members at the expo!
+I was at the â€œNE HamXpositionâ€ on August 22-25. It was good to see so many members at the expo!
 ----------
 
 Upcoming MMRA Meetings
@@ -338,38 +338,38 @@ Speaker: Larry Banks - W1DYJ
 Interactions between Antennas in a 10/15/20m Stack
 New England Sci-Tech & Zoom 
 
-October 16, 2024: Business Meeting—Zoom 
+October 16, 2024: Business Meetingâ€”Zoom 
 November 20, 2024: Membership Meeting
 Speaker: Dave Hornbaker - N1DCH
 Programming Your Radio with CHIRP
 
 Marlborough Central Fire Station & Zoom
-December 18, 2024:  Business Meeting — Zoom 
+December 18, 2024:  Business Meeting â€” Zoom 
 
 January 20, 2025: Membership Meeting
 Speaker: TBD
 Location: TBD
 
-February 18, 2025:  Business Meeting — Zoom 
+February 18, 2025:  Business Meeting â€” Zoom 
 
 March 19, 2025: Membership Meeting
 Speaker: TBD
 Location: TBD
 
-April 16, 2025:  Business Meeting — Zoom 
+April 16, 2025:  Business Meeting â€” Zoom 
 
 May 21, 2025: Annual Meeting & Elections
 Speaker: TBD
 Location: TBD
 
-June 18, 2025:  Business Meeting — Zoom 
+June 18, 2025:  Business Meeting â€” Zoom 
 
 ----------
 
-Don’t Forget —  Join Us!
+Donâ€™t Forget â€”  Join Us!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.
 
 Net Control Operators:
 	Week 1	W1DYJ	Larry Banks	
@@ -386,7 +386,7 @@ If you are interested, email W1DYJ@mmra.org
 
 MMRA Leaders
 
-Executive Board — Officers
+Executive Board â€” Officers
      President       Dave Hornbaker     N1DCH
      
 Vice President  John Spencer       WA1MDD
@@ -395,7 +395,7 @@ Vice President  John Spencer       WA1MDD
      Clerk           Stephen Babbitt    KC1LPZ
 
 
-Executive Board — Directors
+Executive Board â€” Directors
      Director  >2025    Bob DeMattia    K1IW
      Director  >2025    Roger Coulson   WA1NVC
      Director  >2026    Rob Evans       N1BE
@@ -482,7 +482,7 @@ Our weekly club net on most of the MMRA repeaters,
 Tuesday night at 8:00 pm local.
 
 Heavy Hitters Traffic Net
-This ARRL NTS net is active on our repeaters Sunday to Friday evenings from 9:45—11 PM and Saturday from 10-11.  
+This ARRL NTS net is active on our repeaters Sunday to Friday evenings from 9:45â€”11 PM and Saturday from 10-11.  
 
 Coast Guard Net
 Sundays at 11:00 AM local.

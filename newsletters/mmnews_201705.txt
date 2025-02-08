@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.Â  
 
 The Minuteman
 
@@ -12,7 +12,7 @@ ANNUAL Membership Meeting ~ Wednesday, 24 May, 7 PM
 (includes Officer elections)
 
 Truths & Myths about Station Grounding 
-Neil Goodell ~ AE1P  
+Neil Goodell ~ AE1PÂ  
 Location: Leominster Emergency Management
               Talkin: 147.27
 NOTE: This was originally scheduled for our March meeting, but was cancelled due to snow.
@@ -20,7 +20,7 @@ NOTE: This was originally scheduled for our March meeting, but was cancelled due
 First introduced to Ham Radio at the age of 12, when I was given an old Knight R-100A, and a box full of 73 and Popular Electronics magazine.  Got sidetracked with the usual teenage activities, sports and trucks, and did not return back to Amateur Radio until 2002, when I started studying and passed my tech, receiving the call KB1KOX.  I then upgraded to general, while the 5 wpm code requirement was still in place, and Extra six months after that, and have enjoyed the Hobby ever since. 
 One of the best experiences I have had concerning Amateur Radio was being the Site Supervisor for five sites during the 2014 WRTC event held in New England.  It was a lot of work but also a lot of fun, and a pleasure to meet and spend time with some of the best of the best in Amateur radio contesting.  As far as the hobby goes, I enjoy all aspects: contesting, ragchewing, rtty and digital, homebrewing and antenna building...there is so much to do, never a dull moment.
 In my personal life I am a Master Electrician, spent 20+ years as an Electrical Foreman in commercial projects, mostly in Hospitals and Power Plants, and now am the Electrician for the City of Keene in the Utilities Division.
-Being an Electrician, I had already known of the importance of Grounding, and, using that to tie in directly to Amateur radio: How important Grounding is to our “Radio Shacks”, as far as lightning protection and RF grounding.  I look forward to sharing the importance of grounding to your group on the 15th.
+Being an Electrician, I had already known of the importance of Grounding, and, using that to tie in directly to Amateur radio: How important Grounding is to our â€œRadio Shacksâ€, as far as lightning protection and RF grounding.  I look forward to sharing the importance of grounding to your group on the 15th.
 ----------
 
 Directions to Leominster Emergency Management
@@ -29,7 +29,7 @@ Directions to Leominster Emergency Management
 Using Route 2 Westbound:	?Take exit 33, "I-190".  
 ? 0.4 miles down the ramp, bear left, DO NOT get on I-190.  Bearing left will put you on the Leominster Connector/Mechanic Street.
 ? Follow this for approximately 1.2 miles, then turn left on 5th Ave.
-? Leominster EMA is 0.1 miles ahead at the intersection of Carter & 5th. 
+? Leominster EMA is 0.1 miles ahead at the intersection of Carter & 5th.Â 
 
 
 Using Route 2 Eastbound:	?Take exit 33, "I-190 / Mechanic St"
@@ -55,7 +55,7 @@ Director >> 2019:       Bob, K1IW
 Director >> 2019:       Roger, WA1NVC 
 ----------
 
-President’s Corner ~ David Wolfe, KG1H
+Presidentâ€™s Corner ~ David Wolfe, KG1H
 
 Annual Election of Officers
 
@@ -126,7 +126,7 @@ Director:         	Roger, WA1NVC
 Finally we considered the Boxboro convention.  John, WA1MDD offered to coordinate MMRA group dinner tables for Saturday evening.  This will probably be done via e-mail.  The board approved an expenditure of up to $400 for purchase of raffle prizes.  K1IW plans to purchase these items at Dayton.
 The meeting adjourned at 9:02 PM.
 
-————————
+â€”â€”â€”â€”â€”â€”â€”â€”
 Addenda: On May 1, via an e-mail ballot, the board approved an expenditure of $491 to upgrade the North Reading repeater controller and make it accessible from the Internet.
 ----------
 
@@ -138,19 +138,19 @@ Upcoming MMRA Meetings
 
 
 Wednesday, 24 May ~ Membership Meeting
-End of Year Meeting / Officer’s Reports / Elections
-Topic—Truths & Myths about Station Grounding ~ Neil Goodell ~ AE1P  
-Location—Leominster Emergency Management 
+End of Year Meeting / Officerâ€™s Reports / Elections
+Topicâ€”Truths & Myths about Station Grounding ~ Neil Goodell ~ AE1PÂ  
+Locationâ€”Leominster Emergency Management 
 
 Wed, 21 June ~ Business Meeting
 Location: New England Airgun in Hudson 
 ----------
 
-Don’t Forget! Join Us.
+Donâ€™t Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -166,7 +166,7 @@ IRLP node 4133
 
 Previous issues of the MMRA Newsletter are available at:
 
-www.mmra.org è Newsletter Archive (on the left)
+www.mmra.org Ã¨ Newsletter Archive (on the left)
 ----------
 
 MMRA VE Sessions
@@ -189,11 +189,11 @@ Clerk	Bob Evans	N1BE
 * Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  »2017		Steve Schwarm	W3EVE
-Director  »2017		Roger Coulson	WA1NVC
-Director  »2018		Clark Conti	N1NVK
-Director  »2018		James Lee	N1DDK
-Director  »2017		Bob DeMattia	K1IW
+Director  Â»2017		Steve Schwarm	W3EVE
+Director  Â»2017		Roger Coulson	WA1NVC
+Director  Â»2018		Clark Conti	N1NVK
+Director  Â»2018		James Lee	N1DDK
+Director  Â»2017		Bob DeMattia	K1IW
 
 Repeater Trustees
 * Belmont 145.430	Ed Curley	KC1CLA
@@ -209,7 +209,7 @@ Repeater Trustees
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
 
-       448.225, 449.925,  927.700 — all as W1MRA
+       448.225, 449.925,  927.700 â€” all as W1MRA
 		
 	Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP

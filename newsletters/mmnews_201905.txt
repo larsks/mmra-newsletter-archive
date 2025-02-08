@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.† 
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.¬† 
 
 The Minuteman
 Volume 48, Number 5
@@ -25,13 +25,13 @@ David has worked in the computer industry for over 40 years.  He owns and is pre
 ----------
 
 MMRA Officer Nominations:
- * N1DCH David Hornbaker ñ President 
- * WA1MDD John Spencer ñ Vice President 
- * K1KWP Kevin Paetzold ñ Treasurer 
- * KC1LAE Jason Peardon ñ Secretary 
- * KC1JUO Charles Miller ñ Clerk
- * K1IW Bob DeMattia ñ Director  ? 2021
- * WA1NVC Roger Colson ñ Director  ? 2021
+ * N1DCH David Hornbaker ‚Äì President 
+ * WA1MDD John Spencer ‚Äì Vice President 
+ * K1KWP Kevin Paetzold ‚Äì Treasurer 
+ * KC1LAE Jason Peardon ‚Äì Secretary 
+ * KC1JUO Charles Miller ‚Äì Clerk
+ * K1IW Bob DeMattia ‚Äì Director  ? 2021
+ * WA1NVC Roger Colson ‚Äì Director  ? 2021
 ----------
 
 MMRA Control Operators Responsibilities
@@ -45,7 +45,7 @@ September, November, January, March, and May.  The intervening meetings are also
 
 The Minuteman newsletter is emailed one week before each general interest meeting.  Members are encouraged to submit articles: send to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
@@ -59,7 +59,7 @@ activity that does not abide by Part 97 rules or accepted amateur radio practice
 The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident. 
 ----------
 
-Presidentís Corner ~ David Hornbaker , N1DCH 
+President‚Äôs Corner ~ David Hornbaker , N1DCH 
 
 Greetings to all MMRA members!
 
@@ -78,7 +78,7 @@ Presentations are an integral part of our membership meetings and are about an h
 
 I look forward to seeing you in Natick on May 15, and hearing you on the TIOS Net, which is every Tuesday at 8:00 PM.
 
-†73, David Hornbaker, N1DCH
+¬†73, David Hornbaker, N1DCH
 ----------
 
 The Amateur's Code
@@ -110,7 +110,7 @@ The full slide set is available at:  https://www.qsl.net/w1dyj/#OP .
 
 (Two pages of slides follow -- see the website.)
 
-FT8 is one of a new suite of powerful digital modes, using ìspace ageî DSP and forward
+FT8 is one of a new suite of powerful digital modes, using ‚Äúspace age‚Äù DSP and forward
 error correction to improve the reception of VERY low level received signals (below the S/N ratio).  Thanks to K1JT and group.
 
 The full slide set is available at:  https://www.qsl.net/w1dyj/#OP .
@@ -168,13 +168,13 @@ Jeff Lehmann (N1ZZN) on the phone
 Agenda - Reviewed circulated slides
 
 Nominating committee report:
-N1DCH David Hornbaker ñ President 
-WA1MDD John Spencer ñ Vice President 
-K1KWP Kevin Paetzold ñ Treasurer 
-KC1LAE Jason Peardon ñ Secretary 
-KC1JUO Charles Miller ñ Clerk
-K1IW Bob DeMattia ñ Director  ? 2021
-WA1NVC Roger Colson ñ Director  ? 2021
+N1DCH David Hornbaker ‚Äì President 
+WA1MDD John Spencer ‚Äì Vice President 
+K1KWP Kevin Paetzold ‚Äì Treasurer 
+KC1LAE Jason Peardon ‚Äì Secretary 
+KC1JUO Charles Miller ‚Äì Clerk
+K1IW Bob DeMattia ‚Äì Director  ? 2021
+WA1NVC Roger Colson ‚Äì Director  ? 2021
 
 Motion to Re-approve the annual maintenance budget for$2500.  The funds are for emergency replacement of equipment, not extending functionality
 
@@ -234,7 +234,7 @@ DID YOU KNOW?
 The MMRA North Reading and Hopkinton UHF repeaters, 446.775 and 449.575, respectively, feature automatic selection for running unlinked or linked to the MMRA network.  For a local ragchew, use a PL tone of 71.9.  If you want to be on the network, use a PL tone of 88.5.  The tone on the repeater transmitter will follow whichever tone you are using.  If you want to hear everything on the repeater, simply leave your receiver in open mode and use a tone only on transmit.  It is especially important to use a PL of 88.5 during the Tuesday night TIOS net!
 
 
-[Editorís note:  Tech Corner is a new column that will appear from time-to-time with information of a technical nature.   All of you can contribute to this column.  Send your (long or short) articles/notes/observations to newsletter@mmra.org.]
+[Editor‚Äôs note:  Tech Corner is a new column that will appear from time-to-time with information of a technical nature.   All of you can contribute to this column.  Send your (long or short) articles/notes/observations to newsletter@mmra.org.]
 ----------
 
 Public Service Update ~ Bruce Pigott, KC1US
@@ -247,10 +247,10 @@ Two clubs on the North Shore have a combined calendar that can be read by clicki
 ----------
 
 From the Editor: Why Amateur Radio?
-From time-to-time it makes sense for us to remember why the Federal Government (and the FCC) gives us all of this free spectrum to ìplayî ham radio.  From FCC Part 97:
+From time-to-time it makes sense for us to remember why the Federal Government (and the FCC) gives us all of this free spectrum to ‚Äúplay‚Äù ham radio.  From FCC Part 97:
 
-Subpart AóGeneral Provisions
-ß97.1 Basis and purpose.
+Subpart A‚ÄîGeneral Provisions
+¬ß97.1 Basis and purpose.
 The rules and regulations in this part are designed to provide an amateur radio service having a fundamental purpose as expressed in the following principles: 
 a) Recognition and enhancement of the value of the amateur service to the public as a voluntary noncommercial communication service, particularly with respect to providing emergency communications. 
 b) Continuation and extension of the amateur's proven ability to contribute to the advancement of the radio art. 
@@ -267,7 +267,7 @@ Lately some inexpensive radios that have nonstandard amateur radio features have
 Upcoming MMRA Meetings
 Note: Meeting locations and times are subject to change.
 
-Consult the MMRA website for the most up-to-date information. Teleconference numbers will be available one week before a meetingóif you wish to attend, email contact@mmra.org.
+Consult the MMRA website for the most up-to-date information. Teleconference numbers will be available one week before a meeting‚Äîif you wish to attend, email contact@mmra.org.
 
 Wednesday, 15 May ~ Annual Meeting & Eections
 Speaker/Topic: Dave Hornbaker, N1DCH / Intro to Hotspots
@@ -277,11 +277,11 @@ Wednesday, 19 June ~ Business Meeting
 Location: New England Sci-Tech Inc., Natick+ Teleconference
 ----------
 
-Donít Forget! Join Us.
+Don‚Äôt Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatís happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	W1DYJ		Larry Banks	
@@ -308,7 +308,7 @@ Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
 ----------
 
 MMRA Leaders
-Executive Board ó Officers
+Executive Board ‚Äî Officers
 
 President	David Hornbaker 	N1DCH 
 Vice President	John Spencer		WA1MDD
@@ -316,11 +316,11 @@ Secretary	David Hornbaker 	N1DCH
 Treasurer	Kevin Paetzold		K1KWP
 Clerk 		Charles Miller		KC1JUO
 
-Executive Board ó Directors
-Director  ª2019	Bob DeMattia		K1IW
-Director  ª2019	Roger Coulson		WA1NVC
-Director  ª2020	Clark Conti		N1NVK
-Director  ª2020	James Lee		N1DDK
+Executive Board ‚Äî Directors
+Director  ¬ª2019	Bob DeMattia		K1IW
+Director  ¬ª2019	Roger Coulson		WA1NVC
+Director  ¬ª2020	Clark Conti		N1NVK
+Director  ¬ª2020	James Lee		N1DDK
 
 Technical Officer	Bob DeMattia	K1IW
 
@@ -343,7 +343,7 @@ Repeater Trustees
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 223.940,
 
-       448.225, 449.925,  927.700 ó all as W1MRA
+       448.225, 449.925,  927.700 ‚Äî all as W1MRA
 
 			Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP

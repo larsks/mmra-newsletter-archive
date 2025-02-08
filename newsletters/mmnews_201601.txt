@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.Â  
 ----------
 
 The Minuteman
@@ -14,11 +14,11 @@ Bob Evans, N1BE
 Location: The Campion Center, 319 Concord Road, Weston
 Talk-in 147.27
 
-This presentation will cover computer basics and technology changes that led to the construction of single board computers.  With that background, we will look at the Arduino and Raspberry Pi;  the capabilities of each board and how do they differ; and how you decide if one or the other is more appropriate for a particular application.  A demonstration of Arduino programming and discussion of some radio applications for Arduino and Raspberry Pi will conclude the talk.  An Arduino Uno will be given away as a door prize.
+This presentation will cover computer basics and technology changes that led to the construction of single board computers.Â  With that background, we will look at the Arduino and Raspberry Pi;  the capabilities of each board and how do they differ; and how you decide if one or the other is more appropriate for a particular application.Â  A demonstration of Arduino programming and discussion of some radio applications for Arduino and Raspberry Pi will conclude the talk.Â  An Arduino Uno will be given away as a door prize.
 
-Bob Evans, N1BE was first licensed as WN2EZS in 1972.  Since receiving his BS in Computer 
+Bob Evans, N1BE was first licensed as WN2EZS in 1972.Â  Since receiving his BS in Computer 
 Science and Engineering, Bob has been employed as an engineer for over 40 years by 
-companies that design and manufacture computers.  At home Bob uses multiple Raspberry Pi's for controlling lights, running web cameras, as a video recorder and as a file server.  When not pursuing his technical interests, Bob and his wife Anne, N1MPF, enjoy boating, gourmet 
+companies that design and manufacture computers.Â  At home Bob uses multiple Raspberry Pi's for controlling lights, running web cameras, as a video recorder and as a file server.Â  When not pursuing his technical interests, Bob and his wife Anne, N1MPF, enjoy boating, gourmet 
 cooking and wine.  (Bob is also the Clerk of the MMRA, a member of the MMRA Board of Directors, and trustee of the Weston 146.790 repeater.)
 
 ----------
@@ -35,7 +35,7 @@ All 2014 memberships expired on August 31st! Renew on the member's login link at
 Boston Marathon Announcement
 
 The MMRA is no longer involved in organizing the
-Boston Marathon.  (See the President’s Corner.)
+Boston Marathon.  (See the Presidentâ€™s Corner.)
 
 If you are interested in participating, go to:
 
@@ -49,13 +49,13 @@ The MMRA meets (usually) on the 3rd Wednesday of each month from September to Ju
 The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at 
 newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is â€œTechnical Information and Other Stuffâ€.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
 Email to the club leadership should be sent to 
 contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
-An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/.  
+An email distribution list for club members named â€œMMRAâ€ is at: www.yahoogroups.com/.  
 
 You can also follow us on twitter @mmraham and like us on Facebook: https://www.facebook.com/mmraham.
 No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
@@ -68,7 +68,7 @@ activity that does not abide by Part 97 rules or accepted amateur radio practice
 The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
 ----------
 
-President’s Corner ~ Bob DeMattia ~ K1IW
+Presidentâ€™s Corner ~ Bob DeMattia ~ K1IW
 
 MMRA and the Boston Marathon
 
@@ -93,10 +93,10 @@ James Cahill, KB1LOY and Bryan Cerqua ~ W1BRI
 Bryan Cerqua, W1BRI, and James Cahill, KB1LOY, visited the Hopkinton Repeater site on 25 September, 2015, to conduct routine inspection and maintenance.  Access to the site is restricted and requires an appointment for all visitors.  Upon arrival we were given access into the shelter where the repeater was found to be functioning but not putting out the intended power.  We immediately noticed that new ceiling tiles were installed by the shelter host since our last visit. 
 
 ANTENNA PROPERLY TUNED
-Feedlines, grounding, and power cables were visually inspected and appeared in order. The repeater was opened, visually inspected and tested.  The transmit SWR was measured using Bryan’s new toy: the MFJ-226, 1-230 MHZ antenna Expert Times Graphic Analyzer and found to be a respectable 1.33:1 (optimum frequency measured to be 224.31 @ SWR of 1.09:1). Feedlines from the shelter to the tower were inspected, found in order and without issues.
+Feedlines, grounding, and power cables were visually inspected and appeared in order. The repeater was opened, visually inspected and tested.  The transmit SWR was measured using Bryanâ€™s new toy: the MFJ-226, 1-230 MHZ antenna Expert Times Graphic Analyzer and found to be a respectable 1.33:1 (optimum frequency measured to be 224.31 @ SWR of 1.09:1). Feedlines from the shelter to the tower were inspected, found in order and without issues.
 
 OUTPUT POWER DISCOVERED EXTREMELY LOW, CORRECTED WITH TEMP CABLE 
-The output power to the antenna was tested with the Bird Watt Meter and found extremely low, less than 1 watt. Investigating further, the input to the RF Concepts Amplifier was measured to be acceptable at 6 watts.  The output of the amplifier was acceptable at 58 watts.  The duplexer output cable to the antenna was removed and when replaced with a temporary jumper the power output was measured to be a reasonable 42 watts.  The existing output cable was removed from service and a temporary cable was left in place.  The end connections of the nonperforming cable were suspect and brought back to W1BRI’s shop for reworking. The final observation was the supply current at 17.5 Amps.   A follow-up visit will be scheduled to return the cable to service. 
+The output power to the antenna was tested with the Bird Watt Meter and found extremely low, less than 1 watt. Investigating further, the input to the RF Concepts Amplifier was measured to be acceptable at 6 watts.  The output of the amplifier was acceptable at 58 watts.  The duplexer output cable to the antenna was removed and when replaced with a temporary jumper the power output was measured to be a reasonable 42 watts.  The existing output cable was removed from service and a temporary cable was left in place.  The end connections of the nonperforming cable were suspect and brought back to W1BRIâ€™s shop for reworking. The final observation was the supply current at 17.5 Amps.   A follow-up visit will be scheduled to return the cable to service. 
 
 CEILING TILE REPLACEMENT, BAD NEWS => GOOD NEWS
 Comparing the 2014 pictures to the 2015 pictures, it appears the cabinet and duplexers were moved around.  The loose connections likely are related to the ceiling tile replacement work done inside the shelter.  However, the good news is that comparing the ceiling from 2014 to 2015 there is great improvement to the shelter environment and there was no cost to the MMRA.  	
@@ -119,7 +119,7 @@ ceiling view
 Boston 900 Repair Trip ~ Roger Coulson, WA1NVC
 
 
-John, K1BOS, Randy, N3HFK, and Steve, KC1HO, met Dave (WCVB’s contact person) at 11:00 AM on 28 Nov, 2015 at the Boston 900 MHz repeater site.  K1BOS, organized the work party.  Both the low power and high power PA's in the MSF5000 repeater were replaced.  The high power PA is definitely bad.
+John, K1BOS, Randy, N3HFK, and Steve, KC1HO,Â met Dave (WCVBâ€™s contact person) at 11:00 AM on 28 Nov, 2015 at the Boston 900 MHz repeater site.  K1BOS, organized the work party.  Both the low power and high power PA's in the MSF5000 repeater were replaced.Â  The high power PA is definitely bad.
 
 
 
@@ -127,19 +127,19 @@ At 1:00 pm the crew determined that the forward and reflected power sampler in t
 
 
 
-Roger, WA1NVC removed the power sampler from his backup 900 MHz repeater, drove into Boston, delivered the part, and returned home to continue assisting with the repair remotely. 
+Roger, WA1NVCÂ removed the power sampler from his backup 900 MHz repeater, drove into Boston, delivered the part, and returned home to continue assisting with the repair remotely. 
 
-Steve, KC1HO, supplied a new PiRLP node that he was about to install on the 145.39 repeater.  The first problem was the audio was too loud coming out of the Scom 7K controller and could not be adjusted low enough on the PiRLP.  With remote assistance from Roger, WA1NVC, Randy, N3HFK, located the Scom 7K output pot for IRLP was found to be set at maximum.  Randy, N3HFK, changed this to the mid point and Steve, KC1HO, was then able to complete the standard IRLP audio setup.
+Steve, KC1HO, supplied a new PiRLP node that he was about to install on the 145.39 repeater.Â  The first problem was the audio was too loud coming out of the Scom 7K controller and could not be adjusted low enough on the PiRLP.Â  With remote assistance from Roger, WA1NVC, Randy, N3HFK, located the Scom 7K output pot for IRLP was found to be set at maximum.Â  Randy, N3HFK, changed this to the mid point and Steve, KC1HO, was then able to complete the standard IRLP audio setup.
 
-There was a problem with constant beeping on the IRLP audio.  After a lot of troubleshooting, it was determined to be a bad ground connection between the PiRLP and the MSF5000.
-
-
-
-The audio levels were observed remotely on the service monitor by WA1NVC.  Tests were made on the Near-900 net using the Marlboro, Marshfield, Cumberland, Barnstable, and Warwick repeaters.  The levels and operation seemed just fine.  The cause of the repeater failures was not obvious but WCVB reported that  there was a lightning strike back in September.
+There was a problem with constant beeping on the IRLP audio.Â  After a lot of troubleshooting, it was determined to be a bad ground connection between the PiRLP and the MSF5000.
 
 
 
-Steve, KC1HO, took the old IRLP board home so he can continue with the 145.39 PiRLP project.  The MMRA has purchased and replaced the parts Steve, KC1HO, used to make the new PiRLP node.
+The audio levels were observed remotely on the service monitor by WA1NVC.Â  Tests were made on the Near-900 net using the Marlboro, Marshfield, Cumberland, Barnstable, and Warwick repeaters.Â  The levels and operation seemed just fine.  The cause of the repeater failures was not obvious but WCVB reported that  there was a lightning strike back in September.
+
+
+
+Steve, KC1HO, took the old IRLP board home so he can continue with the 145.39 PiRLP project.Â  The MMRA has purchased and replaced the parts Steve, KC1HO, used to make the new PiRLP node.
 
 
 
@@ -156,7 +156,7 @@ The PiRLP has worked out so well that at the last board meeting, K1IW, proposed 
 Thanks go to John, K1BOS, for organizing the Boston 900 MHz repeater repair operation and providing the pizza.
 ----------
 
-Mike Neilsen, W1MPN, will lead FY’16 budget process.
+Mike Neilsen, W1MPN, will lead FYâ€™16 budget process.
 
 Mike, W1MPN, will lead the development of a budget for the next fiscal year.   If you are interested in 
 being involved in this task, please contact him at w1mpn@mmra.org or w1mpn@comcast.net
@@ -186,7 +186,7 @@ Bob Evans, Clerk, N1BE
 
   The MMRA board met for a business meeting in Northborough at 7:30 PM on Dec 16 in Northborough.  In attendance were K1KWP, N1DDK, W1DYJ, N1BE, WA1NVC, KG1H, W1MPN, N1BDA, N1NVK  and K1IW who hosted the meeting.  (Thanks Bob and Joyce for the great food and hospitality!)
 
-  The first agenda item was a Treasurer’s Report by K1KWP reviewing income, expenses and balances.  Kevin noted that we are sending paper newsletters to a few members who have not paid the $10 necessary to defray the costs associated with paper mailings.  K1KWP also reviewed counts of members that have renewed or not.  There are a hundred dues paying members that have not yet renewed by paying dues for the current membership year that began on Sept 1. 
+  The first agenda item was a Treasurerâ€™s Report by K1KWP reviewing income, expenses and balances.  Kevin noted that we are sending paper newsletters to a few members who have not paid the $10 necessary to defray the costs associated with paper mailings.  K1KWP also reviewed counts of members that have renewed or not.  There are a hundred dues paying members that have not yet renewed by paying dues for the current membership year that began on Sept 1. 
 
   K1IW gave a repeater report as follows.
 
@@ -256,10 +256,10 @@ Clerk			Bob Evans		N1BE
 * Technical Officer	Bryan Cerqua		W1BRI
 
 Board of Directors
-Director  »2017		Steve Schwarm		W3EVE
-Director  »2017		Roger Coulson		WA1NVC
-Director  »2016		Clark Conti		N1NVK
-Director  »2016		Mike Neilsen		W1MPN
+Director  Â»2017		Steve Schwarm		W3EVE
+Director  Â»2017		Roger Coulson		WA1NVC
+Director  Â»2016		Clark Conti		N1NVK
+Director  Â»2016		Mike Neilsen		W1MPN
 
 Repeater Trustees
 * Belmont 145.430	James Lee		N1DDK
@@ -276,7 +276,7 @@ Repeater Trustees
 	Bryan Cerqua		W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
 
-       448.225, 449.925,  927.700 — all as W1MRA
+       448.225, 449.925,  927.700 â€” all as W1MRA
 		
 	Bill Northup		N1QPR
 * Mendon 146.610	Jim Podsiadlo		AE1C
@@ -299,7 +299,7 @@ Additional, non-Voting
 
 Previous issues of the MMRA Newsletter are available at:
 
-www.mmra.org è Newsletter Archive (on the left)
+www.mmra.org Ã¨ Newsletter Archive (on the left)
 ----------
 
 MMRA VE Sessions

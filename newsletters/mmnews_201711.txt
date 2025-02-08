@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.Â  
 ----------
 
 The Minuteman
@@ -16,7 +16,7 @@ Location: Clay Center, 20 Newton St., Brookline
 Talk-in: 146.82  pl 146.2
 
 
-Remember when you first got your amateur license?  What was it that got you hooked on the hobby?  Now YOU are the mentors and role models for a new generation of hams. They are into everything – it’s not your grandfather's old radio hobby any more. You know the new buzzword in education: “STEM” - Science, Technology, Engineering, Math. Amateur Radio is the ULTIMATE STEM activity! See how new hams are delving into the hobby in a new way that may surprise you, yet this is the future of amateur radio. You can be a part of it too! After the meeting, try out a Segway, a Theremin, play with Oobleck, use the club radio room, and visit the Clay Center Observatory for some deep space viewing.
+Remember when you first got your amateur license?  What was it that got you hooked on the hobby?  Now YOU are the mentors and role models for a new generation of hams. They are into everything â€“ itâ€™s not your grandfather's old radio hobby any more. You know the new buzzword in education: â€œSTEMâ€ - Science, Technology, Engineering, Math. Amateur Radio is the ULTIMATE STEM activity! See how new hams are delving into the hobby in a new way that may surprise you, yet this is the future of amateur radio. You can be a part of it too! After the meeting, try out a Segway, a Theremin, play with Oobleck, use the club radio room, and visit the Clay Center Observatory for some deep space viewing.
 
 Directions:
 ----------
@@ -29,7 +29,7 @@ Directions:
 Parking: For the Clay Center: Take 2nd right through main gate, travel up the hill, bear LEFT, over top of hill, and park on Athletic Center roof deck.
 ----------
 
-President’s Corner
+Presidentâ€™s Corner
 
 David Wolfe ~ KG1H
 
@@ -102,7 +102,7 @@ users will have the ability to link/delink systems with a click of the mouse.
 ----------
 
 Next MMRA Business Meeting: Wednesday 20 December, 7 PM
-Location: Marlborough MA library  
+Location: Marlborough MA libraryÂ  
 35 W Main St,
 Marlborough, MA 01752 
 Bigelow Auditorium
@@ -110,7 +110,7 @@ Parking: 22 Witherbee Street
 All are invited.
 ----------
 
-Early Ham History – Part 2
+Early Ham History â€“ Part 2
 
 
 >From W1DYJ: I recently obtained an ARRL Handbook from 1962, the year I was first licensed. The first few pages are a wonderful, short history of the early years of Ham radio. I hope you enjoy reading this as much as I did.  It is in 5 parts.
@@ -137,7 +137,7 @@ Host: Bob Phinney, K5TEC
 Location: Clay Center, Brookline
 
 Wednesday, 20 Dec ~ Business Meeting
-Location: Marlborough MA library 
+Location: Marlborough MA libraryÂ 
 
 Wednesday, 17 Jan ~ Membership Meeting
 Topic: PiPtr Project Update
@@ -145,9 +145,9 @@ James Lee, N1DDK
 Location: Northborough Free Library
 
 Wednesday, 21 Feb ~ Business Meeting
-Location: Marlborough MA library 
+Location: Marlborough MA libraryÂ 
 
-Tuesday, 20 Mar ~ Membership Meeting — note one day early
+Tuesday, 20 Mar ~ Membership Meeting â€” note one day early
 Topic: The K3LR Super-Contest station (via Skype) 
 Tim Duffy, K3LR
 Location: Northborough Free Library 
@@ -164,12 +164,12 @@ Wednesday, 20 June ~ Business Meeting
 Location: TBD
 ----------
 
-Don’t Forget! Join Us.
+Donâ€™t Forget! Join Us.
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -214,10 +214,10 @@ Clerk	open
 
 Board of Directors
 
-Director  »2018	Clark Conti	N1NVK
-Director  »2018	James Lee	N1DDK
-Director  »2019	Bob DeMattia	K1IW
-Director  »2019	Roger Coulson	WA1NVC
+Director  Â»2018	Clark Conti	N1NVK
+Director  Â»2018	James Lee	N1DDK
+Director  Â»2019	Bob DeMattia	K1IW
+Director  Â»2019	Roger Coulson	WA1NVC
 
 Repeater Trustees
 
@@ -233,7 +233,7 @@ Repeater Trustees
 	Bryan Cerqua		W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
 	
-       448.225, 449.925,  927.700 — all as W1MRA
+       448.225, 449.925,  927.700 â€” all as W1MRA
 		
 	Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold		K1KWP

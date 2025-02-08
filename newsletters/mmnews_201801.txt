@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.Â  
 
 The Minuteman
 Volume 47, Number 3
@@ -35,13 +35,13 @@ As this project exceeds the $500 limit that the board can vote on its own, the m
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Can’t wait for the meeting and want to learn more, keep reading!  
+Canâ€™t wait for the meeting and want to learn more, keep reading!  
 
-The speaker, James Lee N1DDK designed his first repeater controller in 1980, based on an 8080 microprocessor and a bunch of dedicated timer and sound generation hardware.  The PiPtr controller still has dedicated hardware but replaces basic hardware like the touch tone decoder or a PL decoder with software.  By using the compute power of the Raspberry Pi and interfacing a computer “sound card” to the radio, you can use the computer to generate all kinds of sound like Morse code, tones, play back audio files and even generate text to speech. The computer can “listen” to the radio and decode touch tone, PL tones, DCS codes, be a radio modem, or even understand you like “Google Assistant” or Alexa.  While not all of these features may currently be implemented, the possibilities of this project are endless.
+The speaker, James Lee N1DDK designed his first repeater controller in 1980, based on an 8080 microprocessor and a bunch of dedicated timer and sound generation hardware.  The PiPtr controller still has dedicated hardware but replaces basic hardware like the touch tone decoder or a PL decoder with software.  By using the compute power of the Raspberry Pi and interfacing a computer â€œsound cardâ€ to the radio, you can use the computer to generate all kinds of sound like Morse code, tones, play back audio files and even generate text to speech. The computer can â€œlistenâ€ to the radio and decode touch tone, PL tones, DCS codes, be a radio modem, or even understand you like â€œGoogle Assistantâ€ or Alexa.  While not all of these features may currently be implemented, the possibilities of this project are endless.
 
 Some of the goals of the project are geared to ease of use and maintenance.  There are no switches, jumpers or mechanical adjustments on the PiPtr board, everything is software controlled.  Repeaters are housed in harsh and remote environments, so environmental monitoring and logging is included.  This monitoring can even answer the question: Did you forget to turn off the lights when you left the site? 
 
-Of course the software is “open source” so it can be remotely collaborated on and upgrades can be done via the internet. Programming is in Python and C the two most popular programming languages.  Configuration is done via simple text files and there is a GUI for setup and programming.
+Of course the software is â€œopen sourceâ€ so it can be remotely collaborated on and upgrades can be done via the internet. Programming is in Python and C the two most popular programming languages.  Configuration is done via simple text files and there is a GUI for setup and programming.
 
 The Hardware is developed on the open source KiCad platform and also contained on our Git Hub repository.
 Come to the meeting and vote!
@@ -62,48 +62,48 @@ Traffic exiting Patty Lane should stay to far right, even for left turns, to avo
 
 >From Rick Zach, K1RJZ
 
-Gunstock Mountain Resort has donated three and possibly four Motorola CM200 UHF BASE STATIONS to NEDECN.org as a fundraiser to help fund a ham UHF DMR repeater on the summit of Gunstock Mountain.  These are obviously superb link radios among other more common tasks.  So Gunstock is gifting not only a superb location but also help with funding the project.  They are being very generous indeed!
+Gunstock Mountain Resort has donated three and possibly four Motorola CM200 UHF BASE STATIONS to NEDECN.org as a fundraiser to help fund a ham UHF DMR repeater on the summit of Gunstock Mountain.Â  These are obviously superb link radios among other more common tasks.Â  So Gunstock is gifting not only a superb location but also help with funding the project.Â  They are being very generous indeed!
 
-If you are aware of anyone who may be interested in purchasing one or multiple base stations, please contact K1RJZ at 603-703-4740 or rick@rickzach.com .  
+If you are aware of anyone who may be interested in purchasing one or multiple base stations, please contact K1RJZ at 603-703-4740 or rick@rickzach.com .Â  
 
-$95 each (the custom power supply alone is worth that much).  Payable to NEDECN’s PayPal account plus shipping at cost or hand deliver when convenient
+$95 each (the custom power supply alone is worth that much).  Payable to NEDECNâ€™s PayPal account plus shipping at cost or hand deliver when convenient
 
-MOTOROLA CM200   Model AAM50RPC9AA1AN
+MOTOROLA CM200 Â Â Model AAM50RPC9AA1AN
 438-470 MHz out of the box
 4CH 40W adjustable
 Will do both wide and narrowband analog FM
 Bench tested with hand mike 
-Includes a model-specific base station power supply.   Astron SL-15M/GTX/M1225 
+Includes a model-specific base station power supply.Â  Â Astron SL-15M/GTX/M1225 
 
 https://www.motorolasolutions.com/content/dam/msi/docs/business/products/two-way_radios_and_pagers_business/mobile_radios/wide_area_large_business/_documents/static_files/cm200_2010_specs_mot.pdf 
 ----------
 
-President’s Corner
+Presidentâ€™s Corner
 
 David Wolfe ~ KG1H
 
-Another interesting year is about to wind-up for the MMRA.   Thanks to a few dedicated members, improvements have been implemented to many of the repeaters in the MMRA network and more changes to come.  Stay tuned!
+Another interesting year is about to wind-up for the MMRA. Â  Thanks to a few dedicated members, improvements have been implemented to many of the repeatersÂ in theÂ MMRAÂ network and more changes to come.  Stay tuned!
 
 Our Website logins have been updated with an IP-based authentication scheme. 
 
-Out of 16 MMRA repeaters, only 4 repeaters remain not-internet controllable:  BEL, HOP, HPC, and MDN.  This permits configuration changes without having to drive to the repeater sites.
+Out of 16 MMRA repeaters, only 4 repeaters remain not-internet controllable:Â  BEL, HOP, HPC, and MDN.Â  This permits configuration changes without having to drive to the repeater sites.
 
-The MMRA received a donation of a FreedomPop from N1BE, and has one in reserve already.  It is in some cases the only way to get internet to a site, especially without being overly costly.  Something for the future?
+The MMRA received a donation of a FreedomPop from N1BE,Â and has one in reserve already.Â  It is in some cases the only way to get internet to a site, especially without being overly costly.  Something for the future?
 
-The Yaesu DR2X System Fusion repeater has been received.  Suggestions for where to put it were Weston (146.79), Marlborough East (new UHF), and North Reading (to replace the existing 446.775 equipment).  The board voted unanimously to install it in North Reading.
+The Yaesu DR2X System Fusion repeater has been received.Â  Suggestions for where to put it were Weston (146.79), Marlborough East (new UHF), and North Reading (to replace the existing 446.775 equipment).Â  The board voted unanimously to install it in North Reading.
 
-We are experimenting with a Netgear 6100D 4G+router - getting on the Internet is very easy with it.  It could be used to replace the Marlborough DSL connection (~$27/mo) once our annual contract is up. The 6100D router gets Internet for free.  However, there are some complications with reconfiguring the VPN setup in order to do the switch.
+We are experimenting with a Netgear 6100D 4G+router - getting on the Internet is very easy with it.  It could be used to replace the Marlborough DSL connection (~$27/mo)Â once our annual contract is up.Â The 6100D router gets Internet for free.Â  However, there are some complications with reconfiguring the VPN setup in order to do the switch.
 
 Heads up:  
-January meeting: Wednesday, January 17: James N1DDK will be making a presentation on the ongoing PiPeater project.  His original vision for this project was that MMRA could use the PiPeater as the primary controller at its many sites.  Negotiations with James are underway.  Stay tuned!
+January meeting: Wednesday, January 17: James N1DDK will be making a presentation on the ongoing PiPeater project.Â  His original vision for this project was that MMRA could use the PiPeater as the primary controller at its many sites.  Negotiations with James are underway.  Stay tuned!
 
-We will also be discussing the recent failure of our primary Hub 1, 449.925 MHz, and voting on the funds to replace it.  To do this properly we will perhaps need as much as $2000.
+We will also be discussing the recent failure of our primary Hub 1, 449.925 MHz, and voting on the funds to replace it.Â  To do this properly we will perhaps need as much as $2000.
 
 March meeting: Tuesday, March 20: DX engineering presentation on K3LR super contest station.  Invite your friends!
 ----------
 
 Next MMRA Business Meeting: Wednesday 21 February, 6:30 PM
-Location: Marlborough MA library  
+Location: Marlborough MA libraryÂ  
 35 W Main St,
 Marlborough, MA 01752 
 
@@ -133,9 +133,9 @@ Astronomy! Radio! Cubes in Space!
 Host: Bob Phinney, K5TEC
 Location: Clay Center, 20 Newton St., Brookline
 
-Here are some photos from November’s Membership Meeting.  For those of you who couldn’t make it, you really need to visit the clay Center at your next opportunity!
+Here are some photos from Novemberâ€™s Membership Meeting.  For those of you who couldnâ€™t make it, you really need to visit the clay Center at your next opportunity!
 
-The “Formal” part of the meeting -- seven photos of KG1H starting the meeting and K5TEC discussiong the Clay Center AARC, and also the Cobes iin Space program.
+The â€œFormalâ€ part of the meeting -- seven photos of KG1H starting the meeting and K5TEC discussiong the Clay Center AARC, and also the Cobes iin Space program.
 
 Other things... seven more photos showing KG1H on a Segway, the 146.82 receiver, the Clay Center Observatory, two of the younger hams playing the Theremin, and Bostion at night from the Cla Center.
 ----------
@@ -175,7 +175,7 @@ After some discussion, K1IW made the motion that the club approve an expenditure
 The meeting adjourned at 8:15PM.
 ----------
 
-Early Ham History – Part 3
+Early Ham History â€“ Part 3
 
 
 >From W1DYJ: I recently obtained an ARRL Handbook from 1962, the year I was first licensed. The first few pages are a wonderful, short history of the early years of Ham radio. I hope you enjoy reading this as much as I did.  It is in 5 parts.
@@ -184,13 +184,13 @@ Here is Part 3: The Transalantics
 
 As DX became 1000, then 1500 and then 2000 miles, amateurs began to dream of transatlantic work. Could they get across? In December, 1921, ARRL sent abroad an expert amateur, Paul F. Godley, 2ZE, with the best receiving equipment available. Tests were run, and thirty American stations were heard in Europe. In 1922 another transatlantic test was carried out and 315 American calls were logged by European amateurs and one French and two British stations were heard on this side.
 
-Everything now was centered on one objective: two-way amateur communication across the Atlantic! It must be possible—but somehow it couldn't quite be done. More power? Many already were using the legal maximum. Better receivers? They had superheterdynes. Another wavelength? What about those undisturbed wavelengths below 200 meters? The engineering world thought they were worthless — but they had said that about 200 meters. So, in 1922, tests between Hartford and Boston were made on 130 meters with encouraging results. Early in 1923, ARRL-sponsored tests on wavelengths down to 90 meters were successful. Reports indicated that as the wavelength dropped the results were better. Excitement began to spread through amateur ranks.
+Everything now was centered on one objective: two-way amateur communication across the Atlantic! It must be possibleâ€”but somehow it couldn't quite be done. More power? Many already were using the legal maximum. Better receivers? They had superheterdynes. Another wavelength? What about those undisturbed wavelengths below 200 meters? The engineering world thought they were worthless â€” but they had said that about 200 meters. So, in 1922, tests between Hartford and Boston were made on 130 meters with encouraging results. Early in 1923, ARRL-sponsored tests on wavelengths down to 90 meters were successful. Reports indicated that as the wavelength dropped the results were better. Excitement began to spread through amateur ranks.
 
 Finally, in November, 1923, after some months of careful preparation, two-way amateur transatlantic communication was accomplished, when Schnell, 1MO, and Reinartz, 1XAM (now W4CF and K6BJ, respectively) worked for several hours with Deloy, 8AB, in France, with all three stations on 110 meters! Additional stations dropped down to 100 meters and found that they, too, could easily work two-way across the Atlantic. The exodus from the 200-meter region had started. The "short-wave" era had begun!
 
 By 1924 dozens of commercial companies had rushed stations into the 100-meter region. Chaos threatened, until the first of a series of national and international radio conferences partitioned off various bands of frequencies for the different services. Although thought still centered around 100 meters, League officials at the first of these frequency-determining conferences, in 1924, wisely obtained amateur bands not only at 80 meters but at 40, 20, and even 5 meters.
 
-Eighty meters proved so successful that "forty" was given a try, and QSOs with Australia, New Zealand and South Africa soon became commonplace. Then how about 20 meters? This new band revealed entirely unexpected possibilities when 1XAM worked 6TS on the West Coast, direct, at high noon. The dream of amateur radio—daylight DX!—was finally true.
+Eighty meters proved so successful that "forty" was given a try, and QSOs with Australia, New Zealand and South Africa soon became commonplace. Then how about 20 meters? This new band revealed entirely unexpected possibilities when 1XAM worked 6TS on the West Coast, direct, at high noon. The dream of amateur radioâ€”daylight DX!â€”was finally true.
 
 The above is COPYRIGHT 1962 by ARRL.  The Handbook back then cost $3.50. 
 Next time Part 4: Public Service
@@ -224,9 +224,9 @@ James Lee, N1DDK
 Location: Northborough Free Library
 
 Wednesday, 21 Feb ~ Business Meeting
-Location: Marlborough MA library 
+Location: Marlborough MA libraryÂ 
 
-Tuesday, 20 Mar ~ Membership Meeting — note one day early
+Tuesday, 20 Mar ~ Membership Meeting â€” note one day early
 Topic: The K3LR Super-Contest station (via Skype)
 Tim Duffy, K3LR
 Location: Northborough Free Library 
@@ -243,11 +243,11 @@ Wednesday, 20 June ~ Business Meeting
 Location: TBD
 ----------
 
-Don’t Forget! Join Us.
+Donâ€™t Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -277,18 +277,18 @@ Accredited by the ARRL VEC
 
 MMRA Leaders
 
-Executive Board — Officers
+Executive Board â€” Officers
 President	David Wolfe	KG1H
 Vice President	John Spencer	WA1MDD
 Secretary	John McGovern	W1JMC
 Treasurer	Kevin Paetzold	K1KWP
 Clerk		open
 
-Executive Board — Directors
-Director  »2018	Clark Conti	N1NVK
-Director  »2018	James Lee	N1DDK
-Director  »2019	Bob DeMattia	K1IW
-Director  »2019	Roger Coulson	WA1NVC
+Executive Board â€” Directors
+Director  Â»2018	Clark Conti	N1NVK
+Director  Â»2018	James Lee	N1DDK
+Director  Â»2019	Bob DeMattia	K1IW
+Director  Â»2019	Roger Coulson	WA1NVC
 
 Technical Officer
 * Technical Officer	Bryan Cerqua	W1BRI
@@ -306,7 +306,7 @@ Repeater Trustees
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
 
-       448.225, 449.925,  927.700 — all as W1MRA
+       448.225, 449.925,  927.700 â€” all as W1MRA
 		
 	Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP

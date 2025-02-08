@@ -4,13 +4,13 @@ January 2017
 ----------
 
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.† 
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.¬† 
 ----------
 
 January Membership Meeting ~ Wednesday, 18 January, 7 PM
 
 12V Power for Emergency Power Use 
-Greg Troxel, N1DAM† 
+Greg Troxel, N1DAM¬† 
 Location: Northborough Public Library
 Talkin: 147.27
 
@@ -45,13 +45,13 @@ The MMRA meets (usually) on the 3rd Wednesday of each month from September to Ju
 The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at 
 newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
 Email to the club leadership should be sent to 
 contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
-An email distribution list for club members named ìMMRAî is at: http://groups.yahoo.com/
+An email distribution list for club members named ‚ÄúMMRA‚Äù is at: http://groups.yahoo.com/
 
 You can also follow us on twitter @mmraham and like us on Facebook: https://www.facebook.com/mmraham.
 No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
@@ -70,7 +70,7 @@ Andy Stewart, KB1OIQ
 
 Andy presented his "Andy's Ham Radio Linux." This is free software to both make our hobby more fun and operating easier.  
 
-Andy has been running Linux user groups since 1997, and taught Linux classes for several years in Chelmsford.† He created his Linux package in 2011 as a way to give back to both the ham and Linux communities.  
+Andy has been running Linux user groups since 1997, and taught Linux classes for several years in Chelmsford.¬† He created his Linux package in 2011 as a way to give back to both the ham and Linux communities.  
 
 Andy is President of the Police Amateur Radio Team (PART) in Westford, holds an amateur extra license, and is also an ARRL Assistant Section Manager for EMA.  He has a master's degree in electrical engineering from WPI, and by day works as a digital logic verification engineer.
 
@@ -122,46 +122,46 @@ Dave closed the meeting at 9:15 pm.
 Massachusetts State Police Communications History
 Tom Turner, KB1OQA
 
-Law Enforcement Radio Communications for the Massachusetts State Police began in 1929.  An Amplitude Modulation or AM frequency of 1.666 Kilohertz operating in the Medium-Wave Band provided one-way Dispatching for State Police Patrolmen, now known as Troopers.  The first radio-equipped motorcycle was placed in service in 1936. A small number of two-way radio units were placed on this frequency in the early 1940ís. Shortwave Morse Code Stations were located at SP Framingham and SP Northampton.  These facilities, staffed with trained operators, were used for communication(s) between States.
+Law Enforcement Radio Communications for the Massachusetts State Police began in 1929.  An Amplitude Modulation or AM frequency of 1.666 Kilohertz operating in the Medium-Wave Band provided one-way Dispatching for State Police Patrolmen, now known as Troopers.  The first radio-equipped motorcycle was placed in service in 1936. A small number of two-way radio units were placed on this frequency in the early 1940‚Äôs. Shortwave Morse Code Stations were located at SP Framingham and SP Northampton.  These facilities, staffed with trained operators, were used for communication(s) between States.
 
-The original AM Medium-Wave equipment was replaced in 1941 by radios operating on Frequency  Modulation, or FM, on 35.78 Megahertz and 35.90 MHz, based on a Proposal received from MIT.  A Study prepared by the MITRE Corporation of Bedford, MA in the late 1960ís and early 1970ís recommended that a change be made to a Statewide 460 MHz  system in an effort to eliminate inadequacies found in the Low-Band Frequency Spectrum.  However, it was decided to remain on the low band, utilizing frequencies in the 42 MHz portion of that spectrum.  They were: 42.44, 42.34, 42.40, 42.50, 42,54, 42.46, 44,74, and 44.90 Mhz. In the mid-1980ís, 150 MHz Very High Frequency (VHF) portable radios and vehicular repeaters were purchased which operated on 159.42 MHz.  The merger of the Capitol Police, MDC Police, Registry of Motor Vehicles Police, and State Police took place on July 1, 1992. Each agency had a separate radio system on various frequencies.  The MDCís 800 Mhz operations began in 1980.  
+The original AM Medium-Wave equipment was replaced in 1941 by radios operating on Frequency  Modulation, or FM, on 35.78 Megahertz and 35.90 MHz, based on a Proposal received from MIT.  A Study prepared by the MITRE Corporation of Bedford, MA in the late 1960‚Äôs and early 1970‚Äôs recommended that a change be made to a Statewide 460 MHz  system in an effort to eliminate inadequacies found in the Low-Band Frequency Spectrum.  However, it was decided to remain on the low band, utilizing frequencies in the 42 MHz portion of that spectrum.  They were: 42.44, 42.34, 42.40, 42.50, 42,54, 42.46, 44,74, and 44.90 Mhz. In the mid-1980‚Äôs, 150 MHz Very High Frequency (VHF) portable radios and vehicular repeaters were purchased which operated on 159.42 MHz.  The merger of the Capitol Police, MDC Police, Registry of Motor Vehicles Police, and State Police took place on July 1, 1992. Each agency had a separate radio system on various frequencies.  The MDC‚Äôs 800 Mhz operations began in 1980.  
 
-After Consolidation, it was determined the best course of action for the new Department of State Police was to build out the MDCís existing 800 MHz system, as it offered increased coverage and technological capabilities.  Troop-B in Western Massachusetts has been upgraded from older analog to newer digital technology.  Broadcasts to and from Troopers can now be clearly received with fewer ìDead Spotsî that result in loss of radio signals, posing a safety hazard.
+After Consolidation, it was determined the best course of action for the new Department of State Police was to build out the MDC‚Äôs existing 800 MHz system, as it offered increased coverage and technological capabilities.  Troop-B in Western Massachusetts has been upgraded from older analog to newer digital technology.  Broadcasts to and from Troopers can now be clearly received with fewer ‚ÄúDead Spots‚Äù that result in loss of radio signals, posing a safety hazard.
 
-Tom, KB1OQA, is a volunteer at the Massachusetts State Police Museum and Learning Center†and a member of its Board of Directors.  He is also one of MMRAís Net Controls.  This information is excerpted from MSPís 150th anniversary book.
+Tom, KB1OQA, is a volunteer at the Massachusetts State Police Museum and Learning Center¬†and a member of its Board of Directors.  He is also one of MMRA‚Äôs Net Controls.  This information is excerpted from MSP‚Äôs 150th anniversary book.
 ----------
 
 Upcoming MMRA Meetings
 
 Wednesday, 18 Jan ~ Membership Meeting
-Topicó12V Power for Emergency Power Use in Ham Stations
+Topic‚Äî12V Power for Emergency Power Use in Ham Stations
 Greg Troxel, N1DAM
-LocationóNorthborough Free Library
+Location‚ÄîNorthborough Free Library
 
 Wed, 15 Feb ~ Business Meeting
 Location: New England Airgun in Hudson 
 
 Wednesday, 15 Mar ~ Membership Meeting
-TopicóTBD
-LocationóTBD
+Topic‚ÄîTBD
+Location‚ÄîTBD
 
 Wed, 19 April ~ Business Meeting
 Location: Stratus, Maynard
 
 Wednesday, 24 May ~ Membership Meeting
-TopicóTBD
-LocationóTBD
+Topic‚ÄîTBD
+Location‚ÄîTBD
 
 Wed, 21 June ~ Business Meeting
 Location: Stratus, Maynard
 ----------
 
-Donít Forget! Join Us.
+Don‚Äôt Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  
-Keep up with whatís happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  
+Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -187,11 +187,11 @@ Clerk			Bob Evans	N1BE
 * Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2017		Steve Schwarm	W3EVE
-Director  ª2017		Roger Coulson	WA1NVC
-Director  ª2018			Clark Conti	N1NVK
-Director  ª2018	James Lee	N1DDK
-Director  ª2017		Bob DeMattia	K1IW
+Director  ¬ª2017		Steve Schwarm	W3EVE
+Director  ¬ª2017		Roger Coulson	WA1NVC
+Director  ¬ª2018			Clark Conti	N1NVK
+Director  ¬ª2018	James Lee	N1DDK
+Director  ¬ª2017		Bob DeMattia	K1IW
 
 Repeater Trustees
 * Belmont 145.430	Ed Curley	KC1CLA
@@ -206,7 +206,7 @@ Repeater Trustees
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
 
-       448.225, 449.925,  927.700 ó all as W1MRA
+       448.225, 449.925,  927.700 ‚Äî all as W1MRA
 	Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP
 * N. Reading 146.715	Bruce Pigott	KC1US

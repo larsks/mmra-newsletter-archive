@@ -39,8 +39,8 @@ Secretary	John McGovern	W1JMC
 Treasurer	Kevin Paetzold	K1KWP
 Clerk		Bob Evans	N1BE
 Tech. Officer	Bryan Cerqua	W1BRI
-Director »2014	Clark Conti	N1NVK
-Director »2014	Mike Neilsen	W1MPN
+Director Â»2014	Clark Conti	N1NVK
+Director Â»2014	Mike Neilsen	W1MPN
 -----
 
 About the Minuteman Repeater Association
@@ -52,14 +52,14 @@ The MMRA meets (usually) on the 3rd Wednesday of each month from September to Ju
 
 The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is â€œTechnical Information and Other Stuffâ€.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
 Email to the club leadership should be sent to 
 contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
 
-An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/
+An email distribution list for club members named â€œMMRAâ€ is at: www.yahoogroups.com/
 
 No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
 -----
@@ -72,9 +72,9 @@ activity that does not abide by Part 97 rules or accepted amateur radio practice
 The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
 -----
 
-President’s Corner — Current Events
+Presidentâ€™s Corner â€” Current Events
 
-Bob DeMattia — K1IW 
+Bob DeMattia â€” K1IW 
 
 A number of items are on our current agenda:
 
@@ -94,7 +94,7 @@ March Membership Meeting
 Ham's in Emergency Communications
 Mike Neilsen, W1MPN
 
-Mike discussed how ham radio operators are still considered important players in the overall emergency communication (EMCOMM) response.  He outlined how ham radio is used in today’s complex public safety environment in the face of complicated issues of reduced state budgets and agency consolidations.  He also briefly described the requirements of NIMS, ICS, and state programs, as they apply to ham operators.  W1MPN explained many of the new approaches to the integration of ham EMCOMM volunteers into initiatives such as COML, RADO, ACS, and COOP/COG, and how they relate to RACES, ARES, SKYWARN, MARS, and the CERT programs.  He then gave a brief update of the changes being proposed for the existing RACES program by MEMA, as part of the current outreach to hams.
+Mike discussed how ham radio operators are still considered important players in the overall emergency communication (EMCOMM) response.  He outlined how ham radio is used in todayâ€™s complex public safety environment in the face of complicated issues of reduced state budgets and agency consolidations.  He also briefly described the requirements of NIMS, ICS, and state programs, as they apply to ham operators.  W1MPN explained many of the new approaches to the integration of ham EMCOMM volunteers into initiatives such as COML, RADO, ACS, and COOP/COG, and how they relate to RACES, ARES, SKYWARN, MARS, and the CERT programs.  He then gave a brief update of the changes being proposed for the existing RACES program by MEMA, as part of the current outreach to hams.
 -----
 
 >From the ARRL Eastern Massachusetts Section News
@@ -108,13 +108,13 @@ Amateurs were also stationed at the ARES Regional Command Center in Bridgewater,
 The Boston Marathon continues to be one of the largest and most visible Amateur Radio public service operations in the country. The amateur community can be proud of its contributions to this historic race.
 -----
 
-Boxboro — Call for Speakers
+Boxboro â€” Call for Speakers
 
 Ken Caruso, WO1N
 
 All speakers wanting to participate in the 2012 ARRL New England Division Convention program, please contact us at your earliest opportunity and include a subject title and a brief abstract.
 
-The dates for the convention are August 24 – 26, 2012.
+The dates for the convention are August 24 â€“ 26, 2012.
 
 If you represent a regional club or organization (e.g. NESMC, CEMARC, MARS, NEWS etc.) we can help facilitate open forums or closed meetings. We do ask organizations to please consider Sunday morning time slots for their closed meetings.
 
@@ -130,7 +130,7 @@ Wo1n@arrl.net
 -----
 
 Proposed Change to MMRA ByLaws
-Bob DeMattia, President  — K1IW 
+Bob DeMattia, President  â€” K1IW 
 
 The current bylaws require a vote for the general membership for any expenditure over $500.  This makes sense most of the time, but there are times when things must be done, such as repairs where there isn't really must choice, and often time is of the essence.
 
@@ -147,27 +147,27 @@ Expenses related to the immediate repair of existing equipment or to prevent dam
 This will be voted on at the June membership meeting.
 -----
 
-2011—2012 Meetings
+2011â€”2012 Meetings
 
-23 May — Membership Meeting
+23 May â€” Membership Meeting
 The 3Y0X DXpedition  & MMRA General Elections
 Northborough Free Library  ~ 7:00 PM
 
-20 June — Membership Meeting
+20 June â€” Membership Meeting
 General Business 
 
 Blue Coyote Grille, Maynard ~ 7:00 PM
 -----
 
-Don’t Forget!
+Donâ€™t Forget!
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
 
-The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  â€“ we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -178,7 +178,7 @@ Week 5 	W1DYJ		Larry Banks
 
 Beginning 1 June:
 To connect using the digital modes during the Net: 
-Use MMRA’s node: 
+Use MMRAâ€™s node: 
 Connect via *W1MRA-L*, node 9128.  
 -----
 
@@ -195,10 +195,10 @@ Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
 
-Director  »2012	Clark Conti	N1NVK
-Director  »2012	Mike Neilsen	W1MPN
-Director  »2013	Steve Schwarm	W3EVE
-Director  »2013	Roger Coulson	WA1NVC
+Director  Â»2012	Clark Conti	N1NVK
+Director  Â»2012	Mike Neilsen	W1MPN
+Director  Â»2013	Steve Schwarm	W3EVE
+Director  Â»2013	Roger Coulson	WA1NVC
 
 Repeater Trustees, Appointed
 
@@ -213,7 +213,7 @@ Marlboro 53.810, Quincy 146.670, Southboro 449.575
 
 		Bryan Cerqua	W1BRI
 Marlboro 144.390, 147.270, 224.880, 449.925, 927.700 
-Weston 442.700 — all as W1MRA
+Weston 442.700 â€” all as W1MRA
 		Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo		AE1C
 Weston 146.790		Bob Evans		N1BE

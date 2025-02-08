@@ -32,7 +32,7 @@ Weekends 8 AM to 10 PM.
 Accredited by the ARRL VEC
 ---------------
 
-Presidentës Corner
+President‚Äòs Corner
 Bob DeMattia (K1IW)
 
 Occasionally I receive a question about MMRA life membership.  I thought I would take this month's column to answer the question for the club.  There is currently no way to purchase a life membership.  A life membership is granted by the MMRA board to individuals with a record of exceptional service over an extended period of time.  In the MMRA's near 40-year history, only eleven people have been given this honor.  Of these 11, six are silent keys.  Potential life members are nominated and voted on at MMRA board meetings.  The decision is solely at the discretion of the board.
@@ -63,7 +63,7 @@ Paul M. Segal, W9EEA, 1928
 -------------------
 
 Public Service Report
-Bruce Pigott ó  KC1US ó Public Service Coordinator 
+Bruce Pigott ‚Äî  KC1US ‚Äî Public Service Coordinator 
 
 During the past year, a number of the Association's repeaters have been used to support communications at Public Service activities.  There were seven different groups using nine repeaters on nine days at seven events.  Groups supported include the American Red Cross of Massachusetts Bay, Project Bread, the ALS Association, Jimmy Fund, Multiple Sclerosis Society and Charles River Watershed Association.  Using the formula from the ARRL Public Service Activity Report for cost of equipment, this represents a total in kind contribution of $120,000.  The Belmont and Marlboro two meter machines received the most requests for use.  These numbers do not include the monthly Eastern Massachusetts section ARES information net or the drills in November and August using the fully linked system.
 
@@ -73,7 +73,7 @@ Right now Public Service activities are at a low point due to expected crystalli
 ------------------
 
 Update on our future Sligo shelter
-James Lee  ó  N1DDK
+James Lee  ‚Äî  N1DDK
 
 The new shelter for Sligo shown to the left is mostly ready.  
 
@@ -108,7 +108,7 @@ The antenna is a Diamond X300 which was also part of the original K1ST repeater.
 ---------------
 
 MMRA December Board of Directors Meeting
-Bob Evans ó N1BE ó Clerk
+Bob Evans ‚Äî N1BE ‚Äî Clerk
 
 MMRA Board Meeting minutes recorded by Bob Evans, MMRA Clerk
 
@@ -120,7 +120,7 @@ Kevin, K1KWP, provided an eight-page report with many details of the club financ
 Repeater Status
 At this point in the meeting, Bruce, KC1US was unanimously appointed by the board as the new trustee of 146.715 in Burlington.  Except as noted below, all repeaters are operating normally.  For more up-to-date status of the repeaters, please check the individual repeater web pages on the www.mmra.org web site.
 
-The 449.575 MHz repeater for Southborough is still undergoing work in Bryan's (W1BRI) garage.  Cables have been made for† this repeater.
+The 449.575 MHz repeater for Southborough is still undergoing work in Bryan's (W1BRI) garage.  Cables have been made for¬† this repeater.
 
 The 145.160 MHz Boston D-Star repeater is off the air.  K3FG is working on modifications to a GE Mastr-II radio for this application.  The radio has been re-crystaled; it now has .2uV sensitivity.  Bryan suggests still using a DCI filter.  Cables are in.  We still need to make sure this radio works with the D-Star controller and expect it to be ready to install in 1 or 2 months.
 
@@ -151,7 +151,7 @@ KC1US gave a brief Public Service report mentioning repeater usage for the previ
 
 The meeting adjourned at 8:45 PM.
 -----------------
-2010ó2011 Membership Meetings
+2010‚Äî2011 Membership Meetings
 
 19 January Meeting 
 Pizzeria Uno, Newton MA ~ 7:30 PM
@@ -172,14 +172,14 @@ Wed, Apr 20	No meeting in April
 Wed, Jun 15	Kennedy's Pub, Marlboro
 -----------------
 
-Donít Forget!
+Don‚Äôt Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
 
-We need another net control!  If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ñ we have a script you can use.  
+We need another net control!  If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ‚Äì we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -190,7 +190,7 @@ Week 5 	W1DYJ		Larry Banks
 
 To connect using the digital modes during the Net, use the New England Reflector:
 	For IRLP use node 9127
-	For Echolink, connect via *NEW-ENG*.  You can find this under ìNode Typesî >> ìConferencesî
+	For Echolink, connect via *NEW-ENG*.  You can find this under ‚ÄúNode Types‚Äù >> ‚ÄúConferences‚Äù
 --------------
 
 MMRA Leaders
@@ -203,10 +203,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2011		Steve Schwarm	W3EVE
-Director  ª2011		Roger Coulson	WA1NVC
-Director  ª2012		Clark Conti	N1NVK
-Director  ª2012		Mike Neilsen	W1MPN
+Director  ¬ª2011		Steve Schwarm	W3EVE
+Director  ¬ª2011		Roger Coulson	WA1NVC
+Director  ¬ª2012		Clark Conti	N1NVK
+Director  ¬ª2012		Mike Neilsen	W1MPN
 
 Repeater Trustees, Appointed
 Belmont 145.430		Larry Arone	WA1RTT
@@ -218,7 +218,7 @@ Hopkinton 223.940	Kevin Paetzold	K1KWP
 Lowell 442.250		Vince De La Flor K1LVF
 Marlboro 53.810, Quincy 146.670, Southboro 449.575
 			Bryan Cerqua	W1BRI
-Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 ó all as W1MRA
+Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Quincy 224.400		Bill Dunn	N1KUG

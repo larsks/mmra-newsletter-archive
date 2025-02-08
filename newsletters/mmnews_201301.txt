@@ -29,11 +29,11 @@ The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and publ
 Massachusetts.
 The MMRA meets (usually) on the 3rd Wednesday of each month from September to June.  Meeting times, locations, and talk-in frequency vary and are announced in this newsletter and on weekly nets.  Meetings are open to all interested parties.  Guest speakers and programs of general interest occur in September, November, January, March, and May.  The intervening meetings are also open to all members and are for general business.
 The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is â€œTechnical Information and Other Stuffâ€.   Join us!
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 Email to the club leadership should be sent to 
 contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
-An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/
+An email distribution list for club members named â€œMMRAâ€ is at: www.yahoogroups.com/
 No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
 -----
 
@@ -44,20 +44,20 @@ activity that does not abide by Part 97 rules or accepted amateur radio practice
 The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
 -----
 
-President’s Corner ~ Selecting an HF Transceiver
-Bob DeMattia — K1IW 
+Presidentâ€™s Corner ~ Selecting an HF Transceiver
+Bob DeMattia â€” K1IW 
 
-I realize MMRA is primarily a VHF/UHF club, but many of us are also active, or would like to be active, on the HF bands as well.  A question that comes up often is “what’s the best HF transceiver”?  As is almost always the answer – it depends!
+I realize MMRA is primarily a VHF/UHF club, but many of us are also active, or would like to be active, on the HF bands as well.  A question that comes up often is â€œwhatâ€™s the best HF transceiverâ€?  As is almost always the answer â€“ it depends!
 
-I found thirty-four HF transceivers currently on the market.  When I compiled my list, I excluded anything that wasn’t ready to operate “out of the box”.  For example, one manufacturer in particular, FlexRadio systems, specializes in transceivers which you must control from a PC.  Kenwood also offers a transceiver like this.  There are also a few manufacturers that offer transceivers in kit form.  These may very well be excellent products, but for the purpose of comparison, I wanted to keep my list restricted to main line traditional radio forms.
+I found thirty-four HF transceivers currently on the market.  When I compiled my list, I excluded anything that wasnâ€™t ready to operate â€œout of the boxâ€.  For example, one manufacturer in particular, FlexRadio systems, specializes in transceivers which you must control from a PC.  Kenwood also offers a transceiver like this.  There are also a few manufacturers that offer transceivers in kit form.  These may very well be excellent products, but for the purpose of comparison, I wanted to keep my list restricted to main line traditional radio forms.
 
-The first question you need to ask is – how am I going to use this radio?  Casual use?  DX? Contesting?  Awards?   The more serious you want to get about contesting, the more you are going to need better receiver sensitivity and selectivity.  More expensive radios often include additional features to eliminate locally generated noise or to handle QRM.  The second question might be “what is my budget”?   In fact, this might be the first question.  Almost everyone I know is on a budget.  If you are the exception, then lucky you.
+The first question you need to ask is â€“ how am I going to use this radio?  Casual use?  DX? Contesting?  Awards?   The more serious you want to get about contesting, the more you are going to need better receiver sensitivity and selectivity.  More expensive radios often include additional features to eliminate locally generated noise or to handle QRM.  The second question might be â€œwhat is my budgetâ€?   In fact, this might be the first question.  Almost everyone I know is on a budget.  If you are the exception, then lucky you.
 
 Estimated prices range from $520 to over $12000.  There are actually some specialty companies that go higher, but I figure $12000 is more than enough.  You will find that radios at the lower ends have simpler displays, poorer receiver performance, or may lack features such as a band scope that lets you see where the activity is on the band.  Most transceivers include coverage up through 54 MHz, but there are exceptions.  There are a handful of radios that also include the 2m and 440 bands.  These transceivers may be in the same price class as others with VHF/UHF, but may sacrifice other features or HF performance.
 
-Are you in the market?  Use this list as a guide, but investigate further the ones that are in your price range.  Keep in mind that some radios include an AC power supply.  If they don’t, you may need to add the cost of the supply to your purchase.  Many radios include, or have available, at extra cost an automatic antenna tuner.  Unless you are really lucky, you will probably need to have one of these if you want full access to all of the bands.   To help you here, I included columns to indicate which radios have a built supply and/or tuner.
+Are you in the market?  Use this list as a guide, but investigate further the ones that are in your price range.  Keep in mind that some radios include an AC power supply.  If they donâ€™t, you may need to add the cost of the supply to your purchase.  Many radios include, or have available, at extra cost an automatic antenna tuner.  Unless you are really lucky, you will probably need to have one of these if you want full access to all of the bands.   To help you here, I included columns to indicate which radios have a built supply and/or tuner.
 
-(Editors note: Reviews of most of these rigs can be found in ARRL’s archives.  Additional comparison specs can also be found on Sherwood Engineering’s site:  http://www.sherweng.com/table.html .)
+(Editors note: Reviews of most of these rigs can be found in ARRLâ€™s archives.  Additional comparison specs can also be found on Sherwood Engineeringâ€™s site:  http://www.sherweng.com/table.html .)
 
 Mfg		Model		b/c/m	price	TX power	6m	2m	440	AC pwr supply	auto tuner
 Alinco		DX-SR8T		compact	520	100	NO				$350 
@@ -98,7 +98,7 @@ Icom		IC-7800	base	12300	200	200			yes	yes
 -----
 
 A New Antenna for Lowell
-Bob DeMattia — K1IW 
+Bob DeMattia â€” K1IW 
 
 	At the end of December, club members were asked to approve funds to replace the Lowell Repeater antenna which has failed.  This measure passed by a vote  of 72 to 3, with 2 abstentions.  The new antenna will be a Decibel Products ANT450D6-9.  This antenna will provide a gain of approximately 9dB.  In order to do this, radiation outside the horizontal plane of the antenna is pushed into that plane.
 	Think of the pattern as donut shaped.  The donut is laying on its side with the repeater in the center.  As the gain increases, the donut gets flatter.  More signal is pushed horizontally so locations above or below the horizontal plane of the antenna get less signal.  There are situations in which a higher gain antenna can actually be detrimental.  Lowell is not one of these cases.
@@ -177,12 +177,12 @@ Tatnuck Bookseller in Westborough
 
 Our November guest speaker was Donna Halper. Donna told us many stories about what ham radio operators did over the past 100 years to help their communities and help build the commercial broadcast industry. Ms. Halper is a respected and experienced media historian, who makes regular appearances on WBZ's Jordan Rich Show. She is also heard on WBUR-FM and WGBH-FM and is frequently quoted in the Boston Globe and other newspapers. She is the author of five books, the most recent of which is "Boston Radio 1920-2010," a history of Boston radio in words and pictures.   [Editors note: I purchased this book from Donna that evening and really enjoyed it!]  You can read more about Donna at http://www.donnahalper.com/bio.html.
 
->From Donna’s Web Site
+>From Donnaâ€™s Web Site
 
 Boston's radio history begins with pioneering station 1XE/WGI, one of America's first radio stations, and includes the first station to receive a commercial license, WBZ; the first FM radio network, W1XOJ and W1XER; and one of the first news networks, the Yankee News Service. Nationally known bandleaders like Joe Rines and Jacques Renard were first heard on Boston radio, as was one of the first weathercasters, E. B. Rideout. The city has been home to a number of legendary announcers, such as Bob and Ray, Arnie Ginsburg, Dick Summer, Dale Dorman, and Charles Laquidara; talk show giants like Jerry Williams and David Brudnoy; and sports talkers like Eddie Andelman and Glenn Ordway. Many Boston radio personalities, such as Curt Gowdy, "Big Brother" Bob Emery, Don Kent, and Louise Morgan, found fame on television but first established themselves on Boston's airwaves. Since 1920, Boston radio has remained vibrant, proving that live and local stations are as important as ever.
 -----
 
-2012—2013 Meetings
+2012â€”2013 Meetings
 
 16 January ~ Membership Meeting
 Technical Evolution in Disaster Communications  & Free Pizza Night
@@ -213,13 +213,13 @@ Location TBA
 Location TBA 
 -----
 
-Don’t Forget!
+Donâ€™t Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  â€“ we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -243,10 +243,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  »2014		Clark Conti	N1NVK
-Director  »2014		Mike Neilsen	W1MPN
-Director  »2013		Steve Schwarm	W3EVE
-Director  »2013		Roger Coulson	WA1NVC
+Director  Â»2014		Clark Conti	N1NVK
+Director  Â»2014		Mike Neilsen	W1MPN
+Director  Â»2013		Steve Schwarm	W3EVE
+Director  Â»2013		Roger Coulson	WA1NVC
 
 Repeater Trustees, Appointed
 Boston 927.0625		Rick Zach	K1RJZ
@@ -259,7 +259,7 @@ Marlboro 53.810; Quincy 146.670; Southboro 449.575
 
 			Bryan Cerqua	W1BRI
 Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
-Belmont 145.430;  Weston 442.700 — all as W1MRA
+Belmont 145.430;  Weston 442.700 â€” all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Weston 146.790		Bob Evans	N1BE
@@ -275,7 +275,7 @@ Web Page Editor		Bob DeMattia	K1IW
 -----
 
 Previous issues of the MMRA Newsletter are available at:
-www.mmra.org è Newsletter Archive (on the left)
+www.mmra.org Ã¨ Newsletter Archive (on the left)
 -----
 
 MMRA VE Sessions

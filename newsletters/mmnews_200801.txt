@@ -32,7 +32,7 @@ We will help you get started.
 ----------------------------
 
 MMRA December Board of Directors Meeting
-Bob Evans ó N1BE ó Clerk
+Bob Evans ‚Äî N1BE ‚Äî Clerk
 
 The MMRA board met in Northborough MA at the residence of K1IW on the evening of December 19, 2007.
 
@@ -105,7 +105,7 @@ Paul M. Segal, W9EEA, 1928
 
 ------------------------------
 
-Treasurerís Report
+Treasurer‚Äôs Report
 Kevin Paetzold, K1KWP
 
 Income	   Dues		  $2399.71
@@ -124,14 +124,14 @@ Discretionary Funds 		$  162.87
 
 --------------------------------
 
-Presidentís Message
+President‚Äôs Message
 Bob DeMattia, K1IW
 
 Every Tuesday night at 8PM, MMRA continues a time-honored tradition: The MMRA Technical Information and Other Stuff net. This is a weekly over-the-air meeting for MMRA members and non-members alike. While our bi-monthly meetings require a trek to our various meeting spots, this is a meeting you can attend from the comfort of your home, automobile, or wherever you might be at the time.
 
-Larry Banks has been the net manager for our little net for several years now. He tells me attendance on the net hasnít been too bad, but heís having trouble finding regular net controls to run the net. Larryís a great guy and has been running a lot of the nets himself, but, thatís not what a club activity should be about.
+Larry Banks has been the net manager for our little net for several years now. He tells me attendance on the net hasn‚Äôt been too bad, but he‚Äôs having trouble finding regular net controls to run the net. Larry‚Äôs a great guy and has been running a lot of the nets himself, but, that‚Äôs not what a club activity should be about.
 
-Have you got thirty minutes to an hour you can spare once a month? You donít have to go anywhere, just be near your favorite radio. Get your cup of coffee, a piece of paper, and a pencil and take part in this long-running club activity. If youíd like to help out as a net control, drop Larry a note at w1dyj@mmra.org. Heíll show you what to do and get you up and running. If you donít want to net control, at least join us for an interesting conversation ñ every Tuesday, at 8 PM, on all MMRA repeaters except 145.43. K1IW
+Have you got thirty minutes to an hour you can spare once a month? You don‚Äôt have to go anywhere, just be near your favorite radio. Get your cup of coffee, a piece of paper, and a pencil and take part in this long-running club activity. If you‚Äôd like to help out as a net control, drop Larry a note at w1dyj@mmra.org. He‚Äôll show you what to do and get you up and running. If you don‚Äôt want to net control, at least join us for an interesting conversation ‚Äì every Tuesday, at 8 PM, on all MMRA repeaters except 145.43. K1IW
 
 ----------------------------
 
@@ -147,9 +147,9 @@ May 21	Clay Center Observatory, Brookline 	Astronomy Night and General Elections
 
 Linking on the MMRA Network ~ Bob DeMattia, K1IW
 
-Linking / Delinking repeaters on the MMRA network just got a lot easier.  From the repeater you are on, simply enter ìC1î to connect to Hub 1, or ìC2î to connect to Hub 2.   A code of ìDDî will disconnect any existing link.
+Linking / Delinking repeaters on the MMRA network just got a lot easier.  From the repeater you are on, simply enter ‚ÄúC1‚Äù to connect to Hub 1, or ‚ÄúC2‚Äù to connect to Hub 2.   A code of ‚ÄúDD‚Äù will disconnect any existing link.
 
-If you wish to link from the HUB side, you still need to use the four digits codes.  However, the ìtwo-stepî process of having to enter a member preaccess code, then the linking command, as been eliminated.   Instead, simple enter the linking command by entering the three digits after the decimal point of the repeater you want to link ñ for example ì670î for Quincy, ì820î for Brookline, ì715î for Stoneham, etc followed immediately by a ì0î to delink, ì1î to link to HUB1, or ì2î to link to HUB2.
+If you wish to link from the HUB side, you still need to use the four digits codes.  However, the ‚Äútwo-step‚Äù process of having to enter a member preaccess code, then the linking command, as been eliminated.   Instead, simple enter the linking command by entering the three digits after the decimal point of the repeater you want to link ‚Äì for example ‚Äú670‚Äù for Quincy, ‚Äú820‚Äù for Brookline, ‚Äú715‚Äù for Stoneham, etc followed immediately by a ‚Äú0‚Äù to delink, ‚Äú1‚Äù to link to HUB1, or ‚Äú2‚Äù to link to HUB2.
 
 Not all repeaters can link to both hubs.  Also, if you try to link from the HUB side, the repeater you are calling needs to be listening to the correct HUB.  When unlinked, this is most often HUB1.  However, at a site where there are two repeaters, if one repeater is delinked and the other is linked, the delinked is listening to the same hub as the linked one.
 
@@ -187,13 +187,13 @@ Web Page Editor			Bob DeMattia		K1IW
 
 ---------------------------------
 
-Donít Forget!
+Don‚Äôt Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
 
-We need a control operator for the first and third  Tuesdays  of each month ñ contact me at W1DYJ@mmra.org if you would like to running the net some evening ñ we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+We need a control operator for the first and third  Tuesdays  of each month ‚Äì contact me at W1DYJ@mmra.org if you would like to running the net some evening ‚Äì we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
 
 Current Net Control Operators:
 

@@ -1,6 +1,6 @@
 The Minuteman Repeater Association
 
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.† 
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.¬† 
 
 The Minuteman
 Volume 48, Number 1
@@ -12,9 +12,9 @@ We have TWO! (2) MMRA meetings this month!!!
 
 Boxboro! 2018 
 
-Sunday, 9 Sept., 12:00ó13:00    Board Room
-Not Just a Bunch of Repeaters ñ A System
-The Minuteman Repeater Association operates 22 repeaters across Eastern and Central Massachusetts. What makes them unique is they are all interconnected.† The MMRA network is the largest system of linked analog repeaters in New England. At this presentation, we will show you how itís done and what the system is capable of.
+Sunday, 9 Sept., 12:00‚Äî13:00    Board Room
+Not Just a Bunch of Repeaters ‚Äì A System
+The Minuteman Repeater Association operates 22 repeaters across Eastern and Central Massachusetts. What makes them unique is they are all interconnected.¬† The MMRA network is the largest system of linked analog repeaters in New England. At this presentation, we will show you how it‚Äôs done and what the system is capable of.
 
 And join us for dinner Saturday night!
 Saturday Night Grand Banquet. Keynote speaker Abigail "Astronaut Abby" Harrison, founder of The Mars Generation. The meal will be buffet style with plenty of options to choose from.  Doors will open at 6:30 PM on Saturday.  
@@ -38,16 +38,16 @@ New England Sci-Tech Inc.
 
 MMRA Officer Election Results, from May Annual Meeting:
 
-KG1H 	David Wolfe ñ President 
+KG1H 	David Wolfe ‚Äì President 
 WA1MDD 	John Spencer -- Vice President 
-K1KWP 	Kevin Paetzold ñ Treasurer 
-N1DCH 	David Hornbaker ñ Secretary 
-????? ñ Clerk  (We need a volunteer!)
-N1NVK 	Clark Conti ñ Director  ? 2020
-N1DDK 	James Lee ñ Director  ? 2020
+K1KWP 	Kevin Paetzold ‚Äì Treasurer 
+N1DCH 	David Hornbaker ‚Äì Secretary 
+????? ‚Äì Clerk  (We need a volunteer!)
+N1NVK 	Clark Conti ‚Äì Director  ? 2020
+N1DDK 	James Lee ‚Äì Director  ? 2020
 ----------
 
-Presidentís Corner
+President‚Äôs Corner
 
 David Wolfe ~ KG1H
 
@@ -57,7 +57,7 @@ It brings up the point, what can WE do to entice our 'old' hams to join in on di
 Looking for suggestions to revitalize our repeater activities, and good reason to continue upgrading our repeaters.
 ----------
 
-Treasurerís Report
+Treasurer‚Äôs Report
 
 Kevin Paetzold ~ K1KWP
 
@@ -93,7 +93,7 @@ W1SBJ	K5TC	K1JS	WA1JIM	W1NZJ
 KC1IEK	KC1KZI	KC1SO	KD1TE	N1BE	N1COY	N1DH	N1HBR	W1DYJ	
 W1LSB	WA1DX
 
-Detailed financial information is presented at almost every business meeting.  These meetings generally occur in the months which do not have general membership meetings.  They are announced on the www.mmra.org website.  All members are invited and encouraged to attend these meetings.  Of course much more than the finances are discussed at these meetings including repeater status, repeater decisions, planning, etcÖ.		73,  K1KWP
+Detailed financial information is presented at almost every business meeting.  These meetings generally occur in the months which do not have general membership meetings.  They are announced on the www.mmra.org website.  All members are invited and encouraged to attend these meetings.  Of course much more than the finances are discussed at these meetings including repeater status, repeater decisions, planning, etc‚Ä¶.		73,  K1KWP
 ----------
 
 May Membership Meeting Presentation
@@ -129,7 +129,7 @@ New Business:
 Location of September meeting:  Boxborough or at the New England Sci-Tech (NEST) facility in Natick.
 No decision.   Group to visit (NEST) to check it out. Contact Bob Phinney (K5TEC) to inquire about availability. 
 
-Boxborough ñ tentative plan is to do repeater system presentation
+Boxborough ‚Äì tentative plan is to do repeater system presentation
 
 Future location of Board meetings:
 New England AirGun, Hudson
@@ -167,8 +167,8 @@ MMRA Secretary
 May Membership Meeting Presentation
 
 Larry Banks ~ W1DYJ
- One Hamís Journey with Antennas 
-Not a ìHow ToîÖ		...itís a ìYou Can Do It TooîÖ
+ One Ham‚Äôs Journey with Antennas 
+Not a ‚ÄúHow To‚Äù‚Ä¶		...it‚Äôs a ‚ÄúYou Can Do It Too‚Äù‚Ä¶
 Hopefully this talk will get you thinking about your antenna situation!
 Some of the slides are presented below.
 
@@ -180,10 +180,10 @@ New Center for STEM Education and Amateur Radio
 Bob Phinney ~ K5TEC
 
 New England Amateur Radio (NEAR) has a new home in Natick at New England Sci-Tech Inc., a 
-non-profit STEM education center and maker space. †NEAR will also host a new startup ham radio club for youth and families called STARS - Sci-Tech Amateur Radio Society. STARS will replace the Clay Center Amateur Radio Club in Brookline (CC-ARC), which was one of the largest youth and family oriented clubs in New England with over 350 members, of which over a hundred are (or were) youth. NEAR had 
-supported CC-ARC and other clubs with equipment, radio classes, and VE sessions. CC-ARC has now disbanded and members are encouraged to join STARS and NEAR instead. Both clubs have space in New England Sci-Tech†(NESciTech), located near the Wellesley-Natick line near Rt 30. NE Sci-Tech offers classes in amateur radio, electronics, astronomy, and many other STEM topics for adults, families with children, and high school youth. 
+non-profit STEM education center and maker space. ¬†NEAR will also host a new startup ham radio club for youth and families called STARS - Sci-Tech Amateur Radio Society. STARS will replace the Clay Center Amateur Radio Club in Brookline (CC-ARC), which was one of the largest youth and family oriented clubs in New England with over 350 members, of which over a hundred are (or were) youth. NEAR had 
+supported CC-ARC and other clubs with equipment, radio classes, and VE sessions. CC-ARC has now disbanded and members are encouraged to join STARS and NEAR instead. Both clubs have space in New England Sci-Tech¬†(NESciTech), located near the Wellesley-Natick line near Rt 30. NE Sci-Tech offers classes in amateur radio, electronics, astronomy, and many other STEM topics for adults, families with children, and high school youth. 
 
-High on a hill with 5 acres and ample parking,†perfect for doing amateur radio and public astronomy nights, the facility contains several†classrooms, woodworking shop, machine room,†maker space, meeting spaces, kitchenette, and storage. NESciTech will be directed by amateur radio operators Bob Phinney K5TEC, Ted Reimann KB1NTJ, and Norman Wittels KC1JLB. They encourage you to check out the facility and programs on line at www.nescitech.org, at one of the upcoming open houses, or email Bob Phinney to schedule a visit: bobphinney@nescitech.org.†
+High on a hill with 5 acres and ample parking,¬†perfect for doing amateur radio and public astronomy nights, the facility contains several¬†classrooms, woodworking shop, machine room,¬†maker space, meeting spaces, kitchenette, and storage. NESciTech will be directed by amateur radio operators Bob Phinney K5TEC, Ted Reimann KB1NTJ, and Norman Wittels KC1JLB. They encourage you to check out the facility and programs on line at www.nescitech.org, at one of the upcoming open houses, or email Bob Phinney to schedule a visit: bobphinney@nescitech.org.¬†
 
 Directions to New England Sci-Tech Inc.
 16 Tech Circle, Natick MA 01760
@@ -221,7 +221,7 @@ Topic: tbd
 Location: tbd
 
 Wednesday, 20 February ~ Business Meeting
-Location: tbd†
+Location: tbd¬†
 
 Tuesday, 20 Mar ~ Membership Meeting 
 Topic: tbd
@@ -235,12 +235,12 @@ Topic: tbd
 Location: tbd
 ----------
 
-Donít Forget! Join Us.
+Don‚Äôt Forget! Join Us.
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatís happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -255,7 +255,7 @@ IRLP node 4133
 ----------
 
 MMRA Leaders
-Executive Board ó Officers
+Executive Board ‚Äî Officers
 
 President	David Wolfe	KG1H
 Vice President	John Spencer	WA1MDD
@@ -263,11 +263,11 @@ Secretary	David Hornbaker N1DCH
 Treasurer	Kevin Paetzold	K1KWP
 Clerk	open
 
-Executive Board ó Directors
-Director  ª2019	Bob DeMattia	K1IW
-Director  ª2019	Roger Coulson	WA1NVC
-Director  ª2020	Clark Conti	N1NVK
-Director  ª2020	James Lee	N1DDK
+Executive Board ‚Äî Directors
+Director  ¬ª2019	Bob DeMattia	K1IW
+Director  ¬ª2019	Roger Coulson	WA1NVC
+Director  ¬ª2020	Clark Conti	N1NVK
+Director  ¬ª2020	James Lee	N1DDK
 
 Technical Officer
 * Technical Officer	Bryan Cerqua	W1BRI
@@ -284,7 +284,7 @@ Repeater Trustees
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
 
-       448.225, 449.925,  927.700 ó all as W1MRA
+       448.225, 449.925,  927.700 ‚Äî all as W1MRA
 
 	Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP

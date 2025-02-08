@@ -13,7 +13,7 @@ Bob is a key player in the Wide Area Amateur Radio Network (WAARN). The network 
 
 ------------------------------------
 
-President’s Message ~ Bob DeMattia, K1IW
+Presidentâ€™s Message ~ Bob DeMattia, K1IW
 
 Much is being discussed about the advent of the Japan Amateur Radio League's D-Star standard.  The JARL developed this in cooperation with several Japanese companies.
 	So far, only ICOM is producing D-Star based amateur equipment.  ICOM's sales have been off to a slow start, but things appear to be picking up a bit.  D-Star is a standard for  transmitting digital data.  In one form, it can send high-speed data on the 23cm band.  However it also has a voice mode, for which ICOM manufactures equipment for 2m, 70cm, and 23cm.  ICOM claims voice mode requires only 6.25 KHz bandwidth.  
@@ -26,7 +26,7 @@ been about?
 ------------------------------------
 
 MMRA October Board of Directors Meeting
-Bob Evans — N1BE — Clerk
+Bob Evans â€” N1BE â€” Clerk
 
 Minutes of the MMRA board meeting of 17 October at the offices of Stratus Technology.
 
@@ -36,7 +36,7 @@ Present were K1KWP, K1IW, W1BRI, WA1NVC, N1BDA & N1BE.
 
 	Newsletter editor wants to remind everyone to get their articles to him before the end of the month.
 
-Treasurer’s report
+Treasurerâ€™s report
 	Behind on dues collection so far. Have already spent all dues collected except about $324.  Need about 92 more memberships to cover our expected expenses. Need to include membership forms and plea for dues in the next two newsletters. The biggest expense is electricity: $900/year. Some discussion about solar, switching supplies, etc., for ways to reduce this charge...Particularly at MRW.
 
 Repeater / Project updates
@@ -100,7 +100,7 @@ Paul M. Segal, W9EEA, 1928
 
 ------------------------------------
 
-Treasurer’s Report
+Treasurerâ€™s Report
 
 Income	2007-2008 Dues			$1914.71
 	Donations			   87.39
@@ -138,11 +138,11 @@ Larry Banks, W1DYJ
 
 As you all know, the Stoneham 446.725 repeater is one of the repeaters that has been cited by the Air Force for interfering with the Pave Paws radar system on Cape Cod.  
 
-Our original RF power was ~63 Watts ERP — 20 Watts output to a 5 dB vertical.  We were asked to reduce our RF in that direction by 24 dB.  
+Our original RF power was ~63 Watts ERP â€” 20 Watts output to a 5 dB vertical.  We were asked to reduce our RF in that direction by 24 dB.  
 
 The MMRA has installed a corner reflector antenna pointed away from Cape Cod.  This antenna has 40 dB Front-to-Back attenuation and 10 dB forward gain.  This should be sufficient to mitigate the problem.
 
-Overall, while mitigating our interference to Pave Paws, this should improve the MMRA’s coverage on 440 from the North to the North-West.  With 20 Watts and 10 dB gain the ERP toward Lowell and Concord NH should be 200 Watts.  In the cone shown by the green lines it should be >100 Watts ERP.
+Overall, while mitigating our interference to Pave Paws, this should improve the MMRAâ€™s coverage on 440 from the North to the North-West.  With 20 Watts and 10 dB gain the ERP toward Lowell and Concord NH should be 200 Watts.  In the cone shown by the green lines it should be >100 Watts ERP.
 
 We expect that this will make both the MMRA and the Air Force happy.
 
@@ -154,15 +154,15 @@ Phil McNamara, N1XTB, was our featured speaker.  Phil is an expert on solar powe
 
 Phil also demonstrated a number of items, from solar panels to emergency lights, to a complete portable and emergency power system.
 
-Before Phil’s presentation, Bob, K1IW, revisited the recent events surrounding Stoneham 440 and Pave Paws:
-Jul 2006 — USAF contractor conducts interference investigation
-Aug 2006 — MMRA is informed about possible interference
-Oct 2006 — USAF lists 15 repeaters in Boston area. ARRL is involved.  Letters to trustees are sent.
-Feb 2007 — USAF sends letter to FCC requesting mitigation by 1 May
-May 2007 — ARRL submits plan to USAF to calculate mitigation
-Sep 2007 — MMRA receives letter detailing required 24 dB reduction
-Sep 2007 — 442.950, 443,450, 443.500, 443.800, 444.250, 447.075 go silent
-Oct 2007 — Corner reflector installed at Stoneham 446.725
+Before Philâ€™s presentation, Bob, K1IW, revisited the recent events surrounding Stoneham 440 and Pave Paws:
+Jul 2006 â€” USAF contractor conducts interference investigation
+Aug 2006 â€” MMRA is informed about possible interference
+Oct 2006 â€” USAF lists 15 repeaters in Boston area. ARRL is involved.  Letters to trustees are sent.
+Feb 2007 â€” USAF sends letter to FCC requesting mitigation by 1 May
+May 2007 â€” ARRL submits plan to USAF to calculate mitigation
+Sep 2007 â€” MMRA receives letter detailing required 24 dB reduction
+Sep 2007 â€” 442.950, 443,450, 443.500, 443.800, 444.250, 447.075 go silent
+Oct 2007 â€” Corner reflector installed at Stoneham 446.725
 
 ------------------------------------
 
@@ -187,13 +187,13 @@ Web Page Editor			Bob DeMattia		K1IW
 
 ------------------------------------
 
-Don’t Forget!
+Donâ€™t Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
 
-We need a control operator for the first and third  Tuesdays  of each month – contact me at W1DYJ@mmra.org if you would like to running the net some evening – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+We need a control operator for the first and third  Tuesdays  of each month â€“ contact me at W1DYJ@mmra.org if you would like to running the net some evening â€“ we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
 
 Current Net Control Operators:
 

@@ -16,16 +16,16 @@ Talk in freq: 146.79
 
 ------------------------
 
-Presidentís Corner ~ Bob Dematia, K1IW
+President‚Äôs Corner ~ Bob Dematia, K1IW
 
-	From the ìonly slightly related to ham radioî department this month, a short snippet on HD radio.  The CD player in my car recently died.  My YL, who tolerates being referred to in ham radio lingo provided I leave out the ìXî, bought me a replacement.  The new one actually had ìHDî capability, so now Iím having some fun with this new technology.  While the ìHDî in TV-land stands for ìHigh Definitionî, in radio land it stands for ìHybrid Digitalî.  This is because the digital information is sent in sidebands alongside the traditional analog carrier.  Thereís not enough room for a detailed explanation here, so Iíll go straight to my experiences.  
-        On the AM band, Iíve found two stations transmitting HD ñ WBZ (1030 and Radio Disney (WMKI ñ 1260).  The way the radio works, it initially tunes the analog carrier.  As soon as the digital carrier lock acquired, it switches to HD.  There is something surreal about hearing an AM station in high fidelity.  This effect is somewhat limited because WBZ is mostly talk ñ but the announcer voices do sound more natural and thereís a big difference in the jingles and commercials.  One major drawback is that the coverage of the digital signal is limited.  When digital lock is lost, the radio switches back to analog.  Out here 35 miles west of Boston, I find the radio switching back and forth quite a bit.  (By the way, the stations delay their analog signals so that they will be in sync with the digital delay on the HD side).  When it switches, the analog signal is still pretty strong.  The Radio Disney signal is analog-only until I get to the Waltham area, and even there itís spotty.  Disney actually has music, and the HD makes a big difference.  
-AM Radio DX-ers are not happy about HD radio ñ the sidebands are quite broad and wipe out distant stations on adjacent channels.  Stations still turn off the HD signals at night for this reason.  On a traditional AM radio, you can tune to 1020 or 1040 during the day and hear the digital ìhashî, which sounds like a connected computer modem.
-        On the FM band, there are probably a dozen or more stations transmitting HD.     Some also provide a secondary channel with alternative programming content.  Currently, there are no commercials on any of these sub channels, so itís like getting a few satellite radio channels for free.  I noticed only a subtle difference between HD and analog signals on the strong FM stations.  Again, HD coverage is limited and some of the weaker stations switch back and forth.  In a reception area like this, the analog signals tend to lose their higher frequencies, so I would hear the treble kick in and out when the HD signal locked and unlocked.  Thereís no analog backup for the sub channel, so if you are listening there and the signal unlocks, you get silence.
+	From the ‚Äúonly slightly related to ham radio‚Äù department this month, a short snippet on HD radio.  The CD player in my car recently died.  My YL, who tolerates being referred to in ham radio lingo provided I leave out the ‚ÄúX‚Äù, bought me a replacement.  The new one actually had ‚ÄúHD‚Äù capability, so now I‚Äôm having some fun with this new technology.  While the ‚ÄúHD‚Äù in TV-land stands for ‚ÄúHigh Definition‚Äù, in radio land it stands for ‚ÄúHybrid Digital‚Äù.  This is because the digital information is sent in sidebands alongside the traditional analog carrier.  There‚Äôs not enough room for a detailed explanation here, so I‚Äôll go straight to my experiences.  
+        On the AM band, I‚Äôve found two stations transmitting HD ‚Äì WBZ (1030 and Radio Disney (WMKI ‚Äì 1260).  The way the radio works, it initially tunes the analog carrier.  As soon as the digital carrier lock acquired, it switches to HD.  There is something surreal about hearing an AM station in high fidelity.  This effect is somewhat limited because WBZ is mostly talk ‚Äì but the announcer voices do sound more natural and there‚Äôs a big difference in the jingles and commercials.  One major drawback is that the coverage of the digital signal is limited.  When digital lock is lost, the radio switches back to analog.  Out here 35 miles west of Boston, I find the radio switching back and forth quite a bit.  (By the way, the stations delay their analog signals so that they will be in sync with the digital delay on the HD side).  When it switches, the analog signal is still pretty strong.  The Radio Disney signal is analog-only until I get to the Waltham area, and even there it‚Äôs spotty.  Disney actually has music, and the HD makes a big difference.  
+AM Radio DX-ers are not happy about HD radio ‚Äì the sidebands are quite broad and wipe out distant stations on adjacent channels.  Stations still turn off the HD signals at night for this reason.  On a traditional AM radio, you can tune to 1020 or 1040 during the day and hear the digital ‚Äúhash‚Äù, which sounds like a connected computer modem.
+        On the FM band, there are probably a dozen or more stations transmitting HD.     Some also provide a secondary channel with alternative programming content.  Currently, there are no commercials on any of these sub channels, so it‚Äôs like getting a few satellite radio channels for free.  I noticed only a subtle difference between HD and analog signals on the strong FM stations.  Again, HD coverage is limited and some of the weaker stations switch back and forth.  In a reception area like this, the analog signals tend to lose their higher frequencies, so I would hear the treble kick in and out when the HD signal locked and unlocked.  There‚Äôs no analog backup for the sub channel, so if you are listening there and the signal unlocks, you get silence.
       VHF Hams are catching up with the broadcasters on the digital voice forefront.  There is a group in New Hampshire working on bringing the first D-Star system to New England.  Like its broadcast counterpart, equipment is still difficult to find and expensive, and this is making adoption of the technology very slow.  Nevertheless, it will be interesting to see if ham radio version (which from a technology standpoint is very different from broadcast) will have the same problems with effective range.  I guess I need to turn off my new toy and start using my Kenwood TM-732 again.
 
 
-73, Bob ó K1IW
+73, Bob ‚Äî K1IW
 
 -------------------------
 
@@ -75,12 +75,12 @@ Mendon 146.61
 
 53.81
 
-	The link radio needs to be upgraded for HUB2 operation. Also we need to find a ìYî to come up with another logic output from the Hamtronics controller to allow switching between the channels.
+	The link radio needs to be upgraded for HUB2 operation. Also we need to find a ‚ÄúY‚Äù to come up with another logic output from the Hamtronics controller to allow switching between the channels.
 
 
 -------------------------
 
-Summary Treasurerís Report ~ 21 February
+Summary Treasurer‚Äôs Report ~ 21 February
 Kevin Paetzold, K1KWP ~ Treasurer
 
 
@@ -137,14 +137,14 @@ Although it is not clear what the MMRA technical role will be in the BAA Maratho
 
 -------------------------
 
-Donít Forget!
-Tuesdayís @ 8 PM
+Don‚Äôt Forget!
+Tuesday‚Äôs @ 8 PM
 Technical, Informational and Other Stuff Net
 Larry Banks, W1DYJ
 
-Most of the MMRAís repeaters are linked every Tuesday night for the MMRA TIAOS Net.  Join us!  Over the past two months we averaged seven participants with a high of twelve.  This is a good way to keep up with what is happening with the MMRA as well as ask your ham related questions.
+Most of the MMRA‚Äôs repeaters are linked every Tuesday night for the MMRA TIAOS Net.  Join us!  Over the past two months we averaged seven participants with a high of twelve.  This is a good way to keep up with what is happening with the MMRA as well as ask your ham related questions.
 
-We are looking for a net control operator for the first Tuesday  of each month ñ contact me at W1DYJ@mmra.org if you would like to try your hand at running a net some evening ñ we have a script that you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+We are looking for a net control operator for the first Tuesday  of each month ‚Äì contact me at W1DYJ@mmra.org if you would like to try your hand at running a net some evening ‚Äì we have a script that you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
 
 Current Net Control Operators:
 

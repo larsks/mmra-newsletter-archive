@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.† 
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.¬† 
 
 The Minuteman
 
@@ -11,15 +11,15 @@ Membership Meeting ~ Wednesday, Mar 18 ~ 7 PM
 
 Dick Frey - WA2AAU
 
-VHF CONTESTING ñ Letís Just Do It
+VHF CONTESTING ‚Äì Let‚Äôs Just Do It
 
 The presentation will be about VHF contesting, how it works, and why it is fun.  It will cover various aspects such as how to get involved, how far you can talk, what is a rover station. It will use lots of examples from the W2SZ contest operation, but will talk about how just anyone can get involved either from home or from his car on some hilltop. 
 
-Dick is President of the New England Weak Signal Group, the premier VHF/UHF club in the Northeast.  NEWS is dedicated to weak signal work on 50 MHz and up.  Dick is also President of the Mt. Greylock Expeditionary Force (W2SZó the VHF contest group on Greylock Mt.)
+Dick is President of the New England Weak Signal Group, the premier VHF/UHF club in the Northeast.  NEWS is dedicated to weak signal work on 50 MHz and up.  Dick is also President of the Mt. Greylock Expeditionary Force (W2SZ‚Äî the VHF contest group on Greylock Mt.)
 
 Now an Extra Class licensee, Dick was first licensed as a Novice in 1962 while still in High School.  While at RPI in Troy, NY, for his EE degree he first participated in VHF contests from W2SZ.  W2SZ moved to Mt. Greylock in 1969 and has operated from there ever since.  He built and currently operates the 2, 3, & 5 GHz stations on Mt. Greylock. He has helped lots of hams get on the air on the microwave bands over the years.
 
-Dick will be traveling from west of Albany, New York to present at our meeting.  Donít miss this special presentation.
+Dick will be traveling from west of Albany, New York to present at our meeting.  Don‚Äôt miss this special presentation.
 
 Location: Tatnuck Bookseller, Westborough, MA
 ----------
@@ -42,14 +42,14 @@ The MMRA meets (usually) on the 3rd Wednesday of each month from September to Ju
 The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at 
 newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
 Email to the club leadership should be sent to 
 contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
 
-An email distribution list for club members named ìMMRAî is at: www.yahoogroups.com/.  
+An email distribution list for club members named ‚ÄúMMRA‚Äù is at: www.yahoogroups.com/.  
 
 You can also follow us on twitter @mmraham and like us on Facebook: https://www.facebook.com/mmraham.
 
@@ -64,11 +64,11 @@ activity that does not abide by Part 97 rules or accepted amateur radio practice
 The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
 ----------
 
-Presidentís Corner ~ Bob DeMattia, K1IW
+President‚Äôs Corner ~ Bob DeMattia, K1IW
 
-Sligo: Enough SaidÖ
+Sligo: Enough Said‚Ä¶
 
-There is no access to the Sligo shelter. We canít get into it to fix anything.
+There is no access to the Sligo shelter. We can‚Äôt get into it to fix anything.
 
 Photo 1: They didn't plow the walkway.  Here is the view of the baseball field from the parking lot.
 Photo 2: Once you climb over the snow pile, you see this.
@@ -161,11 +161,11 @@ January Membership Meeting Notes ~ James Lee, N1DDK
 New Roles for Amateur Radio in Public Service
 and Emergency Communications
 
-Rob Macedo, KD1CY†
+Rob Macedo, KD1CY¬†
 
 President Bob, K1IW, opened meeting at 7:12 pm and thanked everyone for coming.  There were 25 members in attendance.   Currently we have 233 active members, 250 total members, with  57 new members, a growth of 20 members.
 
-All 23 repeaters are working, including the new D-Star system in Marlborough,  Bob then discussed the details of the Belmont system, repairs, and linking.   Boxborough is happening again ó August 21,22,23.  Business concluded at 7:24
+All 23 repeaters are working, including the new D-Star system in Marlborough,  Bob then discussed the details of the Belmont system, repairs, and linking.   Boxborough is happening again ‚Äî August 21,22,23.  Business concluded at 7:24
  
 Bob then introduced Rob Macedo with our feature presentation.  Rob KD1CY talked about Public service, emergency
 communications and Skywarn / severe weather spotting.
@@ -198,9 +198,9 @@ Upcoming MMRA Meetings
 
 
 Wed, 18 Mar ~ Membership Meeting
-VHD Contesting ó Letís Just Do It
+VHD Contesting ‚Äî Let‚Äôs Just Do It
 Dick Frey - WA2AAU ~ President of both the NEWS group & W2SZ
-Tatnuck Bookseller, Westborough,MA† 
+Tatnuck Bookseller, Westborough,MA¬† 
 
 Wed, 15 Apr ~ Business Meeting
 Stratus, Maynard
@@ -219,12 +219,12 @@ Wed, 19 Aug ~ Business Meeting
 Stratus, Maynard
 ----------
 
-Donít Forget! 
+Don‚Äôt Forget! 
 Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatís happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -248,10 +248,10 @@ Clerk			Bob Evans	N1BE
 * Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2015		Steve Schwarm	W3EVE
-Director  ª2015		Roger Coulson	WA1NVC
-Director  ª2016		Clark Conti	N1NVK
-Director  ª2016		Mike Neilsen	W1MPN
+Director  ¬ª2015		Steve Schwarm	W3EVE
+Director  ¬ª2015		Roger Coulson	WA1NVC
+Director  ¬ª2016		Clark Conti	N1NVK
+Director  ¬ª2016		Mike Neilsen	W1MPN
 
 Repeater Trustees
 * Belmont 145.430	James Lee	N1DDK
@@ -266,7 +266,7 @@ Repeater Trustees
 * Marlborough 53.810; Quincy 146.670; Southborough 449.575
 			  Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
- 448.225, 449.925,927.700 ó all as W1MRA
+ 448.225, 449.925,927.700 ‚Äî all as W1MRA
 		
 	Bill Northup	N1QPR
 * Mendon 146.610	Jim Podsiadlo	AE1C

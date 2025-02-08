@@ -14,7 +14,7 @@ Phil Temples on the Courage HandiHam system
 
 Tatnuck Bookseller, 18 Lyman St. (at Route 9), Westborough
 
-Talk in ó 147.27
+Talk in ‚Äî 147.27
 
 
 
@@ -42,12 +42,12 @@ Secretary	John McGovern	W1JMC
 Treasurer	Kevin Paetzold	K1KWP
 Clerk		Bob Evans	N1BE
 Tech. Officer	Bryan Cerqua	W1BRI
-Director  ª2013	Steve Schwarm	W3EVE
-Director  ª2013	Roger Coulson	WA1NVC
+Director  ¬ª2013	Steve Schwarm	W3EVE
+Director  ¬ª2013	Roger Coulson	WA1NVC
 
 --------------
 
-Presidentës Corner
+President‚Äòs Corner
 Bob DeMattia (K1IW)
 
 Welcome to the MMRA!  
@@ -101,7 +101,7 @@ The next pictures are of the boards from the repeater PA section. Note the strip
 
 Same thing happened on the other side of the final amp board. The connections to the driver board just fell apart as I removed the boards.  
 
-Itís no wonder the resistor fried.
+It‚Äôs no wonder the resistor fried.
 
 I figured it would be a pretty straight forward process to swap in the boards from the mobile PA but then, when I got the boards removed from the mobile PA I was greeted with this! Note the missing heat sink from the transistor on the right. It remained attached to the mobile PA chassis heat sink.
 
@@ -113,9 +113,9 @@ A review of the exciter components showed that the exciter and audio processor b
 
 That completes the modifications to the transmitter section for repair, frequency change and low band split operation.
 
-Next, if youíll remember I mentioned GE provided the ability to insert an input into this exciter for digital modulation in the next revision of the board layout. The revision provided jumper locations with thru holes so the audio path could be split and brought out to the external connectors.
+Next, if you‚Äôll remember I mentioned GE provided the ability to insert an input into this exciter for digital modulation in the next revision of the board layout. The revision provided jumper locations with thru holes so the audio path could be split and brought out to the external connectors.
 
-Well, thatís it for now. I am in the process of putting the exciter board back in the repeater chassis and wiring up the connector on the back for signals from the S-Con and the NQSMHS.
+Well, that‚Äôs it for now. I am in the process of putting the exciter board back in the repeater chassis and wiring up the connector on the back for signals from the S-Con and the NQSMHS.
 
 73,  Harold K3FG 
 
@@ -126,7 +126,7 @@ Robert Freed, W1RJF
 
 The Museum of Science is looking to recruit trained Ham radio operators to volunteer for the annual Washburn Climb of Mount Washington on Monday, July 11, 2011.  In addition to their radio skills, volunteers for this event are required to have mountain first-aid training, solid hiking experience, and leadership skills, as they will need to hike to designated spots along the trail and may be responsible for guiding and assisting other climbers. 
 
-Ham radio volunteers will be strategically placed at various check-in points on the mountain including but not limited to: Ammonoosuc Ravine trailhead, Lake of the Clouds Hut, Mt Washington summit, Tuckerman's Junction, Hermit Lake Hut, and Pinkham Notch Visitors Center. Radio operators will be responsible for checking in each climber and relaying all information to both the Climb Organizer and the next check point volunteer via Net Control. All volunteers must attend a pre-climb briefing on Wednesday, July 6, 2011.  The ìhiking hamsî are supported by the AMC Boston Chapter and the White Mountain Amateur Radio Club.
+Ham radio volunteers will be strategically placed at various check-in points on the mountain including but not limited to: Ammonoosuc Ravine trailhead, Lake of the Clouds Hut, Mt Washington summit, Tuckerman's Junction, Hermit Lake Hut, and Pinkham Notch Visitors Center. Radio operators will be responsible for checking in each climber and relaying all information to both the Climb Organizer and the next check point volunteer via Net Control. All volunteers must attend a pre-climb briefing on Wednesday, July 6, 2011.  The ‚Äúhiking hams‚Äù are supported by the AMC Boston Chapter and the White Mountain Amateur Radio Club.
 
 Volunteers will receive a free Washburn Climb t-shirt, lodging in NH for July 10 and July 11, and are invited to the post-climb celebration dinner on July 11. 
 
@@ -161,14 +161,14 @@ All four participated as ham operators in the Walk for Hunger on 1 May.
 
 ------------
 
-Donít Forget!
+Don‚Äôt Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ñ we have a script you can use.  
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ‚Äì we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -179,7 +179,7 @@ Week 5 	W1DYJ		Larry Banks
 
 To connect using the digital modes during the Net, use the New England Reflector:
 	For IRLP use node 9127
-	For Echolink, connect via *NEW-ENG*.  You can find this under ìNode Typesî >> ìConferencesî
+	For Echolink, connect via *NEW-ENG*.  You can find this under ‚ÄúNode Types‚Äù >> ‚ÄúConferences‚Äù
 
 ---------------
 
@@ -205,10 +205,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2011		Steve Schwarm	W3EVE
-Director  ª2011		Roger Coulson	WA1NVC
-Director  ª2012		Clark Conti	N1NVK
-Director  ª2012		Mike Neilsen	W1MPN
+Director  ¬ª2011		Steve Schwarm	W3EVE
+Director  ¬ª2011		Roger Coulson	WA1NVC
+Director  ¬ª2012		Clark Conti	N1NVK
+Director  ¬ª2012		Mike Neilsen	W1MPN
 
 Repeater Trustees, Appointed
 Belmont 145.430		Larry Arone	WA1RTT
@@ -221,7 +221,7 @@ Lowell 442.250	V	ince De La Flor	K1LVF
 Marlboro 53.810, Quincy 146.670, 
 Bryan Cerqua	W1BRI
 Marlboro 144.390, 47.270, 224.880, 449.925, 
-Weston 442.700, 927.700 ó all as W1MRA
+Weston 442.700, 927.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Weston 146.790		Bob Evans	N1BE

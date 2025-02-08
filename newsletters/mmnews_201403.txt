@@ -28,7 +28,7 @@ Westborough, MA 01581
 
 
 
->From the North/South/East: Take I-495 to the route 9 interchange in Westborough. Head West on route 9 to the Lyman street traffic light. Take a left onto Lyman street. Tatnuck Bookseller will be about 1/2 mile down Lyman on your right.†       
+>From the North/South/East: Take I-495 to the route 9 interchange in Westborough. Head West on route 9 to the Lyman street traffic light. Take a left onto Lyman street. Tatnuck Bookseller will be about 1/2 mile down Lyman on your right.¬†       
 
 >From the West: Take route 9 east to the Lyman street traffic light in Westborough. Turn right onto Lyman Street. Tatnuck Bookseller will be about 1/2 mile down Lyman on your right. 
 
@@ -43,14 +43,14 @@ The MMRA meets (usually) on the 3rd Wednesday of each month from September to Ju
 The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at 
 newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
 Email to the club leadership should be sent to 
 contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
 
-An email distribution list for club members named ìMMRAî is at: www.yahoogroups.com/.  
+An email distribution list for club members named ‚ÄúMMRA‚Äù is at: www.yahoogroups.com/.  
 
 You can also follow us on twitter @mmraham and like us on Facebook: https://www.facebook.com/mmraham.
 
@@ -81,17 +81,17 @@ Learn more about WRTC2014 at www.wrtc2014.org.
 ----------
 
 Public Service Events
-David Wolfe ó KG1H
+David Wolfe ‚Äî KG1H
 
 The Ashland Sporting Association in conjunction with Squanto Productions of Quincy is offering a 13.1 mile preparation race for "Boston" to be presented at Marathon Park in Ashland MA on Sunday, March 16.
 
-See http://www.marathonparkprep.com for more information.†
+See http://www.marathonparkprep.com for more information.¬†
 
-The MMRA and members from other radio clubs supported the Ashland Half Marathon last year, which was the first time†ìhamsî†had supported the Ashland Sporting Association.† The race officials recently contacted me, KG1H, requesting support for this yearís event. †
+The MMRA and members from other radio clubs supported the Ashland Half Marathon last year, which was the first time¬†‚Äúhams‚Äù¬†had supported the Ashland Sporting Association.¬† The race officials recently contacted me, KG1H, requesting support for this year‚Äôs event. ¬†
 
-Mark Richards, K1MGY, has†volunteered to organize this ham activity [the first MMRA public service event this year]. Support has been outstanding.
+Mark Richards, K1MGY, has¬†volunteered to organize this ham activity [the first MMRA public service event this year]. Support has been outstanding.
 
-The Marathon Park Prep, a half-marathon race and a tough, hilly warm-up test for Aprilís Boston Marathon, will begin and end at Marathon Park on Pleasant Street on Sunday, March 16. †After opening ceremonies, runners cross the starting line at 10:30 a.m.
+The Marathon Park Prep, a half-marathon race and a tough, hilly warm-up test for April‚Äôs Boston Marathon, will begin and end at Marathon Park on Pleasant Street on Sunday, March 16. ¬†After opening ceremonies, runners cross the starting line at 10:30 a.m.
 
 ----------
 
@@ -115,7 +115,7 @@ Stratus, Maynard
 
 ----------
 
-2013ó2014 Meetings
+2013‚Äî2014 Meetings
 
 19 March ~ Membership Meeting
 A Peek into the World of Nanotechnology
@@ -138,14 +138,14 @@ Location TBA
 Stratus, Maynard
 ----------
 
-Donít Forget!
+Don‚Äôt Forget!
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ñ we have a script you can use.  
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ‚Äì we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -169,10 +169,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2015		Steve Schwarm	W3EVE
-Director  ª2015		Roger Coulson	WA1NVC
-Director  ª2014		Clark Conti	N1NVK
-Director  ª2014		Mike Neilsen	W1MPN
+Director  ¬ª2015		Steve Schwarm	W3EVE
+Director  ¬ª2015		Roger Coulson	WA1NVC
+Director  ¬ª2014		Clark Conti	N1NVK
+Director  ¬ª2014		Mike Neilsen	W1MPN
 
 Repeater Trustees, Appointed
 Boston 927.0625		Rick Zach	K1RJZ
@@ -186,7 +186,7 @@ Marlboro 53.810; Quincy 146.670; Southboro 449.575
 
 			Bryan Cerqua	W1BRI
 Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
-Belmont 145.430;  Weston 442.700 ó all as W1MRA
+Belmont 145.430;  Weston 442.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Weston 146.790		Bob Evans	N1BE

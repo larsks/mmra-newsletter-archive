@@ -18,7 +18,7 @@ Ed will be visiting from Newington to tell us about the latest activities at the
  
 First licensed in 1963, and after 16 years in the electronics industry, Ed came to ARRL HQ in 1986. He started as ARRL's Product Review test engineer, moved on to becoming ARRL's RFI guru (notice his call!) and now holds the position of Laboratory Manager. Over the years he has written quite a number of RFI articles, ranging from articles for QST and The ARRL Handbook to articles that have appeared in professional trade journals. He is also one of the editors and authors of The ARRL RFI Book and the author of the ARRL book on RF exposure, RF Exposure and You. 
 
-Ed is very active in several RFI programs at ARRL, holding membership on the Society of Automotive Engineers EMC/EMR Committee, the ANSI accredited C63 EMC committee as Chair of Subcommittee 5 (Immunity) and as the elected Secretary of the IEEE EMC Societyís Standards Development Committee, serving in a leadership role in helping the IEEE oversee the development of EMC standards. 
+Ed is very active in several RFI programs at ARRL, holding membership on the Society of Automotive Engineers EMC/EMR Committee, the ANSI accredited C63 EMC committee as Chair of Subcommittee 5 (Immunity) and as the elected Secretary of the IEEE EMC Society‚Äôs Standards Development Committee, serving in a leadership role in helping the IEEE oversee the development of EMC standards. 
 
 -----------------
 
@@ -44,13 +44,13 @@ The MMRA meets (usually) on the 3rd Wednesday of September, November, January, M
 
 The Minuteman newsletter is Emailed one week before each meeting.  Members are encouraged to submit articles.  Articles may be sent to the editor via email to newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
 Email to the club leadership should be sent to contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
 
-An email distribution list for club members named ìMMRAî is at: www.yahoogroups.com/
+An email distribution list for club members named ‚ÄúMMRA‚Äù is at: www.yahoogroups.com/
 
 No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
 
@@ -68,7 +68,7 @@ repeater activity.
 ---------------
 
 Public Service
-Bruce Pigott ó  KC1US ó Public Service Coordinator
+Bruce Pigott ‚Äî  KC1US ‚Äî Public Service Coordinator
 
 With the warmer weather scheduled to begin, more activities that request radio support are being organized.  One event that makes extensive use of hams is the Walk for Hunger.  Around sixty operators are located along the twenty mile route, tying together many volunteers and the walk functions.  There are different positions available; some are stationary and others are mobile by foot and vehicle. MMRA members shadow many of the key coordinators.  The event is an enjoyable day, with the walkers and volunteers having a good time at this worthwhile cause.  Come on out and see more than 40,000 walkers on the route starting in Boston and looping through Newton and back.  Easy sign up can be done at <http://www.mmra.org/wfh> or from the MMRA home page.  
 
@@ -78,9 +78,9 @@ The "Public Service Volunteer Opportunities in the New England Division" list gi
 
 ------------
 
-Presidentís Corner ~ PUBLIC SERVICE!
+President‚Äôs Corner ~ PUBLIC SERVICE!
 
-Bob DeMattia ó K1IW 
+Bob DeMattia ‚Äî K1IW 
 
 The days are getting longer - and this can mean only one thing: Ham radio public service season is upon us. OK, OK.  The days have actually been getting longer for two months now, and the arrival of spring can mean many things.  So, perhaps I exaggerate.  But in any case, spring does bring about a number of events in the Boston area that use amateur radio to support their efforts.  The MMRA is proud to be the primary sponsor of two of these events - the Boston Marathon on April 19th and the Boston Walk for Hunger on May 2nd.
 
@@ -89,7 +89,7 @@ MMRA members, Steve Schwarm (W3EVE) and myself, captain two of the teams for the
 ------------
 
 MMRA February Board of Directors Meeting
-Bob Evans ó N1BE ó Clerk
+Bob Evans ‚Äî N1BE ‚Äî Clerk
 
 The MMRA Board met telephonically due to inclement weather on the evening of February 10th.  Present were WA1NVC, K1KWP, KC1US, W1MPN, N1BE, W1DYJ, W3EVE, N1BE, N1BDA and K1IW.
 
@@ -130,7 +130,7 @@ The initial and primary motivation for this project is a need to have some tree 
 
 It does not seem to be a good idea to have hams climbing trees with chainsaws J.   A tree service with a bucket truck is called for.   Having a bucket truck on site is an opportunity to work on the antenna systems.  Besides improving the antennas themselves some of the coax feed lines which have been in place for many years need to be replaced.  Some of the link antennas at this site have been problematic and also need to be replaced.
 
-The result is that in addition to the tree service, the club plans to purchase new coax and an antenna for the †6m transmitter and a proper lightning protection system for the entire facility.  The board of directors is asking for a membership vote/approval at the March meeting for an estimated expenditure of $2000 for this project.  It is quite possible that the eventual overall cost for this project may end up being less.   There is also a chance the costs may go up if surprises are encountered.  We expect to have a more definitive estimate in time for the actual vote at the meeting.  However $2000 does seem to be a good estimate.
+The result is that in addition to the tree service, the club plans to purchase new coax and an antenna for the ¬†6m transmitter and a proper lightning protection system for the entire facility.  The board of directors is asking for a membership vote/approval at the March meeting for an estimated expenditure of $2000 for this project.  It is quite possible that the eventual overall cost for this project may end up being less.   There is also a chance the costs may go up if surprises are encountered.  We expect to have a more definitive estimate in time for the actual vote at the meeting.  However $2000 does seem to be a good estimate.
 
 As treasurer I have no concerns or issues supporting this expenditure.  MMRA finances are well positioned for this expense thanks to the donation income from selling the Larcan 6M Amplifiers.
 Making the antenna system improvements at this time leverages the cost of the tree service which is not optional and needs to be done.
@@ -139,7 +139,7 @@ Making the antenna system improvements at this time leverages the cost of the tr
 
 Noise Investigation at 146.82 ~ Brookline
 
-Anyone who uses Brookline 2M ó 146.82 ó knows that it is not operating up to the level we expect at such a perfect site at the Clay Center Observatory.  There is a higher noise level than expected so the receiver is not as sensitive as it should be.  This has been an ongoing issue.  On Saturday, 6 March, W1BRI, WA1NVC, N1BDA, N1BE, K1JWB, K5TEC, and K1KWP met at the center to investigate the situation and take many measurements.  Although no definitive answer has been discovered, some future work has been determined.  Hopefully this repeater will soon be working at its potential.
+Anyone who uses Brookline 2M ‚Äî 146.82 ‚Äî knows that it is not operating up to the level we expect at such a perfect site at the Clay Center Observatory.  There is a higher noise level than expected so the receiver is not as sensitive as it should be.  This has been an ongoing issue.  On Saturday, 6 March, W1BRI, WA1NVC, N1BDA, N1BE, K1JWB, K5TEC, and K1KWP met at the center to investigate the situation and take many measurements.  Although no definitive answer has been discovered, some future work has been determined.  Hopefully this repeater will soon be working at its potential.
 
 -------------
 
@@ -150,18 +150,18 @@ You all have heard of the donation made by WCVB to the MMRA of their obsolete Ch
 President Bob, K1IW, checking the list of purchasers, with the KW amps in the background.
 
 
-Some KW amps on the left, and some Ω KW amps on the right.
+Some KW amps on the left, and some ¬Ω KW amps on the right.
 
 -------------
 
-Donít Forget!
+Don‚Äôt Forget!
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  We need another net control!
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  We need another net control!
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ñ we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ‚Äì we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
 
 Current Net Control Operators:
 
@@ -184,10 +184,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2010		Clark Conti	N1NVK
-Director  ª2010		Mike Neilsen	W1MPN
-Director  ª2011		Steve Schwarm	W3EVE
-Director  ª2011		Roger Coulson	WA1NVC
+Director  ¬ª2010		Clark Conti	N1NVK
+Director  ¬ª2010		Mike Neilsen	W1MPN
+Director  ¬ª2011		Steve Schwarm	W3EVE
+Director  ¬ª2011		Roger Coulson	WA1NVC
 
 Repeater Trustees, Appointed
 Belmont 145.430		Larry Arone	WA1RTT
@@ -198,7 +198,7 @@ Burlington 446.775	Larry Banks	W1DYJ
 Hopkinton 223.940	Kevin Paetzold	K1KWP
 Marlboro 53.810, Quincy 146.670, Southboro 449.575
 			Bryan Cerqua	W1BRI
-Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 ó all as W1MRA
+Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Quincy 224.400		Bill Dunn	N1KUG

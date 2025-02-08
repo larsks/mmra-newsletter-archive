@@ -25,8 +25,8 @@ Vice President	Steve Telsey	N1BDA
 Secretary	John McGovern	W1JMC
 Treasurer	Kevin Paetzold	K1KWP
 Clerk		Bob Evans	N1BE
-Director  »2016	Clark Conti	N1NVK
-Director  »2016	Mike Neilsen	W1MPN
+Director  Â»2016	Clark Conti	N1NVK
+Director  Â»2016	Mike Neilsen	W1MPN
 ----------
 
 Directions to The Northborough Free Library
@@ -58,14 +58,14 @@ The MMRA meets (usually) on the 3rd Wednesday of each month from September to Ju
 The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at 
 newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is â€œTechnical Information and Other Stuffâ€.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
 Email to the club leadership should be sent to 
 contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
 
-An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/.  
+An email distribution list for club members named â€œMMRAâ€ is at: www.yahoogroups.com/.  
 You can also follow us on twitter @mmraham and like us on Facebook: https://www.facebook.com/mmraham.
 
 No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
@@ -91,18 +91,18 @@ The Board approved an election slate of the current officers and directors whose
 
 We had a general discussion of repeaters and the status of the MRW site.  We are still awaiting approval from the City of Marlborough to move the MMRA antennas back onto the tower at MRW.
 
-KB5JR agreed to investigate alternative sites that might give better coverage in NW Middlesex county.  The thought is to locate an MMRA 2-meter repeater and KB5JR’s UHF machine at such a site.
+KB5JR agreed to investigate alternative sites that might give better coverage in NW Middlesex county.  The thought is to locate an MMRA 2-meter repeater and KB5JRâ€™s UHF machine at such a site.
 
-K1IW discussed the need to update the 146.79 repeater equipment at Weston.  K1IW has obtained a beta test unit of a Yaesu DR-1 Fusion repeater that we considered using on a temporary basis at Weston.  (The DR-1 was on display at our meeting; it can operate in analog and/or digital mode.)  Using the DR-1 at Weston would allow 146.79 to stay active but not linkable while the MMRA equipment is updated in K1IW’s shack.  Weston 220 would also be off the air during this time.  Bob predicts Weston would be back to full functionality before the end of June.  Although not voted on, the consensus was to proceed with this plan.
+K1IW discussed the need to update the 146.79 repeater equipment at Weston.  K1IW has obtained a beta test unit of a Yaesu DR-1 Fusion repeater that we considered using on a temporary basis at Weston.  (The DR-1 was on display at our meeting; it can operate in analog and/or digital mode.)  Using the DR-1 at Weston would allow 146.79 to stay active but not linkable while the MMRA equipment is updated in K1IWâ€™s shack.  Weston 220 would also be off the air during this time.  Bob predicts Weston would be back to full functionality before the end of June.  Although not voted on, the consensus was to proceed with this plan.
 
-Dave, KG1H suggested the MMRA mission statement on our web site, “a non-profit communications organization serving the public in times of emergency”, be revised to be a more comprehensive representation of our role.  Bob, K1IW will solicit input on improvements to this MMRA mission statement.
+Dave, KG1H suggested the MMRA mission statement on our web site, â€œa non-profit communications organization serving the public in times of emergencyâ€, be revised to be a more comprehensive representation of our role.  Bob, K1IW will solicit input on improvements to this MMRA mission statement.
 
 The meeting adjourned at 8:15 PM
 ----------
 
-President’s Corner ~ Bob DeMattia — K1IW 
+Presidentâ€™s Corner ~ Bob DeMattia â€” K1IW 
 
-I'm taking a short break after the Marathon to compose my "President's Corner" for this issue.  Sunday, I'll be up at 5AM and headed into Boston to be a radio volunteer for the Walk for Hunger charity walk.  I guess it's fitting that this corner be included it what is turning out to be our public service issue.  This year's Boston Marathon was an exciting year—in a good way.  The radio team increased from its typical 240 to nearly 300.  The event ran smoothly and radio amateurs performed their duties with efficiency and professionalism.  Whether one actively participates in an event, or contributes financially by being a member of MMRA,  everyone plays a vital role in keeping MMRA relevant in this time of laptops, cellphones, and tablet devices.  As our calendar year comes to a close, I want to thank everyone that has continued to support the club through membership.  Dues is the primary income source for the club—it pays the electric bills in Marlborough and Quincy, the internet bills, and the cost of repair and upgrades to equipment.  I wish you a great summer and hope to see your continued membership next year.
+I'm taking a short break after the Marathon to compose my "President's Corner" for this issue.  Sunday, I'll be up at 5AM and headed into Boston to be a radio volunteer for the Walk for Hunger charity walk.  I guess it's fitting that this corner be included it what is turning out to be our public service issue.  This year's Boston Marathon was an exciting yearâ€”in a good way.  The radio team increased from its typical 240 to nearly 300.  The event ran smoothly and radio amateurs performed their duties with efficiency and professionalism.  Whether one actively participates in an event, or contributes financially by being a member of MMRA,  everyone plays a vital role in keeping MMRA relevant in this time of laptops, cellphones, and tablet devices.  As our calendar year comes to a close, I want to thank everyone that has continued to support the club through membership.  Dues is the primary income source for the clubâ€”it pays the electric bills in Marlborough and Quincy, the internet bills, and the cost of repair and upgrades to equipment.  I wish you a great summer and hope to see your continued membership next year.
 ----------
 
 Next MMRA Business Meeting: Wednesday 18 June, 7PM
@@ -115,7 +115,7 @@ A Peek Into the World of Nanotechnology
 
 Paul Anzalone, N1PA ~ Nanocorp Technologies
 
-This presentation discussed where we're headed in the future with Graphene and Carbon Nanotubes (CNTs).  If you didn’t attend, you missed one of the most interesting programs in a long time.  Just a hint of the presentation is below.
+This presentation discussed where we're headed in the future with Graphene and Carbon Nanotubes (CNTs).  If you didnâ€™t attend, you missed one of the most interesting programs in a long time.  Just a hint of the presentation is below.
 
 Slide 1 - Graphene: 1 layer thick of carbon atoms
 Slide 2 - A visual to Remember: Graphene is the strongest material known to science today
@@ -132,7 +132,7 @@ Slide 6 - Summery: Why are CNT's gaining so much popularity?
 ----------
 
 Boston Marathon 2014 Report
-Rob Macedo, KD1CY — SEC for the ARRL Eastern Mass section
+Rob Macedo, KD1CY â€” SEC for the ARRL Eastern Mass section
 
 The 2014 Boston Marathon was run under tight security and other changes in the wake of the 2013 Boston Marathon bombings. Over 300 Amateur Radio Operators volunteered at this year's Boston Marathon on a beautiful New England Spring day. The Boston Marathon is one of the biggest public service events for Amateur Radio Operators in New England.
 
@@ -161,22 +161,22 @@ Photos by Bruce Tinkler, N9JBT
 Eight unlabled photographs
 ----------
 
-Boston Marathon 2014 – THE START LINE
+Boston Marathon 2014 â€“ THE START LINE
 Tom Turner, KB1OQA
 
-I’ve worked the Boston Marathon for the past eight years in various capacities; street assignments, the medical supply truck, and, for the past two years, the Start Line in Hopkinton.  This year, though, was quite a change from previous Marathons due to the unfortunate incidents that took place at the Finish Line in 2013.  Security along the entire course was greatly increased, and the Starting Line was no exception.
+Iâ€™ve worked the Boston Marathon for the past eight years in various capacities; street assignments, the medical supply truck, and, for the past two years, the Start Line in Hopkinton.Â  This year, though, was quite a change from previous Marathons due to the unfortunate incidents that took place at the Finish Line in 2013.Â  Security along the entire course was greatly increased, and the Starting Line was no exception.
 
-There was a very strong Public Safety Presence in Hopkinton, with over 170 Police Officers from Federal, Local, and State agencies on-site.  This group included not only uniformed officers, but plainclothes personnel as well.  Surveillance cameras had been installed to monitor activity, and many more barricades had been installed to restrict access to certain locations for the protection of runners and spectators alike. Folks arriving to watch the Marathon were checked, and new guidelines as what one could or could not bring with them were in place.
+There was a very strong Public Safety Presence in Hopkinton, with over 170 Police Officers from Federal, Local, and State agencies on-site.Â  This group included not only uniformed officers, but plainclothes personnel as well.Â  Surveillance cameras had been installed to monitor activity, and many more barricades had been installed to restrict access to certain locations for the protection of runners and spectators alike. Folks arriving to watch the Marathon were checked, and new guidelines as what one could or could not bring with them were in place.
 
 I awoke at around 3:00 AM, left my home around 3:45 AM, arriving in Hopkinton at about 4:15 AM. I proceeded to the Common to meet with my Team Captain, Kevin, K1KWP. After being provided with a set of credentials and a Marathon Jacket, I helped him set up his area in the Information Tent, which was our base of operations. 
 
-Our communications were for the most part on simplex VHF frequencies with a repeaterized UHF “Town-Wide” frequency in case of any problems.  There were 34 Hams on the Start Team this year. Some were stationed at two large parking areas away from the course; spectators were shuttled by bus to the center of Town to watch the race.  Hams were also stationed at the Athlete’s Village. 
+Our communications were for the most part on simplex VHF frequencies with a repeaterized UHF â€œTown-Wideâ€ frequency in case of any problems.Â  There were 34 Hams on the Start Team this year. Some were stationed at two large parking areas away from the course; spectators were shuttled by bus to the center of Town to watch the race.  Hams were also stationed at the Athleteâ€™s Village. 
 
-My original assignment was to “shadow” the Corral Captain and provide radio  communications as needed.  This is the person who lines up the runners on Rte-135 and coordinates the start. There were 36,000 runners this year, and the starts are staggered (There were seven this year) with a break of 10-15 minutes between each to provide order to the race.  I was later reassigned with nine other Hams to the “Down Course Safety Team.”  In this role, the group covers the first 2,000 feet of the route just East of the Start Line headed towards Ashland.  We make sure that there are no obstructions in or on the course and that it is safe for the runners.
+My original assignment was to â€œshadowâ€ the Corral Captain and provide radioÂ  communications as needed.Â  This is the person who lines up the runners on Rte-135 and coordinates the start. There were 36,000 runners this year, and the starts are staggered (There were seven this year) with a break of 10-15 minutes between each to provide order to the race.Â  I was later reassigned with nine other Hams to the â€œDown Course Safety Team.â€Â  In this role, the group covers the first 2,000 feet of the route just East of the Start Line headed towards Ashland.Â  We make sure that there are no obstructions in or on the course and that it is safe for the runners.
 
-Once the Marathon starts, it goes fairly quickly.  I was finished by around 12 Noon.  
+Once the Marathon starts, it goes fairly quickly.Â  I was finished by around 12 Noon.Â  
 
-For any Ham Radio Operator that’s considering working at the Marathon, I’d recommend that you do so.  There are many and varied assignments; Medical and Water Stations; the Medical Supply Vehicles that deliver and pick up needed first aid supplies, Medical Sweep Busses,  and the coordinators and backbone of our entire communications operation during and after the Marathon – Net Control.  I can guarantee that, whatever your duties, you’ll have a great time !!
+For any Ham Radio Operator thatâ€™s considering working at the Marathon, Iâ€™d recommend that you do so.Â  There are many and varied assignments; Medical and Water Stations; the Medical Supply Vehicles that deliver and pick up needed first aid supplies, Medical Sweep Busses,Â  and the coordinators and backbone of our entire communications operation during and after the Marathon â€“ Net Control.Â  I can guarantee that, whatever your duties, youâ€™ll have a great time !!
 ----------
 
 Read what the ARRL said about the Marathon!
@@ -185,7 +185,7 @@ Read what the ARRL said about the Marathon!
 http://www.arrl.org/news/more-than-300-amateur-radio-volunteers-support-2014-boston-marathon
 ----------
 
-Amateur Radio Supports Walk For Hunger ~ Bob DeMattia — K1IW 
+Amateur Radio Supports Walk For Hunger ~ Bob DeMattia â€” K1IW 
 
 Amateur radio has been provided communications for the Walk for Hunger since the 1980's - and this year is no exception.  The Colonial Wireless association was the first group to support this event.  It was passed on to the Crocker Public Service Group in 1994, and MMRA inherited it when it acquired CPSG in 2007 - making it the 7th year for MMRA.  This year, amateurs helped coordinate the transportation network that ensured injured or tired walkers could safely return to the finish line.
 
@@ -214,29 +214,29 @@ Ashland served as the original starting point of the Boston Marathon, with the f
 
 Last Fall the Ashland Sporting Association hosted a half marathon event and Amateur Radio played a public service role for the first time. The event organizers took notice. This year our work was expanded considerably. 
 
-A larger 16-person team was formed, training materials were created, a communications plan developed, and it all came together starting at 0830 – sharp.  Training materials included a communications plan, a detailed assignment and resource document, and supplementary training material with topics common to this type of public service work.  
+A larger 16-person team was formed, training materials were created, a communications plan developed, and it all came together starting at 0830 â€“ sharp.  Training materials included a communications plan, a detailed assignment and resource document, and supplementary training material with topics common to this type of public service work.  
 
 On event morning a briefing was conducted which introduced each volunteer, summarized the key procedures, what volunteers might expect during the event, last minute changes, and Q&A. This was vital, as it was important to form a unified team bound to one cause: safety. Our team came through in stellar fashion, reporting potential dangers along the race route, and along with Police, Fire, EMT, and event staff, helped to seal the safety envelope. 
 
 Thirty degree temperatures and 15 Mile per Hour winds may have been appreciated by the runners. For volunteers, the cold was something to be endured. Many shivered, longing for warmer venues that the bright sunshine of Spring will bring. The team started on time, was fully prepared, and demonstrated an eagerness to serve and participate that cold and wind was not about to overcome. 
 
-Returning from last year’s participation in the Cystic Fibrosis Foundation’s Cycle For Life event, Chris Handwerker, KB1WKI who held the tactical assignment WATER 3, assisted with the day’s only medical call, a runner who had difficulty breathing. On scene, the Ashland Police dispatched an ambulance, and Chris made sure the Event Manager was made aware of the runner’s BIB number and status through the communications net. Not to be deterred, the participant’s composure was regained and, much to the surprise of all, she re-joined the race. 
+Returning from last yearâ€™s participation in the Cystic Fibrosis Foundationâ€™s Cycle For Life event, Chris Handwerker, KB1WKI who held the tactical assignment WATER 3, assisted with the dayâ€™s only medical call, a runner who had difficulty breathing. On scene, the Ashland Police dispatched an ambulance, and Chris made sure the Event Manager was made aware of the runnerâ€™s BIB number and status through the communications net. Not to be deterred, the participantâ€™s composure was regained and, much to the surprise of all, she re-joined the race. 
 
 There were 5 water stops along the route. Having a northern and southern component, the course traversed a business district, busy intersections, State roads, and rural lanes, all contained within Ashland proper. The cold weather, number of participants, and course length necessitated a Medical tent at the finish, SAG (Support and Gear) units to provide non-medical transport to racers who decided to stop before reaching the end, an Amateur Radio operator at each of the 5 water stations, one at the MEDICAL tent, another serving as the START/FINISH line contact, an Event Manager Liaison, and the communications control point, NET. 
 
-Two experienced SAGs were recruited for this event. PART member Alan Lewis, K1ALL, served as SAG 1, with Gary Schwartz, N1ZCE, in SAG 2. Each SAG unit consisted of a driver and a navigator/assistant, both hams. This freed the driver to remain “heads up”, while the navigator/assistant maintained awareness of location, direction of travel, and handled the radio calls as directed. Into this role was assigned Jeff Marden, KB1TJI and Peter Tardiff, KC1BGT. The arrangement also served as training, and both Jeff and Peter soaked it up. Notably, Peter’s Amateur Radio license was newly-minted; just one week old. Both gave stellar service, and their transmissions, consistent with the entire team, were crisp, unambiguous, and carried a satisfying professional tone. 
+Two experienced SAGs were recruited for this event. PART member Alan Lewis, K1ALL, served as SAG 1, with Gary Schwartz, N1ZCE, in SAG 2. Each SAG unit consisted of a driver and a navigator/assistant, both hams. This freed the driver to remain â€œheads upâ€, while the navigator/assistant maintained awareness of location, direction of travel, and handled the radio calls as directed. Into this role was assigned Jeff Marden, KB1TJI and Peter Tardiff, KC1BGT. The arrangement also served as training, and both Jeff and Peter soaked it up. Notably, Peterâ€™s Amateur Radio license was newly-minted; just one week old. Both gave stellar service, and their transmissions, consistent with the entire team, were crisp, unambiguous, and carried a satisfying professional tone. 
 
-PART members Lela Smith, KC1ACV, and her OM Lyman Smith, W1LKS, took on the unique tactical calls PHOTO and ROVER.  ROVER was established to provide general transportation for volunteers. PHOTO served to document the event with both still photos and a few videos. Although ROVER was never called into service, the role of Amateur Radio self-promotion was met in extraordinarily complete fashion by PHOTO. The first time for such a role in events I’ve managed, it will be included in future. Our Amateur Service can be well-served through public relations and education. Thanks to both Lyman and Lela for holding up so well in the freeze. 
+PART members Lela Smith, KC1ACV, and her OM Lyman Smith, W1LKS, took on the unique tactical calls PHOTO and ROVER.  ROVER was established to provide general transportation for volunteers. PHOTO served to document the event with both still photos and a few videos. Although ROVER was never called into service, the role of Amateur Radio self-promotion was met in extraordinarily complete fashion by PHOTO. The first time for such a role in events Iâ€™ve managed, it will be included in future. Our Amateur Service can be well-served through public relations and education. Thanks to both Lyman and Lela for holding up so well in the freeze. 
 
-Experience suggested that we prepare for personal contingencies – operators who might have to cancel at the last minute, or who need to respond to a family emergency – and so two additional units were assigned in the role of READY ALERT. Experienced operators were selected for these unenviable positions (being on stand-by) and both ended up providing helpful, and quite vital, service. 
+Experience suggested that we prepare for personal contingencies â€“ operators who might have to cancel at the last minute, or who need to respond to a family emergency â€“ and so two additional units were assigned in the role of READY ALERT. Experienced operators were selected for these unenviable positions (being on stand-by) and both ended up providing helpful, and quite vital, service. 
 
-Jeff Pinterparsons, W5UVO, READY ALERT 1, took on the role of “scribe” for the NCS, K1MGY (your author). This was extremely valuable as your author’s ability to juggle multiple issues at one time is not be as sharply tuned as it was 20 years ago. Having Jeff’s impeccable handwritten log at the ready grew to be an essential I could not (and will not ever) do without. Jeff also took on the NCS role occasionally, for every task should provide both service and training opportunity. Jeff followed the script well and has a future in the NCS role if he might lean in that direction. 
+Jeff Pinterparsons, W5UVO, READY ALERT 1, took on the role of â€œscribeâ€ for the NCS, K1MGY (your author). This was extremely valuable as your authorâ€™s ability to juggle multiple issues at one time is not be as sharply tuned as it was 20 years ago. Having Jeffâ€™s impeccable handwritten log at the ready grew to be an essential I could not (and will not ever) do without. Jeff also took on the NCS role occasionally, for every task should provide both service and training opportunity. Jeff followed the script well and has a future in the NCS role if he might lean in that direction. 
 
-READY ALERT 2 was filled by Jay Lewis, KB1OZP. Early in the event, Jay assumed a new tactical call SAFETY SWEEP 1. This role was created to provide relief to the SAG units and to increase coverage. Jay attended to the event finish with multiple trips back and forth along the end of the course, identifying and accompanying the last runners, just as he has for many years as SAG for the MS Society’s cycling events. As SAG and SAFETY SWEEP coverage was so complete, the race organizers extended the “hard stop” by 30 minutes, allowing stragglers to enjoy an officially-sanctioned finish line experience. It occurred that our team had occasion to make tactical decisions on the spot, and this is just the way I like it. Direct coordination with the Event Manager Liaison (tactical call sign EM), David Wolfe, KG1H, afforded an efficient use of resources. The role of NCS was to manage the communications net, help maintain situational awareness, lead units through procedures and requirements, and share a role in maintaining safety. Resource use was in the hands of the EM, right where it belonged. 
+READY ALERT 2 was filled by Jay Lewis, KB1OZP. Early in the event, Jay assumed a new tactical call SAFETY SWEEP 1. This role was created to provide relief to the SAG units and to increase coverage. Jay attended to the event finish with multiple trips back and forth along the end of the course, identifying and accompanying the last runners, just as he has for many years as SAG for the MS Societyâ€™s cycling events. As SAG and SAFETY SWEEP coverage was so complete, the race organizers extended the â€œhard stopâ€ by 30 minutes, allowing stragglers to enjoy an officially-sanctioned finish line experience. It occurred that our team had occasion to make tactical decisions on the spot, and this is just the way I like it. Direct coordination with the Event Manager Liaison (tactical call sign EM), David Wolfe, KG1H, afforded an efficient use of resources. The role of NCS was to manage the communications net, help maintain situational awareness, lead units through procedures and requirements, and share a role in maintaining safety. Resource use was in the hands of the EM, right where it belonged. 
 
-David did double-duty, serving as a SWEEP unit at the conclusion of the event. He checked the entire course for stragglers and accounted for two of the three participants transported by the SAG team. Small numbers, but those runners really appreciated a warm ride to the end. David’s coupling with the organizers helped to communicate the value of trained and managed Amateurs in this role. 
+David did double-duty, serving as a SWEEP unit at the conclusion of the event. He checked the entire course for stragglers and accounted for two of the three participants transported by the SAG team. Small numbers, but those runners really appreciated a warm ride to the end. Davidâ€™s coupling with the organizers helped to communicate the value of trained and managed Amateurs in this role. 
 
-Just as the day began we were informed that two roving EMT units planned for the course were unable to provide service. This put an emphasis upon the EMT team at the finish line, and added weight upon the shoulders of PART member Tim Pandiscio, W0TJP, tactical call sign MEDICAL. Tim quickly established excellent rapport with the EMT team, and as a result “they handed me one of their radios,” he said, “which gave us immediate access to the medical team”. This level of trust and cooperation is, in my experience, a rare and beautiful thing. Amateur Radio as a public service was well represented in this instance. 
+Just as the day began we were informed that two roving EMT units planned for the course were unable to provide service. This put an emphasis upon the EMT team at the finish line, and added weight upon the shoulders of PART member Tim Pandiscio, W0TJP, tactical call sign MEDICAL. Tim quickly established excellent rapport with the EMT team, and as a result â€œthey handed me one of their radios,â€ he said, â€œwhich gave us immediate access to the medical teamâ€. This level of trust and cooperation is, in my experience, a rare and beautiful thing. Amateur Radio as a public service was well represented in this instance. 
 
 >From start to finish this event was cold, but fun, and had potential for difficulty but turned in a stellar safety performance that might be the envy of any similarly-sized event. I believe it is no boast to suggest that Amateur Radio in an organized, managed, and coordinated fashion, contributed to such a positive finish. As we gain even more experience and take on increasingly complex tasks, I believe this event, among so many others where Amateur Radio is serving, represents a very good start. Thanks to every member of our team for making it so. 
 
@@ -261,15 +261,15 @@ Location TBA
 Stratus, Maynard
 ----------
 
-Don’t Forget! Join Us.
+Donâ€™t Forget! Join Us.
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRA’s repeaters are linked Tuesday nights for the TIaOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIaOS Net.  Keep up with whatâ€™s happening in the MMRA and ask your ham related questions.  
 
 Want to try your hand at Net Control?  
-Contact me at W1DYJ@mmra.org  – we have a script you can use.  
+Contact me at W1DYJ@mmra.org  â€“ we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -313,10 +313,10 @@ Clerk			Bob Evans	N1BE
 
 Board of Directors
 ------------------
-Director  »2015		Steve Schwarm	W3EVE
-Director  »2015		Roger Coulson	WA1NVC
-Director  »2014		Clark Conti	N1NVK
-Director  »2014		Mike Neilsen	W1MPN
+Director  Â»2015		Steve Schwarm	W3EVE
+Director  Â»2015		Roger Coulson	WA1NVC
+Director  Â»2014		Clark Conti	N1NVK
+Director  Â»2014		Mike Neilsen	W1MPN
 
 Repeater Trustees
 -----------------
@@ -331,7 +331,7 @@ Repeater Trustees
 * Marlboro 53.810; Quincy 146.670; Southboro 449.575
 	Bryan Cerqua	W1BRI
 * Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
-         Weston 442.700 — all as W1MRA	Bill Northup	N1QPR
+         Weston 442.700 â€” all as W1MRA	Bill Northup	N1QPR
 * Mendon 146.610	Jim Podsiadlo	AE1C
 * Quincy 224.40		Bill Dunn	N1KUG
 * Weston 146.790	Bob Evans	N1BE

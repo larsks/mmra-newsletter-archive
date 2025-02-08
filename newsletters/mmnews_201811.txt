@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.† 
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.¬† 
 
 The Minuteman
 Volume 48, Number 2
@@ -14,20 +14,20 @@ Bring your (analog FM) HT to get help with programming with Chirp or test it on 
 James, N1DDK, will be doing a shortened version of his popular chirp talk tailored to MMRA and will have
 programming cables for many types of radios.  Bring your laptop with the latest chirp installed to get some pointers.  Tips for making cables and dealing with driver issues will be presented.  We will not attempt to resolver driver issues.
 Brian, W1BRI will bring various test equipment and will be able to test your HT.   When you leave you should be able to program your radio with chirp and should know if it is in proper working order.
-James Lee N1DDK was first licensed in 1982, did some chirp development and is a big believer in†helping†the open source and ham radio communities. †While he refuses to fix†your†radios, he hopes to inspire you to fix, program or do more with your radio and hobby gear!
+James Lee N1DDK was first licensed in 1982, did some chirp development and is a big believer in¬†helping¬†the open source and ham radio communities. ¬†While he refuses to fix¬†your¬†radios, he hopes to inspire you to fix, program or do more with your radio and hobby gear!
 
 Location:
 New England Sci-Tech Inc.
 16 Tech Circle Natick MA
 [Talk-in: 147.27  pl 146.2]
 
-Before Jamesí talk, the MMRA will have an election to fill the vacant 
+Before James‚Äô talk, the MMRA will have an election to fill the vacant 
 positions of President and Clerk.
 
 
 MMRA Officer Nominations:
-N1DCH David Hornbaker ñ President 
-N1NVK Clark Conti  ñ Clerk 
+N1DCH David Hornbaker ‚Äì President 
+N1NVK Clark Conti  ‚Äì Clerk 
 ----------
 
 Directions to New England Sci-Tech Inc.
@@ -70,15 +70,15 @@ The membership was notified of the resignation of the president Dave KG1H for pe
 
 The membership was asked to fill the vacant position of Clerk. After a discussion of the duties of the Clerk, Clark, N1NVK said he would take the position of Clerk. The membership needs to be notified and a vote taken at the next MMRA Meeting. 
 
-Bryan, W1BRI, (Technical Officer) discussed problems and changes at the Mendon Repeater site. A new higher tower has been installed and a new equipment building. Bryan has talked to the ìpowers that beî and the MMRA has the option to move our 146.610 antenna to the new tower and our equipment to the new building. After a lot of comments from the membership the consensus was that the cost of taking the 12-year-old DB224 antenna down was likely to be more than the cost of a new DB224 antenna, not to mention the risk of using an old antenna. After a long discussion of the costs and checking prices on the internet, a motion was made to do the upgrade if the cost was less the $1500 dollars, including labor, when the opportunity presented itself. 16 members voted Yes, and 0 members voted No. Motion was ruled Passed. 
+Bryan, W1BRI, (Technical Officer) discussed problems and changes at the Mendon Repeater site. A new higher tower has been installed and a new equipment building. Bryan has talked to the ‚Äúpowers that be‚Äù and the MMRA has the option to move our 146.610 antenna to the new tower and our equipment to the new building. After a lot of comments from the membership the consensus was that the cost of taking the 12-year-old DB224 antenna down was likely to be more than the cost of a new DB224 antenna, not to mention the risk of using an old antenna. After a long discussion of the costs and checking prices on the internet, a motion was made to do the upgrade if the cost was less the $1500 dollars, including labor, when the opportunity presented itself. 16 members voted Yes, and 0 members voted No. Motion was ruled Passed. 
 
-A discussion of repeater IDs during recent nets ensued.  Many participants mentioned how often a person is interrupted by these IDs.  It appears that the IDs may not be activating as expected.  Bruce, KC1US, mentioned that he had a recording of the recent net from Belmont 2M and would send it to the Board so we could diagnose the likely cause.  (Note ñ during the net of 25 September the IDs were once again very obvious, with one participant counting five(5) IDs in the space of one minute ñ ed.) 
+A discussion of repeater IDs during recent nets ensued.  Many participants mentioned how often a person is interrupted by these IDs.  It appears that the IDs may not be activating as expected.  Bruce, KC1US, mentioned that he had a recording of the recent net from Belmont 2M and would send it to the Board so we could diagnose the likely cause.  (Note ‚Äì during the net of 25 September the IDs were once again very obvious, with one participant counting five(5) IDs in the space of one minute ‚Äì ed.) 
 
-The meeting was closed at 7:47 PM and turned over to Bob Phinney, K5TEC for his talk on his new startup ìNew England Sci-Tech Inc.î and a presentation on:
+The meeting was closed at 7:47 PM and turned over to Bob Phinney, K5TEC for his talk on his new startup ‚ÄúNew England Sci-Tech Inc.‚Äù and a presentation on:
  Discovering Ham Radio through Makerspace.
-(In the editors opinion, this was one of the best meetings we have had in quite some time ñ ed) 
+(In the editors opinion, this was one of the best meetings we have had in quite some time ‚Äì ed) 
 
-73 ñ John, WA1MDD (with additional input from Larry, W1DYJ)
+73 ‚Äì John, WA1MDD (with additional input from Larry, W1DYJ)
 ----------
 
 September Membership Meeting ~ Photos
@@ -100,7 +100,7 @@ One YL operator I spoke with recently shared some of her experiences in becoming
 
 When she does a multi-op, she has different on the air experiences than her male team members. She has not infrequently received comments on the order of "I hate when women do contests, I can't understand their accent." After calling "CQ Contest," callers will often uncomfortably draw out the contact, and stray from the contest format with creepy requests for non-exchange related personal information. If tolerance for this type of behavior continues as part of Amateur Radio, then we should expect continued declining numbers and lack of diversity in our hobby. The next time you hear a female-sounding voice during a contest, you should assume that person is on the air to make a lot of contacts, just like you. If you hear someone stopping to comment on a voice or request non-relevant personal details, not only are they delaying her, they're slowing down everyone else in the pile up... including you.
 
-{From your editor ó this applies to repeater conversations as well.  Larry, W1DYJ]
+{From your editor ‚Äî this applies to repeater conversations as well.  Larry, W1DYJ]
 ----------
 
 October Business Meeting Minutes
@@ -113,13 +113,13 @@ Election of President and Clerk
 Dave, N1DCH has agreed to be nominated as president, to serve out the unfinished term of our ex-President David, KG1H.  Clark, N1NVK, has agree to be nominated for our empty office of Clerk.  Both of these positions will be voted on at our next membership meeting, on 28 November. 
 
 Topics, venues, etc., for upcoming Meetings
-A discussion about potential meeting speakers and topics led to some ideas that will be pursued.  Our November meeting will be a ìstreamlinedî CHIRP talk by James, N1DDK, with Bryan, W1BRI, and the Service Monitor, held at New England SciTech in Natick.  Marchís meeting will be in Burlington with Larry, W1DYJ as the speaker ñ topic to be determined later.  We still need additional meeting venues and topics, including for business meetings.   
+A discussion about potential meeting speakers and topics led to some ideas that will be pursued.  Our November meeting will be a ‚Äústreamlined‚Äù CHIRP talk by James, N1DDK, with Bryan, W1BRI, and the Service Monitor, held at New England SciTech in Natick.  March‚Äôs meeting will be in Burlington with Larry, W1DYJ as the speaker ‚Äì topic to be determined later.  We still need additional meeting venues and topics, including for business meetings.   
 
-Additional discussion led to a decision to move toward adding a teleconferencing option for business meetings.  Dave, N1DCH will bring his ìaudio puckî to the December meeting as a trial.  The February meeting is slated to be teleconference only. 
+Additional discussion led to a decision to move toward adding a teleconferencing option for business meetings.  Dave, N1DCH will bring his ‚Äúaudio puck‚Äù to the December meeting as a trial.  The February meeting is slated to be teleconference only. 
 
 An offer, advanced by Bob, K1IW, to share a Skype account with FEMARA (the Boxboro! committee) for teleconferencing was discussed.  Moved, seconded, and voted to accept this offer.  An amount not to exceed $70 was agreed upon in case we decided to purchase our own Skype account. 
 
-Treasurerís Report
+Treasurer‚Äôs Report
 Kevin, K1KWP, led a discussion concerning Boxboro! 2018 finances.  There were some issues around the number of dinner tickets purchased and sold, and some issues about the seating arrangements.  Move, seconded, and voted to resolve these issues.   
 
 Repeater Status
@@ -129,7 +129,7 @@ Official MMRA Letterhead
 Kevin suggested that we should have some official letterhead.   Larry, W1DYJ, volunteered to generate something.  (This is now available, contact K1KWP.)
 
 Too many emails???
-Some members of the Board of Directors felt there were too many ìunofficialî emails being generated on the BoD email reflector.  No obvious solution was developed for this conundrum as it is very hard to tell ìup-frontî which BoD members will be interested in/concerned about any one email. 
+Some members of the Board of Directors felt there were too many ‚Äúunofficial‚Äù emails being generated on the BoD email reflector.  No obvious solution was developed for this conundrum as it is very hard to tell ‚Äúup-front‚Äù which BoD members will be interested in/concerned about any one email. 
 
 Control Operators
 Some control operators do not feel that have the knowledge/experience for controlling the repeaters they are the control operator for.  A suggestion of some formal training for control operators was put forward. 
@@ -208,12 +208,12 @@ Wednesday, 19 June ~ Business Meeting
 Location: tbd + Teleconference
 ----------
 
-Donít Forget! Join Us.
+Don‚Äôt Forget! Join Us.
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatís happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	WA1JIM	Jimmy Devaire	
@@ -229,7 +229,7 @@ IRLP node 4133
 
 Previous issues of the MMRA Newsletter are available at:
 
-www.mmra.org Ë Newsletter Archive (on the left)
+www.mmra.org √® Newsletter Archive (on the left)
 ----------
 
 MMRA VE Sessions
@@ -245,18 +245,18 @@ Accredited by the ARRL VEC
 MMRA Leaders
 
 
-Executive Board ó Officers
+Executive Board ‚Äî Officers
 President	open
 Vice President	John Spencer		WA1MDD
 Secretary	David Hornbaker 	N1DCH 
 Treasurer	Kevin Paetzold		K1KWP
 Clerk	open
 
-Executive Board ó Directors
-Director  	ª2019	Bob DeMattia	K1IW
-Director  	ª2019	Roger Coulson	WA1NVC
-Director  	ª2020	Clark Conti	N1NVK
-Director  	ª2020	James Lee	N1DDK
+Executive Board ‚Äî Directors
+Director  	¬ª2019	Bob DeMattia	K1IW
+Director  	¬ª2019	Roger Coulson	WA1NVC
+Director  	¬ª2020	Clark Conti	N1NVK
+Director  	¬ª2020	James Lee	N1DDK
 
 Technical Officer
 * Technical Officer	Bryan Cerqua	W1BRI
@@ -272,7 +272,7 @@ Repeater Trustees
 * Marlborough 53.810,  Quincy 146.670; 
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
-	448.225, 449.925,  927.700 ó all as W1MRA
+	448.225, 449.925,  927.700 ‚Äî all as W1MRA
 
 	Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP

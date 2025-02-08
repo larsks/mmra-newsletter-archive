@@ -42,14 +42,14 @@ The MMRA meets (usually) on the 3rd Wednesday of each month from September to Ju
 
 The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
 
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
 Email to the club leadership should be sent to 
 contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
 
-An email distribution list for club members named ìMMRAî is at: www.yahoogroups.com/
+An email distribution list for club members named ‚ÄúMMRA‚Äù is at: www.yahoogroups.com/
 No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
 
 MMRA QRM Policy
@@ -60,13 +60,13 @@ activity that does not abide by Part 97 rules or accepted amateur radio practice
 The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
 ----------
 
-Presidentís Corner ó Current Events
+President‚Äôs Corner ‚Äî Current Events
 
-Bob DeMattia ó K1IW 
+Bob DeMattia ‚Äî K1IW 
 
 Over the past few years, there's been a lot of flux over digital voice modes on FM.  It started with APCO/P25 and DSTAR.  Soon after, other protocols came out - with so many names that it created a lot of confusion.  IDAS, NEXGEN, MotoTrbo were the most prevalent ones.  In reality, there are four digital modes on the FM bands of any significance right now: DSTAR, NXDN,, P25, and DMR.  The other names you hear are just manufacturer's names for something that conforms to one of the standards.  
 
-Our meeting on September 19th will give a brief overview and comparison of these four modes.  Following this, our guest speaker Bob Stone, N1KMA, will show off his companyís new product which will enable repeaters to handle all these competing modes in one box.  I hope to see you there!
+Our meeting on September 19th will give a brief overview and comparison of these four modes.  Following this, our guest speaker Bob Stone, N1KMA, will show off his company‚Äôs new product which will enable repeaters to handle all these competing modes in one box.  I hope to see you there!
 
 NOTE!!!
 There will be a vote at the NOVEMBER membership meeting on an update to the MMRA bylaws.  A brief summary of the changes and a complete text of the new revision on the MMRA website will be made available on or about October 1st.
@@ -92,8 +92,8 @@ Secretary	John McGovern	W1JMC
 Treasurer	Kevin Paetzold	K1KWP
 Clerk		Bob Evans	N1BE
 Tech. Officer	Bryan Cerqua	W1BRI
-Director ª2014	Clark Conti	N1NVK
-Director ª2014	Mike Neilsen	W1MPN
+Director ¬ª2014	Clark Conti	N1NVK
+Director ¬ª2014	Mike Neilsen	W1MPN
 ----------
 
 MMRA June Business Meeting
@@ -129,7 +129,7 @@ The meeting adjourned at 9:10PM.
 ----------
 
 D-Star Update
-Bob DeMattia ó K1IW 
+Bob DeMattia ‚Äî K1IW 
 
 The D-Star repeater (146.160, W1MRA) is currently off the air.  There was a PA failure.  While it was out being repaired,  our sponsor notified us that they will be relocating their equipment within the building.  Rather than reinstall our system, then have to move it a second time a few weeks later, we are coordinating our reinstall with their move date.  
 
@@ -144,7 +144,7 @@ The Cone is finally back on the tank...
 ----------
 
 Repeater Update
-Bob DeMattia ó K1IW 
+Bob DeMattia ‚Äî K1IW 
 
 The most significant issue facing MMRA right now is the situation at Sligo Hill.  As is well documented, the  City of Marlborough required us to remove our antennas from the top of the water tower in order for them to complete renovation of the conical roof.  This appears to be complete, however, we are being told there may be structural issues with the roof and it may need to be removed to be serviced.  Because of this, we cannot reinstall our antennas and are operating 144.39, 147.27, 224.88 and 449.925 from a pair of tri-band antennas at the 20-30 foot level.  927.7 is completely off the air.
 
@@ -198,58 +198,58 @@ PATRIOTIC...station and skill always ready for service to country and community.
 Paul M. Segal, W9EEA, 1928
 ----------
 
-2012ó2013 Meetings
+2012‚Äî2013 Meetings
 
-19 September ó Membership Meeting
+19 September ‚Äî Membership Meeting
 Bob Stone, N1KMA of Newfield Design
 Holiday Inn, Boxborough, MA ~ 7:00 PM
 
-17 October  ó Membership Meeting
+17 October  ‚Äî Membership Meeting
 General Business
 Location TBA ~ 7:00 PM
 
-21 November ó Membership Meeting
+21 November ‚Äî Membership Meeting
 Topic TBA
 Location TBA ~ 7:00 PM
 
-19 December ó Membership Meeting
+19 December ‚Äî Membership Meeting
 General Business
 Location TBA ~ 7:00 PM
 
-16 January ó Membership Meeting
+16 January ‚Äî Membership Meeting
 Topic TBA
 Location TBA ~ 7:00 PM
 
-20 February ó Membership Meeting
+20 February ‚Äî Membership Meeting
 General Business
 Location TBA ~ 7:00 PM
 
-20 Marchó Membership Meeting
+20 March‚Äî Membership Meeting
 Topic TBA
 Location TBA ~ 7:00 PM
 
 17 April
-óó-
+‚Äî‚Äî-
 No meeting in April
 
-15 May ó Membership Meeting
+15 May ‚Äî Membership Meeting
 Topic TBA
 Location TBA ~ 7:00 PM
 
-19 June ó Membership Meeting
+19 June ‚Äî Membership Meeting
 General Business 
 
 Location TBA ~ 7:00 PM
 ----------
 
-Donít Forget!
+Don‚Äôt Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ñ we have a script you can use.  
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ‚Äì we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -273,10 +273,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2014		Clark Conti	N1NVK
-Director  ª2014		Mike Neilsen	W1MPN
-Director  ª2013		Steve Schwarm	W3EVE
-Director  ª2013	Roger Coulson	WA1NVC
+Director  ¬ª2014		Clark Conti	N1NVK
+Director  ¬ª2014		Mike Neilsen	W1MPN
+Director  ¬ª2013		Steve Schwarm	W3EVE
+Director  ¬ª2013	Roger Coulson	WA1NVC
 
 Repeater Trustees, Appointed
 Boston 927.0625		Rick Zach	K1RJZ
@@ -289,7 +289,7 @@ Marlboro 53.810; Quincy 146.670; Southboro 449.575
 	
 		Bryan Cerqua	W1BRI
 Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
-Belmont 145.430;  Weston 442.700 ó all as W1MRA
+Belmont 145.430;  Weston 442.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Weston 146.790		Bob Evans	N1BE

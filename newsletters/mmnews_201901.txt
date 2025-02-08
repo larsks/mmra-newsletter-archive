@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.† 
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.¬† 
 ----------
 
 The Minuteman
@@ -22,16 +22,16 @@ New England Sci-Tech Inc.
 16 Tech Circle	Natick MA
 Talk-in: 147.27  pl 146.2
 
-After Timís presentation, the MMRA will have an election to fill the vacant positions of Clerk. 
+After Tim‚Äôs presentation, the MMRA will have an election to fill the vacant positions of Clerk. 
 MMRA Officer Election:
-KC1JUO Charles Miller ñ Clerk 
+KC1JUO Charles Miller ‚Äì Clerk 
 
 
-Note: We will meet at 5 PM for dinner at 110 Grill,† 171 Commonwealth Rd, Wayland, MA.† Those who attend will have first chance at a DXEngineering hat.† 
+Note: We will meet at 5 PM for dinner at 110 Grill,¬† 171 Commonwealth Rd, Wayland, MA.¬† Those who attend will have first chance at a DXEngineering hat.¬† 
 RSVP: to Dave: daveho@msn.com so we know how big a table to get.
 ----------
 
-Presidentís Corner ~ David Hornbaker , N1DCH 
+President‚Äôs Corner ~ David Hornbaker , N1DCH 
 
 Happy New Year to all members of MMRA!
 
@@ -96,22 +96,22 @@ Charles Miller, KC1JUO, Clerk (acting)
 
 Meeting Called to Order @ 19:12
 Attendance:
-Bob (K1IW) ñ Director, Technical Officer
+Bob (K1IW) ‚Äì Director, Technical Officer
 Dick (K1KMN)
-Kevin (K1KWP) ñ Treasurer, Trustee
-Charles (KC1JUO) ñ Acting Clerk
-Dave (N1DCH) ñ President, Secretary
-Clark (N1NVK) ñ Director
-Bryan (W1BRI) ñ Trustee
-Larry (W1DYJ) ñ Net Manager, Trustee, Newsletter Editor
-John (WA1MDD) ñ Vice President
+Kevin (K1KWP) ‚Äì Treasurer, Trustee
+Charles (KC1JUO) ‚Äì Acting Clerk
+Dave (N1DCH) ‚Äì President, Secretary
+Clark (N1NVK) ‚Äì Director
+Bryan (W1BRI) ‚Äì Trustee
+Larry (W1DYJ) ‚Äì Net Manager, Trustee, Newsletter Editor
+John (WA1MDD) ‚Äì Vice President
 
 Control Operator Training:
-	* Suggestion that we hold control operator training. Good for bringing repeaters up & own. †Scheduling possible next year, including technical training.  [Attendance is not mandatory but high encouraged]
+	* Suggestion that we hold control operator training. Good for bringing repeaters up & own. ¬†Scheduling possible next year, including technical training.  [Attendance is not mandatory but high encouraged]
 	* Trustees need to be control operators of their own repeater and all others
 
 Executive Discussion:
-Repeater Use Policy: we donít have a current written policy covering profanity.†Larry, W1DYJ, will write proposed policy for discussion.
+Repeater Use Policy: we don‚Äôt have a current written policy covering profanity.¬†Larry, W1DYJ, will write proposed policy for discussion.
 
 Updated System:
 Brookline and Marlborough D-Star gateway was replaced by Bob (K1IW): Moved (Dave, N1DCH), Seconded (Kevin, K1KWP) and voted that Bob (K1IW) be reimbursed for Marlborough $75.91 - will forward receipt to Kevin (K1KWP)
@@ -146,18 +146,18 @@ Old Business/Operations:
 Meeting Adjourned @ 20:21
 ----------
 
-Whatís Been Happening ~ Kevin Paetzold, K1KWP
+What‚Äôs Been Happening ~ Kevin Paetzold, K1KWP
 
 The President
 Earlier this fall the KG1H (David Wolfe) announced that he was going to relocate away from New England and would no longer be able to serve as president of the MMRA. On behalf of the MMRA board and the membership I would like to thank KG1H for his efforts and leadership of the MMRA for the previous several years.
 
-Shortly after Daveís announcement N1DCH (David Hornbaker) was nominated for President. At the November 28 general membership meeting N1DCH was elected to be the president. On behalf of the MMRA board and the membership I would like to thank N1DCH for stepping up to serve as President.
+Shortly after Dave‚Äôs announcement N1DCH (David Hornbaker) was nominated for President. At the November 28 general membership meeting N1DCH was elected to be the president. On behalf of the MMRA board and the membership I would like to thank N1DCH for stepping up to serve as President.
 
 The Secretary
 N1DCH was already serving as the elected Secretary of the MMRA and will continue to do so as the bylaws allow for someone to serve in two offices. However it would be appropriate for another individual who would like to be more involved with the operation of the MMRA to be nominated (or volunteer) for this position. The primary duty of the Secretary is to process membership applications and renewals as well as keeping the MMRA database up to date. Although the newsletter is produced by its editor W1DYJ the newsletter is actually published by the Secretary. If you are willing or interested in this position please make your intent known to one (or all) of the board members.
 
 The Public Service Coordinator
-KG1H also served as the ìpublic service coordinatorî for the MMRA. This position is intended to be the main contact point for anyone or any organization requesting use of the MMRA repeaters for public service events as well as the coordinator of public service activities within the MMRA. If you are willing or interested in this position please make your intent known to one (or all) of the board members.
+KG1H also served as the ‚Äúpublic service coordinator‚Äù for the MMRA. This position is intended to be the main contact point for anyone or any organization requesting use of the MMRA repeaters for public service events as well as the coordinator of public service activities within the MMRA. If you are willing or interested in this position please make your intent known to one (or all) of the board members.
 
 The Clerk
 At the November 28 general membership meeting KC1JUO (Charles Miller) was nominated for the office of Clerk and has been named the acting clerk. There will be an election vote at the January 16 general membership meeting to confirm KC1JUO as the clerk. On behalf of the MMRA board and the membership I would like to thank KC1JUO for volunteering to serve as clerk.
@@ -167,7 +167,7 @@ W1BRI (Bryan Cerqua) has served as the Technical Officer (aka. The Technical Dir
 
 On behalf of the MMRA board and the membership I would like to thank W1BRI for all of his many years of service and countless hours working on and keeping the system running, often by himself in a cold unheated radio shelter.
 
-W1BRI recommended K1IW (Bob Demattia) as the new technical officer. I can not think of a better candidate for this position. We should all be aware of the immense amount of effort that Bob has put into the technical side of the MMRA for many years (also more than one decade) as well as all his years of service as a past President (and Secretary and website manager and controller programmer and Ö..) of the MMRA. In a vote of the board in December K1IW was confirmed as the new technical officer of the MMRA. On behalf of the MMRA board and the membership I would like to thank Bob for all of his countless years of service to the MMRA.
+W1BRI recommended K1IW (Bob Demattia) as the new technical officer. I can not think of a better candidate for this position. We should all be aware of the immense amount of effort that Bob has put into the technical side of the MMRA for many years (also more than one decade) as well as all his years of service as a past President (and Secretary and website manager and controller programmer and ‚Ä¶..) of the MMRA. In a vote of the board in December K1IW was confirmed as the new technical officer of the MMRA. On behalf of the MMRA board and the membership I would like to thank Bob for all of his countless years of service to the MMRA.
 
 Emeritus Positions
 The MMRA systems and the organization in general benefited greatly for immense efforts by both K1IW and W1BRI over many years. The repeater system is much larger, capable, reliable, and flexible as result of their immense efforts over a very long period of time.
@@ -175,7 +175,7 @@ The MMRA systems and the organization in general benefited greatly for immense e
 In recognition of their large impact over so many years the board voted in December to name K1IW as the honorary President Emeritus and W1BRI as the honorary Technical Officer Emeritus.
 ----------
 
-Treasurerís Report ~ Kevin Paetzold, K1KWP
+Treasurer‚Äôs Report ~ Kevin Paetzold, K1KWP
 
 Recent Donations
 
@@ -206,7 +206,7 @@ Upcoming MMRA Meetings
 Note: Meeting locations and times are subject to change.
 
 Consult the MMRA website for the most up-to-date information. 
-Teleconference numbers will be available one week before a meetingóif you wish to attend, email contact@mmra.org.
+Teleconference numbers will be available one week before a meeting‚Äîif you wish to attend, email contact@mmra.org.
 
 Wednesday, 16 January ~ Membership Meeting
 Speaker/Topic: Tim Duffey, K3LR, Contest University (via Skype)
@@ -231,12 +231,12 @@ Wednesday, 19 June ~ Business Meeting
 Location: tbd + Teleconference
 ----------
 
-Donít Forget! Join Us.
+Don‚Äôt Forget! Join Us.
 
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatís happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.  
 
 Net Control Operators:
 Week 1	W1DYJ	Larry Banks	
@@ -251,7 +251,7 @@ IRLP node 4133
 ----------
 
 Previous issues of the MMRA Newsletter are available at:
-www.mmra.org Ë Newsletter Archive (on the left)
+www.mmra.org √® Newsletter Archive (on the left)
 ----------
 
 MMRA VE Sessions
@@ -267,18 +267,18 @@ Accredited by the ARRL VEC
 MMRA Leaders
 
 
-Executive Board ó Officers
+Executive Board ‚Äî Officers
 President	David Hornbaker N1DCH 
 Vice President	John Spencer	WA1MDD
 Secretary	David Hornbaker N1DCH 
 Treasurer	Kevin Paetzold	K1KWP
 Clerk (acting)	Charles Miller	KC1JUO
 
-Executive Board ó Directors
-Director  ª2019	Bob DeMattia	K1IW
-Director  ª2019	Roger Coulson	WA1NVC
-Director  ª2020	Clark Conti	N1NVK
-Director  ª2020	James Lee	N1DDK
+Executive Board ‚Äî Directors
+Director  ¬ª2019	Bob DeMattia	K1IW
+Director  ¬ª2019	Roger Coulson	WA1NVC
+Director  ¬ª2020	Clark Conti	N1NVK
+Director  ¬ª2020	James Lee	N1DDK
 
 Technical Officer
 Technical Officer	Bob DeMattia	K1IW
@@ -301,7 +301,7 @@ Repeater Trustees
 	Bryan Cerqua	W1BRI
 * Marlborough: 29.68, 144.390, 147.270, 224.880,
 
-       448.225, 449.925,  927.700 ó all as W1MRA Bill Northup	N1QPR
+       448.225, 449.925,  927.700 ‚Äî all as W1MRA Bill Northup	N1QPR
 * Mendon 146.610	Kevin Paetzold	K1KWP
 * N. Reading 146.715	Bruce Pigott	KC1US
 * N. Reading 446.775	Larry Banks	W1DYJ

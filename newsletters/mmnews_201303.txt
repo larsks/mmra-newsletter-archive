@@ -42,13 +42,13 @@ Massachusetts.
 The MMRA meets (usually) on the 3rd Wednesday of each month from September to June.  Meeting times, locations, and talk-in frequency vary and are announced in this newsletter and on weekly nets.  Meetings are open to all interested parties.  Guest speakers and programs of general interest occur in September, November, January, March, and May.  The intervening meetings are also open to all members and are for general business.
 
 The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
-Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ìTechnical Information and Other Stuffî.   Join us!
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is ‚ÄúTechnical Information and Other Stuff‚Äù.   Join us!
 
 Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
 
 Email to the club leadership should be sent to 
 contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
-An email distribution list for club members named ìMMRAî is at: www.yahoogroups.com/
+An email distribution list for club members named ‚ÄúMMRA‚Äù is at: www.yahoogroups.com/
 No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
 ----------
 
@@ -60,8 +60,8 @@ activity that does not abide by Part 97 rules or accepted amateur radio practice
 The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
 ----------
 
-Presidentís Corner ~ MMRA Opportunities / D-Star Update
-Bob DeMattia ó K1IW 
+President‚Äôs Corner ~ MMRA Opportunities / D-Star Update
+Bob DeMattia ‚Äî K1IW 
 
 Two outstanding opportunities are coming up for members who would like to get more involved with MMRA.  
 
@@ -84,7 +84,7 @@ David Wolfe ~ KG1H
 
 Currently, there is a major gap in D-Star coverage in eastern Massachusetts that needs to be closed. 
 
-D-Star coverage is essentially non-existent in the Boston area and along the I-90 and I-95/128 corridors and in the surrounding towns and cities.  The nearest D-Star repeater/gateway, which belongs to WB1GOF Police Amateur Radio Team (PART) in Westford MA, is located on the water tower at Prospect Hill in Westford and does not cover these areas. The top of the tower antenna elevation is 579 feet/AMSL. The D-Star  transmitters, which are located in the AT&T CELL site, run 18 watts on both 145.330 and 442.450.  The coverage map at the URL below illustrates the gaps in their coverage, although it is adequate for WB1GOF PARTís needs.
+D-Star coverage is essentially non-existent in the Boston area and along the I-90 and I-95/128 corridors and in the surrounding towns and cities.  The nearest D-Star repeater/gateway, which belongs to WB1GOF Police Amateur Radio Team (PART) in Westford MA, is located on the water tower at Prospect Hill in Westford and does not cover these areas. The top of the tower antenna elevation is 579 feet/AMSL. The D-Star  transmitters, which are located in the AT&T CELL site, run 18 watts on both 145.330 and 442.450.  The coverage map at the URL below illustrates the gaps in their coverage, although it is adequate for WB1GOF PART‚Äôs needs.
 
 http://ka8scp.wb1gof.net/images/GOF442450CoveragePlot.jpg 
 
@@ -94,9 +94,9 @@ http://www.D-Starusers.org/repeaters.php
 
 Hams in the area, like myself, got interested in D-Star when the MMRA promoted installation several years ago of a D-Star repeater/gateway at the top of the Prudential Center.  This installation was to provide wide coverage filling in the gaps giving me (and others) a valid excuse to visit the candy store to purchase a new D-Star mobile transceiver; and later an HT.  However, the intense RF environment at the top of the Pru, complicated by very restricted personnel access to the equipment, resulted in the MMRA removing their equipment. 
 
-At a recent MMRA meeting Newfield Design Inc. presented a promise of a revolutionary Repeater Controller that delivers a new level of capability that can operate in both Analog and D-Star mode with a wide range of capabilities and options that would operate in that environment.  However, this is no longer a valid option due to mitigating circumstances beyond MMRAís control.  
+At a recent MMRA meeting Newfield Design Inc. presented a promise of a revolutionary Repeater Controller that delivers a new level of capability that can operate in both Analog and D-Star mode with a wide range of capabilities and options that would operate in that environment.  However, this is no longer a valid option due to mitigating circumstances beyond MMRA‚Äôs control.  
 
-It appears now that the only option to fulfill MMRAís proposition to the D-Star users is to install a D-Star repeater/gateway in a less intense RF environment that is accessible by MMRA personnel, and provide a coverage footprint that fills in the gaps.  This option requires that the MMRA purchase an ICOM 2 meter D-Star repeater controller costing around $1500.
+It appears now that the only option to fulfill MMRA‚Äôs proposition to the D-Star users is to install a D-Star repeater/gateway in a less intense RF environment that is accessible by MMRA personnel, and provide a coverage footprint that fills in the gaps.  This option requires that the MMRA purchase an ICOM 2 meter D-Star repeater controller costing around $1500.
 
 D-Star 101
 
@@ -104,7 +104,7 @@ As part of the D-Star (Digital Smart Technologies for Amateur Radio) protocol, l
 
 The DVAP connects to your PC or Intel based Mac via a USB port and provides a 2 meter Access Point (a minature D-Star repeater) for use with a D-Star radio. The DV Dongle on the other hand does not require a D-Star radio but connects to your PC or Apple Mac via a USB port and in conjunction with a computer headset provides encoding and decoding of compressed audio using the DVSI AMBE2000 full duplex vocoder DSP chip.   AMBE technology is used in all D-Star radios to provide efficient voice transmissions.  
 
-While on vacation, I use my DVAP, ICOM 92AD HT, and laptop connected to the hotel Wi-Fiís to link into D-Star repeaters/gateways and reflectors worldwide.
+While on vacation, I use my DVAP, ICOM 92AD HT, and laptop connected to the hotel Wi-Fi‚Äôs to link into D-Star repeaters/gateways and reflectors worldwide.
 
 Reflectors are basically a conference bridge for D-Star. They allow multiple D-Star repeaters and Dongle users, from around the world, to be joined together.  Whatever information is transmitted across one of the repeaters is repeated across all of the connected repeaters.
 
@@ -116,23 +116,23 @@ Currently there are over 20,000 World Wide Registered D-Star Users communicating
 MMRA February Business Meeting
 Bob Evans ~ N1BE ~ Clerk
 
-THE MMRA Board met for a business meeting 7 PM at the Southborough House of Pizza on February 13th.† Present were K1KWP, K1IW, W1BRI,† N1NVK, KG1H, N1BE an N1YAZ.† The following items were discussed.
+THE MMRA Board met for a business meeting 7 PM at the Southborough House of Pizza on February 13th.¬† Present were K1KWP, K1IW, W1BRI,¬† N1NVK, KG1H, N1BE an N1YAZ.¬† The following items were discussed.
 
 
 
-We began with a report of the treasury from K1KWP.† Looking at historical data and expectations for the current fiscal year, this covered income, spending and balance in our account.† Reported was $1500 in significant expenses paid since the previous MMRA business meeting.† There is about $400 in routine expenses still expected this year.† We also have approved but not yet spent funds allocated to purchase repeater equipment at Belmont from the widow of WA1RTT and for the Sligo tower project.† The number of members and income from dues is at parity with the previous fiscal year.
+We began with a report of the treasury from K1KWP.¬† Looking at historical data and expectations for the current fiscal year, this covered income, spending and balance in our account.¬† Reported was $1500 in significant expenses paid since the previous MMRA business meeting.¬† There is about $400 in routine expenses still expected this year.¬† We also have approved but not yet spent funds allocated to purchase repeater equipment at Belmont from the widow of WA1RTT and for the Sligo tower project.¬† The number of members and income from dues is at parity with the previous fiscal year.
 
 
 
-K1IW next informed us of the state of the Sligo tower project at MRW.† Marlborough is still undecided about whether to approve the current cone at the top of the tower.† Until that occurs, no tenant/user is authorized to re-install equipment on the tower.† It is possible that we will not have the opportunity to complete the project before the $6400 of MMRA authorized funds expires on May 31. In that event the Board will ask the members to re-authorize this expense for the next fiscal year.
+K1IW next informed us of the state of the Sligo tower project at MRW.¬† Marlborough is still undecided about whether to approve the current cone at the top of the tower.¬† Until that occurs, no tenant/user is authorized to re-install equipment on the tower.¬† It is possible that we will not have the opportunity to complete the project before the $6400 of MMRA authorized funds expires on May 31. In that event the Board will ask the members to re-authorize this expense for the next fiscal year.
 
 
 
-We next discussed the possibility to obtain a VYEX DAB to upgrade one of the 7K repeater controllers.† These scarce boards are a newer voice module with a serial port that allows remote control and programming via a computer instead of needing to use touch tones.† An SCOM7K w/VYEX DAB is now available for $350.† This fits with an earlier Board discussion to replace existing 7K-SSM modules with DAB.† K1IW suggested we purchase the 7K with DAB, put it into service and then sell one of our 7K controllers which has the older SSM.
+We next discussed the possibility to obtain a VYEX DAB to upgrade one of the 7K repeater controllers.¬† These scarce boards are a newer voice module with a serial port that allows remote control and programming via a computer instead of needing to use touch tones.¬† An SCOM7K w/VYEX DAB is now available for $350.¬† This fits with an earlier Board discussion to replace existing 7K-SSM modules with DAB.¬† K1IW suggested we purchase the 7K with DAB, put it into service and then sell one of our 7K controllers which has the older SSM.
 
 
 
-The Board authorized K1IW to spend up to $350 to buy a 7K with DAB.† There are a few different sites that could benefit from the DAB.† Likely it will get installed at a site where internet is available and where tone access is difficult.
+The Board authorized K1IW to spend up to $350 to buy a 7K with DAB.¬† There are a few different sites that could benefit from the DAB.¬† Likely it will get installed at a site where internet is available and where tone access is difficult.
 
 
 
@@ -140,23 +140,23 @@ The Board authorized selling all 5K controllers in stock and two 7K controllers 
 
 
 
-We next discussed developments at the Prudential Center Repeater site.† Due to unfortunate events in Maine, the digital repeater is very unlikely to become available for use at this site.† With the† hostile RFI and difficulty to get access at this site, the Board thought an analog repeater would be a more reliable choice for this location.
+We next discussed developments at the Prudential Center Repeater site.¬† Due to unfortunate events in Maine, the digital repeater is very unlikely to become available for use at this site.¬† With the¬† hostile RFI and difficulty to get access at this site, the Board thought an analog repeater would be a more reliable choice for this location.
 
 
 
-The Board authorized spending not to exceed $250 to move 146.82 to the Pru and to provide remote control via the Internet.† This expense is for a multi-channel link radio and hardline to reach the different location where the repeater would be installed.† This will provide an option to add remote receivers in the future.
+The Board authorized spending not to exceed $250 to move 146.82 to the Pru and to provide remote control via the Internet.¬† This expense is for a multi-channel link radio and hardline to reach the different location where the repeater would be installed.¬† This will provide an option to add remote receivers in the future.
 
 
 
-The changes at the Pru leave us without a D-Star repeater.† The Board was indecisive about whether to make an unexpected investment in D-Star.† We approved a motion to ask the membership whether to authorize $1500 to purchase a D-Star controller for 145.16 and install that at Brookline with the other repeater parts already in hand.† This is a significant expense for the club, so the Board wants members to carefully consider their vote.
+The changes at the Pru leave us without a D-Star repeater.¬† The Board was indecisive about whether to make an unexpected investment in D-Star.¬† We approved a motion to ask the membership whether to authorize $1500 to purchase a D-Star controller for 145.16 and install that at Brookline with the other repeater parts already in hand.¬† This is a significant expense for the club, so the Board wants members to carefully consider their vote.
 
 
 
-The Marlborough Flea Market is in three days from our meeting on February 16.† We are still soliciting people to staff a MMRA table there.
+The Marlborough Flea Market is in three days from our meeting on February 16.¬† We are still soliciting people to staff a MMRA table there.
 
 
 
-Finally we discussed an election slate of officers for next year.† All current officers and the directors up for election in May have confirmed they are willing to run for reelection.† Therefore the Board will not form a nominating committee.† However, we solicit additional nominations from any MMRA members that would like to be more involved with governance of our club.† Nominations are due to the MMRA secretary by April 15th.
+Finally we discussed an election slate of officers for next year.¬† All current officers and the directors up for election in May have confirmed they are willing to run for reelection.¬† Therefore the Board will not form a nominating committee.¬† However, we solicit additional nominations from any MMRA members that would like to be more involved with governance of our club.¬† Nominations are due to the MMRA secretary by April 15th.
 
 
 
@@ -183,12 +183,12 @@ Herriman, UT 84096-6919 USA
 jontitus@comcast.net
 ----------
 
-MMRA member George Maier ñ W1LSB featured in Bob Heilís Ham Nation webcast.  Check it out!
+MMRA member George Maier ‚Äì W1LSB featured in Bob Heil‚Äôs Ham Nation webcast.  Check it out!
 
 http://twit.tv/show/ham-nation/81
 ----------
 
-2012ó2013 Meetings
+2012‚Äî2013 Meetings
 
 20 March ~ Membership Meeting
 WRTC 2014 ~ Dave Pascoe KM3T & Doug Grant K1DG
@@ -212,13 +212,13 @@ Location TBA
 Location TBA 
 ----------
 
-Donít Forget!
+Don‚Äôt Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ñ we have a script you can use.  
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ‚Äì we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -242,10 +242,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2014		Clark Conti	N1NVK
-Director  ª2014		Mike Neilsen	W1MPN
-Director  ª2013		Steve Schwarm	W3EVE
-Director  ª2013		Roger Coulson	WA1NVC
+Director  ¬ª2014		Clark Conti	N1NVK
+Director  ¬ª2014		Mike Neilsen	W1MPN
+Director  ¬ª2013		Steve Schwarm	W3EVE
+Director  ¬ª2013		Roger Coulson	WA1NVC
 
 Repeater Trustees, Appointed
 Boston 927.0625		Rick Zach	K1RJZ
@@ -258,7 +258,7 @@ Marlboro 53.810; Quincy 146.670; Southboro 449.575
 
 			Bryan Cerqua	W1BRI
 Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
-Belmont 145.430;  Weston 442.700 ó all as W1MRA
+Belmont 145.430;  Weston 442.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Weston 146.790		Bob Evans	N1BE
@@ -275,7 +275,7 @@ Web Page Editor		Bob DeMattia	K1IW
 
 Previous issues of the MMRA Newsletter are available at:
 
-www.mmra.org Ë Newsletter Archive (on the left)
+www.mmra.org √® Newsletter Archive (on the left)
 ----------
 
 MMRA VE Sessions

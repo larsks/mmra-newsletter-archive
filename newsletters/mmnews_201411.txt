@@ -1,5 +1,5 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.† 
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.¬† 
 
 The Minuteman
 
@@ -18,7 +18,7 @@ Talkin: 147.27
 
 >From Boston: Take I-90 West to I-290 East to I-190 North to Exit 2,then turn left...
 >From Marlborough: Take I-290 West to I-190 North to Exit 2, then turn left...
->From Fitchburg: Take I-190 South to Exit 3, then turn rightÖ
+>From Fitchburg: Take I-190 South to Exit 3, then turn right‚Ä¶
 
 ...on West Mountain Street.
 At Brattle Street, turn right,
@@ -44,8 +44,8 @@ He recently entered the ARDF < http://www.homingin.com/farsnews.html > and
 
 Photos:
 Bob at the podium
-Bobís parabolic antenna for close in work
-Bobís well
+Bob‚Äôs parabolic antenna for close in work
+Bob‚Äôs well
 used 2m and 440 antennas 
 
 ...and from the general meeting session...
@@ -60,7 +60,7 @@ K1IW, W1BRI, N1DDK, KG1H, N1BE, WA1NVC, K1KWP, N1NVK
 (There were many others too!)
 ----------
 
-Sligo is Back! ó Some Photos
+Sligo is Back! ‚Äî Some Photos
 Thanks to Bryan Cerqua, W1BRI, David Wolfe, KG1H, & Bob DeMattia, K1IW
 
 Photos:
@@ -125,11 +125,11 @@ Ride to Defeat ALS
 Westford Grace Race
 CF Cycle for Life
 Boston Athletic Association Half-Marathon
-The Head of The Charles RegattaÆ 2014
+The Head of The Charles Regatta¬Æ 2014
 Third Annual Ashland Half-Marathon 
 & 5K
 
-Hereís a link to the communications for the Ashland Half-Marathon, held Sunday, April 26th, 2014:
+Here‚Äôs a link to the communications for the Ashland Half-Marathon, held Sunday, April 26th, 2014:
 https://drive.google.com/file/d/0B_R6snQbpJ3Ma2FJUy1VbzRHOUU/view?usp=sharing
 
 Photos:
@@ -137,10 +137,10 @@ Ashland Half-Marathon
 11th annual Grace Race
 ----------
 
-The MMRA TECHNICAL CREW ñ ALWAYS READY
+The MMRA TECHNICAL CREW ‚Äì ALWAYS READY
 By Tom Turner, KB1OQA
 
-One of the many groups within the organizational structure of the MMRA is the technical crew who constantly maintain and upgrade our repeaters located at various locations throughout Massachusetts.  These are the dedicated Hams with electronic expertise who are, for lack of a better term ìon-callî when sites go down, antennas need to be replaced, new equipment needs to be installed and/or tested, and when on-going preventative maintenance is necessary to keep all systems working at peak efficiency.
+One of the many groups within the organizational structure of the MMRA is the technical crew who constantly maintain and upgrade our repeaters located at various locations throughout Massachusetts.  These are the dedicated Hams with electronic expertise who are, for lack of a better term ‚Äúon-call‚Äù when sites go down, antennas need to be replaced, new equipment needs to be installed and/or tested, and when on-going preventative maintenance is necessary to keep all systems working at peak efficiency.
 
 A major project of the Technical Crew has been at Sligo Hill in Marlborough.  Now that antennas that had to be removed or relocated are now back on the refurbished Tower at their former heights, this group has been hard at work doing antenna reconnections and testing to make sure that our network provides the best-quality signal for its users.  
 
@@ -160,14 +160,14 @@ Wed, 17 Dec ~ Business Meeting
 Stratus, Maynard
 
 Wed, 21 Jan ~ Membership Meeting
-Amateur Radio and the Weather, Mike NeilsenóW1MPN
+Amateur Radio and the Weather, Mike Neilsen‚ÄîW1MPN
 Location TBA
 
 Wed, 18 Feb ~ Business Meeting
 Stratus, Maynard
 
 Wed, 18 Mar ~ Membership Meeting
-Weak Signals and DXíing
+Weak Signals and DX‚Äôing
 Location TBA
 
 Wed, 15 Apr ~ Business Meeting
@@ -187,12 +187,12 @@ Wed, 19 Aug ~ Business Meeting
 Stratus, Maynard
 ----------
 
-Donít Forget! Join Us.
+Don‚Äôt Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIaOS Net.  
-Keep up with whatís happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIaOS Net.  
+Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.  
 
 Want to try your hand at Net Control?  
 Contact me at W1DYJ@mmra.org  for our script, or find it at
@@ -220,10 +220,10 @@ Clerk			Bob Evans	N1BE
 * Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2015		Steve Schwarm	W3EVE
-Director  ª2015		Roger Coulson	WA1NVC
-Director  ª2016		Clark Conti	N1NVK
-Director  ª2016		Mike Neilsen	W1MPN
+Director  ¬ª2015		Steve Schwarm	W3EVE
+Director  ¬ª2015		Roger Coulson	WA1NVC
+Director  ¬ª2016		Clark Conti	N1NVK
+Director  ¬ª2016		Mike Neilsen	W1MPN
 
 Repeater Trustees
 * Belmont 145.430	James Lee	N1DDK
@@ -238,7 +238,7 @@ Repeater Trustees
 		
 	Bryan Cerqua	W1BRI
 * Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
-         Weston 442.700 ó all as W1MRA
+         Weston 442.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 * Mendon 146.610	Jim Podsiadlo	AE1C
 * Quincy 224.40		Bill Dunn	N1KUG
@@ -258,7 +258,7 @@ Other, non-Voting
 
 Previous issues of the MMRA Newsletter are available at:
 
-www.mmra.org Ë Newsletter Archive (on the left)
+www.mmra.org √® Newsletter Archive (on the left)
 ----------
 
 MMRA VE Sessions

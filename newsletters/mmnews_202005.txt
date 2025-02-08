@@ -1,23 +1,23 @@
 The Minuteman Repeater Association
-A non-profit organization providing communications infrastructure and volunteers for community and emergency events.† 
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.¬† 
 
 The Minuteman
 Volume 49, Number 5
 May 2020
 ----------
 
-Wednesday, 20 May, 2020 ~ Annual Meeting & Elections ~ 7:30ó9:30 pm
+Wednesday, 20 May, 2020 ~ Annual Meeting & Elections ~ 7:30‚Äî9:30 pm
 ARRL Antenna Book Software: TLW, YW, HFTA, EZNEC ~  Larry Banks, W1DYJ
-Location: ZOOM  ó Members: login to the MMRA Webpage for the link
+Location: ZOOM  ‚Äî Members: login to the MMRA Webpage for the link
 
 Non-members: send an email to contact@mmra.org
 
-This ìAntenna Modeling 101î presentation will start with why Larry has always studied antennas.  It will then highlight the various software packages available in three ARRL Books.  Detailed use of four packages ñ TLW, YW, HFTA, and EZNEC, using some of his homebrew antennas as examples ñ will help you get a start at modeling your own antenna systems.
+This ‚ÄúAntenna Modeling 101‚Äù presentation will start with why Larry has always studied antennas.  It will then highlight the various software packages available in three ARRL Books.  Detailed use of four packages ‚Äì TLW, YW, HFTA, and EZNEC, using some of his homebrew antennas as examples ‚Äì will help you get a start at modeling your own antenna systems.
 
 Larry was licensed in 1962 as novice KN1VFX and then Technician, K1VFX.  He received W1DYJ in 1966 while in college in Cambridge and holds an Amateur Extra Class license.  
 
 He developed diagnostic cardiac systems as an engineer and manager for Hewlett-Packard Medical in Waltham and Andover from 1969 to 1985.  From 1985 to 1993 he was the Section Manager 
-responsible for establishing the Cardiac Ultrasound R&D labís Computer Aided Design environment, the SW Testing and Quality group, and ongoing Technical Education.  Moving to HP Corporate Education in 1993, he became Agilent Technologyís manager for their global LMS (Learning Management System) when Agilent split out of HP in 1999.  From 2005 to 2012 he consulted for Avago Technologies (now Broadcom) when it split out of Agilent, serving as global manager for their corporate LMS and consulting on eLearning.  Larry holds three degrees in Electrical Engineering from MIT. 
+responsible for establishing the Cardiac Ultrasound R&D lab‚Äôs Computer Aided Design environment, the SW Testing and Quality group, and ongoing Technical Education.  Moving to HP Corporate Education in 1993, he became Agilent Technology‚Äôs manager for their global LMS (Learning Management System) when Agilent split out of HP in 1999.  From 2005 to 2012 he consulted for Avago Technologies (now Broadcom) when it split out of Agilent, serving as global manager for their corporate LMS and consulting on eLearning.  Larry holds three degrees in Electrical Engineering from MIT. 
  
 When he is not playing with antennas, he spends his time chasing DX and contesting, both in Woburn and at his second home in Maine; with his second hobby of woodworking; and with his wife Maren attending jazz and classical concerts and traveling.   He is the Net Manager and Newsletter Editor for the MMRA, a member of the YCCC, Publications Editor for FEMARA which runs the Northeast HamXposition, and a board member of the Merrymeeting ARC in Downeast Maine.
 ----------
@@ -33,17 +33,17 @@ N1DDK 	James Lee 		Director  ? 2023
 N1BE 	Bob Evans		Director  ? 2023
 ----------
 
-Presidentís Corner ~ David Hornbaker, N1DCH 
+President‚Äôs Corner ~ David Hornbaker, N1DCH 
 
 We can stay connected in a quarantined world.   Amateur radio is in a unique position to stay connected, both locally and worldwide.  In addition to the MMRA TIaOS net every Tuesday there are several other local nets that you can participate in https://ema.arrl.org/eastern-ma-nets/.
 
 If you are just getting started, you do not need the perfect antenna.  For VHF/UHF a mag mount antenna on a sheet pan will work well.  An old coat hanger and a coax connector can be made into a very inexpensive 2-meter vertical (http://w6par.org/wp-content/uploads/2018/03/CoatHangerAntenna.pdf).
 
-On HF, I have worked Europe on 20 and 40 using a homebrew 6 m Ω wave dipole and an antenna tuner, not optimum, but it works.  In the last few weeks, I have worked special event stations in Spain, Italy, Louisiana, and Texas on 20 and 40.  Again, I do not have resonant antennas, or a big amp, or sunspots, just 100 watts and a wire. Get on the air and get connected!
+On HF, I have worked Europe on 20 and 40 using a homebrew 6 m ¬Ω wave dipole and an antenna tuner, not optimum, but it works.  In the last few weeks, I have worked special event stations in Spain, Italy, Louisiana, and Texas on 20 and 40.  Again, I do not have resonant antennas, or a big amp, or sunspots, just 100 watts and a wire. Get on the air and get connected!
 
 This month's membership meeting and annual elections will be on a Zoom teleconference.  The link for the meeting is https://us02web.zoom.us/j/83007194489?pwd=ZUNxenhWOFpEL3U0T2tsUjgrSTB4dz09.  If you have not used Zoom before, I would encourage you to try it out before the meeting.  Install the client (available for Windows, Mac, Linux, iOS, and android) or connect via the web.  Then connect to the zoom test meeting https://zoom.us/test.  More information is available at www.mmra.org.
 
-Stay safe and stay connected!       73 ñ Dave ñ N1DCH
+Stay safe and stay connected!       73 ‚Äì Dave ‚Äì N1DCH
 ----------
 
 Notice:
@@ -54,10 +54,10 @@ New England Amateur Radio holding on-line VEC sessions
 
 Bob Phinney, K5TEC
 
-New England Amateur Radio Inc (NE1AR) in collaboration with New England Sci-Tech in Natick, MA, has authorization of the ARRL VEC and the FCC to administer fully online video-supervised exams. These non-profit educational organizations, founded by Bob Phinney K5TEC and Ted Reimann W1OG and managed by a board of directors, support STEM education for all ages with an emphasis on amateur radio. Bob and Ted began a series of trials on April 1 under ARRL VEC review and are now supervising a team that provides ARRL approved video-supervised test sessions almost every day of the week. They are also training other ARRL-vetted teams across the country and are working with the software developer of the exam delivery system, ExamTools.org and HamStudy.org, to help them streamline the system for video-supervised testing. At the moment only one person at a time can be tested, which limits the number of candidates and adds significant time to the VE teamís schedule. An additional time issue is how long it takes a candidate to go through the security protocol involving video-checking the candidateís work area and room, reading the protocols, getting the electronic surveillance set correctly, etc. Sometimes the setup and follow-up for an exam takes longer than the exam itself, in order to provide complete integrity of the exam session. Currently they have a backlog of several hundred who want to be tested, so the team is giving priority to candidates who need to take the AE exam before June 30.
+New England Amateur Radio Inc (NE1AR) in collaboration with New England Sci-Tech in Natick, MA, has authorization of the ARRL VEC and the FCC to administer fully online video-supervised exams. These non-profit educational organizations, founded by Bob Phinney K5TEC and Ted Reimann W1OG and managed by a board of directors, support STEM education for all ages with an emphasis on amateur radio. Bob and Ted began a series of trials on April 1 under ARRL VEC review and are now supervising a team that provides ARRL approved video-supervised test sessions almost every day of the week. They are also training other ARRL-vetted teams across the country and are working with the software developer of the exam delivery system, ExamTools.org and HamStudy.org, to help them streamline the system for video-supervised testing. At the moment only one person at a time can be tested, which limits the number of candidates and adds significant time to the VE team‚Äôs schedule. An additional time issue is how long it takes a candidate to go through the security protocol involving video-checking the candidate‚Äôs work area and room, reading the protocols, getting the electronic surveillance set correctly, etc. Sometimes the setup and follow-up for an exam takes longer than the exam itself, in order to provide complete integrity of the exam session. Currently they have a backlog of several hundred who want to be tested, so the team is giving priority to candidates who need to take the AE exam before June 30.
 ----------
 
-Treasurerís Report, May 2020 ~ Kevin Paetzold, K1KWP
+Treasurer‚Äôs Report, May 2020 ~ Kevin Paetzold, K1KWP
 
 The current MMRA fiscal year ends on May 31 of this year.  That fiscal year was known as 2019-2020.  Pretty much everything in this article is about that current fiscal year.
 
@@ -87,23 +87,23 @@ Item			Expected 	Prepaid 	Projected Totals	Actual
 			-----------	-------------	-----------		-------
 Electric (MRW)		-$0.06		$61.98		-$735.06		-$735.00
 Electric Quincy		-$3.44		$18.56		-$288.44		-$285.00
-DSL Extreme (MRW ISP)	-$28.82	†			-$334.65		-$305.83
-Tello			-$5.00	†			-$193.61		-$188.61
-MRE rent		-$300.00	†		-$150.00		$0.00
-new website for 2019	†	†			-$50.00			-$50.00
-ARRL Insurance	†	†				-$61.36			-$200.00
-Corporation Fees	†	†			-$18.50			-$18.50
-Shipping/postage/PO BOX	†	†			-$207.92		-$207.92
-boxboro brochure ñ for2019	†	†		-$250.00		-$250.00
-Meetings		-$25.00	†			-$115.93		-$90.93
-Burlington 220 control 	-$78.85	†			-$700.00		-$621.15
-Mendon control stuff	-$78.85	†			-$700.00		-$621.15
-mrw antenna project	†	†			-$1320.00		-$1320.00
-Boxboro stuff and Prizes	†	†	†	†
-Bank Fees/checks	$0.00	†			$0.00			$0.00
+DSL Extreme (MRW ISP)	-$28.82	¬†			-$334.65		-$305.83
+Tello			-$5.00	¬†			-$193.61		-$188.61
+MRE rent		-$300.00	¬†		-$150.00		$0.00
+new website for 2019	¬†	¬†			-$50.00			-$50.00
+ARRL Insurance	¬†	¬†				-$61.36			-$200.00
+Corporation Fees	¬†	¬†			-$18.50			-$18.50
+Shipping/postage/PO BOX	¬†	¬†			-$207.92		-$207.92
+boxboro brochure ‚Äì for2019	¬†	¬†		-$250.00		-$250.00
+Meetings		-$25.00	¬†			-$115.93		-$90.93
+Burlington 220 control 	-$78.85	¬†			-$700.00		-$621.15
+Mendon control stuff	-$78.85	¬†			-$700.00		-$621.15
+mrw antenna project	¬†	¬†			-$1320.00		-$1320.00
+Boxboro stuff and Prizes	¬†	¬†	¬†	¬†
+Bank Fees/checks	$0.00	¬†			$0.00			$0.00
 Improvements (other than MEN/BUR)
-			$0.00	†			-$1711.14		-$1711.14
-Maintenance	†	†				-$821.94		-$821.94
+			$0.00	¬†			-$1711.14		-$1711.14
+Maintenance	¬†	¬†				-$821.94		-$821.94
 			-----------	-------------	-----------		-------
 totals			-$520.02	$80.54		-$7658.55		-$7427.17
 
@@ -120,7 +120,7 @@ On behalf of the club I would like to thank people below who donated since my li
 
 N1UPY	W1NPE	K1MPS
 
-Detailed financial information is presented at almost every business meeting.  These meetings generally occur in the months which do not have general membership meetings.  They are announced on the www.mmra.org website.  All members are invited and encouraged to attend these meetings.  Of course much more than finances are discussed at these meetings including repeater status, repeater decisions, planning, etcÖ.
+Detailed financial information is presented at almost every business meeting.  These meetings generally occur in the months which do not have general membership meetings.  They are announced on the www.mmra.org website.  All members are invited and encouraged to attend these meetings.  Of course much more than finances are discussed at these meetings including repeater status, repeater decisions, planning, etc‚Ä¶.
 
 73,  K1KWP
 ----------
@@ -133,7 +133,7 @@ Most of the time, Marlborough Hub1 (449.495) is linked to the following repeater
 
 Try one of the non-linked repeaters too. There are Hams monitoring them as well. For more information on the repeater network and how it is linked at various times, check out https://mmra.org/repeaters/repeater_linking.html.
 
-73 ñ Dave ñ N1DCH
+73 ‚Äì Dave ‚Äì N1DCH
 ----------
 
 15 April 2020 Business Meeting Minutes
@@ -152,7 +152,7 @@ APPROVED 11-1
 
 New Business
 	Given the current COVID-19 climate, what teleconference application should we use?
-Tonightís application: ZOOM Pro
+Tonight‚Äôs application: ZOOM Pro
 	$14.99/month (credit card or PayPal)
 	Ability to save recordings locally
 	Windows, Mac, Linux, iOS, Android clients
@@ -183,12 +183,12 @@ Linking repeaters during severe weather
 	Kevin (K1KWP) agreed to approach Rob to offer MMRA assistance in whatever way made sense
 
 HamXposition November 2020
-	Postponed to November ñ will postpone discussion until October
+	Postponed to November ‚Äì will postpone discussion until October
 
 MMRA Network Status
 The following sites have their replacement equipment ready for install but, progress is stalled due to the COVID situation:
-	Belmont: New link radio and antenna >> in K1IWís garage
-	Mendon: Controller Upgrade 	>> in K1IWís garage
+	Belmont: New link radio and antenna >> in K1IW‚Äôs garage
+	Mendon: Controller Upgrade 	>> in K1IW‚Äôs garage
 	Burlington: Replacement RX Crystal 	>> KC1US has it, waiting to get into Lahey Hospital
 The following sites require an OS upgrade:
 	BOS (927.0625)			>> Done by the time the meeting started
@@ -202,17 +202,17 @@ There was much discussion about the future of our OS upgrades at our repeater si
 	All other sites are Raspbian 8
 	Centos 7 & Raspbian 8 are still supported
 	Latest OS is Raspbian 10
-		With Raspbian, you have to update one version at a time (separate steps).  Each step takes 100ís of MBs.
+		With Raspbian, you have to update one version at a time (separate steps).  Each step takes 100‚Äôs of MBs.
 	We would have to have Tello service on our 5 Freedompop lines in order to do upgrade.
-	Also risk breaking something when done remotely ñ then a site visit is necessary
+	Also risk breaking something when done remotely ‚Äì then a site visit is necessary
 After much discussion, the consensus was that replacing the micro SD cards (with new, updated images) made the most sense.  This will be easy except at the Quincy site which is difficult to access.  Issues about using any OS other than Raspbian 10 were mentioned.  
 
 Upcoming Meetings
-	May ñ W1DYJ Antenna Modeling ñ ZOOM Teleconference
-	June ñ Business Meeting -- Marlborough Central Fire Station if allowed
-	September ñ Paul - W1SEX  Oscilloscope presentation -- Leominster EMA If allowed
-	November ñ MMRA information session and drawing at HamXposition
-	November ñ Jeremy - KB1REQ -- Mobile (motor vehicle) radio installations -- New England Sci-Tech
+	May ‚Äì W1DYJ Antenna Modeling ‚Äì ZOOM Teleconference
+	June ‚Äì Business Meeting -- Marlborough Central Fire Station if allowed
+	September ‚Äì Paul - W1SEX  Oscilloscope presentation -- Leominster EMA If allowed
+	November ‚Äì MMRA information session and drawing at HamXposition
+	November ‚Äì Jeremy - KB1REQ -- Mobile (motor vehicle) radio installations -- New England Sci-Tech
 Newsletter
 
 	Information to Larry, W1DYJ by Friday, 24 April (Larryb@alum.mit.edu)
@@ -223,26 +223,26 @@ Submitted by Larry Banks, W1DYJ, Clerk pro-tem
 
 Share a Shack!
 
-Editorís Note: Welcome to the first in a new MMRA Feature Series:  sharing a memberís ham shack.  With the current COVID situation many of us are becoming used to ZOOMing rather than meeting in person.  Seeing various shacks in the video backgrounds made me curious.  If you have a shack you are willing to share, let me know.  Complex shack or simple, fixed or mobile, new ham or oldie like me, Iím sure that we are all curious about otherís shacks.  And this will give us all a way to steal ideas from each other ó a basic premise of Ham Radio.  The feature will appear based on your input!   Larry, W1DYJ
+Editor‚Äôs Note: Welcome to the first in a new MMRA Feature Series:  sharing a member‚Äôs ham shack.  With the current COVID situation many of us are becoming used to ZOOMing rather than meeting in person.  Seeing various shacks in the video backgrounds made me curious.  If you have a shack you are willing to share, let me know.  Complex shack or simple, fixed or mobile, new ham or oldie like me, I‚Äôm sure that we are all curious about other‚Äôs shacks.  And this will give us all a way to steal ideas from each other ‚Äî a basic premise of Ham Radio.  The feature will appear based on your input!   Larry, W1DYJ
 
-Bryan, W1BRI, the MMRAís Technical Officer Emeritus (and still very involved in keeping all of our stuff operating) and currently a repeater trustee, graciously agreed to be the first to do so.  
+Bryan, W1BRI, the MMRA‚Äôs Technical Officer Emeritus (and still very involved in keeping all of our stuff operating) and currently a repeater trustee, graciously agreed to be the first to do so.  
 
 PHOTO - My Computer Desk
 and HT collection
 PHOTO - The Milford UHF Repeater /    6 Meter Remote Base /    Echolink / APRS Station
 PHOTO - My bedside ham radio / scanner console.
-PHOTO - Scanner VGA mini projector setup on top of light as a stand to project ProScan application running on Asus net book onto wall above TV. This is so I donít have to keep turning my head every time towards the scanner to see what is being received.
+PHOTO - Scanner VGA mini projector setup on top of light as a stand to project ProScan application running on Asus net book onto wall above TV. This is so I don‚Äôt have to keep turning my head every time towards the scanner to see what is being received.
 PHOTo - Repeater backup battery, chargers and 1500VA UPS to keep Liva mini PC, Asus netbook and scanners running for 3 hours upon AC power loss. Also have another big battery on piece of wood with furniture sliders and DieHard 750W invertor that I pull around on the rug to have AC power where I might want it during a blackout. Astron supply is for running my Icom 706 MII G.
 
-Bryan will be happy to tell you what all of the detailed stuff is ó just ask him!
-(Bryan also has 8 WiFi switches in many places so he can say ìAlexaî turn on/off projector etc.)
+Bryan will be happy to tell you what all of the detailed stuff is ‚Äî just ask him!
+(Bryan also has 8 WiFi switches in many places so he can say ‚ÄúAlexa‚Äù turn on/off projector etc.)
 ----------
 
 Upcoming MMRA Meetings
 Note: Meeting locations and times are subject to change.
 
 Consult the MMRA website for the most up-to-date information. 
-Teleconference numbers will be available one week before a business meetingóif you wish to attend, email contact@mmra.org.
+Teleconference numbers will be available one week before a business meeting‚Äîif you wish to attend, email contact@mmra.org.
 
 Wednesday, 20 May ~ Annual Meeting & Elections ~ 7:30 PM
 Antenna Software: TLW, YW, HFTA , EZNEC     Larry Banks, W1DYJ
@@ -252,11 +252,11 @@ Wednesday, 17 June ~ Business Meeting ~ 7:30 PM
 Location: TBA
 ----------
 
-Donít Forget! Join Us.
+Don‚Äôt Forget! Join Us.
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
-The MMRAís repeaters are linked Tuesday nights for the TIOS Net.  Keep up with whatís happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what‚Äôs happening in the MMRA and ask your ham related questions.  
 Net Control Operators:
 Week 1		W1DYJ		Larry Banks	
 Week 2		WA1JIM		Jimmy Devaire	
@@ -270,7 +270,7 @@ To connect using Echolink / IRLP during the Net: echolink Conference *NEW-ENG2* 
 
 MMRA LeaderS
 
-Executive Board ó Officers
+Executive Board ‚Äî Officers
 
 President	Dave Hornbaker 	N1DCH 
 Vice President	John Spencer	WA1MDD
@@ -278,11 +278,11 @@ Secretary	Jason Peardon 	W1HFP
 Treasurer	Kevin Paetzold	K1KWP
 Clerk 		Charles Miller	KC1JUO
 
-Executive Board ó Directors
-Director  ª2020	Clark Conti	N1NVK
-Director  ª2020	James Lee	N1DDK
-Director  ª2021	Bob DeMattia	K1IW
-Director  ª2021	Roger Coulson	WA1NVC
+Executive Board ‚Äî Directors
+Director  ¬ª2020	Clark Conti	N1NVK
+Director  ¬ª2020	James Lee	N1DDK
+Director  ¬ª2021	Bob DeMattia	K1IW
+Director  ¬ª2021	Roger Coulson	WA1NVC
 
 Technical Officer	Bob DeMattia	K1IW
 
@@ -322,27 +322,27 @@ Additional, non-Voting
               * Appointed
 ----------
 
-CLUB ACTIVITIES ñ WHILE STAYING AT HOME
+CLUB ACTIVITIES ‚Äì WHILE STAYING AT HOME
 
 By Bruce Blain, K1BG, EMA Affiliated Club Coordinator (ACC)
 
-What a difference a month makes! Eastern Massachusetts affiliated clubs have responded in a number of ways to the current Covid-19 crisis.† Some have simply shut their doors until the current crisis is over, which is understandable given the circumstances. Others have chosen to follow the Marine Corps slogan: improvise, adapt, and overcome.
+What a difference a month makes! Eastern Massachusetts affiliated clubs have responded in a number of ways to the current Covid-19 crisis.¬† Some have simply shut their doors until the current crisis is over, which is understandable given the circumstances. Others have chosen to follow the Marine Corps slogan: improvise, adapt, and overcome.
 
-For some clubs, a combination of club nets, repeaters, calling frequencies, and webinars continue to be used while meetings cannot be held.† While club nets, repeaters, and calling frequencies have been used by clubs for many years, the frequency and participation has picked up as a greater focus has been placed on them.  Some clubs are taking advantage of webinar products from WebEx, GoToMeeting, Amazon Chime, and Zoom, and have conducted webinars for both regular club meetings and board meetings.
+For some clubs, a combination of club nets, repeaters, calling frequencies, and webinars continue to be used while meetings cannot be held.¬† While club nets, repeaters, and calling frequencies have been used by clubs for many years, the frequency and participation has picked up as a greater focus has been placed on them.  Some clubs are taking advantage of webinar products from WebEx, GoToMeeting, Amazon Chime, and Zoom, and have conducted webinars for both regular club meetings and board meetings.
 
 For instance:
-New England Sci-Tech recently had Mark Rudd, KC1LOM, speak regarding Titanicís ìMarconi Radioî and related broadcast history at their weekly Zoom meeting. The talk drew a crowd of over 50!
+New England Sci-Tech recently had Mark Rudd, KC1LOM, speak regarding Titanic‚Äôs ‚ÄúMarconi Radio‚Äù and related broadcast history at their weekly Zoom meeting. The talk drew a crowd of over 50!
 
-In addition to their weekly 2-meter repeater net on Tuesday and 10-meter net on Thursday, Wellesley ARA purchased a yearís subscription to Zoom Pro. I attended their webinar last week.† Turnout was heavy and there was a lot of participation by those in attendance.
+In addition to their weekly 2-meter repeater net on Tuesday and 10-meter net on Thursday, Wellesley ARA purchased a year‚Äôs subscription to Zoom Pro. I attended their webinar last week.¬† Turnout was heavy and there was a lot of participation by those in attendance.
 
-There are many benefits to holding webinars right now. Participants who live physically distant from their clubs can participate, as can those with physical limitations. A much larger variety of guest speakers are available to speak if they donít have to personally attend.† Want some great ideas for guest speakers, both during and after the Covid-19 crisis is over?† Click the ìClub Speakers Listî quicklink at https://ema.arrl.org/affiliated-clubs/.
+There are many benefits to holding webinars right now. Participants who live physically distant from their clubs can participate, as can those with physical limitations. A much larger variety of guest speakers are available to speak if they don‚Äôt have to personally attend.¬† Want some great ideas for guest speakers, both during and after the Covid-19 crisis is over?¬† Click the ‚ÄúClub Speakers List‚Äù quicklink at https://ema.arrl.org/affiliated-clubs/.
 
-While I am in no way endorsing one product or service over another, Zoom seems like a pretty popular teleconference service these days.† A free account will allow you to host a teleconference for up to 40 minutes for as many as 100 attendees. For $14.99 per month you can host a teleconference for 100 people for 24 hours. For more information, go to https://zoom.us/pricing.
+While I am in no way endorsing one product or service over another, Zoom seems like a pretty popular teleconference service these days.¬† A free account will allow you to host a teleconference for up to 40 minutes for as many as 100 attendees. For $14.99 per month you can host a teleconference for 100 people for 24 hours. For more information, go to https://zoom.us/pricing.
 
 If you are looking for ideas as to how to move your club forward during the current Covid-19 crisis, please let me know. And let us know what your plans are so that we can keep this site up to date and share your activities with as many hams in eastern Massachusetts as we can.
 
 73 de Bruce, K1BG
-[My thanks to the ARRL EMA Section Newsóed.]
+[My thanks to the ARRL EMA Section News‚Äîed.]
 ----------
 
 Contacting the MMRA

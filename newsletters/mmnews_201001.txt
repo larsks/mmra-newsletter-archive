@@ -22,11 +22,11 @@ Accredited by the ARRL VEC
 -----------------
 
 Public Service
-Bruce Pigott —  KC1US — Public Service Coordinator
+Bruce Pigott â€”  KC1US â€” Public Service Coordinator
 
 Using the repeaters of the Minuteman Repeater Association for public service was discussed in the last newsletter.  Now how do you get involved?  
 
-First, the season starts with supporting the world's oldest annual marathon — the Boston Marathon.  The MMRA home page will have a direct link to the sign up web site for hams shortly.  This year the race is on April 19, the anniversary of the Battles of Lexington and Concord with a different group of Minutemen.  Assigning hundreds of operator slots requires that planning begins early.  There are many areas available for you to work at along the course, the start or the finish.  All levels of experience are needed.  Further details and contact information will be available on the Marathon Amateur Radio Communications web site.  MMRA members are heavily involved in the operator sign up process, race day communication equipment set up and volunteer logistics.
+First, the season starts with supporting the world's oldest annual marathon â€” the Boston Marathon.  The MMRA home page will have a direct link to the sign up web site for hams shortly.  This year the race is on April 19, the anniversary of the Battles of Lexington and Concord with a different group of Minutemen.  Assigning hundreds of operator slots requires that planning begins early.  There are many areas available for you to work at along the course, the start or the finish.  All levels of experience are needed.  Further details and contact information will be available on the Marathon Amateur Radio Communications web site.  MMRA members are heavily involved in the operator sign up process, race day communication equipment set up and volunteer logistics.
 
 More opportunities will be mentioned in future months.
 
@@ -36,11 +36,11 @@ As you become more experienced, additional equipment will find its way into your
 
 -----------------
 
-President’s Corner ~ AMPLIFIERS!
+Presidentâ€™s Corner ~ AMPLIFIERS!
 
-Bob DeMattia — K1IW 
+Bob DeMattia â€” K1IW 
 
-Who would ever have guessed that the main television transmitter for Channel 5 would be end up being final amplifiers for ham radio operators' 6m stations all over the globe?  Well, that's exactly what happened!  Club member K1RJZ, as chief engineer at WCVB saw an opportunity, offered it to us, and MMRA seized it!
+Who would ever have guessed that the main television transmitter for Channel 5 would be end up being final amplifiers for ham radio operators' 6m stations all over the globe?  Well, that's exactly what happened!Â  Club member K1RJZ, as chief engineer at WCVB saw an opportunity, offered it to us, and MMRA seized it!
 
 The result, about 40 1KW solid state amps for 6m.
 
@@ -62,24 +62,24 @@ The MMRA had the pleasure of having  Lt. Col. Max Lantz present the history of 6
 Pictures:
    --- Lt. Col.
 Max Lantz
-   --- Lt. Col. Lantz with Ed Hare, W1RFI, ARRL’s Laboratory Manager, RFI Guru, and BPL expert.
+   --- Lt. Col. Lantz with Ed Hare, W1RFI, ARRLâ€™s Laboratory Manager, RFI Guru, and BPL expert.
    --- Lt. Col. Lantz with Mike
 Neilson, W1MPN, ARRL Eastern Mass.
 Section
 Manager
 
-Did You Know…
+Did You Knowâ€¦
 
 One of the discussion items that came up during the meeting is the following:
 
-No station may transmit with a transmitter power exceeding 50 W PEP on the UHF 70 cm band from an area specified in footnote US7 to §2.106 of the FCC Rules…
+No station may transmit with a transmitter power exceeding 50 W PEP on the UHF 70 cm band from an area specified in footnote US7 to Â§2.106 of the FCC Rulesâ€¦
 
-This area is within a 100 mile radius of Otis.  At least two active and long time MMRA members did not know this — your editor was one of them!
+This area is within a 100 mile radius of Otis.  At least two active and long time MMRA members did not know this â€” your editor was one of them!
 
 ----------------
 
 MMRA December Board of Directors Meeting
-Bob Evans — N1BE — Clerk
+Bob Evans â€” N1BE â€” Clerk
 
 The MMRA Board met at 7:30PM at the office of Conexant Systems in Waltham on Dec 16.  Present were KC1US, W1BRI, WA1NVC, W1DYJ, K1KWP, N1BE, K1RJZ, K1IW, N1BDA, W1MPN, W1JMC, and W3EVE.
 
@@ -105,7 +105,7 @@ The board agreed to send a letter and plaque to WCVB thanking the station for th
 
 ----------------
 
-FY ‘09-’10 Treasurer’s Report  [as of 16 December]
+FY â€˜09-â€™10 Treasurerâ€™s Report  [as of 16 December]
 Kevin Paetzold ~ K1KWP
 
 INCOME
@@ -139,14 +139,14 @@ Total			$9883
 
 ------------------------
 
-Don’t Forget!
+Donâ€™t Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
 
-The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  We need another net control!
+The MMRAâ€™s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  We need another net control!
 
-If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  â€“ we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
 
 Current Net Control Operators:
 
@@ -168,10 +168,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  »2010		Clark Conti	N1NVK
-Director  »2010		Mike Neilsen	W1MPN
-Director  »2011		Steve Schwarm	W3EVE
-Director  »2011		Roger Coulson	WA1NVC
+Director  Â»2010		Clark Conti	N1NVK
+Director  Â»2010		Mike Neilsen	W1MPN
+Director  Â»2011		Steve Schwarm	W3EVE
+Director  Â»2011		Roger Coulson	WA1NVC
 
 Repeater Trustees, Appointed
 Belmont 145.430		Larry Arone	WA1RTT
@@ -182,7 +182,7 @@ Burlington 446.775	Larry Banks	W1DYJ
 Hopkinton 223.940	Kevin Paetzold	K1KWP
 Marlboro 53.810, Quincy 146.670, Southboro 449.575
 			Bryan Cerqua	W1BRI
-Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 — all as W1MRA
+Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 â€” all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Quincy 224.400		Bill Dunn	N1KUG
@@ -209,7 +209,7 @@ Date 		Location 		Feature
   Wed, Nov 18	7 PM  Milton Library 	PAVE PAWS ~ Membership Meeting
   Wed, Dec 16	Stratus			Board Meeting
   Wed, Jan 20	7 PM, Sthboro Hse of Pizza	Membership Meeting
-* Wed, Feb 10	Chin’s Garden, Marlboro	Board Meeting
+* Wed, Feb 10	Chinâ€™s Garden, Marlboro	Board Meeting
   Wed, Mar 17	TBD			Membership Meeting
 * Wed, Apr 14	TBD			Board Meeting
   Wed, May 19	Clay Center, Brookline	Annual Meeting

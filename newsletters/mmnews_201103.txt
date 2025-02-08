@@ -11,7 +11,7 @@ Ed Perry, Founder and President of 95.9 WATD in Marshfield
 
 Milton Public Library, 476 Canton Ave, Milton
 
-Talk in ó 146.67
+Talk in ‚Äî 146.67
 
 
 WATD is one of only a few locally owned and operated FM broadcast stations in the Boston area. WATD signed on December 6, 1977 and has endured booms and busts in the economy, and a drastically changing broadcast industry. Ed will share his experiences in the broadcast industry with us, and will also take questions from the membership. Read Ed's full bio at < http://www.959watd.com/EdPerry.php >, it's pretty interesting! 
@@ -19,7 +19,7 @@ WATD is one of only a few locally owned and operated FM broadcast stations in th
 
 Directions:	 From West or South:
 Take Route 128 to route 28 N, Randolph Ave. toward Milton.
-At fourth traffic light turn left on Reedsdale Road (staying on 28N). There is a Tedeschiís on the right and a church on the left.
+At fourth traffic light turn left on Reedsdale Road (staying on 28N). There is a Tedeschi‚Äôs on the right and a church on the left.
 At next traffic light turn left onto Canton Ave.
 Library is on this corner, use the 1st driveway to turn left into parking lot. 
 
@@ -32,7 +32,7 @@ Library is on your left. Use the 1st driveway to turn left into the library park
 
 ----------------
 
-Presidentës Corner
+President‚Äòs Corner
 Bob DeMattia (K1IW)
 
 	In 1938, Congress passed the Agriculture Adjustment Act, which imposed limits on the amount of corn, cotton, and wheat that could be produced by farmers.  Each year, a farmer was given an allotment which he was not allowed to exceed.  In 1941, Roscoe Filburn, a farmer in Southwest Ohio was given an allotment of 11.1 acres. Despite this, he planted 23 acres.  When the crops were harvested, Mr. Filburn sold 11.1 acres into the market, but kept the remaining wheat for use on his own property for his farm animals and his family to consume.  The secretary of agriculture fined him $117.11.  Mr. Filburn sued the federal government and the case made its way all the way to the U.S. Supreme Court.  Filburn had argued that since the excess wheat had not been used across state lines that the federal government had no authority over the matter.  The Supreme Court disagreed and upheld the fine.  They stated that although the wheat itself was not brought across state lines, it still reduced demand as Mr. Filburn would have otherwise had to engage in interstate commerce to purchase the wheat had he not grown some himself.  
@@ -57,7 +57,7 @@ This is the first article documenting the repair of an old Mastr II repeater and
 	-- Change the frequency from 147.15/147.75 to 144.56/145.16
 	-- Replace the receiver crystal filters with narrow band filters.
 	-- Repair the defective PA section.
-	-- Figure out where/how to interface the ëNot Quite So Mini-Hot Spotí (or NQSMHS), which is essentially a modem for the D-Star controller, to the Mastr II.
+	-- Figure out where/how to interface the ‚ÄòNot Quite So Mini-Hot Spot‚Äô (or NQSMHS), which is essentially a modem for the D-Star controller, to the Mastr II.
 	-- Fabricate cables and connectors as needed to interface the various components.
 	
 The first two items required ICOMs set to the desired frequencies and crystal filters which Bob (K1IW) obtained. The remaining items caused me to spend a fair amount of time researching the various components of the repeater on line. I found the repeater builder web site (http://www.repeater-builder.com/rbtip/) among others to be quite useful.
@@ -70,7 +70,7 @@ Program the S-Com controller.
 	-- Test, tune, etc.
 
 
-Once of my goals was to minimize the modifications to the repeater. The idea is to make it as easy as possible for someone else that might have to work on the unit to understand whatís going on. This turns out to be relatively easy as the receiver already has discriminator audio coming out to the controller backplane and the second generation (ours is first gen) of the exciter board has provisions for feeding in a digital modulation signal after the audio processing section with the necessary chassis wiring changes already mapped out.
+Once of my goals was to minimize the modifications to the repeater. The idea is to make it as easy as possible for someone else that might have to work on the unit to understand what‚Äôs going on. This turns out to be relatively easy as the receiver already has discriminator audio coming out to the controller backplane and the second generation (ours is first gen) of the exciter board has provisions for feeding in a digital modulation signal after the audio processing section with the necessary chassis wiring changes already mapped out.
 
 The first pictures show the radio and associated components as I received them.  The main chassis and front door components were all intact and in very good condition.
 
@@ -83,13 +83,13 @@ When I put the boards back in the receiver and powered it up, it worked as adver
 This first picture shows the mixer / IF board installed in the radio with the existing filters.
 The picture to the right is of the mixer / IF board with the new filters installed.
 
-The final picture is the IFAS board with the new crystal filters (3) installed. There was a capacitor that needed to be changed on this board as well. Itís the little yellow one next to the 15K 5% carbon resistor on the left side of the picture. 
+The final picture is the IFAS board with the new crystal filters (3) installed. There was a capacitor that needed to be changed on this board as well. It‚Äôs the little yellow one next to the 15K 5% carbon resistor on the left side of the picture. 
 
 Next issue: the transmitter.
 -----------------
 
 MMRA February Board of Directors Meeting
-Bob Evans ó N1BE ó Clerk
+Bob Evans ‚Äî N1BE ‚Äî Clerk
 
 MMRA Board meeting minutes by N1BE.
 
@@ -130,7 +130,7 @@ Boston Marathon
 Marathon Amateur Radio Communications is seeking amateur radio volunteers for the Boston Marathon on April 18. People are needed at stations all along the route! For more information or to volunteer, visit http://marc.mmra.org
 ---------------------------
 
-2010ó2011 Membership Meetings
+2010‚Äî2011 Membership Meetings
 
 16 March Meeting 
 Milton Public Library ~ 7:00 PM
@@ -147,14 +147,14 @@ Wed, Apr 20	No meeting in April
 Wed, Jun 15	Kennedy's Pub, Marlboro
 --------------------------
 
-Donít Forget!
+Don‚Äôt Forget!
 Every Tuesday @ 8 PM
 Technical, Informational and Other Stuff Net
 
 
-The MMRAís repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+The MMRA‚Äôs repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
 
-We need another net control!  If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ñ we have a script you can use.  
+We need another net control!  If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  ‚Äì we have a script you can use.  
 
 Current Net Control Operators:
 Week 1	WA1JIM		Jimmy Devaire	
@@ -165,7 +165,7 @@ Week 5 	W1DYJ		Larry Banks
 
 To connect using the digital modes during the Net, use the New England Reflector:
 	For IRLP use node 9127
-	For Echolink, connect via *NEW-ENG*.  You can find this under ìNode Typesî >> ìConferencesî
+	For Echolink, connect via *NEW-ENG*.  You can find this under ‚ÄúNode Types‚Äù >> ‚ÄúConferences‚Äù
 --------------------------
 
 MMRA Leaders
@@ -178,10 +178,10 @@ Clerk			Bob Evans	N1BE
 Technical Officer	Bryan Cerqua	W1BRI
 
 Board of Directors
-Director  ª2011		Steve Schwarm	W3EVE
-Director  ª2011		Roger Coulson	WA1NVC
-Director  ª2012		Clark Conti	N1NVK
-Director  ª2012		Mike Neilsen	W1MPN
+Director  ¬ª2011		Steve Schwarm	W3EVE
+Director  ¬ª2011		Roger Coulson	WA1NVC
+Director  ¬ª2012		Clark Conti	N1NVK
+Director  ¬ª2012		Mike Neilsen	W1MPN
 
 Repeater Trustees, Appointed
 Belmont 145.430		Larry Arone	WA1RTT
@@ -192,7 +192,7 @@ Burlington 446.775	Larry Banks	W1DYJ
 Hopkinton 223.940	Kevin Paetzold	K1KWP
 Lowell 442.250		Vince De La Flor K1LVF
 Marlboro 53.810, Quincy 146.670, Southboro 449.575		Bryan Cerqua	W1BRI
-Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 ó all as W1MRA
+Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 ‚Äî all as W1MRA
 			Bill Northup	N1QPR
 Mendon 146.610		Jim Podsiadlo	AE1C
 Quincy 224.400		Bill Dunn	N1KUG
