@@ -1,0 +1,394 @@
+The Minuteman
+
+Volume 51    Number 4   March2022
+
+The Minuteman Repeater Association is a non-profit organization providing communications infrastructure and volunteers for community and emergency events.
+----------
+Membership Meeting ~ Wednesday, 16 March 2022 ~ 7:30—9:30 pm
+Grounding and Bonding ~ Tim Duffy ~ K3LR via ZOOM
+
+This is a Hybrid meeting: New England SciTech + ZOOM
+Members: log into your account on MMRA.ORG to obtain the ZOOM info.
+Non-members: send an email to contact@mmra to request the ZOOM info.
+
+Tim  will discuss the science behind grounding and bonding your station, and show examples of what not to do.  He also shows examples of proper installations and the how they are put together.
+
+Tim has been an active amateur radio operator for 48 years – starting as WN3SZX in 1972.  He has hosted 145 different operators from around the world as part of the K3LR Multi operator radio sport contest efforts since 1992. Tim has built a 13 tower station with 11 operating positions. He was the ARRL Atlantic Division Technical Achievement award winner in 1998.  Tim has been the moderator of the Hamvention Antenna forum for 35 years. K3LR serves as chairman of Contest University (14 years), the Dayton Contest Dinner (28 years), chairman of the Top Band Dinner – as well as coordinator of the Contest Super Suite (35 years) in Dayton during the yearly Hamvention.  He is founder and moderator of the popular RFI Reflector (RFI@contesting.com) since 1999.  Tim serves on the board of directors of the World Wide Radio Operators Foundation (WWROF) as Chairman and is President Emeritus of the Radio Club of America (RCA).  Tim is multiyear President of the Mercer County Amateur Radio Club (W3LIF).  K3LR serves as a Director on the ARRL Foundation board. Tim was elected to the CQ Contest Hall of Fame in 2006.  He was honored with the prestigious Barry Goldwater Amateur Radio service award by the RCA in 2010. Tim was honored in 2016 with the YASME Excellence award.  K3LR was also honored as Hamvention Amateur of the Year in 2015 by the Dayton Amateur Radio Association. Tim is the Chief Executive Officer of DX Engineering. He is a graduate of the Pennsylvania State University.
+----------
+
+Membership Votes!
+Per the MMRA bylaws, this is an official notice that we will be holding two votes at our 
+Membership Meeting:
+
+-- $1200 for a new DB224 antenna for our inherited Billerica repeater
+-- $600 for an additional 7330 repeater 
+controller to be used as a backup/spare
+----------
+
+President’s Corner ~ David Hornbaker, N1DCH 
+
+In person: Everyone is invited to attend in person this month’s membership meeting at New England 
+Sci-Tech in Natick.   Meetings are a great place to meet and greet your fellow hams and to welcome our new members.  Bring a friend, you do not have to be a member to attend.
+
+All MMRA meetings are also available via Zoom.  The Zoom code is always available to members on http://www.mmra.org.  If you need assistance getting connected, check out the Page 10 or contact us at contact@mmra.org.  If you are not a member, you can request the meeting code via email at  contact@mmra.org.
+
+Guest Speaker:  Tim Duffy – K3LR, CEO of DX Engineering,  will be speaking (via Zoom) on Grounding and Bonding.  Proper Grounding and Bonding is critical to your station’s performance as well as safety and lightning protection.
+
+Congratulations:  Howard Shpegel – AC1MN, who went from no license to Amateur Extra, at the 
+February VE exam session, which was held during The Algonquin Radio Club Flea Market.
+
+VE Exams:  The March VE Session will be held on Saturday March 19 at 9:00 AM, at Marlborough Central Fire Station, 215 Maple Street, Marlborough, MA 01752.  Directions     Walk-ins are welcome.  Please 
+remember to bring a State ID, your FRN, and if upgrading, an Official copy of your current license.  For more information, contact Ron – WO1E at ve@mmra.org or wo1e@mmra.org.
+
+MMRA Elections:  Elections of the MMRA officers and board members will take place during the May Membership Meeting.  Currently, the MMRA is missing one officer (Clerk).  We would like to have a full slate of officers next year.  If interested, members should email the board at contact@mmra.org.
+
+The long-term viability of the organization depends on members serving in these important officer roles.
+
+Membership renewal:  All MMRA memberships expire on August 31.  Please check your profile and if your membership expired in 2021, please renew.  Renewals may be done on the website, or you can mail your renewal to Minuteman Repeater Association, PO Box 669, Stow, MA 01775-0669.  Please allow 7 days for us to process your renewal. Please allow 14 days for renewals that are mailed.  While you're on the website (https://www.mmra.org) checking your expiration date, please verify your email address. We have had several email bounces recently.
+
+Tuesday Net:  Join us Tuesday nights at 8:00 PM for our weekly Technical Information and Other Stuff (TIaOS) net.  There will be a lively discussion on all sorts of HAM issues, including equipment, antennas, software, repeaters, and other stuff.  The main purpose is to test our ability to link up the repeaters in case of an emergency or, to support some event like a marathon.   You can also join via EchoLink, if your radio is a little under the weather.  See below for more information.
+
+You can find out more information about how and when the repeaters are linked on the website (https://www.mmra.org/repeaters/repeater_linking.html).
+----------
+
+Public Service Report ~ Bruce Pigott, KC1US
+
+First, I want to thank those MMRA members who volunteered at events last year that other clubs needed assistance for.  Members volunteered at the Massachusetts State Triathlon, Blackburn Challenge, Cystic Fibrosis Cycle for Life, Ride to Defeat ALS, Head of the Charles Regatta and YuKan Half Marathons plus other Public Service activities.  The event organizers really appreciate our communications capabilities.
+
+Hams using the Association's repeaters in 2021 supported the National Multiple Sclerosis Society, Cystic Fibrosis Foundation and ALS Association.  Eight systems were used in custom configurations for runner safety at the Boston Marathon.  HamXposition had linked Marlboro repeaters used for talk in.
+
+Our repeaters are used on a scheduled basis by other groups including the Heavy Hitters Traffic Net, which expanded to six nights a week.  Eastern Massachusetts section Amateur Radio Emergency Service continues with their nets on the first non holiday Monday of the month.  Repeaters in North Reading and Mendon are R.A.C.E.S. affiliated and used monthly.
+
+On the MMRA Public Service Info web page, is a calendar which shows when repeaters will be used for events plus additional details.  Stay tuned for events happening in the spring, with communications being coordinated by the MMRA, that will need your help.
+----------
+
+VE Report ~ Ron Rothman, WO1E
+
+The MMRA VE team held it’s February VE session as part of The Algonquin Radio Club Flea Market on February 19, 2022.  A total of 10 VE’s were on site for 3 plus hours administrating tests.  7 candidates took tests and 5 of them left with an upgrade or a new license.
+
+One candidate in particular, Howard Shpegel, ran the table.    Howard passed the Technician, General and Extra exams in one sitting.  This is a rare occurrence indeed.  Howard told me that he has wanted to become a ham for over 50 years.  Well, I guess he become one in style!
+
+Thanks to everyone who helped.  The session was a big success
+
+Photo: Joe Reynolds, KA1GDQ, Algonquin Activities Chair;  Ron Rothman, WO1E, MMRA VE Liaison; Howard Shpegel, AC1MN;
+Dave Hornbaker, N1DCH. MMRA President
+----------
+
+17 January 2022 Membership Meeting
+
+Rob Macedo, KD1CY, presented his  two-hour training/retraining SKYWARN session.  One of the largest meetings we have had in a while, with 34 participants, this was well received and enjoyed.  
+
+If you wish to renew your SKYWARN certification, or just wish to view this presentation on-line, go to the WX1BOX site: < http://wx1box.org/ > and click onSKYWARN
+Training Resources .
+
+No MMRA business was done at the meeting.
+
+Submitted by W1DYJ
+----------
+
+Come activate W1BSA at the Milton Klondike Derby on March 12! 
+Tom Ulrich ~ KC1OCY
+
+Operating outside can be a fun challenge, and a way to bring new people into the hobby by showing the variety of ways that one can "do radio". In that spirit, the Scouts BSA Great Blue Hill District would like to invite a few hams to hold an amateur radio demonstration during their Klondike Derby event at 
+New England Base Camp in Milton on March 12, 2022.
+
+The base camp is in the Blue Hills State Reserve (K-8402); as such this event could count as a POTA 
+activation. We will be operating under the special event callsign W1BSA. (Thank you to Pi K1RV for use of the callsign.)
+
+If you're interested in participating, please fill out this sign up sheet: (https://forms.gle/4ohXtNVLrM8JdUFr6), including whether you'd like to attend and operate in person or monitor the airwaves for calls from the event. Details are still being worked out with the derby 
+organizers, including the number of operators that they'd like to have attend; please don't be offended if in the end we have more hams interested than can be hosted.
+
+If you have questions, contact Tom KC1OC: (thomas.rm.ulrich@gmail.com). 
+----------
+
+The Two Twenty Two Tail — Larry Banks, W1DYJ
+
+A number of months ago the MMRA membership voted to upgrade our four 220 repeaters to more 
+modern MX800s from Spectra Engineering of Australia.  Our 220 repeaters were old, all different, and starting to fail at a fairly high rate.  MX800s are known to be robust.  Having identical and more modern rigs would increase our reliability, and would simplify maintenance as they would all be the same.  Our MX800 expert, Roger, WA1NVC, with help from Bryan, W1BRI, did the extensive conversion to these circa 2003 repeaters, which had been in 217 MHz service, to the 220 band.
+
+As the Burlington 224.88 machine is “line-of-site” to my home in Woburn, I like to use it for the nets, so I had a particular interest in this project.  The old Burlington repeater at Lahey Clinic was also off-the air.  Last September Bruce, KC1US and 
+Bob, K1IW, installed the first MX800 in Burlington.
+
+A few months later we noticed that the repeater was dropping out after a few 
+minutes of transmitting.  It appeared to be a heat issue, but what?   Bob, and Roger did what they could to remotely diagnosis the problems.  Roger set up another MX800 and burned it in, and Bob swapped it.  The Burlington failure was (drum roll) the fan circuit failing due to an electrolytic cap failure in the fan circuit, taking out the fan drive transistor as well. 
+
+In December the Weston 224.70 site was upgraded.  In January the 220 rig there stopped transmitting.  Was there a connection?   Yup: a cap failed there too, in this case taking out the PCB power trace to the VCOs.
+   Bob and Roger decided to recap the power supply caps all four rigs.   Electrolytic caps can go bad with time if not used.  Lesson learned.
+
+Many thanks to Roger, Bob, and Bryan for all of this great work
+----------
+
+16 February 2022 Business Meeting — Minutes
+
+Brought to order by President Dave, N1DCH, at 7:32 pm at New England SciTech.
+
+
+Present: Dave, N1DCH; Jason, W1HFP; Bob, K1IW
+
+Via ZOOM: Roger, WA1NVC; Steven, KC1LPZ; John, WA1MDD; Larry, W1DYJ; Kevin, K1KWP; Bruce, KC1US; Steve, K8ZBE; Bryan, W1BRI; Rob, N1BE
+
+
+Agenda
+
+After introductions, Dave, N1DCH, expressed thanks to K5TEC and New England SciTech for once again hosting our business meeting.
+
+
+Repeater Status – Bob, K1IW
+
+Billerica 147.12
+   Repeater is built but needs final audio leveling
+   The 2m antenna is an old DB224 tuned for 152 MHz
+      It needs to be converted to 147 MHz.
+         Difficult to do
+         This will always be suspect on site
+      Suggested that we purchase a new DB224
+         Motion to recommend to the membership the purchase of a DB224 for
+Billerica, not to exceed $800
+         Made by W1DYJ / Seconded by W1HFP
+         Voted YES unanimously
+      The membership vote will be at the March meeting and will be
+highlighted in the Newsletter as the bylaws require
+      After the meeting the shipping cost of this antenna was discovered to be higher than expected.  A motion was made, seconded, and voted to raise this amount to $1200
+
+Burlington 224.88
+   The failing MX800 will (hopefully) be swapped out tomorrow
+         Editors note: this did happen on Thursday
+         Diagnosis: failed cap in fan power circuit, no fan created heat problem
+         Solution: replaced cap and blown transistor – issue appears to be gone
+
+Weston 224.70
+   The MX800 will (hopefully) be reinstalled tomorrow
+         Editors note: this did happen on Thursday
+
+Marlborough West 223.94
+   The repaired MX800 from Burlington will be installed here
+
+Quincy 146.67/224.40
+   2m is ready; 220 needs cap upgrade
+   Work to be done when the snow melts
+
+Marlborough East 53.81
+   Bryan, W1BRI, has resolved issues with exciter
+   We won’t know if transmitter power issue is resolved until we try
+   Bryan will try to replace the unit soon
+   Editor’s Note: Brian made this happen on 5 March: 6M IS back!
+
+MRE Tree Work
+   We have a quote for $1345
+      Motion to make this happen, not to exceed $1500
+      Made by K1KWP / Seconded by N1DCH
+      Voted YES unanimously
+   This money will come out of the maintenance budget
+
+Spare 7330
+   Bob, K1IW, uses his personal 7330 controller when testing/repairing our repeaters
+      Bob would like to be able to use this for his own purposes
+      Bob “suggested” that the club purchase a “spare” to be mated with the club’s
+“spare” DR-1X Fusion repeater for use as a club backup
+   Motion to recommend to the membership the purchase a 7330, not to exceed $600
+      Made by K1KWP / Seconded by W1HFP
+      Voted YES unanimously
+      The membership vote will be at the March meeting and will be highlighted in the
+Newsletter as the bylaws require
+
+Treasurer’s Report – Kevin, K1KWP
+   Kevin gave his normal excellent report, with many graphs
+   We are at a “all time high” membership, as far as Kevin can remember
+   Kevin noted that Bob, K1IW, sold our decommissioned 7K controllers for $2200
+
+Other Business
+   We will have a table at the Algonquin Flea this Saturday, the 19th
+
+The meeting than went into Executive Session for a brief discussion
+
+Newsletter
+Deadline: Friday, 25 February
+Email W1DYJ@mmra.org or newsletter@mmra.org
+
+Meeting adjourned at 8:25.
+ 
+Submitted by W1DYJ
+----------
+
+The MMRA needs a Clerk!
+And other election related stuff ~ Larry Banks, W1DYJ
+
+You may have noticed that the minutes of our MMRA meetings have recently been submitted by your newsletter editor — me.  Why?  Because one of our five corporate offices is vacant, that of Clerk.   Why do we need one?  First, our bylaws require it.  Second, having your newsletter editor generate the minutes gives too much power to one person — the power of the pen.  Third, having a ninth set of eyes and brain on the Executive Board is important to the functioning of the club.  (The Executive Board consists of the President, V.P., Treasurer, Secretary, Clerk, and the four directors, all elected by the membership.)
+
+What does the Clerk do?  From the bylaws:
+Clerk: To serve as a director of the Corporation; to maintain accurate records of all meetings of the Board; to record and preserve all minutes of the meetings of the membership; to cause to be filed with the Secretary of State and other proper authorities all documents required thereby and in conformity with the statutes of the Commonwealth. 
+
+What does this actually mean.  Dissected by clause: 1) as director you will be discussing and voting on all business before the board; 2) & 3) maintaining, recording, and preserving records really means attending meetings, taking notes, writing up draft minutes, sending them out to the board for approval, and working with the newsletter editor (again, me) to have them published (they are preserved on our web site); and 4) once a year the Clerk uploads the results of our election to the state and lists the officers and their addresses. 
+
+Are You Qualified?
+If you are interested in the workings of a club like ours, have some flair for writing, want to learn more about our repeater system, wish to get to know the club members more, and have the time to attend meetings, you are qualified!   The benefits of this job are like any voluntary position: more knowledge, fun, camaraderie, and a sense of giving back to ham radio and public service.
+
+What does it pay?
+As it is an  elected position, you receive twice as much as the appointed newsletter editor:  2 x $0 = $0
+
+What is the election process?
+The Clerk is elected by the membership at the annual meeting in May.  You may nominate yourself, but this must be done by 15 April.  To do this, you must inform the Secretary, Jason—W1HFP, although 
+letting our President, Dave—N1DCH, know as well is probably a good thing to do.  
+
+Solicitation!
+Think about this!  If you are interested, feel free to ask anyone on the Executive Board for more 
+information.  I will also be happy to answer any questions you might have.  
+
+The long-term viability of the organization depends on members serving in these 
+important officer roles.
+
+73 — Larry — W1DYJ
+
+MMRA Newsletter Editor and Board of Directors member
+----------
+
+Upcoming MMRA Meetings
+
+Note: Meeting locations and times are subject to change.
+
+Consult the MMRA website for the most up-to-date information. 
+ZOOM Teleconference login info is available
+once you log into your account on MMRA.ORG
+Non-members: if you wish to attend, email contact@mmra.org.
+
+
+Wednesday, 16 March~ Membership Meeting ~ 7:30
+Grounding and Bonding ~ K3LR 
+New England Sci-Tech, Natick + Zoom Teleconference
+
+Wednesday, 20 April – Business Meeting ~ 7:30
+New England Sci-Tech, Natick + Zoom Teleconference
+
+Wednesday, 18 May ~ Annual Membership/Elections Meeting ~ 7:30
+Amateur Radio's Emerging Role in Investigating Space Weather Within near-Earth space — Phil Erickson – W1PJE
+Location TBD + Zoom Teleconference
+
+------
+Don’t Forget! Join Us.
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.
+
+Net Control Operators:
+Week 1	W1DYJ		Larry Banks	
+Week 2	KB1OQA	Tom Turner	
+Week 3 	KC1CLA		Ed Curley
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	K1BTZ		Jonathan Traum
+	To connect using Echolink / IRLP during the Net: 
+   Echolink Conference *NEW-ENG2*
+   IRLP node 4133
+
+NOTE: we need another NC to be available as a substitute.  If you are interested, email W1DYJ@mmra.org
+
+------
+MMRA Leaders
+
+------------
+Executive Board — Officers
+President	Dave Hornbaker 	N1DCH 
+Vice President	John Spencer	WA1MDD
+Secretary	Jason Peardon 	W1HFP
+Treasurer	Kevin Paetzold	K1KWP
+Clerk 		OPEN	————
+
+Executive Board — Directors
+Director  »2023	Bob DeMattia	K1IW
+Director  »2023	Roger Coulson	WA1NVC
+Director  »2022	Rob Evans	N1BE
+Director  »2022	James Lee	N1DDK
+
+Technical Officer	Bob DeMattia	K1IW
+
+President Emeritus	Bob DeMattia	K1IW
+
+Technical Officer Emeritus  Bryan Cerqua	W1BRI
+
+Repeater Trustees
+* Belmont 145.43	Ed Curley	KC1CLA
+* Billerica 147.12	Mike Rioux	W1USN
+* Boston 146.82		John Mullaney 	K1BOS
+* Boston 927.0625	Rick Zach	K1RJZ
+* Brookline 145.16	Joyce DeMattia	K1IWW
+* Brookline Rcv 146.82	Bob Phinney	K5TEC
+* Burlington 224.88	Bruce Pigott	KC1US
+* Hopkinton 449.575	Bryan Cerqua	W1BRI
+* Marlborough 53.81	Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.39, 147.27, 223.94, 448.225, 
+     449.925, 927.70  Lowell 442.25
+	all as W1MRA	Bill Northup  	N1QPR
+* Mendon 146.61		Kevin Paetzold	K1KWP
+* N. Reading 146.715	Bruce Pigott	KC1US
+* N. Reading 446.775	Larry Banks	W1DYJ
+* Quincy 224.40		Bill Dunn	N1KUG
+* Quincy 146.67		Bryan Cerqua	W1BRI
+* Weston 146.79		Rob Evans	N1BE
+* Weston 224.70		Eddie Mulhern	N1NOM
+* Weston 442.70		Dave Hornbaker	N1DCH
+
+Additional, non-Voting
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	Bruce Pigott	KC1US
+* VEC Liaison		Ron Rothman	WO1E
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+* Social Media Coordinator  Steve Umans	K8ZBE
+
+                       * Appointed
+----------
+
+Contacting the MMRA
+
+Members: mmra@groups.io
+Note: This may take some time. 
+You must be approved by the moderator.
+
+
+Officers: contact@mmra.org
+
+Control Ops: control-ops@mmra.org
+
+www: http://www.mmra.org/
+twitter: @mmraham 
+facebook: https://www.facebook.com/mmraham
+----------
+
+MMRA VE SESSIONS
+Check out https://www.mmra.org/exam.html or email  ve@mmra.org 
+
+Ask your friends to become a member 
+Just let them know that it is not fully automated.  Although they can log into the MMRA website immediately, 
+they need to be manually processed.  This could take up to week.
+
+Previous issues of the MMRA Newsletter are available at: www.mmra.org > Newsletter Archive (on the left)
+
+If you haven't updated your MMRA profile in a while, now is the time! 
+Go to < MMRA.ORG > and log in to do so.
+----------
+
+Heavy Hitters Traffic Net
+This net is active on our repeaters Sunday through Friday evenings from 10—11 PM.
+
+The repeaters that are active are:
+2m:  Mendon (146.61), Quincy (146.67), North Reading (146.715), Boston (146.82), and
+Marlborough (147.27) 
+220: Marlborough (223.94), Quincy (224.40), Weston (224.70), and Burlington (224.88), 
+440: Lowell (442.25), North Reading (446.775), Hopkinton (449.575), and Marlborough (449.925)
+
+----------
+
+Get connected on the MMRA Repeater System ~ Dave Hornbaker N1DCH
+
+What is the best way to get connected on the MMRA repeater system?  Try announcing yourself!  Just say your call sign followed by "listening".   If you want, you can include the last 3 digits of the repeater frequency. For example, "N1DCH listening" or maybe "N1DCH listening on 925", you may very well get a response.  Try to connect by announcing yourself several times.
+
+Most of the time, Marlborough Hub1 (449.495) is linked to the following repeaters, Boston (146.820), North Reading (446.775), Mendon (146.610), Lowell (442.250), and Hopkinton (449.575).  Remember that when the repeaters are linked, you need to wait two or three seconds after you key up and before you speak. This is especially
+important on the TIaOS net on Tuesday when most of the repeaters are linked.
+
+You can also link (and delink) the repeaters yourself.  See the information you received when you became a 
+member, or check the User Control Codes once you log into the MMRA web.
+
+Try one of the non-linked repeaters too. There are Hams monitoring them as well. For more information on the repeater network and how it is linked at various times, check out https://mmra.org/repeaters/repeater_linking.html.
+----------
+END OF NEWSLETTER

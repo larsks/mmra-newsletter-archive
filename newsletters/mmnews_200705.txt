@@ -1,0 +1,405 @@
+The Minuteman
+Volume 36, Number 5
+May 2007
+
+-----------------------------
+
+Annual Meeting ~ 16 May, 7:30PM
+Astronomy Night (and General Elections)
+The Clay Center Observatory
+Ron Dantowitz, Director ~ Clay Center Observatory
+
+Ron will discuss the latest educational and research collaborations and how they help inspire students of all ages to keep up an interest in science and technology. The talk will be followed by a tour of the observatory and some of the research equipment used for planet finding.
+
+An aeronautical engineer, an astronomer, an educator, and recent winner of the Alan Shepard Technology in Education Award, Ron Dantowitz specializes in making science accessible and exciting to students of all ages. 
+
+From 1988-2000 Mr. Dantowitz was Lecturer of Astronomy at the Hayden Planetarium at the Boston Museum of Science. He has spent more than a decade developing techniques for ultra-high resolution astronomical imaging. His astronomical images have been featured in hundreds of newspapers and dozens of magazines. 
+
+In 2000 Dantowitz joined the faculty of Dexter and Southfield Schools in Brookline, Massachusetts, where he is the Director of the Clay Center Observatory. 
+
+In October 2004 Mr. Dantowitz collaborated with Burt Rutan and Scaled Composites to photograph the X-Prize launches of SpaceShipOne, the first commercial manned spacecraft. Ron’s telescopically tracked videos of the X-Prize flights were seen on television news by more than one billion people worldwide.
+
+In 2005 he collaborated with NASA, the US Naval Observatory, and several European space agencies to bounce a high power laser off a cube mirror placed on the International Space Station to yield some of the most detailed photos of a space satellite in orbit by a ground-based telescope. 
+
+One of Ron's current projects underway is the construction of a specialized van to house a mobile observatory and communications center that will allow students and astronomers to take their research to off-site locations. Another collaboration with the US Naval Observatory allows the Clay Center telescopes to be used for finding new planets around distant stars.
+
+The MMRA would like to thank Bob Phinney, K5TEC, for arranging this meeting.
+
+Talk in freq: 146.82  
+
+-------------------------------
+
+Directions to the MMRA Meeting
+
+We will be meeting at The Clay Center Observatory, 20 Newton Street, Brookline, MA 02445. The Clay Center information phone number is 617-454-2718 Please monitor the talk-in on 146.82 in case we must make a last-minute change of plans.
+
+From the West:
+Follow Route 9 into Brookline. At the intersection with Chestnut Hill Ave near the Brookline Reservoir turn south onto Lee Street, keeping right at merge with Clyde Street. Continue to the end at the traffic lights and get in left lane. Turn left onto Newton Street, stay in right lane, and look for red tile and stucco buildings on your right. Turn right onto St. Paul's Avenue (some maps call it Mt. Walley Ave.) (Private Way) For the Clay Center: Take 2nd right through main gate, travel up the hill, bear LEFT, over top of hill, and park on Athletic Center roof deck.
+
+From the East:
+Follow the Jamaicaway into Jamaica Plain. Follow the Jamaicaway south, keeping Jamaica Pond on your right. (Ignore the Pond Street that goes east at the pond.) When the road is split by a tree-lined park, get in the right lane and turn right at the traffic lights onto the Pond Street that heads west, up hill, and around many sharp curves. When the road straightens out look for Hopkins Road on your left. Take your next left onto St. Paul's Avenue (some maps call it Mt. Walley Ave.) (Private Way). For the Clay Center: Take 2nd right through main gate, travel up the hill, bear LEFT, over top of hill, and park on Athletic Center roof deck.
+
+From the South:
+Follow the VFW Parkway into West Roxbury. After Corey Street get in left lane. Look for signs for "Village at Chestnut Hill" and Bertucci's. Turn left onto Independence Drive, follow through lights, then straight through rotary onto Grove Street. Stay in right lane, and go straight ahead at lights by Exxon Station. You are now on Newton Street. Follow Newton Street through traffic lights at Clyde Street. Stay in right lane, and look for red tile and stucco buildings on your right. Turn right onto St. Paul's Avenue (some maps call it Mt. Walley Ave.) (Private Way). For the Clay Center: Take 2nd right through main gate, travel up the hill, bear LEFT, over top of hill, and park on Athletic Center roof deck.
+
+
+----------------------------
+
+Nominating Committee Report
+
+President		Bob DeMattia		K1IW
+Vice President		Steve Telsey		N1BDA
+Secretary		John McGovern		W1JMC
+Treasurer		Kevin Paetzold		K1KWP
+Clerk			Bob Evans		N1BE
+Director, 2007-2009	Steve Schwarm		W3EVE
+Director, 2007-2009	Roger Coulson		WA1NVC
+
+---------------------------
+
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in Eastern Massachusetts.
+
+The MMRA meets on the 3rd Wednesday of September, November, January, March, and May.  Meeting time, locations and talk-in frequency vary.  These are announced in the newsletter and on weekly nets.  Meetings are open to all interested parties.
+
+The Minuteman newsletter is mailed one week before each meeting.  Members are encouraged to submit articles.  Articles may be sent to the editor via email to newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an  open net.  The topic is “Technical Information and Other Stuff”.   Please join us.
+Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+
+Email to the club leadership should be sent to contact@mmra.org. The MMRA maintains a web site at:
+ http://www.mmra.org/
+
+An email distribution list for club members named “MMRA” has been established at:
+http://www.yahoogroups.com/
+
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is greatly appreciated.
+
+Location	MHz	PL	Call	Note
+----------------------------------------------
+Bolton	29.620	131.8	W1OJ	Affiliated, PTL (+ FTL to 448.625)
+Marlborough	53.810	71.9	W1BRI	PTL
+Norwell	145.250	77.0	AC1M	Affiliated, PTL
+Mendon	146.610	146.2	N1BHI	FTL
+Quincy	146.670	146.2	W1BRI	PTL
+Stoneham	146.715	146.2	N1NVL	PTL
+Weston	146.790	146.2	N1BE	PTL
+Brookline	146.820	146.2	K5TEC	FTL
+Brookline	146.985	88.5	W1FCC	Affiliated, PTL
+Marlborough	147.270	146.2	W1MRA	PTL
+Hopkinton	223.940	103.5	N1BHI	FTL
+Quincy	224.400	103.5	N1KUG	FTL
+Weston	224.700	103.5	N1NOM	FTL
+Marlborough	224.880	103.5	W1MRA	FTL
+Weston	442.700	88.5	N1NOM	Network Hub 2 (PTL to Hub1 or 448.625)
+Norwell	443.600	88.5	NS1N	Affiliated, PTL
+Stoneham	446.725	88.5	W1DYJ	FTL
+Princeton	448.625	88.5	W1OJ	Affiliated, PTL (+ FTL to 29.620)
+Milford	446.825	100.0	WA1QGU	Affiliated, PTL
+Brookline	447.875	136.5	K1IW	Affiliated, FTL
+Southborough	449.575	88.5	W1BRI	FTL
+Marlborough	449.925	88.5	W1MRA	Network Hub 1 (PTL to 448.625)
+				
+Marlborough	144.390	none	W1MRA	APRS Digipeater
+???		145.630	146.2	W1MRA	Fox Box
+				
+Internet 	Echolink node 94940	
+Internet 	IRLP node 4133
+
+Notes:	FTL = Full Time Linked (usually to Hub 1)
+PTL = Part Time Linked (on schedule or demand)
+Most repeaters link to the MMRA Hub 1, several can link to an alternate destination
+
+PL:	PL is required to prevent interference.  The code 750 will
+temporarily disable the MMRA PL on the 2M repeaters.
+
+Autopatch:  Only the hub had a telephone line.  Link to the hub if necessary, then bring up the autopatch using the 449.925 autopatch codes
+
+Control codes are sent to members upon receipt of dues.
+
+----------------------------------------
+
+MMRA Field Day Activity 
+To be or Not to Be
+Kevin Paetzold — K1KWP
+
+The MMRA has not had a field day activity since before I joined the club in 1998.  The MMRA has not had a picnic or any other kind of get together (other than our widely attended meetings J) since the “Mobile-A-Thon” in 2001.  
+
+Because of the length of time since a picnic and/or because of the rules change which has resulted in many people having new HF privileges there has been some discussion and consideration to having a joint club picnic and field day activity. This year field day is June 23-24.  
+
+Recently a poll was issued on the mmra@yahoogroups.com email list in order to determine if there are enough people interested to form critical mass to have such an activity this year.  You can access that poll yourself at: http://groups.yahoo.com/group/MMRA/surveys?id=2490207. So far there does seem to be a group of people who have indicated interest and it may not take many more to make this happen.  
+
+If you would be interested in helping to make this event happen please respond to the poll or send email to contact@mmra.org.
+
+There will not be another newsletter before field day weekend so be sure to monitor (although you should check in) the Tuesday night 8 PM net, or the email list, or your email for status and to determine if this is really happening.
+
+73 ~  Kevin, K1KWP
+
+--------------------------------------
+
+President’s Report
+
+Bob DeMattia, K1IW
+
+As June approaches, the MMRA is coming up on the end of its membership year. Memberships run September 1st to August 31st, but in reality, the club "winds down" for the summer. However, we are ending this year with a bang! 
+
+On June 9th, we'll be holding the ever popular Slygo Hill work party - attention needs to be paid to the structures and landscaping around the shelter. We need a few people to help out, so let me know at k1iw@mmra.org. 
+
+If shelter repair isn't your thing, a few members are interested in operating an MMRA field day this year. We haven't done this in a long time, so I hope to see it come to fruition. For it to become a reality, we will need a "critical mass" of people. If you are interested, be sure to contact Kevin, k1kwp@mmra.org, who is taking names. 
+
+Finally, I will conclude with a request that you consider renewing your membership now for next year. Renewing is easy online - just log into your account at http://www.mmra.org/access.html and check the box at the bottom of the screen. Once you're finished, you'll be all set until the Boxborough convention is 2008! Have a great summer! 
+
+Bob, K1IW
+
+-----------------------------------------
+
+The New England Amateur Radio Festival (NEAR-Fest)
+Deerfield NH ~ May 4, 5
+
+Well folks, there really will be a Deerfield this year, and if we’re careful and behave ourselves, there will be many more to come.  After years and years of managing Hosstraders, Joe, Norm, and Bob have “hung up their spurs.”  The “Hosstraders” name is being retired as well.  Welcome to The New England Amateur Radio Festival or NEAR-Fest for short.  The folks running it are Mr. Mike, W1RC; Ed, N1IWV; and me, Mike, K1TWF (also your ARRL Division Vice Director.)
+
+It’s been an interesting struggle pulling together a new event in only 8 weeks.  As of this moment, less than 2 weeks before the gate opens, there is still a long list of things to do.  Fortunately, Ed and I have had a good deal of experience helping run the Boxboro convention – I’m the Boxboro chairman and Ed is the treasurer – so we at least have some notion of what to expect.  Still, NEAR-Fest is a different beast.
+
+Speaking of differences, there are some changes in store.  Some of them may not be obvious as you attend the event, but as NEAR-Fest evolves, they will become apparent.  First, though the flea market will always be a major part of the event, I think we all realize that flea markets are not the only way to buy and sell used gear anymore.  EBay and other online mechanisms have stolen a lot of the market.  So, we need to increase the emphasis on the social aspects.  NEAR-Fest is, first and foremost, a Festival, a celebration of the Amateur Radio Service in all its aspects.  So, we’ll be emphasizing the VE exams.  We’ll be offering free admission to kids under 18 (Saturday after 9AM).  And we’ll be looking for other ways to promote the hobby.  Any ideas?  Send them along to us!
+
+Another change is that after all these years the Shriners are retiring, too.  Hosstraders collected a great deal of money for the Shriners Burns Units, and they deserve a huge round of applause for funding this good work.  We hope to continue doing good work, too, but in another direction.  NEAR-Fest is established as a not-for-profit organization.  This time around, we will be trying to gather up enough money that we can fund the October NEAR-Fest without reaching into our own pockets.  In the future, though, proceeds from the event will go to worthy Amateur Radio related charities and things that promote the hobby.  Just what these will be we don’t know yet.  Again, any suggestions?
+
+We also plan to make NEAR-Fest operation more “transparent.”  We’ll be posting our financial information on our website so everyone can see just where the money really goes.
+
+Full details are available on the official NEAR-Fest Web Site: www.near-fest.com
+
+73, Mike Raisbeck, K1TWF
+
+-----------------------------------------
+
+Repeater Update
+Bob DeMattia, K1IW
+
+The gremlins have been busy at the MMRA repeater sites this spring. Several technical snafus have kept repeaters down or links not working. The technical crew is a bit overloaded, but they're making progress. 
+
+146.610 - no TX PL - Continues to run without TX PL. It is receiving the same kind of interference as the Quincy site (see next paragraph). '61 also needs it's link radio reconfigured so that it can operate on HUB2. 
+
+146.670 - no TX PL - Intermittent interference on the repeater input is overloading the repeater controller. A quick fix was to disable the PL on the transmitter output, but the interference source will need to be located. 
+
+Update: Antenna work on 29 April moved the DB224 antenna to the top of the tower.  Early indications are that it can be heard with maybe 20 dB more signal. We hope it will also help the interference problem.
+
+146.715 / 446.725 - Fully Operational! - The Astron power supply that powers the 446.725 repeater and the link radio used for both Stoneham repeaters gave way sometime after the Boston Marathon, as it became a 0V supply. A quick repair of a broken wire brought voltage back up to 13.8V, but as soon as a load was applied to the supply, the voltage dropped to 8V and smoke started coming out of it. Steve, N1BDA, provided a loaner power supply and Stoneham is back on the air. 
+
+146.790 - Can't Link to Hub 2 - an additional antenna needs to be installed at the Weston site before linking capability can be restored. 
+
+146.820 - Relocating Soon! - After many months of running smoothly at our Marlborough East site, the time is coming when this machine will return to Brookline. The move is tentatively planned to occur just before the May 16 meeting at the Clay Center. The repeater will probably be taken down a few days earlier in preparation for the move. 
+
+223.940 - Fully Operational! - However, the controller is awaiting a firmware update and eventually will have its link radio reconfigured to work with HUB2. 
+
+442.700 - Bad Antenna - The unused four bay omni directional antenna located at this site proved to be a disappointment - coverage is very poor for this repeater. MMRA has the antenna and hardware to replace it, but with the many projects going on right now, this one is not going to be ready for a while. Until this situation is rectified, QCY and STO are unable to link to this repeater adequately. MRW seems to do OK though. 
+
+449.575 - Fully operational! - Experienced some sort of glitch in the 5K controller, causing it to generate long strings of CW. After reprogramming, order has been restored. '575 also needs it's link radio reconfigured so that it can operate on HUB2. 
+
+449.925 - flaky PA - Our main hub experience infrequent periods when the power amplifier shuts down. Efforts to determine the root cause are hampered due to the intermittent nature of the problem. The silver lining is this situation does not occur very often. 
+
+The remaining repeaters: 147.270, 224.400, 224.700, and 224.880 are operating normally.
+
+---------------------------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay League, through which Amateur Radio in the United States is represented nationally and  internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+
+--------------------------
+
+Treasurer’s Report ~ 25 April 
+Kevin Paetzold, K1KWP ~ Treasurer
+
+Income	2006-2007 dues	$4233   
+	2007-2008 dues	  635
+ 	Donations	  426
+	Misc.		  323   
+	TOTAL		$5607
+
+Expenses
+     Expenses to date	$4074
+	Known upcoming	  390
+	TOTAL		$4464
+Summary
+We would have ~$1143 in discretionary spending left before running an overall deficit year (this includes the $635 in dues we already have collected for next year).
+
+-------------------------
+
+MMRA March Meeting 
+Larry Banks, W1DYJ
+
+President Bob DeMattia moderated:
+·	Treasurer — OK financially; over 200 members total, a recent high
+·	Secretary — Letter sent to NESMC re. Stoneham 440; N1UEC wants to attend Board Meeting
+·	Repeaters — About 50% of the conversion to a duel-hub system is done; Quincy antenna projects scheduled for 28 April
+
+Speaker – Mike Raisbeck, K1TWF: ARRL New England Division Assistant Director — ARRL Update and Fact Finding
+·	NEAR-Fest in Deerfield, 1st weekend in May: http://www.near-fest.com/
+·	No-code going better than expected, larger numbers of upgrades and new hams
+·	ARRL membership up 200 in March
+·	Katrina Report – Emergency Communications – New position at League
+·	LoTW – Question for League: how to combine paper QSLs and LoTW QSLs to reach DXCC? 
+·	BPL – Concord project on hold for business reasons
+
+------------------------
+
+MMRA April Board of Directors Meeting
+Bob Evans, N1BE, Clerk
+
+The MMRA board met on 4/25 at 7:30PM at the offices of Stratus Technologies in Maynard, MA.
+
+Present were: N1BE, W1DYJ, K1KWP, K1IW, W3EVE, N1NVK, WA1NVC, N1BDA, and by phone: W1BRI
+
+Treasurer’s Report (K1KWP)
+We collected a few hundred dollars more in dues this year over last. Membership is up about 40 members. We now have 191 paid members. This leaves $532 of unallocated funds from dues collected for this year.
+
+Work Party — Quincy
+At 10AM on Saturday, April 28th, Quincy antenna work will commence.  We need:
+A 10ft ladder to get over the WUMB station
+A ginpole
+Headlamps 
+About 10ft of romex for wire ties 
+Hard hats
+About 150’ of rope
+We will need to reschedule to the next day if it rains.  [Ed: this was rescheduled to that Sunday.]
+
+Stoneham 446.725 Coordination Issues
+In March, MMRA sent a letter to the NESMC board requesting that they reverse the decision of the UHF coordinator to de-coordinate the Stoneham repeater. The MMRA also contacted Lou Harris and arranged for a meeting on April 25th. The MMRA rescheduled its board meeting to accommodate Mr. Harris. Because of this expected meeting, NESMC tabled the MMRA letter. On April 24th, N1UEC notified MMRA that he would be at a VE session and would not be able to meet with the board.
+
+The Stoneham repeater is now back in the NESMC listing, but it’s status shows as being uncoordinated. At present it seems that changing frequency in the 440 band may be sufficient to avoid the current issues. We are awaiting final directions from the League and then will have to see if the proposed change mitigates the issue.
+
+Given that the NESMC is not represented at our board meeting, we moved to request that the NESMC Board address our March 15th letter requesting that coordination of Stoneham UHF be re-instated. Passed with K1IW abstaining.  
+
+We also moved that this request be placed on the general NESMC meeting agenda for consideration. If the NESMC Board acts favorably on our request we will withdraw this agenda item at the time of the NESMC meeting. Passed with K1IW abstaining.
+
+The MMRA Board requests that the MMRA Secretary contact contact@nesmc.org by April 30th with the requests from the last two motions. (This is to meet the deadline for the NESMC meeting agenda.)
+
+Repeater Status — Stoneham
+Looking for a 50A power supply for Stoneham UHF to replace the failed one.  We unanimously passed a motion allocating a maximum of $400 to purchase a suitable power supply for running the Stoneham UHF system.  Steve, N1BDA, graciously volunteered an Astron 35A PS to temporarily put Stoneham UHF back on the air.
+
+Repeater Status — Weston
+We need at least one more antenna. We can use a UHF antenna from the old Shrewsbury site. Side arms to mount this antenna are at one of our Marlboro sites..
+
+Repeater Status — Clay Center
+We need to put 146.82 back to the site on the night of our May meeting. This enhances the prestige of that school as a technical resource.
+
+Nominations
+All current officers and directors up for election (W3EVE and WA1NVC) agreed to be nominated for their current office. Nominations will stay open until immediately before election at the May meeting.
+
+Field Day/Social Event June 23-24
+W1JMC and K1KWP have been talking about a possible field day in Acton or at Fort Devens. They are looking for other club members who are interested. If there is critical mass, and enough assistance with things like setting up a  big tent, they agree to help coordinate the event. This is proposed as a fun social event (like the mobile-a thon) and not a serious contest. If you are interested please contact them promptly.
+
+Slygo work party
+We need about 6 to 8 people (but more is better) for a few hours of work. The proposed date is June 9th with a rain date of June 16th, starting at 9AM. Currently we can't open the fence - we need to cut back vines. We also need to replace the door since it now has a rusted gap that lets rodents into the  shelter.
+
+Adjourned at 9:10PM.
+
+---------------------------
+
+MMRA Leaders
+
+President			Bob DeMattia		K1IW
+Vice President			Steve Telsey		N1BDA
+Secretary			John McGovern		W1JMC
+Treasurer			Kevin Paetzold		K1KWP
+Clerk				Bob Evans		N1BE
+Technical Officer		Bryan Cerqua		W1BRI
+Director 2006-08		Clark Conti		N1NVK
+Director 2006-08		Bill Hanrahan		W1WH
+Director 2005-07		Steve Schwarm		W3EVE
+Director 2005-07		Roger Coulson		WA1NVC
+Emergency  Coordinator		James Cahill		KB1LOY
+Net Manager			Larry Banks		W1DYJ
+Newsletter Editor		Larry Banks		W1DYJ
+Public Service Coordinator	James Cahill		KB1LOY
+VEC Liaison			Bill Wade		K1IJ
+Web Page Editor			Bob DeMattia		K1IW
+
+--------------------------
+
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational
+and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
+
+We need a control operator for the first Tuesday  of each month – contact me at W1DYJ@mmra.org if you would like to running the net some evening – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+
+Current Net Control Operators:
+
+Week 1	?????		We Need You!	
+Week 2	W1EUJ		Dave Goncalves	
+Week 3	KB1KZI		Jimmy Devarie	
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks 
+	(also substitute & Net Manager)
+
+---------------------------
+
+Newsletter Delivery
+
+If you received this via US Mail, you might want to think about having it sent by eMail.  You will receive it earlier, it will be in color, it may have MORE great content, and it will save the MMRA $$$! Send your request to W1JMC@mmra.org.
+
+Past Newsletters are available at
+ http://www.mmra.org/
+
+----------------------------
+
+Calendar of Ham Radio Events
+
+Public Service Events 
+See this web site for contact information
+http://purl.org/hamradio/publicservice/nediv
+
+May  5  	Grafton MA 		Grafton Gazebo Road 
+May  6  	Boston MA 		Walk for 
+May  6 		Milford NH 		CROP Walk for 
+May  6  	Portsmouth NH 		Am Diabetes Tour de Cure                                             
+May 12  	Westford MA 		Apple Blossom 
+May 19  	Portsmouth NH 		NH Lung Clean Air Challenge  
+May 20  	Devens MA 		Parker Road 
+May 20  	Hadley MA 		Hadley Mem. Day Road 
+June 16  	Mt Washington NH 	Mt Washington Road                              
+July  7  	Mt Washington NH 	Newton's Revenge cycle 
+Aug 18  	Mt Washington NH 	Mt. Wash. Bicycle Hill Climb 
+Aug 19  	Mt Washington NH 	Mt. Washington Century Ride
+Sept 29  	Bristol NH 		NH Marathon
+
+
+New England Area Ham - Electronic Flea Markets 
+See this web site for contact information
+http://mit.edu/w1gsl/Public/ne-fleas
+
+4-5 May 	Deerfield NH 	NEAR-Fest 
+12 May 		Rensselaer NY 	EGARA 
+20 May 		Cambridge MA          	FLEA at MIT
+26 May 		Vernon CT 		NARC 
+1 June 		Feeding Hills MA 	HCRA                                          
+2 June 		Rochester NH 	GBRA 
+2 June 		Hermon ME 		PSARC 
+2 June 		Windsor CT 		VR+C Mus 
+3 June 		Newington CT 	NARL 
+16 June 	Goshen CT 		SBARC 
+17 June 	Cambridge MA          	FLEA at MIT 
+14 July 	Union ME 		PBARC 
+17-18 Aug 	Swanton VT 	STARC 
+
+----------------------------------
+
+End of Newsletter

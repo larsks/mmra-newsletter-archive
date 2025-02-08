@@ -1,0 +1,163 @@
+The Minuteman Repeater Association
+The Minuteman
+Volume 37, Number 6
+May 2008
+-------------------
+
+Membership Meeting ~ 21 May — 7:30PM
+Astronomy Night (and General Elections)
+The Clay Center Observatory
+Ron Dantowitz, Director ~ Clay Center Observatory
+
+Ron will discuss the latest educational and research collaborations and how they help inspire students of all ages to keep up an interest in science and technology. The talk will be followed by a tour of the observatory and some of the research equipment used.
+
+An aeronautical engineer, an astronomer, an educator, and winner of the Alan Shepard Technology in Education Award, Ron Dantowitz specializes in making science accessible and exciting to students of all ages.
+
+>From 1988-2000 Mr. Dantowitz was Lecturer of Astronomy at the Hayden Planetarium at the Boston Museum of Science.  He spent more than a decade developing techniques for ultra-high resolution astronomical imaging. His astronomical images have been featured in hundreds of newspapers and dozens of magazines. In 2000 Dantowitz joined the faculty of Dexter and Southfield Schools in Brookline, where he is the Director of the Clay Center Observatory.
+
+In October 2004 Mr. Dantowitz collaborated with Burt Rutan and Scaled Composites to photograph the X-Prize launches of SpaceShipOne, the first commercial manned spacecraft. Ron’s telescopically tracked videos of the XPrize flights were seen on television news by more than one billion people worldwide. In 2005 he collaborated with NASA, the US Naval Observatory, and several European space agencies to bounce a high power laser off a cube mirror placed on the International Space Station to yield some of the most detailed photos of a space satellite in orbit by a ground-based telescope.
+
+One of Ron's current projects is a specialized van to house a mobile observatory and communications center that will allow students and astronomers to take their research to off-site locations. Another collaboration with the US Naval Observatory allows the Clay Center telescopes to be used for finding new planets around distant stars.
+
+----------------------------
+Nominating Committee Report
+
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		tbd
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Director, 2008-2010	Clark Conti	N1NVK
+Director, 2008-2010	tbd
+
+---------------------------
+
+IMPORTANT: HUB1 (449.925) had a power amplifier failure on April 18th. All repeaters are now linking through HUB2 until further notice. Attempts to link a repeater to HUB1 will still result in it linking to HUB2. 53.81, 223.94, and 449.575 cannot link to HUB2. HUB1 service will be restored as soon as practical.
+
+----------------------
+
+MMRA April Board of Directors Meeting
+Bob Evans — N1BE — Clerk
+
+MMRA board meeting minutes by N1BE.
+
+The MMRA board met at The Little Pub in Marlborough on Wednesday April 16th, at 7:30 PM.
+Present were K1IW, W1BRI, K1KWP, N1NVK, N1BDA, N1BE, WA1NVC and W3EVE.
+
+A majority of the discussions concerned the imminent renovations at our Slygo Hill site (Marlboro West). There was email to members and discussion of this topic at the meeting in March. Briefly, the City of Marlborough is renovating the site and they requested we replace our equipment shelter. This project is moving forward rapidly, with bids now being accepted for the work; Marlborough will evaluate the bids in early May.
+
+Kevin, K1KWP presented a treasurer's report. Concerning the Slygo renovations, we expect the cost to the MMRA will be at least $5000 despite the fact that there is a pledge to donate the new equipment shelter. At present $2250 in
+cash has been donated or pledged for this project. The treasurer's report was accepted by the board.
+
+A suggestion was discussed that signage be erected in the new shelter to recognize all those who donated to this project. 
+
+More discussion of Slygo: The new shelter at 8'x12' is larger than the current 6'x12' one. Bob, K1IW discussed where we would want to place the new shelter at the site. This of course needs approval from Marlborough. 
+
+When the top part of the tower is replaced, we expect all feedlines to be cut and replaced (hopefully by Marlborough) with new ones. Between Amateur, Public Safety and Cell Phone there are dozens of feedlines on this tower.
+
+The use of MMRA resources for the Boston Marathon was discussed. On Marathon day, the 2-Meter repeaters in Marlboro, Quincy and Weston will be linked to HUB2.
+
+Concerning nominations for the annual election of officers, most current officers and one director have been nominated for another term on the board. However, the secretary and one director were not willing to serve another term. We need some new people to step forward to fill these roles. The director position is largely self defined, and gives that member a vote at board meetings. Duties of the secretary are mostly to keep the membership database upto-date and sending out email announcements of newsletters. If you can help with either of these positions email us at contact@mmra.org.
+
+The board voted to award a lifetime MMRA membership to Walter, N1HBR, for his many years of dedicated service to the MMRA. Without reaching a consensus, we discussed whether lifetime members should also receive a plaque; the cost of such a memento is estimated at $100.
+
+Finally, MMRA participation at Boxboro was discussed. We plan to use a local repeater during the convention for connecting our booth to the MMRA network. This should improve signal quality and eliminate the need for the beam at
+the MMRA booth. Prizes for a raffle were discussed. $230 has been allocated for purchasing the prizes. One suggestion was an MFJ-259 HF/VHF antenna analyzer even though this costs about $250. A second suggestion is to award similar prizes as last year, an HT and a power/SWR meter. Given the 4 months until Boxboro, decision about the prizes was deferred.
+
+The meeting adjourned at 8:45 PM.
+
+---------------------------------
+
+President’s Message
+Bob DeMattia, K1IW
+
+As MMRA finishes up its active membership year, I can certainly state that it has been a good one. The year ends on a high note with MMRA taking a leadership role in two large public service events: MMRA is teamed with the Framingham Amateur Radio Association for the Boston Marathon. MMRA Director Steve, W3EVE coordinates over 100 amateur operators along the route, and MMRA treasurer Kevin, K1KWP gets all the technical details working for marathon net control. At the Walk for Hunger, MMRA member Eric, KA1NCF is the chief organizer of all the ham volunteers. Countless other members participate as volunteers in these events. In addition to MMRA member participation, MMRA repeaters play an important role in these, as well as other, public service efforts.
+
+I'd also like to thank the number of MMRA members who have contributed to the "Slygo Hill Shelter Fund". When I wrote a short blurb about the shelter replacement in the last issue, I wasn't expecting such an enthusiastic response. Because of this, approximately half of the budget allocated for the shelter update will not have to come out of the club's general treasury.
+
+The Slygo shelter project is progressing, albeit slowly. Our proposal was submitted to the City of Marlborough two weeks ago and the initial response was general positive. Hopefully, it will be approved without too many changes. The proposal we submitted, in addition to the shelter replacement, asks for several other items to improve the coverage of the MMRA repeaters at that site.
+
+A thank you also goes out to Bryan, W1BRI and Nat, NG1Z for getting HUB2 operational. With the recent update to 146.79 and 146.61, the "HUB2" project is complete. All MMRA 2m repeaters are now linkable to either HUB. This has almost immediately proven valuable, as only a few weeks after the Mendon upgrade, the power amplifier failed on
+449.925. The network has been currently operating smoothly through HUB2 and has supported HHTN and the MMRA weekly net without a hitch. Tomorrow night, the monthly ARES drill will also take place using the backup configuration.
+
+Finally, a thank you to all the members that have contributed time and money to the club for a variety of projects, and to those members that continue to renew their membership every year. Without you, MMRA could not exist.
+
+73,
+Bob - K1IW
+
+------------------------------
+
+March Meeting ~ 1) GEMOTO and 2) Moving to Digital TV
+Larry Banks, W1DYJ
+
+Rick Zach, K1RJZ, a founder of GEMOTO and also Chief Engineer of WCVB TV gave two presentations. First we heard about the 6M repeater system the GE / Motorola gang has put together that spans Central NH to Massachusetts. Rick then gave us an insiders view of the switch to digital TV.
+
+------------------------------
+
+Treasurer’s Report
+Kevin Paetzold, K1KWP
+
+Shortly before the last membership meeting in March (and after the newsletter was already in the mail) the MMRA found out that the city of Marlborough was making plans to move forward on plans to make improvements at the Slygo Hill site (MRW) in Marlborough. Indications were that the board would need to be making decisions (and probably spending funds) before the May meeting could occur (this has indeed been the case). An email went out to the membership that the board was going to ask for approval to spend up to $5000 at the March meeting. After the motion was made and seconded it received unanimous approval.
+
+This is of course the location of 449.925 (HUB1) and 147.270 repeaters as well as the remaining MMRA autopatch phone line. In addition the receive side of 53.81 and the APRS digipeater (W1MRA) are there as is 224.88 and various other UHF repeaters from time to time.
+
+For many years the board has expected (or known) that the city would move forward and various discussions occurred at various points over the years. As time went on the situation with the shelter itself was becoming a problem and we took what actions we could to shore up the situation. Nonetheless the shelter still leaked and frankly damage from rodents is the major cause of most problems with the repeaters at the site.
+
+The $5000 cost estimate was made as a reasonable expectation of what this will cost us. This is on top of significant material donations such as the offer of an impressive military grade shelter. The project will be required to meet various city codes (inspections) and some parts of the project will likely require professional trade assistance. It will not be a big surprise if our costs exceed the $5000 estimate.
+
+When I became really involved in the MMRA (as an officer) it was very apparent and impressive how much effort, time, and care had gone into the infrastructure that the club had. It was also quite apparent that this had been taking place over many years and through many groups of members/officers. As a result my position has been that the MMRA is the trustee of some significant amateur radio resources. As trustee, we need to see that the result of this project is a site that is prepared for the next 30 years!
+
+I am very happy to report that we seem to be on course for a first class project. Since the March meeting a detailed and professional plan was produced and made available to the city. All indications are that the city is still moving forward and I expect there will be updates available at the time of the next meeting that are not known as I write this in early May. I ask that all members stay tuned for updates which will be made available as they occur. There is likely to be a need for several major work parties over the next several months. In addition those members who are involved in the trades and / or who have access to special equipment may be able to help avoid significant costs to the club.
+
+On the funding side I am very happy to report that the club has received donations and pledges in excess of $2500. Even the average is pretty impressive number and on behalf of the board and the membership I would like to say thank you. I encourage all members to reflect on how effective the mobile in your car would be without the repeaters which the MMRA supports and consider supporting this effort.
+
+---------------------------------------
+
+MMRA Leaders
+
+President			Bob DeMattia	K1IW
+Vice President			Steve Telsey	N1BDA
+Secretary			John McGovern	W1JMC
+Treasurer			Kevin Paetzold	K1KWP
+Clerk				Bob Evans	N1BE
+Technical Officer		Bryan Cerqua	W1BRI
+Director 2006-08		Clark Conti	N1NVK
+Director 2006-08		Bill Hanrahan	W1WH
+Director 2007-09		Steve Schwarm	W3EVE
+Director 2007-09		Roger Coulson	WA1NVC
+Emergency Coordinator		open
+Net Manager			Larry Banks	W1DYJ
+Newsletter Editor		Larry Banks	W1DYJ
+Public Service Coordinator	Bruce Pigott	KC1US
+VEC Liaison			Bill Wade	K1IJ
+Web Page Editor			Bob DeMattia	K1IW
+
+-------------------------------------
+
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net. Join us! This is a good way to keep up with what is happening in the MMRA and ask your ham related questions. If you would like to tray your hand at Net Control contact me at W1DYJ@mmra.org – we have a script you can use to start with. This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+
+Current Net Control Operators:
+Week 1	WA1JIM	Jimmy Devaire
+Week 2	W1EUJ	Dave Goncalves
+Week 3	W1DYJ	Larry Banks
+Week 4	K1KWP	Kevin Paetzold
+Week 5	W1DYJ	Larry Banks
+
+----------------------------------------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ
+781-891-9079
+Evenings 6 to 10 PM,
+Weekends 8 AM to 10 PM.
+Accredited by the ARRL VEC
+
+------------------------------------------
+
+END -- MMRA NEWSLETTER

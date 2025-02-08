@@ -1,0 +1,296 @@
+The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+
+Volume 44, Number 
+November 2014
+----------
+
+Membership Meeting ~ Saturday, Nov 15 ~ 12 Noon
+
+WTAG Transmitter Tour
+400 Shrewsbury St, Holden, MA  
+
+WTAG AM 580 is a Worcester area broadcast station celebrating its 80th anniversary this year. Its transmitter site in Holden is not your average building. In addition its standard AM and its HD transmitter, the building houses a mini-museum of WTAG broadcast history. Come join us in seeing this one-of-a-kind broadcast facility
+
+Talkin: 147.27
+
+>From Boston: Take I-90 West to I-290 East to I-190 North to Exit 2,then turn left...
+>From Marlborough: Take I-290 West to I-190 North to Exit 2, then turn left...
+>From Fitchburg: Take I-190 South to Exit 3, then turn right…
+
+...on West Mountain Street.
+At Brattle Street, turn right,
+then at Shrewsbury Street, turn right again.
+
+The station will be a short distance down Shrewsbury Street on the left.
+----------
+
+Have you renewed your
+membership yet?
+
+All 2014 memberships expired on August 31st! 
+Time to renew either on the Member's login link at www.mmra.org or by U.S. Mail with a check to MMRA, PO Box 669, Stow, MA 01665.
+----------
+
+September Membership Meeting
+The Art and Science of Radio Direction Finding
+Bob Ravenstein, W1FDR 
+
+Bob is an ardent fox hunter and has a great home-built dish he often uses. 
+He recently entered the ARDF < http://www.homingin.com/farsnews.html > and 
+< http://www.bostonardf.org/?event=the-fourteenth-usa-ardf-championships-boston-massachusetts-june-5-8-2014 >  and won a silver medal.
+
+Photos:
+Bob at the podium
+Bob’s parabolic antenna for close in work
+Bob’s well
+used 2m and 440 antennas 
+
+...and from the general meeting session...
+MMRA is back at the top!  (Of Slygo)
+
+Photos:
+The cake that celebrated it.
+Here are some hams who made it happen.
+
+K1IW, W1BRI, N1DDK, KG1H, N1BE, WA1NVC, K1KWP, N1NVK
+
+(There were many others too!)
+----------
+
+Sligo is Back! — Some Photos
+Thanks to Bryan Cerqua, W1BRI, David Wolfe, KG1H, & Bob DeMattia, K1IW
+
+Photos:
+Antennas on the top
+Overall photo of water tower
+Tower climber at the top
+Cable trays
+Photo looking up at tower from beneath it
+Close-up of tower climber
+Cable tray entering MMRA shelter
+----------
+
+October Business Meeting ~ Bob Evans, Clerk, N1BE
+
+The MMRA board met on Oct 15 at 7 PM in the Maynard office of Stratus Technologies for a business meeting.  In attendance were K1KWP, K1IW, WA1NVC, N1BE, N1DDK, KB1LOY, KG1H, KB5JR and W1MPN.
+
+Kevin, K1KWP presented a Treasurer Report highlighting MMRA finances since the start of the fiscal year on June 1.  Looking at projected expenses, we expect up to a 30% increase in electric bills (for Quincy and MRW).  Then we looked at income so far and projected for this fiscal year.  Next Kevin reviewed the costs of the Sligo antenna and shelter project, this project has been ongoing since the 2011 fiscal year.  Looking at the membership numbers, 98 of last year's members have not yet renewed, but there are 27 new members.
+
+(Reminder, dues are now overdue.  MMRA memberships expire at the end of August.) 
+
+Bob, K1IW discussed the need for a club Photo Archivist.  There are many MMRA photographs that need to be organized, in some online site.  Bob offered to solicit a volunteer by email.
+
+The Westborough fire department has a used 50 foot Rohn tower available.  K1IW is inquiring about whether it is standing or on the ground.  Bob suggested that we could use this at a future repeater site.
+
+Repeater Status report by K1IW:
+
+The BEARS (Broadcast Engineers Amateur Radio Society) net equipment is at K1IW's shack.  Bob plans to install it at the Belmont repeater.  This would provide internet links to other BEARS repeater sites in CA, DC, FL and NY.
+
+146.715 / 446.775 is off the air and being worked on by K1IW.  Bob is also changing terminations on cabling between controller and the radios for easier installation and removal for servicing.
+There is some noise on 6M at MRW.
+
+In response to an inquiry by a member, the board had a discussion about whether there is excessive messaging on the MMRA repeaters.  K1IW has already reduced some of the messaging.  Bob also suggested that we consider eliminating repeater announcements upon initial key-up.
+
+The board moved that it would be useful to multiplex all the received voice audio at MRW, without messages, over the internet; also useful but not essential would be transmitting this audio.  The board approved this motion.  Boyd, KB5JR offered to bring a proposal back to the board of how to implement this function.
+
+Sligo repeaters have several issues:
+
+There are crunchies on 147.27.  We suspect an antenna mounting problem.  K1IW will contact the installer to investigate this.
+
+927.700  is making a loud "buzz saw" noise.  There are also reports of intermod, choppy audio over IRLP - local audio is OK.  We think the buzz saw noise may be local to our repeater.  One suggestion was to try reducing the transmit problem to eliminate the buzz saw.  Another option is to link 927.700 to 449.925 for a day to further observe these problems.
+
+James, N1DDK offered to install some hardware to allow "Tilt Down" of the 30-ft mast next to the MRW shelter.  James also offered to manage the installation of cooling for the MRW shelter - fans, duct work, etc.  The board approved an expenditure not to exceed $250 for these items.
+
+Roger, WA1NVC discussed CFS hardline connectors.  One 900 MHz connector from MRW apparently has problems,  There is a concern that other hardline terminations may also have problems due to these new style connectors.  Discussion indicated this might not be a problem if the correct installation tool were used with the directions for installing this particular connector.  Roger offered to try replacing the problematic connector with an older style connector that will more firmly connect to the cable.
+
+James, KB1LOY, the new trustee, visited the Hopkinton site and met with the contact person briefly there.  James and K1IW plan to together visit that site soon.
+
+The meeting adjourned at 9PM.
+----------
+
+Next MMRA Business Meeting:
+Wednesday 17 December, 7PM
+Stratus, Maynard
+----------
+
+Public Service Events ~ David Wolfe, KG1H
+
+The following recent Public Service Events have been supported by the MMRA members in addition to the hams from other organizations:
+
+Jimmy Fund Walk - Boston
+Ride to Defeat ALS
+Westford Grace Race
+CF Cycle for Life
+Boston Athletic Association Half-Marathon
+The Head of The Charles Regatta® 2014
+Third Annual Ashland Half-Marathon 
+& 5K
+
+Here’s a link to the communications for the Ashland Half-Marathon, held Sunday, April 26th, 2014:
+https://drive.google.com/file/d/0B_R6snQbpJ3Ma2FJUy1VbzRHOUU/view?usp=sharing
+
+Photos:
+Ashland Half-Marathon 
+11th annual Grace Race
+----------
+
+The MMRA TECHNICAL CREW – ALWAYS READY
+By Tom Turner, KB1OQA
+
+One of the many groups within the organizational structure of the MMRA is the technical crew who constantly maintain and upgrade our repeaters located at various locations throughout Massachusetts.  These are the dedicated Hams with electronic expertise who are, for lack of a better term “on-call” when sites go down, antennas need to be replaced, new equipment needs to be installed and/or tested, and when on-going preventative maintenance is necessary to keep all systems working at peak efficiency.
+
+A major project of the Technical Crew has been at Sligo Hill in Marlborough.  Now that antennas that had to be removed or relocated are now back on the refurbished Tower at their former heights, this group has been hard at work doing antenna reconnections and testing to make sure that our network provides the best-quality signal for its users.  
+
+The services of the MMRA Network are called upon for such events as the Boston Marathon. The Head of the Charles Regatta, and many other Public Service venues for various organizations.  Without the work of this highly skilled group of Amateurs, our Organization would not be able to provide the high quality of service that it has become known for and their efforts should not be forgotten.  
+
+(Editor: the MMRA can always use additional technical help.)
+---------
+
+Upcoming MMRA Meetings
+
+
+Saturday, 15 Nov ~ Membership Meeting
+Our November meeting will be at the WTAG radio station transmitter in Holden.  
+Don't miss this special event!
+
+Wed, 17 Dec ~ Business Meeting
+Stratus, Maynard
+
+Wed, 21 Jan ~ Membership Meeting
+Amateur Radio and the Weather, Mike Neilsen—W1MPN
+Location TBA
+
+Wed, 18 Feb ~ Business Meeting
+Stratus, Maynard
+
+Wed, 18 Mar ~ Membership Meeting
+Weak Signals and DX’ing
+Location TBA
+
+Wed, 15 Apr ~ Business Meeting
+Stratus, Maynard
+
+Wed, 20 May ~ Membership Meeting
+Annual Meeting: Officers Report and General Elections
+Location TBA
+
+Wed, 17 June ~ Business Meeting
+Stratus, Maynard
+
+Wed, 21 July ~ Mid-summer Get Together
+Location TBA
+
+Wed, 19 Aug ~ Business Meeting
+Stratus, Maynard
+----------
+
+Don’t Forget! Join Us.
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIaOS Net.  
+Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Want to try your hand at Net Control?  
+Contact me at W1DYJ@mmra.org  for our script, or find it at
+ http://www.mmra.org/tios.html
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3   ??????		OPEN
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+* Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2015		Steve Schwarm	W3EVE
+Director  »2015		Roger Coulson	WA1NVC
+Director  »2016		Clark Conti	N1NVK
+Director  »2016		Mike Neilsen	W1MPN
+
+Repeater Trustees
+* Belmont 145.430	James Lee	N1DDK
+* Boston 927.0625	Rick Zach	K1RJZ
+* Boston 146.820	John Mullaney 	K1BOS
+* Brookline 146.820 Rcvr  Bob Phinney	K5TEC
+* Burlington 146.715	Bruce Pigott	KC1US
+* Burlington 446.775	Larry Banks	W1DYJ
+* Hopkinton 223.940	James Cahill	KB1LOY
+* Lowell 442.250	Vince De La Flor  K1LVF
+* Marlboro 53.810; Quincy 146.670; Southboro 449.575
+		
+	Bryan Cerqua	W1BRI
+* Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
+         Weston 442.700 — all as W1MRA
+			Bill Northup	N1QPR
+* Mendon 146.610	Jim Podsiadlo	AE1C
+* Quincy 224.40		Bill Dunn	N1KUG
+* Weston 146.790	Bob Evans	N1BE
+* Weston 224.700	Eddie Mulhern	N1NOM
+
+Other, non-Voting
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg.  Coord.	Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	David Wolfe	KG1H
+* VEC Liaison		Bill Wade	K1IJ
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+
+* Appointed
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+
+www.mmra.org è Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+Oct 11, Nov 8, Dec 13
+9 AM at the Marlboro Public Library
+
+Contact: Bill Wade, K1IJ
+781-891-9079
+Evenings 6 - 10 PM
+Weekends 8 AM to 10 PM.
+----------
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+29 Nov	Windsor CT	VR+C Mus 115
+Pierson LN 
+15 Feb	Marlboro MA	AARC at Mid. Sch 
+16 Feb	Westford MA	NEARC RadioXLVI @Regency 
+28 Feb	S Burlington VT	RAoNVt @ HI I89 
+ 7 Mar	Chicopee MA	MtTomARA @MooseLodge   
+14 Mar	Dayville CT	ECARA @StJosephCh 
+15 Mar	Southington CT	SARA @HS 
+27,28 Mar Lewiston ME	AARC ME Conv @Ramada 
+11,12Apr Wakefield MA	Photographica @AmericalCtr
+1,2 May	Deerfield NH	NEARfest X
+6 June	Hermon ME PSARA @8 @HS TG 
+21,23 Aug Boxboro MA	FEMARA NE Conv
+13 Sept	Ballston Spa	NY SCRACES @FG 
+13 Sept	Newtown CT	CARA @TownHall
+19 Sept	Forestdale RI	RIAFMRS @VFW
+16,17 Oct Deerfield NH	NEARfest XVII @FG
+----------
+
+End Of Newsletter

@@ -1,0 +1,277 @@
+The Minuteman Repeater Association
+
+The Minuteman
+
+Volume 38, Number 3
+
+January 2009
+----------
+
+Membership Meeting ~ 21 January 2009 @ 7 PM
+Note the earlier time!  ~  Westborough Public Library
+John — N1OTY — Getting on 902
+Talk in on 142.27
+
+John, N1OTY, will show you that it's easier than you think to get onto 902MHz FM. This comes at a great time, as there has been a whole bunch of new 902MHz repeaters that have been placed on the air in the past year. Brave the cold weather and learn something new! 
+----------
+
+Westborough Public Library  55 West Main Street     508-366-3050
+
+DIRECTIONS:   The Westborough Public Library is located two blocks west of the rotary on Route 30 (West Main Street), between Parkman Street and Church Street.
+
+
+
+>From Route 135 in Westborough:
+Follow Route 135 to the rotary in the center of Westborough. At the rotary (the intersection of Routes 135 and 30), take route 30 West (West Main Street.) The library is two blocks ahead on the right, just after the police station, on the corner of West Main and Parkman Streets. 
+
+
+
+>From the Massachusetts Turnpike:
+Exit at Route 495 North/Westborough. From Route 495 take Route 9 West. Follow Route 9 approximately 1.5 miles to Route 30 West. Follow Route 30 (about 2 miles) straight through the rotary in the center of Westborough. The library is two blocks ahead on the right, just after the police station, on the corner of West Main and Parkman Streets. 
+
+----------
+
+US Mail Newsletter to cost $10/year starting now for all new members, and for all renewing members in
+September 2009
+----------
+
+MMRA December Board of Directors Meeting
+Bob Evans — N1BE — Clerk
+
+The MMRA Board met at 7 PM on Dec 17 at the office of Stratus Technologies in Maynard.  Kevin K1KWP, Mike W1MPN, Bob K1IW, Bob N1BE, Bruce KC1US, Steve N1BDA, Roger WA1NVC and Steve W3EVE were present.
+
+	Treasurer Kevin, K1KWP, reported that ~$1000 in dues has been received since the last board meeting.  We are about $72 short from our position this time last year with respect to dues received.  In total, about 40 members from last year have not renewed but there are also new members.  As a result, we have 10 fewer members renewed than at this time last year.
+
+	We need to approach the two control operator/trustees who have not renewed.  Our bylaws require those in these positions have active memberships.  They will be ineligible for their positions on Jan 1, 2009.  For that reason the board moved that KC1US to become Burlington VHF trustee if N1NVL has not renewed before the beginning of January. KC1US agreed to accept this position.  Similarly, two control operators were proposed for positions now held by NG1Z: K1LWI for Quincy & W1DYJ for Burlington UHF.  (But we had not contacted the proposed replacement control operators before the meeting ended.)
+
+	We received an offer from Keith, KB1OEI of Lands Towing to bring the new MRW shelter from Maine to the Lands lot in Marlboro.  The board moved to accept this offer from KB1OEI.  We also will volunteer to pay for his fuel and provide other assistance as requested.
+
+	There have been some issues with membership/renewal notices and control codes not being sent out.  The MMRA board apologizes for this and requests that members email to contact@mmra.org if they need a copy of these materials.
+
+	Bob requested MMRA affiliation with his K1IW repeaters on 447.875 & 927.700 MHz.  These are both at MRW and both linked to 6M.  This was approved.
+
+	K1IW suggested replacing the Hamtronics (TTL) controller with a MMRA owned SCOM 7K controller now at his house.  This could tie in D-Star and allow 6M to link/unlink on schedule.  (The current MRE controller has no clock.)  Although this leaves the MMRA without a spare 7K, they are available on eBay and several MMRA members own 7K controllers.  This was approved.
+
+	K1IW has a 7K that he owns which can be used for development/maintenance of the repeater control code.  Bob's controller has the VYEX 7K Digital Audio Board, also on the MMRA controller at HUB1.  The MMRA board moved to buy the VYEX from Bob for HUB2.  This will allow the same code to be used at both hubs.  In return the MMRA will sell a legacy 7K Speech Synthesizer Module (SSM) to Bob.  The motion was approved with a maximum expenditure of $150 to cover the higher value of a VYEX compared to the SSM.
+
+	The 449.925 PA is intermittent.  Bryan, W1BRI would like to work on this repeater at his house.  We discussed several options to keep 449.925 on the air during this repair.  We will offer these options to Bryan to see how he wants to proceed.
+
+	The Brookline Receiver is very deaf with interference from VHF TV channel 7.  We considered several options that might resolve this problem: 
+Analog TV going dark may end the noise from channel 7. (no cost)
+Swap the duplexer (no cost).
+Add a Rejection Cavity ($600)
+Use a new Duplexer ($1500)
+Use a Circulator ($1500)
+	There was limited support at this board meeting for any expenditure since we do not yet know which, if any, of these options may solve the problem.  With the goal in mind to have this repeater healthy in time for the public service events next Spring, we need a diagnosis before the Jan MMRA meeting in case of need to go to members for a purchase approval.
+
+	The Quincy PA has low power output for the first 20 minutes after power up.  We expect that Bryan will diagnose.
+
+	The Weston 222 PA is under driven.  This needs to be diagnosed.
+
+	The Hub2 receiver (Weston UHF) is somewhat deaf.  K1IW has been attempting a diagnosis.
+
+	The 10M repeater receiver is up and running at Brookline.  Roger suggested we work on getting the 10M transmit site going.  K1IW will approach the Weston Campion Center about putting up another antenna for this.  Possibly a dipole sloper off the current tower for minimal visual impact would be the most appealing approach.
+
+	Roger expressed some concern about the MRW electric bill.  There is more than 300 KWH used per month.  Roger suggests redesigning the power system for higher efficiency (switching supplies) and more reliable battery backup.  It was suggested that we target installation of this new system for the new MRW shelter.  Roger will come back to the board with a more specific proposal.
+
+	The MMRA will have a table in mid-February at the Marlborough Flea Market.  There was a proposal to sell misc coax, hardline, cabinets, junque @ Weston.  Additional coax, hardline, junque @ MRE shelter should also be sold.  The board approved that Roger, Bob K1IW & Bryan will evaluate these items and decide what to sell.
+
+	Steve, W3EVE is working on a proposal so interested hams, from prior CPSG membership or other public service activities, could be on list for selective solicitation for future public service events.  The board had no objections to hosting this application on the same web server as the MMRA.
+
+	Bruce, KC1US suggested we consider club badges.  This would be particularly useful for events like the Boxborough suite and our flea market table at Marlborough.  Bruce agreed to check on what other clubs are doing for shirts and badges and explore prices and options.
+
+	The meeting adjourned at 9:45 PM.
+----------
+Hams Respond to Calls for Assistance as Ice Storms Pummel New England
+[ ©ARRL, 15 Dec 2008 ]
+
+As a major ice storm -- accompanied by freezing rains, flooding and strong winds -- severely impacted New England on Thursday evening into Friday morning, ARES®, RACES, SKYWARN and MARS operators worked together to respond to calls for assistance from served agencies and to participate in the recovery phase of the storm. As the storm progressed into the weekend, ice accumulations up to 1.5 inches were common throughout a very large area of Western, Central and Northeast Massachusetts, as well as parts of New Hampshire and Maine.
+
+"After this summer's severe weather with its unusually historic number of events, we now face the worst ice storm we've seen in recent memory in portions of Southern New England," said Eastern Massachusetts ARES Section Emergency Coordinator Rob Macedo, KD1CY. "It became clear that we were dealing with a rapidly deteriorating situation by early Friday morning. SKYWARN weather spotters relayed data that clearly to the NWS, saying whole towns and cities were losing electricity."
+----------
+
+November Membership Meeting
+
+Larry Banks — W1DYJ 
+
+A small group gathered at the Burlington Library to look at photos of the repeater move from Stoneham to Burlington's Lahey Clinic and to hear an ARRL update from and ask questions of Mike Raisbeck, K1TWF.
+----------
+
+Technical Update
+
+Bryan Cerqua — W1BRI 
+
+A short summary on what was done in the past few months.
+
+    1.) Added 7K controller to 53.81. Now 81 has Voice IDs and can automatically link up for TIOS net.
+    2.)  53.81 TX tube amp removed and inspected, all looked OK so I tried another 4CX250 Tube.  PA is still having problems with power drifting in and out.
+    3.) Trip to Quincy to fix power problem.  Found unsoldered center pin on cable from Polyphaser to antenna, re-soldered and all looked good.  The problem must be something else since it still has the slow startup problem, i.e. it needs to come up to temperature.
+    4)  Club’s Service Monitor is not working, not locking up on frequency any more.  I have many hours invested on troubleshooting but no luck yet, I will keep trying to fix.
+----------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay League, through which Amateur Radio in the United States is represented nationally and  internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+----------
+
+Boston Marathon
+Bob DeMattia, K1IW
+
+Spring is almost here - and that means we are looking for ham radio volunteers for the 2009 Boston Marathon.  The marathon will be held on Monday, April 20th.  We need over 200 radio operators over the age of 18 to provide communications.
+
+If you'd like to help, you can visit our website at http://marc.mmra.org to signup.
+
+If you have any further questions, please feel free to contact me via email, or leave a message on my 24-hour answering service: (508) 393-4148. 
+
+Registration will be open until approximately March 31st. However, if we receive enough volunteers, it will close sooner.  Don't be left out - volunteer early!
+
+I hope to hear from you soon!
+73,
+Bob DeMattia
+ham recruiting
+Marathon Amateur Radio Communications (MARC)
+----------
+
+Treasurer’s Report
+Kevin Paetzold, K1KWP
+
+Income	   Dues		  		$4770
+	   Donations			  919
+	   Misc.		          113
+	   Total			$5802
+
+Number of members renewed to date =       163
+Number not yet renewed from last year =    40
+Expected renewals = 3			$  75
+	Expected income			$5877
+
+Expenses   Spent to date		$4828
+	   Expected expenses		  503 
+	   Total			$5331
+
+Discretionary Funds 			$ 545
+----------
+
+Upcoming MMRA Meetings
+
+All meetings start at 7:30 unless otherwise noted.
+
+Date 	Location 		Feature
+
+Jan 21   7 PM	Westboro Public Lib	902 MHz — John, N1OTY	
+Feb 11*		Chin’s, Marlboro	Board Meeting
+Mar 6 *  7 PM	FARA Club Shack		SSTV on ISS, Greg, WF1F
+Apr 15		Watham-Weston Corp	Board Meeting
+May 20		Clay Center	Ron Dankowitz—Latest in Space Science and General Elections
+	* Not the 3rd Wednesday
+
+----------
+
+MMRA Leaders
+
+President			Bob DeMattia		K1IW
+Vice President			Steve Telsey		N1BDA
+Secretary			Dan Rajczyk		N1KJN
+Treasurer			Kevin Paetzold		K1KWP
+Clerk				Bob Evans		N1BE
+Technical Officer		Bryan Cerqua		W1BRI
+Director 2008-10		Clark Conti		N1NVK
+Director 2008-10		Mike Neilsen		W1MPN
+Director 2007-09		Steve Schwarm		W3EVE
+Director 2007-09		Roger Coulson		WA1NVC
+Emergency  Coordinator		open
+Net Manager			Larry Banks		W1DYJ
+Newsletter Editor		Larry Banks		W1DYJ
+Public Service Coordinator	Bruce Pigott		KC1US
+VEC Liaison			Bill Wade		K1IJ
+Web Page Editor			Bob DeMattia		K1IW
+----------
+
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net..  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
+
+We need another net control!
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+
+Current Net Control Operators:
+
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	???		OPEN	
+Week 3	W1DYJ		Larry Banks
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+-----------
+
+Newsletter Delivery
+
+If you received this via US Mail, you should think about having it sent by eMail.  You will receive it earlier, it will be in color, and it may have MORE great content! Send your request to N1KJN@mmra.org.
+
+Starting next year, US Mail delivery of the newsletter will be an additional $10/year.
+
+Past Newsletters are available at http://www.mmra.org/
+-----------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ
+781-891-9079
+Evenings 6 to 10 PM,
+Weekends 8 AM to 10 PM.
+Accredited by the ARRL VEC
+----------
+
+Calendar of Ham Radio Events
+
+Public Service Events
+
+See this web site for contact information
+http://purl.org/hamradio/publicservice/nediv
+
+No future events are listed.
+
+New England Area Ham - Electronic Flea Markets 
+See this web site for contact information
+http://mit.edu/w1gsl/Public/ne-fleas
+
+24 Jan	Worcester MA		ACM @WPI Odeum
+31 Jan	Chelsea ME		AARA @Crystal Falls
+14 Feb	Marlboro MA		AARC @Interm Sch
+15 Feb	Westford MA		Radio 40 Antique @Regency
+21 Feb	Chelsea ME		AARA @Crystal Falls Rt17
+ 7 Mar	Feeding Hills MA	MTARA @TurnvereinClb
+ 8 Mar	Hicksville NY		LIMARC @LevitH
+21 Mar	Pomfret CT		ECARA @CommSch
+22 Mar	Southington CT		SARA @HS
+28 Mar	Middletown NY		OCARC @Wallkill ComCtr
+28 Mar	Lewiston ME		AARC ME Conv @Ramada
+29 Mar	Framingham MA		FARA @KeefeSch
+29 Mar	Henniker NH		CVRC @CommSch
+18 Apr	Manchester NH		NEAntqRC @BingoCtr
+18 Apr	S Portland ME		PAWA @AmLegion
+19 Apr	Cambridge MA		FLEA at MIT
+26 Apr	Lindenhurst NY		GSBARC
+1,2 May	Deerfield NH		NearFest @FG
+----------
+
+End of MMRA Newsletter
+----------

@@ -1,0 +1,263 @@
+The Minuteman Repeater Association
+The Minuteman
+Volume 38, Number 2
+November 2008
+------------------
+Membership Meeting ~ 19 November @ 7 PM
+Note the earlier time!  ~  Burlington Public Library
+ARRL Update — Mike, K1TWF, ARRL Vice-Director
+...and pictures of the move from Stoneham to Burlington
+Talk in on 146.715
+
+Burlington Public Library   
+22 Sears Street
+Burlington, MA  01803
+781-270-1690
+
+http://burlingtonpubliclibrary.org/
+
+The Burlington Public Library is located at 22 Sears Street, just off the Town Common beside the Police Station.  The Common is bordered on the west by Cambridge Street (Route 3A) in Burlington. 
+To get to the Library, take Route 128 (I-95) north or south to Exit 33, and turn at the end of the ramp onto Rte. 3A north.  Pass 2 traffic lights, and turn right at the third traffic light onto Bedford Street. Take your first left onto Center Street, and the first right after that onto Sears Street, just past the beige clapboard Police Station.  The Library is a modern brick structure with parking available on three sides of the building.
+
+----------------------
+DUES ARE DUE!
+Annual Dues are due on 1 September
+
+$25 individual
+$35 family
+
+----------------
+Snail Mail 
+Newsletter to cost $10/year, see the Board of Directors minutes on Page 
+
+----------------
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in Eastern Massachusetts.
+The MMRA meets (usually) on the 3rd Wednesday of September, November, January, March, and May.  Meeting time, locations and talk-in frequency vary.  These are announced in the newsletter and on weekly nets.  Meetings are open to all interested parties.
+The Minuteman newsletter is mailed one week before each meeting.  Members are encouraged to submit articles.  Articles may be sent to the editor via email to newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an  open net.  The topic is “Technical Information and Other Stuff”.   Please join us.
+Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+Email to the club leadership should be sent to contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+An email distribution list for club members named “MMRA” has been established at:
+http://www.yahoogroups.com/
+
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is greatly appreciated.
+
+------------------------
+MMRA October Board of Directors Meeting
+Bob Evans — N1BE — Clerk
+
+The MMRA board met at Kennedy's Pub in Marlborough, MA on the evening of October 15th.  K1KWP, K1IW, W1MPN, W1BRI, N1NVK, N1KJN, W1DYJ, KC1US, WA1NVC and N1BE were present.  The business discussion began at 7:30 PM.
+
+
+Treasurer K1KWP presented a report of income and
+expenses for this fiscal year compared to previous years.  Kevin's report included a list of 63 members who have not renewed. It projected $816.83 of currently
+unallocated funds from this years dues if all those
+memberships were renewed.
+
+
+Looking to save costs and encourage all members to receive newsletters electronically, the board passed the following motion:  Effective at the time of the May 20th MMRA meeting, ten dollars in addition to dues will be charged to cover the cost of paper newsletters for those renewing members who choose to receive paper newsletters.  This charge for paper newsletters will take effect sooner, on Jan 1, 2009 for new memberships.  This newsletter charge will be prorated for those who join in the second half of the fiscal year just as dues are.  The charge for paper newsletters does not apply to
+lifetime memberships since those members have already been renewed for their lifetime.
+
+
+Repeater status was next discussed covering many of the machines.
+
+Marlboro 147.27 has some problem in the antenna system.  Bryan, W1BRI reports the SWR is 3.5:1.  As a result transmit power is reduced.  Roger, WA1NVC suggests using a TDR measurement to see how far the fault is from the lower end of the feed line.  Since this repeater is one of our best for coverage, a rapid repair is desirable.  However, we would not like to pay about $2000 for a tower climber to do a repair and then need to do this again when Marlborough moves forward with their plans for
+Stevens Park. Although Roger suggested getting an estimate for tower work, no other action was taken.
+A query about the Lahey Clinic Burlington site, where the Stoneham VHF & UHF repeaters are moving, revealed that we will not be paying for rent or utilities at the Lahey site.
+
+The Stoneham repeaters will be removed from the site on Saturday Oct 18th.  About 12 or 14 MMRA members have indicated they will help with this task.  Bob, K1IW has contacted these members with time and talk-in info for the start of this activity.  We have an ambitious goal of getting the VHF & UHF
+repeaters operational in Burlington by the end of the day.  To that end, a few of the people working on the move will be setting up antenna mounts and feed line in preparation for the arrival of the repeaters.
+
+K1IW has obtained a coordination for the Burlington UHF repeater to operate on 446.775.MHz.  The board voted to move the repeater to this frequency and operate it again with an omni-directional
+antenna.  The expectation is that the frequency change may eliminate interference to Pave Paws.
+WA1NVC also has the transmitter of his 10-meter repeater at the Stoneham site.  Roger recruited a few more helpers to remove this repeater at the same time the MMRA equipment is moved.  (The receive half of this repeater is in Brookline.)  Roger offered to donate his 10-meter repeater to the MMRA.  The board agreed to take possession of the repeater effectively immediately.  Since we do not yet know where the repeater might be used, we plan to store it at Weston temporarily.
+
+For Southboro, Roger proposed some tests to
+determine whether it is feasible to link this site to the Weston hub.
+
+The lightening protection equipment ordered for Quincy has arrived.  Bryan proposes to add another lock to one of the doors that must be passed through to access the repeater.
+
+
+Public Service Coordinator, KC1US reported the Head Of the Charles Regatta will be using some assets for their event this weekend.  Specifically, Belmont,
+Brookline and the Clay Center repeaters are allocated to this event.  When queried about any planned events that would use the Stoneham repeaters, Bruce answered that none were scheduled.
+
+
+Our next general membership meeting is Nov 19th at the Burlington Public Library.  ARRL New England Vice
+Director K1TWF will be the speaker.  This is an
+opportunity for MMRA members to express their
+interests to the League.
+
+
+The meeting adjourned at 9PM.
+
+-------------------
+A “Universal” HT Battery Pack ~ Steve Telsey, N1BDA 
+
+Problem:  I have several hand-held radios that use different battery packs and different voltages.  I am active in public service and emergency communications and spare power is essential.  With battery packs ranging from $40 to $90 each, I sought a better way.  
+
+Solution:  A “universal” battery pack that can use 1.5 volt alkaline or 1.2 volt rechargeable cells and can support any radio with an external power socket and voltage under 15 volts.
+
+The battery pack is built around 2 enclosed 4-AA holders and 1 enclosed 2-AA holder.  These are available from Radio Shack as model 270-409, $1.99, and model 270-408, $1.69, respectively.
+
+Step 1:  Determine how you will configure the holders.  In the photo below, the 2 4-cell holders are fastened with hook and loop one on top of the other with the 2-cell holder fastened along the edge.
+
+Step 2:  Rewire the holders so that the holders are in series.  You might want to replace the wires with heavier gauge and a different color.  This was not done in the prototype.
+
+Step 3:  Attach a Powerpole connector to the wires at the end of the circuit.  15A connectors are more than sufficient.
+
+The battery pack is done.   You should have 10 cells wired in series.  For the next discussion, I assume you need 12 volts.  If you use 1.2 volt rechargeable cells, fill all 10 cells.  If you use 1.5 volt cells, you only need to use 8.   If your radio takes 12 volts directly into a coaxial power socket, you can use a cable with the proper coaxial plug at one end and a Powerpole plug at the other.  If you have several radios with different coaxial sockets, all you need are additional coaxial plug-Powerpole cables. 
+
+One approach is to insert 2 shorted cells which completes the circuit with effectively 8 active cells.   You can build something using dowels and wire or rummage in your junk box and find 2 discharged and non-usable cells.  The type doesn’t matter as long as they are AA.   Do not use cells with a charge in them – leave them in a flashlight overnight if necessary.  Then drop a bead or two of solder to short out the positive and negative poles.  The faint lines in this photo indicate where the solder was placed. 
+
+If you need a voltage less than 12, there are two alternatives.  First, add additional shorted cells.  For example, if you need 9.6 volts, insert eight 1.2 volt cells and four shorted cells.  Second, connect a car lighter socket to the pack using a Powerpole and then use the DC charger for your radio.  If you provide 12 volts to the socket, the charger should drop the voltage to that required by your radio.
+
+That’s my solution.  What’s yours?
+
+-----------------------------------
+
+W1QFD — SK
+
+Anthony (Tony) Yuoska (W1QFD) passed away Saturday Oct 25, 2008.  Many years ago in the late 1960's, when 2M repeaters were still experimental, Tony was a genuine pioneer in the hobby.  Tony provided equipment, expertise and most importantly the Marlborough repeater location that's still in use today.  Tony was always willing to help in any way possible.  Those of us who have been around since those early days, will recall the fun of experimenting with antennas, diplexers, surplus transceivers and remote sites with Tony.  He will be missed by all who knew him.
+73's Doug Linden - K1VXD
+
+--------------------------------
+Pictures from the Stoneham move to Burlington
+
+On Saturday, 18 October, both of the repeaters at the old Stoneham Hospital site were moved to Lahey Clinic in Burlington.  The 2M repeater, 146.725, was back on the air in about six hours!  The 70 cm repeater, moved to a new frequency of 446.775, took a little longer.
+
+Both are up and running, and reports show that they play much better along the 128 corridor although they are not as good going down I93 to Boston.  Here are some photos from the move.
+
+Clockwise, from upper left:
+	This is a very hard wall!
+	How many hams does it take to string a coax?
+	Where does this wire go???
+	Lightning Protection
+	What do you mean, the DB224 is a bit long for my SUV?
+
+----------------------------
+September Membership Meeting 
+Bob Evans — N1BE 
+
+The MMRA held a general membership meeting on the evening of Sept 17, 2008 at the Weston Public Library.
+
+MMRA Treasurer, Kevin, K1KWP presented an update of current club activities.  During this portion of the meeting, three items of business were voted on by the members present.  All were unanimously approved: 
+	Daniel, N1KJN, of Haverhill was elected to serve as MMRA Secretary.
+	An expenditure of $300.00 was approved for Quincy site work.
+	An expenditure of $700.00 was approved for equipment to move the Stoneham repeaters to the Lahey Clinic in Burlington.
+
+The main presentation was a multi-media tour of our repeater sites by
+MMRA President, Bob, K1IW.  The presentation began with a short tutorial on the new easy linking and unlinking codes.  This was a great opportunity to see all the MMRA repeaters and their sites.
+
+--------------------------
+MMRA's D-Star repeater on the air 
+Bob DeMattia ~ K1IW
+
+The MMRA's D-Star repeater is now on the air from the Marlborough East site.  Operating on 145.16(-), it is the first D-Star repeater operating in Greater Boston area, and the first VHF D-Star system in the state.
+
+The repeater is owned by N1KMA and is located in MMRA's shelter through a lease arrangement.  Part of that arrangement is that the repeater is sponsored by MMRA, and operates with the W1MRA call sign.
+
+To configure your D-Star radio, dial up the following settings:
+
+	RX: 145.160 MHz, with minus 600KHz offset
+	YOURCALL: CQCQCQ
+	RPT1: W1MRA  C (two spaces before the C)
+	RPT2: blank
+
+-----------------------
+Treasurer’s Report
+Kevin Paetzold, K1KWP
+
+Income	   Dues			  $3785
+	   Donations		    633
+	   Misc.		    113
+	   Total		  $4531
+
+Number of members renewed to date =   126
+Number not yet renewed from last year = 63
+Expected renewals = 39		  $ 975
+	Expected income	 	  $5506
+
+Expenses   Spent to date	  $3359
+	   Expected expenses	   1329 
+	   Total		  $4688
+
+Discretionary Funds 		  $ 818
+
+------------------------
+President’s Message
+Bob DeMattia, K1IW
+
+It occurs to me that this is our last newsletter of 2008.  By the time you receive the next one, both Thanksgiving and Christmas will be memories and the club will be revving up its Spring public service event activities.  In addition to the numerous events for which we provide repeaters, the club takes an active role in the organizing the amateur radio efforts for the Boston Marathon in April, and the Walk for Hunger in May.  Look for announcements in January for both these events.  In the meantime, you may want to pencil in the dates on April 20th for the Marathon and/or May 3rd for the Walk for Hunger.  If you have participated in the past, you know what great training and public relations opportunities they are.  If you've never participated - here's your chance.
+
+
+On another note, I hate to sound like a broken record (or is it a scratched CD), but I must  mention one more time to make sure you've got your membership dues up to date.  As of right now, fifty members have not renewed - about 25% of the club.  The club's primary source of income are these dues, so please, if you haven't already remember to renew!
+
+
+No one likes to operate on 75% of their annual budget, including the club!
+
+--------------------
+Upcoming MMRA Meetings
+
+Nov 19  7 PM	Burlington Public Lib.	ARRL Update — Mike, K1TWF
+Dec 17 		Stratus 		Board Meeting
+Jan 21		Westboro Public Lib	902 MHz — John, N1OTY	
+Feb 11*		Chin’s, Marlboro	Board Meeting
+Mar 6 * 7 PM	FARA Club Shack	SSTV on ISS, Greg, WF1F
+Apr 15		Watham-Weston Corp	Board Meeting
+May 20		Clay Center	Ron Dankowitz—Latest in Space Science
+			and General Elections
+	* Not the 3rd Wednesday
+
+---------------------
+MMRA Leaders
+
+President			Bob DeMattia		K1IW
+Vice President			Steve Telsey		N1BDA
+Secretary			Dan Rajczyk		N1KJN
+Treasurer			Kevin Paetzold		K1KWP
+Clerk				Bob Evans		N1BE
+Technical Officer		Bryan Cerqua		W1BRI
+Director 2008-10		Clark Conti		N1NVK
+Director 2008-10		Mike Neilsen		W1MPN
+Director 2007-09		Steve Schwarm		W3EVE
+Director 2007-09		Roger Coulson		WA1NVC
+Emergency  Coordinator		open
+Net Manager			Larry Banks		W1DYJ
+Newsletter Editor		Larry Banks		W1DYJ
+Public Service Coordinator	Bruce Pigott		KC1US
+VEC Liaison			Bill Wade		K1IJ
+Web Page Editor			Bob DeMattia		K1IW
+
+---------------------
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational
+and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net..  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
+
+We need another net control!
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+
+Current Net Control Operators:
+
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	???		OPEN	
+Week 3	W1DYJ		Larry Banks
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+-------------------------
+Newsletter Delivery
+If you received this via US Mail, you should think about having it sent by eMail.  You will receive it earlier, it will be in color, and it may have MORE great content! Send your request to N1KJN@mmra.org.
+
+Starting next year, US Mail delivery of the newsletter will be an additional $10/year.
+
+Past Newsletters are available at
+ http://www.mmra.org/
+
+--------------------------
+End of Newsletter

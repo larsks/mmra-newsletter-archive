@@ -1,0 +1,356 @@
+The Minuteman
+Volume 42, Number 1
+September 2012
+----------
+
+Membership Meeting ~ Wednesday, September 19 ~ 7 PM
+
+Bob Stone, N1KMA of Newfield Design
+
+Newfield Design based in West Newfield, ME has developed a unique repeater control technology that has a wide ranging implication in both the Amateur and Commercial radio markets. Bob, Chief Technology Officer and inventor of this technology will explain the capability of the Expandable Radio Control System (ERCS) and their upcoming product can support a large number of communication protocols. The ERCS makes the repeater behave like a chameleon that can handle an analog call at one moment, DMR at the next moment, then D-STAR after that. Talk about making good use of your repeater, this can't be much better! All of this is done by a patented Digital Signal Processing (DSP) solution created by Bob Stone. 
+
+Location: Holiday Inn Boxborough Woods, Boxborough, MA, just off I-495 at Exit 28, Route 111.
+(Home of the ARRL New England Convention)
+
+We also invite you to a pre-meeting dinner at 5:30 in the Minuteman Grill, located in the hotel.
+Talk-in: 147.27
+----------
+
+Boxboro Winners
+Winners of the MMRA Door Prizes at the
+ ARRL New England Convention in Boxboro
+
+KB1WAL		ICOM HF Setup
+AB1IC		Alinco HT
+K1IJ		Diamond Wattmeter
+KI6MEU		ARRL Extra Class License Manual
+AB1PM		ARRL General Class License Manual
+----------
+
+Have you renewed your membership yet?
+
+
+All 2010 memberships expired on August 31st! If you haven't renewed - it's time!  Go to the Member's login link at www.mmra.org to renew online.  If you prefer to renew by U.S. Mail, you can print out a membership application and mail it with a check to MMRA, PO Box 669, Stow, MA 01665.
+----------
+
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in Eastern
+Massachusetts.
+
+The MMRA meets (usually) on the 3rd Wednesday of each month from September to June.  Meeting times, locations, and talk-in frequency vary and are announced in this newsletter and on weekly nets.  Meetings are open to all interested parties.  Guest speakers and programs of general interest occur in September, November, January, March, and May.  The intervening meetings are also open to all members and are for general business.
+
+The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+
+Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+
+Email to the club leadership should be sent to 
+contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+
+An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
+
+MMRA QRM Policy
+---------------
+MMRA members and all other operators are strongly encouraged to report repeater 
+activity that does not abide by Part 97 rules or accepted amateur radio practice to the board of directors at contact@mmra.org or via other means.
+
+The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
+----------
+
+President’s Corner — Current Events
+
+Bob DeMattia — K1IW 
+
+Over the past few years, there's been a lot of flux over digital voice modes on FM.  It started with APCO/P25 and DSTAR.  Soon after, other protocols came out - with so many names that it created a lot of confusion.  IDAS, NEXGEN, MotoTrbo were the most prevalent ones.  In reality, there are four digital modes on the FM bands of any significance right now: DSTAR, NXDN,, P25, and DMR.  The other names you hear are just manufacturer's names for something that conforms to one of the standards.  
+
+Our meeting on September 19th will give a brief overview and comparison of these four modes.  Following this, our guest speaker Bob Stone, N1KMA, will show off his company’s new product which will enable repeaters to handle all these competing modes in one box.  I hope to see you there!
+
+NOTE!!!
+There will be a vote at the NOVEMBER membership meeting on an update to the MMRA bylaws.  A brief summary of the changes and a complete text of the new revision on the MMRA website will be made available on or about October 1st.
+----------
+
+May Membership Meeting ~ Northborough Free Library
+
+Annual Meeting 
+and the
+ 3Y0X DXpedition: 
+Frozen wasteland, environmental treasure, or ham radio paradise?  
+You be the judge!
+(But you had to be there to see the DVD!)
+
+
+
+
+Election Results
+
+President	Bob DeMattia	K1IW
+Vice President	Steve Telsey	N1BDA
+Secretary	John McGovern	W1JMC
+Treasurer	Kevin Paetzold	K1KWP
+Clerk		Bob Evans	N1BE
+Tech. Officer	Bryan Cerqua	W1BRI
+Director »2014	Clark Conti	N1NVK
+Director »2014	Mike Neilsen	W1MPN
+----------
+
+MMRA June Business Meeting
+Bob Evans ~ N1BE ~ Clerk
+
+The MMRA met for a business meeting at 7PM on June 20, 2012, at the Stratus Technologies corporate headquarters.  K1KWP, K1IW, W1DYJ, W3EVE, W1MPN, N1BDA, KB1UKU, N1NVK, N1DDK, WA1NVC, W1BRI, AB1IC, KB1PRE, KB1SMN, KB1UBW, K3FG, K1BOS, W1NGS, W1RSA and N1BE attended the meeting.
+
+The meeting opened with a treasurer's report by K1KWP.  Details will be presented elsewhere in the newsletter.
+
+After seeing the MRW power bills reported by Kevin, we considered using different power supplies to lower power costs.  We decided to take no action until it is clear what the MRW antenna situation would become.
+
+Next we discussed whether to modify the MMRA prorated dues policy.  The board approved a policy change that dues would always cost $25 per individual.  Dues paid from Sept through February would apply towards the current membership year (ending at the end of August).  Dues paid March 1 or later would give membership through August of the following year.
+
+Bob, K1IW gave a brief report of the status of all the MMRA repeaters.
+
+We quickly discussed potential for placing a repeater on Mt. Wachusett where W1OJ (SK) had a UHF repeater.  K1IW has not had contact with the FEMA person that could give more information on this situation.  Hence no action was taken.
+
+Bob next led a discussion of replacement antennas and other expenses related to rebuilding the tower by the City of Marlborough at MRW.  At present all MMRA antennas are off the tower, several hundred feet lower near the shelter.  However, there is much uncertainty about whether our shelter will need to be moved and where MMRA antennas will be finally positioned.  The discussion suggested optimistically about $1000 for two replacement VHF and UHF antennas, $600 for a 6-meter antenna, $2000+ for tower climbers, $1000+ for coax/cable trays and $1000 to move the shelter.  Since we did not have a quorum, we will ask the membership to allow the board to spend up to $8000 for this purpose.
+
+Roger, WA1NVC proposed having two backup replacement repeaters, one for VHF and one for UHF available in case one of the in-service repeaters fails.  No action taken.
+
+The 145.43 repeater is located at the house of the previous trustee, WA1RTT.  MMRA fixed this repeater multiple times.  Now that WA1RTT has become a silent key we need to consider the disposition of this repeater.  Several components of this repeater belong to the widow of WA1RTT.  K1IW proposed offering the widow $600 for the power supply, Vocom PA, duplexer and rack with RF metering so that except for antenna and feedline, the MMRA will completely own the 145.43 repeater.  The board approved polling the membership to approve this expenditure.
+
+145.16 D-Star is ready to go back to Boston.  The transmitter output is now set to 50W.  When we can get access to the site, it will be placed back at the Pru.
+
+Proposed Bylaw change from May meeting.  Given other related inconsistencies in the bylaws, K1IW has withdrawn this proposal.  A future proposal will consider the other aspects of this issue.  W1MPN, N1DDK, W3EVE, K1IW and N1BE agreed to work offline to develop this proposal.
+
+The plans for the Boxboro were discussed.  K1IW signed up people to staff the MMRA hospitality suite.  The board agreed to print 200 trifold brochures.  K1IW plans to replace our posters that got soiled by rain. Bob also got eight people to sit together at the Saturday banquet.  Bob and W1MPN have acquired the raffle prizes.
+
+Mike, W1MPN, gave an update on the MEMA ACS plans for emergency communications.  Implementation of ACS has been put on hold at present. The traditional RACES and ARES will be used if there is a need for emergency communications during this summer.
+
+The meeting adjourned at 9:10PM.
+----------
+
+D-Star Update
+Bob DeMattia — K1IW 
+
+The D-Star repeater (146.160, W1MRA) is currently off the air.  There was a PA failure.  While it was out being repaired,  our sponsor notified us that they will be relocating their equipment within the building.  Rather than reinstall our system, then have to move it a second time a few weeks later, we are coordinating our reinstall with their move date.  
+
+The latest info from the engineer at the Pru is that he is currently finishing up two other engineering projects.  He also just recently submitted funding requests for the above mentioned move at the Pru.  
+
+The project should be approved in early October and work would begin 2 -3 weeks  after this.  So right now, this is the earliest we can expect to be back up there.
+----------
+
+Sligo Update
+The Cone is finally back on the tank...
+...but there are issues with it.  See the next page.
+----------
+
+Repeater Update
+Bob DeMattia — K1IW 
+
+The most significant issue facing MMRA right now is the situation at Sligo Hill.  As is well documented, the  City of Marlborough required us to remove our antennas from the top of the water tower in order for them to complete renovation of the conical roof.  This appears to be complete, however, we are being told there may be structural issues with the roof and it may need to be removed to be serviced.  Because of this, we cannot reinstall our antennas and are operating 144.39, 147.27, 224.88 and 449.925 from a pair of tri-band antennas at the 20-30 foot level.  927.7 is completely off the air.
+
+The situation is not expected to resolve anytime soon.  This means expected reduced coverage areas for these machines.  Additionally, the 449.925 antenna is located in close proximity to a high-power commercial transmitter operated by National Grid.  It is believed that this is causing significant receiver desense.
+
+To add to the problems at Sligo, one half of the 147.27 power amplifier failed earlier this year and has not been repaired.  Thus the '27 transmitter is now operating at about 40W.
+
+Another site problem is 145.16 in the Back Bay.  The PA on this system failed and was removed for repair.  Our host at this site informed us that the landlord wants them to relocate their equipment, thus we are coordinating our reinstall to this relocation - that way we don't need to make two trips.  Additionally, we are expecting that we will have a completely new repeater available to us in the near future.  Thus, pending the relocation project, we should have a new repeater installed by the end of this year.
+
+INDIVIDUAL REPEATER STATUS
+   29.680 	OK
+   53.810 	OK
+ 144.390 	Operating at reduced antenna height
+ 145.160 	OFF THE AIR
+ 145.430 	OK
+ 146.610 	OK - low link audio has been fixed
+ 146.670 	OK
+ 146.715 	OK
+ 146.790 	OK - high link audio has been fixed
+ 146.820 	OK
+ 147.270 	Operating on reduced power and antenna height
+ 223.940 	Unlinked due to link radio failure
+ 224.400 	OK
+ 224.700 	OK
+ 224.880 	Operating on reduced antenna height
+ 442.250 	OK
+ 442.700 	OK
+ 446.775 	OK
+ 449.575 	OK
+ 449.925 	Operating on reduced antenna height; proximity to high-power National Grid transmitter is significantly reducing receiver sensitivity
+927.0625 	OK
+927.7000 	OFF THE AIR
+----------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay League, through which Amateur Radio in the United States is represented nationally and  internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+----------
+
+2012—2013 Meetings
+
+19 September — Membership Meeting
+Bob Stone, N1KMA of Newfield Design
+Holiday Inn, Boxborough, MA ~ 7:00 PM
+
+17 October  — Membership Meeting
+General Business
+Location TBA ~ 7:00 PM
+
+21 November — Membership Meeting
+Topic TBA
+Location TBA ~ 7:00 PM
+
+19 December — Membership Meeting
+General Business
+Location TBA ~ 7:00 PM
+
+16 January — Membership Meeting
+Topic TBA
+Location TBA ~ 7:00 PM
+
+20 February — Membership Meeting
+General Business
+Location TBA ~ 7:00 PM
+
+20 March— Membership Meeting
+Topic TBA
+Location TBA ~ 7:00 PM
+
+17 April
+——-
+No meeting in April
+
+15 May — Membership Meeting
+Topic TBA
+Location TBA ~ 7:00 PM
+
+19 June — Membership Meeting
+General Business 
+
+Location TBA ~ 7:00 PM
+----------
+
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	KQ1Y		Tim Wortley 
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using the digital modes during the Net: 
+Echolink node *NEW-ENG* (9123)
+IRLP node 4133
+----------
+
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2014		Clark Conti	N1NVK
+Director  »2014		Mike Neilsen	W1MPN
+Director  »2013		Steve Schwarm	W3EVE
+Director  »2013	Roger Coulson	WA1NVC
+
+Repeater Trustees, Appointed
+Boston 927.0625		Rick Zach	K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Bruce Pigott	KC1US
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Lowell 442.250		Vince De La Flor  K1LVF
+Marlboro 53.810; Quincy 146.670; Southboro 449.575
+	
+		Bryan Cerqua	W1BRI
+Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
+Belmont 145.430;  Weston 442.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  Bruce Pigott	KC1US
+VEC Liaison		Bill Wade		K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+
+www.mmra.org
+Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           
+Weekends 8 AM to 10 PM.
+Accredited by the ARRL VEC
+----------
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+8 Sep	Ballston Spa NY SCRACES @FG
+ 8 Sep	Woonsocket RI BVARC 8AM @HI
+ 8 Sep	Windsor ME AARA @FG
+ 9 Sep	Newtown CT CARA @TownHall
+15 Sep	Forestdale RI RIAFMRS @VFW
+15 Sep	Windsor CT VR+C Mus
+16 Sep	Cambridge MA  FLEA at MIT
+22,23 Sep Wakefield MA @AmericalCtr
+29 Sep	Center Conway NH WMARC @RecCtr
+29 Sep	Brookline NH NEAntqRC@EvntCtr
+ 6 Oct	Greenwoodd NS GARC @CommCtr
+ 7 Oct	Meriden CT Nutmeg @Sheraton
+12,13 Oct Deerfield NH NEARFest XII @FG
+14 Oct	Queens NY HoSARC @HoS
+20 Oct	Longueuil PQ CRAR-SdeM
+21 Oct	Cambridge MA  FLEA at MIT
+27 Oct	Gales Ferry CT TCARC @FireCo
+28 Oct	Hicksville NY LIMARC @LevitHall
+ 2 Nov	Feeding Hills MA HCRA @CongCh
+ 3 Nov	Bourne MA FARA @UpperCC VoTech
+ 3 Nov	Londonderry NH IRS @Lions
+ 1 Dec	Windsor CT VR+C Mus
+16 Feb	Marlboro MA AARC @MidSc
+23 Feb	S Burlington VT HAM-CON @HI
+ 2 Mar	Feeding Hills MA @TurnverneinClb
+3,4 May	Deerfield NH NEARFest XII @FG
+ 1 Jun	Hermon ME PSARA @HS
+15 Jun	Newington CT NARL @StMarySch
+----------
+
+End of Newsletter

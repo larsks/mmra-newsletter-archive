@@ -1,0 +1,272 @@
+The Minuteman Repeater Association
+
+The Minuteman
+Volume 40, Number 5
+May 2011
+
+--------------
+
+
+Membership Meeting ~ Wednesday, 18 May 2011 @ 7:30 PM
+
+
+Phil Temples on the Courage HandiHam system
+
+Tatnuck Bookseller, 18 Lyman St. (at Route 9), Westborough
+
+Talk in — 147.27
+
+
+
+Phil is an instructor for the Courage HandiHam system, a program which provides tools to people with disabilities to learn amateur radio and technical skills. Phil will show an informational video about the system, and will speak about his experiences with this program. 
+
+
+
+We will also be holding our annual elections at this meeting. If you would like to nominate someone to be an officer, please
+ contact us at contact@mmra.org.
+
+Directions:	 
+>From the North/South/East: Take I-495 to the route 9 interchange in Westborough. Head West on route 9 to the Lyman street traffic light. Take a left onto Lyman street. Tatnuck Bookseller will be about 1/2 mile down Lyman on your right. 
+
+>From the West: Take route 9 east to the Lyman street traffic light in Westborough. Turn right onto Lyman Street. Tatnuck Bookseller will be about 1/2 mile down Lyman on your right. 
+
+
+----------------
+
+Nominating Committee 
+Report
+
+President	Bob DeMattia	K1IW
+Vice President	Steve Telsey	N1BDA
+Secretary	John McGovern	W1JMC
+Treasurer	Kevin Paetzold	K1KWP
+Clerk		Bob Evans	N1BE
+Tech. Officer	Bryan Cerqua	W1BRI
+Director  »2013	Steve Schwarm	W3EVE
+Director  »2013	Roger Coulson	WA1NVC
+
+--------------
+
+President‘s Corner
+Bob DeMattia (K1IW)
+
+Welcome to the MMRA!  
+
+	Each year, many people opt to join MMRA during our 'discount period'.  For new members, dues are partially prorated during the months of January through April.  For some, this may serve as a trial period - an opportunity to be a member at a reduced price.  
+	Hopefully, you will enjoy our repeaters, our club meetings, activities, and excellent newsletter enough that you'll want to renew your membership for a full year come September.  If you're still on the fence, please continue to join us in the fall.  Our meetings are open to all!
+	Although dues are due in September, newsletters are made available to all 'just expired' members through a grace period into January.  
+	Have you been to one of our meetings?  We strive hard to offer interesting and varied speakers and topics.  This past year, we heard from an RF expert on antennas and feedlines, the president of AMSAT, and the owner of a commercial radio station.  Next year's schedule starts coming together during the summer, so stay tuned for details.  
+	Because our club has members from all over Eastern and Central Mass, New Hampshire, and Rhode Island, we try to rotate the meeting locations. No one location will be convenient to all, but hopefully at least one will be convenient to you!  If you have an idea for a topic, send it along to contact@mmra.org.
+
+------------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay League, through which Amateur Radio in the United States is represented nationally and  internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+
+-----------
+
+March Membership Meeting 
+Ed Perry, Founder and President of 95.9 WATD in Marshfield
+
+WATD is one of only a few locally owned and operated FM broadcast stations in the Boston area. WATD signed on December 6, 1977 and has endured booms and busts in the economy, and a drastically changing broadcast industry. Ed shared his experiences in the broadcast industry. Read Ed's full bio at < http://www.959watd.com/EdPerry.php >.
+
+-------------
+
+Updating an old Mastr II for use in a D-Star System
+
+Harold Read, K3FG ~ Part 2
+
+Part 1, in the last edition of the MMRA Newsletter, was about the receiver.  With the receiver tasks completed, it was time to start on the transmitter. 
+
+The first task was checking the exciter to see if it was working. I connected a dummy load to the exciter output and tested it by keying the unit with the switch on the 19V reg board in the control shelf. This exciter is a PLL model and it has a LED on the board to indicate if the PLL is in sync. The LED lights and the service monitor responded to the signal. After adjusting the ICOM to get the exciter on frequency, I moved on to the PA section. I received a replacement PA section from a mobile unit as a source of spare parts.
+
+It looked pretty clean so I figured the best plan was to simply replace all the boards in the repeater PA with the boards from the mobile PA, since each one was the same part number as its mate. The AP section is comprised of three separate PC boards. You can see the dividing line between the driver and final boards between the two screws near the top of the picture. The other PC board is the output filter and antenna switch under the shield to the right.
+
+The next pictures are of the boards from the repeater PA section. Note the strip of metal that should be connecting the RF signal from the PA to the output filter. When I removed the boards, this connection just fell apart. You can see the effects of arcing that was going on adjacent to the capacitor on the final amp board.
+
+Same thing happened on the other side of the final amp board. The connections to the driver board just fell apart as I removed the boards.  
+
+It’s no wonder the resistor fried.
+
+I figured it would be a pretty straight forward process to swap in the boards from the mobile PA but then, when I got the boards removed from the mobile PA I was greeted with this! Note the missing heat sink from the transistor on the right. It remained attached to the mobile PA chassis heat sink.
+
+So I removed the matching transistor from the defective board, and then installed the transistor on the new board, hoping it would work OK. A simple resistance test had indicated no shorted sections on the part. 
+
+The operation was a success and the patient lives! So now the PA is working as expected and putting out 100W into a dummy load with no further adjustments needed.
+
+A review of the exciter components showed that the exciter and audio processor boards are low band split boards, but the band pass filter was a high band split part. I reviewed the component differences and acquired the parts to modify the band pass filter to low band split. 
+
+That completes the modifications to the transmitter section for repair, frequency change and low band split operation.
+
+Next, if you’ll remember I mentioned GE provided the ability to insert an input into this exciter for digital modulation in the next revision of the board layout. The revision provided jumper locations with thru holes so the audio path could be split and brought out to the external connectors.
+
+Well, that’s it for now. I am in the process of putting the exciter board back in the repeater chassis and wiring up the connector on the back for signals from the S-Con and the NQSMHS.
+
+73,  Harold K3FG 
+
+----------------
+
+Ham Radio Volunteer Opportunity in New Hampshire
+Robert Freed, W1RJF 
+
+The Museum of Science is looking to recruit trained Ham radio operators to volunteer for the annual Washburn Climb of Mount Washington on Monday, July 11, 2011.  In addition to their radio skills, volunteers for this event are required to have mountain first-aid training, solid hiking experience, and leadership skills, as they will need to hike to designated spots along the trail and may be responsible for guiding and assisting other climbers. 
+
+Ham radio volunteers will be strategically placed at various check-in points on the mountain including but not limited to: Ammonoosuc Ravine trailhead, Lake of the Clouds Hut, Mt Washington summit, Tuckerman's Junction, Hermit Lake Hut, and Pinkham Notch Visitors Center. Radio operators will be responsible for checking in each climber and relaying all information to both the Climb Organizer and the next check point volunteer via Net Control. All volunteers must attend a pre-climb briefing on Wednesday, July 6, 2011.  The “hiking hams” are supported by the AMC Boston Chapter and the White Mountain Amateur Radio Club.
+
+Volunteers will receive a free Washburn Climb t-shirt, lodging in NH for July 10 and July 11, and are invited to the post-climb celebration dinner on July 11. 
+
+Interested in volunteering?
+Go to www.mos.org/washburnclimb to learn more and to print out the registration form. All applicants are required to fill out the registration form and mail or fax it using the information provided. A Museum of Science staff member will be in contact upon receipt. All applications will be carefully vetted. Questions: 617-589-4208.
+
+--------------
+
+Membership Statistics
+The MMRA has now reached membership parity (this year) with last year.  
+
+ 	   Individual  Family  Total 
+2005-2006 	138 	14 	152 
+2006-2007 	151 	16 	167 
+2007-2008 	147 	13 	160 
+2008-2009 	173 	 9 	182 
+2009-2010 	163 	12 	175 
+2010-2011 	162 	13 	175 
+2011-2012 	 56 	 5 	 61 
+
+---------------
+
+A Ham Family
+Congratulations to Julia DeMattia (age 12) who recently passed her tech exam.  That makes a 100% ham family!
+
+Bob, K1IW
+Joyce, N1QPH
+David, K1DVD
+Julia, K1JLA
+
+All four participated as ham operators in the Walk for Hunger on 1 May.
+
+------------
+
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	KQ1Y		Tim Wortley 
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using the digital modes during the Net, use the New England Reflector:
+	For IRLP use node 9127
+	For Echolink, connect via *NEW-ENG*.  You can find this under “Node Types” >> “Conferences”
+
+---------------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM
+Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+
+-----------------
+
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2011		Steve Schwarm	W3EVE
+Director  »2011		Roger Coulson	WA1NVC
+Director  »2012		Clark Conti	N1NVK
+Director  »2012		Mike Neilsen	W1MPN
+
+Repeater Trustees, Appointed
+Belmont 145.430		Larry Arone	WA1RTT
+Boston 927.0625		Rick Zach	K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Bruce Pigott	KC1US
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Lowell 442.250	V	ince De La Flor	K1LVF
+Marlboro 53.810, Quincy 146.670, 
+Bryan Cerqua	W1BRI
+Marlboro 144.390, 47.270, 224.880, 449.925, 
+Weston 442.700, 927.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  	Bruce Pigott	KC1US
+VEC Liaison		Bill Wade	K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+
+-----------------
+
+Calendar of Ham Radio Events
+New England Area Ham - Electronic Flea Markets 
+See this web site for contact information
+ http://mit.edu/w1gsl/Public/ne-fleas
+
+14 May 		Gloucester MA 		CAARA @LanesvilleCC 
+14 May 		Halifax NS 		HARC @Forum 
+15 May 	C	ambridge MA  		FLEA at MIT
+28 May 		Vernon CT 		NARC @Toland AgCtr 
+  3 June 	Feeding Hills MA 	HCRA T@6PM 
+  4 June 	Windsor CT 		VR+C Mus 115 Pierson LN
+  4 June 	Goshen CT 		SBARC @FG
+  4 June 	Hermon ME 		PSARC 8AM @HS
+11 June 	Windsor VT 		CVFMA @HS Free
+18 June 	Newington CT 		NARL
+19 June 	Cambridge MA
+17 July 	Cambridge MA
+23 July 	N Haven CT 		YankeePeddler @HI
+13 Aug 		Milo ME 		PARC @HS
+21 Aug 		Cambridge MA
+28 Aug 		Adams MA 		NoBARC @FG
+10 Sept 	Windsor CT 		VR+C Mus
+11 Sept 	Newtown CT C		ARS @TownHall
+17 Sept 	Alexander ME 		StCVARC @ElSch
+17 Sept 	Forestdale RI 		RIFMRS @VFW
+18 Sept 	Cambridge MA
+2 Oct 		Queens NY 		HoSARC
+9 Oct 		Wallingford CT 		Nutmeg Conv
+14,15 		Oct Deerfield NH 	Nearfest X @FG
+
+-------------
+
+END OF NEWSLETTER

@@ -1,0 +1,443 @@
+﻿The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+Volume 50, Number 1
+September 2020
+----------
+
+Wednesday, 16 September, 2020 ~ Membership Meeting ~ 7:30—9:30 pm
+Introduction To Oscilloscopes For The Shack and Bench
+Paul A. Topolski, W1SEX
+PLUS —  A membership vote for a new repeater at HUB 2
+Location: ZOOM  — Members: login to the MMRA Webpage for the link
+Non-members: send an email to contact@mmra.org
+
+The oscilloscope is one of the most useful instruments on your test bench and in your ham shack.  Scopes bring a wealth of information about your transmitted signal that verifies your transmitter
+settings.  On the bench, an oscilloscope can measure a plethora of signals and measure the response of electronic components and circuits.  Even some surprising measurements such as “how much coax is on that reel” and the impedance.  A specialized scope called a spectrum analyzer can even measure the SWR of your antenna.  We will also touch on other specialty scopes such as station monitors and curve tracers.
+
+Join me for an interesting evening of learning with a video presentation, live demonstrations, and a live interactive Q&A session.
+
+Paul, an Extra class ham licensed for over twenty-eight years is one of the ARRL Western MA Section Technical Specialists and enjoys bringing the technical side of the hobby to fellow radio amateurs.  Paul's early professional career was in the electronics industry working for the former Simplex Time
+Recorder Company starting as a field Technical Representative and culminating as a Senior Sales
+Engineer.  Prior to retirement Paul's second career was in the law enforcement profession serving in both civilian and sworn positions.
+----------
+
+Notice:
+Memberships expired on August 31st.  If you have not renewed, please go to our web: www.mmra.org, log in and click the RENEW MEMBERSHIP link.
+----------
+
+Results of MMRA Officer Elections:
+N1DCH 	David Hornbaker President 
+WA1MDD 	John Spencer 	Vice President 
+K1KWP 	Kevin Paetzold 	Treasurer 
+W1HFP	Jason Peardon 	Secretary 
+KC1JUO 	Charles Miller 	Clerk
+N1DDK 	James Lee 	Director  ? 2022
+N1BE 	Bob Evans	Director  ? 2022
+----------
+
+President’s Corner ~ David Hornbaker, N1DCH 
+
+Memberships which expire in 2020 are considered expired as of August 31st. There is a grace period until December 31, 2020.  Please renew before the end of the grace period.  You can check your expiration date on the web site (https://www.mmra.org).  Please remember that renewal is a manual process; please allow a week for processing.  If you have any issues or questions email contact@mmra.org.
+
+I wish to thank Reinier Beeuwkes, W1BFM for his generous donation of a tower and several Icom HTs to the MMRA.
+
+MMRA will continue to have virtual meetings due to the ongoing COVID-19 pandemic.
+
+Due to COVID-19, we do not have access to some repeater sites.  Repairs that cannot be done remotely, have been put on hold.  Currently, this is preventing repairing the tone on 224.880 in Burlington.
+
+The DRx2 spare repeater has been purchased and has replaced the DRx1 at Hopkinton.  The DRx1 will become the spare repeater.
+
+The board has voted to recommend the purchase of a commercial Kenwood repeater to replace the 40-year-old Hub2 repeater.  This will update Hub2 with equivalent equipment to Hub1.  The Board feels that it is important to have high quality commercial equipment for the two hub sites.  I would recommend a yes vote to purchase the new repeater.
+----------
+
+Treasurer’s Report ~ Kevin Paetzold, K1KWP
+
+A new MMRA fiscal year began on June 1,2020. This year will be known as 2020-2021.
+
+The MMRA receives a significant amount of donations each year. Most of this is in direct money contributions. Some donations are of equipment which the club either uses or sells. On behalf of the club I would like to thank people below who donated since my list in the previous newsletter.  Hopefully I did not leave anyone off (and if I did I am sorry):
+
+	K1MOQ 	KC1NJV 	KC1CLA	KC1NJV	KC1IUN	W1BFM >> Check out his tower for sale at http://mmra.org/forsale.  
+
+Detailed financial information is usually presented at almost every business meeting. These meetings generally occur in the months which do not have general membership meetings. They are announced on the www.mmra.org website. All members are invited and encouraged to attend these meetings. Of course much more than the finances are discussed at these meetings including repeater status, repeater decisions, planning, etc….
+----------
+
+Amateur Television Network ~ Steve M Babbitt, KC1LPZ
+
+As the name ATN suggests, this started by a couple of Hams who wanted to link their communications worldwide into the digital age. From the initial video link of a man sitting in a rocking chair with a 
+camera beaming his image across a Repeater to another hobbyist, ATN has flourished, amazingly so,  to a bunch of microwave repeaters throughout Southern California, Northern California, Nevada, Arizona, Delaware, Georgia, Illinois, Kentucky, Missouri, Ohio, Pennsylvania  and Florida. 
+
+Go to https://www.atn-tv.org  for a brief overview. About 6 months ago ATN was featured on the Ham Nation podcast by Gordon West, the well known author of several study guide books many of us have used to pass our licensing test(s). 
+
+I have been accessing ATN for several months now even though I do not possess a repeater here in my backyard in Framingham and you, too, can access their network by either their YouTube Channel at http://youtube.com/amateurtelevisionnetwork  or by https://whereby.com/ATN1  with a desktop, laptop, Smartphone or iPhone that has a working camera and microphone. Roland Hoffman – KC6JPG – is the net control for their weekly net every Tuesday evening at 10:30 PM EDT. I am a regular fixture on their network every Tuesday through my laptop over their “whereby.com” website. I believe they have 50 rooms –channels - on whereby.com for free access and it is through that website that I can check into their Amateur TV Network. There have been hams from as far away as Australia who have checked in just like I do from Massachusetts. Those of us on whereby.com have a session after the formal net is completed and I must say I have met some wonderful Hams that have become regular Tuesday evening participants like myself. My Granddaughter, Skylar, age 13 who had been visiting us earlier this 
+summer for several weeks joined me on the ATN system. She actually got excited about it. I am not sure she will actually get her Tech License as her family has moved from CT to NM and had been 
+preoccupied with the notion of meeting new friends as an adolescent in another part of the country. 
+
+Regardless on whether she 
+becomes a Ham or not, I can easily envision other young minds falling in love with our hobby because Amateur TV is another venue we old timers can offer. I also envision our Minuteman Association 
+becoming a part of this Network directly without the need for an interim site like whereby.com.
+----------
+
+MMRA will be 50 years old! ~ Charles Miller, KC1JUO — Clerk
+
+As I was preparing to submit this year’s Annual Report to the Commonwealth, I downloaded an image of our original Incorporation record of 1 July 1971.  Next year will be our 50th!  
+[Graphic of the original Incorporation record.]
+----------
+
+...and since we are discussing
+ history...
+Tony, N1AP, found his old membership card from 47 years ago.  Does anyone have an older one?  
+— your Editor
+[Photo of Tony's 1973 membership card.]
+----------
+
+More history: from 99 years ago.
+From the Army-Radios.groups.io reflector.
+
+Newspaper headlines from 99 years ago,  15 May 1921:
+
+		“Telegraph Service Prostrated” — The Los Angeles Times
+
+		“Electrical Disturbance is ‘Worst Ever Known'” — The Chicago Daily Tribune
+
+		“Sunspot credited with Rail Tie-up” — The New York Times.
+
+These newspapers were reporting the biggest geomagnetic storm of the 20th Century.  Nothing quite like it has happened since.
+
+It began on May 12, 1921 when giant sunspot AR1842, crossing the sun during the declining phase of Solar Cycle 15, began to flare.  One explosion after another hurled coronal mass ejections (CMEs) toward Earth.  For the next 3 days, CMEs rocked the geomagnetic field.  Magnetometers went off scale; pens in strip chart recorders pegged.
+
+Then the fires began.  Around 02:00 GMT on May 15th, a telegraph exchange in Sweden burst into flames.  About an hour later, the same thing happened in Brewster, New York.  Flames engulfed the switchboard at the Brewster station of the Central New England Railroad and quickly spread to destroy the whole building.  Due to that fire and another one at about the same time in a railroad control tower near New York City’s Grand Central Station, the event became known as the “New York Railroad Superstorm.”
+
+The fires were caused by electrical currents, induced by geomagnetic activity, heating telephone and telegraph lines to the point of combustion, and by induced e.m.f’s breaking down insulation and striking arcs.  Such currents and voltages disrupted telegraph systems in Australia, Brazil, Denmark, France, Japan, New Zealand, Norway, Sweden, the UK and USA.  The Ottawa Journal reported that many long-distance telephone lines in New Brunswick were burned out by the storm.  On some telegraph lines in the USA, voltages spiked as high as 1000 V.
+
+During the storm’s peak on May 15th, southern cities like Los Angeles and Atlanta looked like Fairbanks, with Northern Lights dancing overhead.  Auroras were seen in the USA as far south as Texas.  In the Pacific, red auroras were sighted from Samoa and Tonga and from ships at sea crossing the equator.
+
+What would happen if such a storm occurred today?
+
+Researchers have long grappled with this question –- most recently in a pair of in-depth papers published in the journal Space Weather: “The Great Storm of May 1921: An Exemplar of a Dangerous Space Weather Event” by Mike Hapgood (Rutherford Appleton Laboratory, UK) and “Intensity and Impact of the New York Railroad Superstorm of May 1921” by Jeffrey Love (US Geological Survey) and colleagues.
+
+The preceding summary is drawn from Hapgood’s work.  He painstakingly searched historical records including scientific journals, newspaper clippings, and other reports to create a moment-by-moment timeline of the storm.
+
+Jeffrey Love and colleagues found some old magnetic chart recordings that had not gone off scale when the May 1921 CMEs hit; and, using these data, they calculated the “DST” (disturbance storm time) index, a measure of geomagnetic activity favored by modern space weather researchers.
+
+“The storm attained an estimated maximum DST on 15 May of 907 ± 132 nT, an intensity comparable to that of the Carrington Event of 1859,” they wrote in their paper.
+
+This result upends conventional wisdom.  Most of us have heard that the Carrington Event was the strongest solar storm in recorded history.   The estimated DST of the Carrington Event was 900 nT.  Now we know that the May 1921 storm was equally strong.
+
+If the May 1921 storm hit today, “I’d expect it to lead to most, if not all, of the impacts outlined in the 2013 Royal Academy of Engineering report led by Paul Cannon,” says Hapgood.  “This could include regional power outages, profound changes to satellite orbits, and loss of radio-based technologies such as GPS.  The disruption of GPS could significantly impact logistics and emergency services.”
+
+Food for thought on the 99th anniversary of a 100-year storm….
+----------
+
+More History: The origin of “73”
+Thanks to Don Lacroix AA1FE
+[who credits Glen Zook, K9STH, from an old Heathkit mailing list]  
+
+Many amateurs already know that "73" is from what is known as the "Phillips Code", a series of
+numeric messages conceived for the purpose of cutting down transmission time on the old land
+telegraph systems when sending text that is basically the same.
+
+In the April 1935 issue of QST on page 60 there is a short article on the origin of 73. This article was a summation of another article that appeared in the "December Bulletin from the Navy Department
+Office of the Chief of Naval Operations". That would be December of 1934.
+
+The quotation from the Navy is as follows: "It appears from a research of telegraph histories that in 1859 the telegraph people held a convention, and one of its features was a discussion as to the saving of 'line time'. A committee was appointed to devise a code to reduce standard expressions to symbols or figures. This committee worked out a figure code, from figure 1 to 92. Most of these figure symbols became obsolescent, but a few remain to this date, such as 4, which means "Where shall I go ahead?'. Figure 9 means 'wire', the wire chief being on the wire and that everyone should close their keys. Symbol 13 means 'I don't understand'; 22 is 'love and a kiss'; 30 means 'good night' or 'the end'. The symbol most often used now is 73, which means 'my compliments' and 92 is for the word 'deliver.' The other figures in between the forgoing have fallen into almost complete disuse."
+
+One of the chief telegraphers of the Navy Department of Communications, a J. L. Bishop, quoted from memory the signals that were in effect in 1905:
+
+1	Wait a minute
+4	Where shall I start in message?
+5	Have you anything for me?
+9	Attention or clear the wire
+13	I do not understand
+22	Love and kisses
+25	Busy on another circuit
+30	Finished, the end-used mainly by press telegraphers
+73	My compliments, or Best Regards
+92	Deliver
+
+Nowadays, 22 has become 88 (love and kisses). I don't know when this came about. 30 is still used in the newspaper and magazine business to indicate the end of a feature, story, or column. And, of course, 73 is still used by amateur radio operators to mean "best regards".
+
+Making any of these numbers plural (73s, 88s, etc.) is incorrect since they are already plural. 73s would mean best regardses and 88s would mean love and kisseses. Those make no sense.
+----------
+
+17 June 2020 Business Meeting — Minutes
+Charles Miller, KC1JUO ~ Clerk 
+
+Meeting Opened at 19:34 
+Attendance:
+David Hornbaker - N1DCH; Jason Peardon - W1HFP; Chris - KC1MRK; John Spencer -– WA1MDD;
+Bill Wade --  K1IJ; Roger Coulson - WA1NVC; Bob Evans - N1BE; Larry Banks - W1DYJ;
+Kevin Paetzoid - K1KWP; Bruce - KC1US; Kevin - AE1EI; Charles Miller – KC1JUO
+
+Old Business 
+	Need to close last year’s books 
+		Kevin not receiving email updates from dB, Without this info, books cannot be closed 
+		Jason will forward received emails in the meantime
+Yaesu - what is the status 
+Teleconferencing: 
+	Can we figure out how to share monthly fee 
+	Decision: Stick with Zoom / waiting for a good offer coupon - MMRA billing for a year – unanimously passed 
+	MMRA - Zoom Policy discussion?
+Repeater trustee status 
+	Two of our trustees have not renewed their membership.  We need them to do so or they need to be replaced.
+Repeater linking issues 
+	Issue last couple of meetings 
+		Weston 2M had carrier but no audio 
+		North Reading 2M linked to NR 440, but not to network
+	Tested during Wednesday showed that these were fine 
+	Appears to be a TIAOS net startup issue
+	KC1US will follow up with heavy hitters on .715 
+Meetings 
+	Are expected to all Remote 
+	HamXpostion - First week of August go/no go 
+
+Other Business 
+	W1BFM tower 
+	No Meeting in July / Planning Meeting in August 
+	Both Zoom and in-person meeting - 
+	June 2020 QST - Has a write up on Zoom and COVID-19 
+	Discussion of types of Homemade/Handmade Antenna? 
+	Is there a “social distanced” Summer gathering event? [Newton Event] 
+	Raspberry Pi and Arduino talks on the website (uTube) 
+	Do we want an MMRA channel on uTube? 
+	Do we have a uTube Guru?  Jason will explore 
+	Device to send signal into a cable - get the cable length (Signal Generating Talk) 
+	W2AEW - test equipment and how electronics things work 
+
+Newsletter: Content due on August 28th 
+
+Move to adjourn - 20:39
+----------
+
+19 August 2020 Business Meeting — Minutes
+Charles Miller, KC1JUO ~ Clerk 
+
+Meeting Start: 19:30
+Attendance:
+Dave Hornbaker - N1DCH; Bob Evans - N1BE; Larry Banks - W1DYJ; Jason Peardon - W1HFP;
+John Spencer - WA1NND; Rodger Coulson - WA1NVC; James Lee - N1DDK; Charles Miller - KC1JUO
+Kevin Paetzold - K1KWP; Bob DeMattia - K1IW; John Mullaney - K1BOS
+
+Old Business
+        Purchase DR2X as backup repeater >> Bob has ordered it, plans for upgrades discussed 
+        Youtube / Discussion – Dave to process current videos, then maybe next meeting make decision
+        W1BFM >> tower sections and other stuff in Bob’s garage
+                            Dave to send thank you note 
+Repeater Trustee status
+        Boston 900 – OK
+        Lowell repeater – leave as W1MRA pending identifying potential member (442.250)
+
+Repeater/Echolink/IRLP Status
+        HUB2 / OS Upgrade discussion – HUB2 receiver is 40 years old, transmitter is 30 years old
+                HUB2 Purchase : Hardware and Support Hardware purchase - to be voted on Sept 16th
+                Commercial Quality / Repeaters (Unanimous to spend up to $1800)
+        Listing of Raspberry PI platforms / Version Listing and OSSe >> upgrades done as needed
+        6M tone is intermittent – Bryan knows the issue
+        Burlington is off frequency >> still waiting for access to Lahey Clinic
+        North Reading tone is intermittent during Net
+
+Tuesday Night Net discussions 25+ seems to be the new normal 
+        Highest attendance: 32 people on 24th of March 
+
+September Meeting:
+        Listing when Membership expires - Aug 31 is the annual end time for membership
+
+September Newsletter
+	Send copy to Larry by 28th of August: W1DYJ@mmra.org or newsletter@mmra.org
+
+Meeting End: 20:20
+----------
+
+Share a Shack!
+
+Editor’s Note: Welcome to the second in a new MMRA Feature Series:  sharing a member’s ham shack.  With the current COVID situation many of us are becoming used to ZOOMing rather than meeting in person.  Seeing various shacks in the video backgrounds made me curious.  If you have a shack you are willing to share, let me know.  Complex shack or simple, fixed or mobile, new ham or oldie like me, I’m sure that we are all curious about other’s shacks.  And this will give us all a way to steal ideas from each other — a basic premise of Ham Radio.  The feature will appear based on your input!   Larry, W1DYJ
+
+And as I did not receive any shacks from anyone else, I guess I need to show you my Woburn shack. 
+
+Larry, W1DYJ, enjoys woodworking as well as ham radio.  His shack is also his office so he needed it to look like an office and not the usual shack.  He built the shelves and drawers to fit his equipment.
+
+[photo 1] The operating position in the office.  The five drawers hold QSL cards going back to 1962.
+[photo 2] 23” monitor    boom mic       Mic > selector > Rig   Hand PTT/Winkeyer/straight key
+	  Rigs
+[see below]   PTT
+Footswitch on floor   Antenna Switches   QSL Drawers
+[photo 3] Power Supply  (Astron inside custom cabinet)   
+	  HFswr                        6Mswr  2Mswr   70CMswr
+          Rig speakers
+          DR-235 220FM     HF Rotator    VHF/UHF Rotator
+          TS590SG  (160 >> 6)                    TS2000 (2 & 432)
+
+ANTENNAS
+[photo 4] HB 20M Moxon   HB 15M Rotatable Dipole [also use on 12M & 17M]   HB 5-el 10M yagi
+[photo 5] K1FO 2M 12 el Yagi   M2 440-18 70cm yagi   HB 7-el 6M yagi   2m/70cm FM stick   [end of 80M dipole on tower]
+[photo 6] 10M tall pole with center of 160M, 80M, 40M, 30M 
+fan 
+dipole
+----------
+
+Upcoming MMRA Meetings
+
+Note: Meeting locations and times are subject to change.
+Consult the MMRA website for the most up-to-date information. Teleconference numbers will be available one week before a business meeting—if you wish to attend, email contact@mmra.org.
+
+
+Wednesday, 16 September ~ Membership Meeting ~ 7:30 PM
+Introduction To Oscilloscopes For The Shack and Bench
+Paul A. Topolski, W1SEX
+Location: ZOOM Teleconference
+
+Wednesday, 21 October ~ Business Meeting~ 7:30 PM
+Location: ZOOM Teleconference
+
+Wednesday, 18 November ~ Membership Meeting ~ 7:30 PM
+Mobile (motor vehicle) radio installations
+Jeremy Breef-Pilz , KB1REQ
+Location: ZOOM Teleconference
+
+Wednesday, 16 December ~ Business Meeting ~ 7:30 PM
+Location: ZOOM Teleconference
+
+Wednesday, 20 January ~ Membership Meeting ~ 7:30 PM
+CW DXCC in Six Months
+Larry Banks, W1DYJ
+Location: ZOOM Teleconference
+
+Wednesday, 17 February ~ Business Meeting ~ 7:30 PM
+Location: ZOOM Teleconference
+
+Wednesday, 17March ~ Membership Meeting ~ 7:30 PM
+Program your rig with CHIRP
+Dave Hornbaker, N1DCH
+Location: ZOOM Teleconference
+
+Wednesday, 21 April ~ Business Meeting ~ 7:30 PM
+Location: TBI
+
+Wednesday, 19May ~ Annual Meeting & Elections ~ 7:30 PM
+Program: TBI
+Location: TBI
+
+Wednesday, 16 June ~ Business Meeting ~ 7:30 PM
+Location: TBI
+----------
+
+Don’t Forget! Join Us.
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+Net Control Operators:
+Week 1		W1DYJ		Larry Banks	
+Week 2		WA1JIM		Jimmy Devaire	
+Week 3 		KC1CLA		Ed Curley
+Week 4		K1KWP		Kevin Paetzold	
+Week 5 		KB1OQA		Tom Turner
+Substitute	K1BTZ		Jonathan Traum
+	To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+MMRA Leaders
+
+Executive Board — Officers
+President	Dave Hornbaker 	N1DCH 
+Vice President	John Spencer	WA1MDD
+Secretary	Jason Peardon 	W1HFP
+Treasurer	Kevin Paetzold	K1KWP
+Clerk 	Charles Miller	KC1JUO
+
+Executive Board — Directors
+Director  »2021	Bob DeMattia	K1IW
+Director  »2021	Roger Coulson	WA1NVC
+Director  »2022	Bob Evans	N1BE
+Director  »2022	James Lee	N1DDK
+
+Technical Officer
+Technical Officer	Bob DeMattia	K1IW
+
+President Emeritus	Bob DeMattia	K1IW
+Technical Officer Emeritus	Bryan Cerqua	W1BRI
+
+Repeater Trustees
+* Belmont 145.43	Ed Curley	KC1CLA
+* Boston 146.82		John Mullaney 	K1BOS
+* Boston 927.0625	Rick Zach	K1RJZ
+* Brookline 145.16	Joyce DeMattia	K1IWW
+* Brookline Rcv 146.82	Bob Phinney	K5TEC
+* Burlington 224.88	Bruce Pigott	KC1US
+* Hopkinton 449.575	Bryan Cerqua	W1BRI
+* Marlborough 53.81	Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.39, 147.27, 223.94, 448.225, 
+     449.925, 927.70   Lowell 442.25  all as W1MRA
+			Bill Northup  	N1QPR
+* Mendon 146.61		Kevin Paetzold	K1KWP
+* N. Reading 146.715	Bruce Pigott	KC1US
+* N. Reading 446.775	Larry Banks	W1DYJ
+* Quincy 224.40		Bill Dunn	N1KUG
+* Quincy 146.67		Bryan Cerqua	W1BRI
+* Weston 146.79		Bob Evans	N1BE
+* Weston 224.70		Eddie Mulhern	N1NOM
+* Weston 442.70		Dave Hornbaker	N1DCH
+
+Additional, non-Voting
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	Bruce Pigott	KC1US
+* VEC Liaison		Bill Wade	K1IJ
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+     
+                  * Appointed
+----------
+
+Get connected on the MMRA Repeater System ~ Dave Hornbaker N1DCH
+
+What is the best way to get connected on the MMRA repeater system?  Try announcing yourself!  Just say your call sign followed by "listening".   If you want, you can include the last 3 digits of the repeater frequency. For example, "N1DCH listening" or maybe "N1DCH listening on 925", you may very well get a response.  Try to connect by announcing yourself several times.
+
+Most of the time, Marlborough Hub1 (449.495) is linked to the following repeaters, Boston (146.820), North Reading (446.775), Mendon (146.610), Lowell (442.250), and Hopkinton (449.575).  Remember that when the repeaters are linked, you need to wait two or three seconds after you key up and before you speak. This is especially important on the TIaOS net on Tuesday when most of the repeaters are linked.
+
+Try one of the non-linked repeaters too. There are Hams monitoring them as well. For more information on the repeater network and how it is linked at various times, check out https://mmra.org/repeaters/repeater_linking.html.
+
+----------
+Contacting the MMRA
+
+Members: MMRA@yahoogroups.com
+	Note: This may take some time. You must be approved by the moderator.
+
+Officers: contact@mmra.org
+
+Control Ops: control-ops@mmra.org
+Internet: http://www.mmra.org/
+Twitter: @mmraham 
+Facebook: https://www.facebook.com/mmraham
+----------
+
+Ask your friends to become a member 
+Just let them know that it is not fully automated.  Although they can log into the MMRA website immediately, they need to be manually processed.  This could take up to week.
+
+If you haven't updated your MMRA profile in a while, now is the time! 
+Go to < MMRA.ORG >  and log in to do so.
+
+Previous issues of the MMRA Newsletter
+are available at:
+www.mmra.org > Newsletter Archive (on the left)
+
+MMRA VE Sessions
+Stay tuned for more in the future, at:
+http://www.mmra.org/exam.html
+Contact: Bill Wade, K1IJ      617-699-3670 
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+Accredited by the ARRL VEC
+----------
+
+FOR SALE
+W1BFM has donated a 60 foot Glen Martin tower, with Hazer, to the club. See  http://mmra.org/forsale for details.
+----------
+Notice:
+Memberships expired on August 31st.  If you have not renewed, please go to our web: www.mmra.org, log in and click the RENEW MEMBERSHIP link.
+----------
+
+ENF OF NEWSLETTER

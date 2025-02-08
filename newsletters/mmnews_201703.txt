@@ -1,0 +1,332 @@
+The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+
+Volume 46, Number 4
+March 2017
+----------
+
+Membership Meeting ~ Wednesday, 15 March, 7 PM
+Truths & Myths about Station Grounding 
+Neil Goodell ~ AE1P  
+Location: Leominster Emergency Management              Talkin: 147.27
+
+First introduced to Ham Radio at the age of 12, when I was given an old Knight R-100A, and a box full of 73 and Popular Electronics magazine.  Got sidetracked with the usual teenage activities, sports and trucks, and did not return back to Amateur Radio until 2002, when I started studying and passed my tech, receiving the call KB1KOX.  I then upgraded to general, while the 5 wpm code requirement was still in place, and Extra six months after that, and have enjoyed the Hobby ever since. 
+
+One of the best experiences I have had concerning Amateur Radio was being the Site Supervisor for five sites during the 2014 WRTC event held in New England.  It was a lot of work but also a lot of fun, and a pleasure to meet and spend time with some of the best of the best in Amateur radio contesting.  As far as the hobby goes, I enjoy all aspects: contesting, ragchewing, rtty and digital, homebrewing and antenna building...there is so much to do, never a dull moment.
+In my personal life I am a Master Electrician, spent 20+ years as an Electrical Foreman in commercial projects, mostly in Hospitals and Power Plants, and now am the Electrician for the City of Keene in the Utilities Division.
+
+Being an Electrician, I had already known of the importance of Grounding, and, using that to tie in directly to Amateur radio: How important Grounding is to our “Radio Shacks”, as far as lightning protection and RF grounding.  I look forward to sharing the importance of grounding to your group on the 15th.
+----------
+
+Notice: We will be asking the club membership to approve the purchase of a duplexer for the 53.81 repeater at Marlborough East for $1000 
+----------
+
+Directions to 
+Leominster Emergency Management  
+37 Carter Street  Leominster, MA 01453 
+
+Using Route 2 Westbound:
+  >Take exit 33, "I-190".
+  > 0.4 miles down the ramp, bear left, DO NOT get on I-190.  Bearing left will put you
+ on the Leominster Connector/Mechanic Street.
+  > Follow this for approximately 1.2 miles, then turn left on 5th Ave.
+? Leominster EMA is 0.1 miles ahead at the intersection of Carter & 5th. 
+
+Using Route 2 Eastbound:
+  > Take exit 33, "I-190 / Mechanic St".
+  > Stay to right for Mechanic St. At intersection, turn left on Nashua, then turn right on
+      the Leominster Connector/Mechanic Street.
+  > Then follow above.	
+
+Using I-190 Northbound:
+  > Take exit 8B, "Route 2 East".
+  > At the split, bear left for Mechanic St.  At the next split, bear left again for Mechanic St.  
+    This will put you on the Leominster Connector/Mechanic Street.
+  
+> Then follow above.
+----------
+
+PAVE PAWS Guest Speakers in March
+Bob Phinney, K5TEC
+
+The Clay Center Amateur Radio Club invites MMRA members to this talk on Tuesday, March 28, 6:30-8:00, at the Clay Center, Dexter Southfield School, 20 Newton St. Brookline.
+
+USAF Lieutenants Theodore Kruczek and Meredith Prinz will be visiting the Clay Center from Cape Cod Air Force Station on Tuesday, March 28, 6:30-8:00 pm. They are crew commanders on the Early Warning Radar located there. The site's primary mission is detecting and reporting intercontinental ballistic missiles and sea launched ballistic missiles.  The secondary mission is tracking satellites in low earth orbit, including amateur radio satellites utilized by amateur radio operators. They will be discussing radar operations, how that data helps amateur radio operators, and the importance of proper amateur radio use. 
+
+Doors open at 6:00. RSVP and questions: 
+
+Bob Phinney K5TEC bphinney@dextersouthfield.org. 
+----------
+
+January Membership Meeting
+12V for Amateur Emergency Power
+Greg Troxel, N1DAM
+These are a few of the key slides presented by Greg.
+
+(Then follows two pages od slides from Greg's talk.)
+----------
+
+Fund raising for the MMRA — or — How the MMRA club affords all these shiny toys and how you can help.
+James Lee N1DDK, Board member.
+
+As a member of the MMRA, you probably know that the MMRA supports over 20 repeaters at a dozen sites.  At some of the sites we need to pay either rent or electricity, or both.  Your dues basically pay for the ongoing operating costs and minor maintenance.  If you have been attending the business meetings or reading the minutes in the newsletters you have seen the club is continuously spending money on upgrades and improvements to the repeater system.  A few years ago we spent over $10,000 in needed maintenance at the Marlborough west hub site, AKA Hub1 or Slygo.  How did we afford it?  Donations!
+
+While we are blessed to have a few members who include an annual donation with their dues, We have been fortunate to have some big commercial donations.  These started with the switch-over to Digital TV where  several members worked with local TV stations to get obsolete transmitter equipment donated.  This resulted in immediate cash for much recycled copper and the more long term donation of Larcan transmitter amplifier boards. (See www.mmra.org/larcan)  These boards can be converted to be used as high power amplifiers for 6 meters or 2 meters.  Our Marlborough East repeater uses one of these for its finals.   This first TV transmitter put us in place to get a few other similar transmitters.  In some cases a full donation, in other cases we paid for the amplifiers and shipping.  Currently (March 2017) we have just acquired another 30 boards from a TV station in Texas.  The club can not thank K1RJZ and K1IW enough for setting the MMRA on the path of being the Larcan transmitter re-sale experts.  Speaking of these two, they also have used their commercial contacts to get many other donations to the club for re-use or re-sale.
+
+While the TV and radio related donations are great there are other opportunities.  Recently a group of MMRA volunteers got notified of a technology company moving; As a result there were surplus computers, monitors, printers and miscellaneous test and lab equipment.   Some of this equipment will be sold on Ebay, or at flea markets.  
+
+All of these donations help keep the network running, keep your dues at the same low level and allow for funding of repairs improvements and upgrades such as the 6 meter duplexer.
+
+How you can help:
+
+Help sell things: Selling things on eBay and at flea markets takes time.  This time of year there is a Ham radio, electronics, or general flea market nearly every month?  Do you go to these?  Can you go to one and relieve another volunteer for a few hours at a MMRA table?  MMRA has an EBAY and PayPal account.  Can you list and help pack and ship some of our items?
+
+Solicit Donations:  When your company or someone you know is disposing of assets ask if they can be donated to the club for re-use, re-sale or recycling.  Be above board and be sure it is legal and ethical for anything that is given to MMRA.  No valueless boat anchors: you don't want to haul an item less that $10 value, weighing 100 pounds, in and out of a flea market, and it won’t be worth shipping.
+
+What do we have?
+
+Here is a list of some of the things we currently have for sale and some commentary!
+ > Several runs of about 160 feet of 1 5/8 hard line with connectors donated by K1RJZ.
+ > About 30 Larcan amplifiers arranged by K1IW. They sell for $300-$350.
+ > About a dozen power strips, we can sell them for $5 each at a flea market.
+ > About 20 Mean Well GS60A12-P1J 12V 5A power supplies, they retail for about $20 each.
+ > Several Astron 35 amp and 50 amp power supplies, and GE master 2 power supplies.
+ > Hundreds of network patch cables.  They can sell for $2.00 each at a flea market or be sold in small lots on EBay.
+ > Various oscilloscopes, LCD monitors and USB keyboards and mice.
+
+Your turn!
+
+If you want to buy any of the items, contact the board: board@mmra.org.  If you can help sell at a flea market, contact the board: board@mmra.org.  If you think you can arrange another donation for the club, contact the board: board@mmra.org.
+
+Finally this is your club, think about joining the board!  Elections are upon us!  We need your help.  If you would like to be an officer in the club or just help out more with the club, contact the board: board@mmra.org.
+----------
+
+New England Cabinet Meeting ~ Springfield MA - January 7, 2017
+Tom Frenaye, K1KI, ARRL NE Division Director
+
+I.	Introductions
+	a.	What’s coming up at the board meeting
+II.	Topics
+	a.	Amateur Parity Act in Congress
+		i.	We got very close, but …  stalled by Sen. Nelson (FL) though we did some extra work there
+		ii.	Greg Walden W7EQI is now chair of House Energy and Commerce – should help
+		iii.	FCC won’t act without a push from Congress
+		Iv.	Likely to be reintroduced this year
+	b.	FCC
+		i.	Been pretty quiet
+		ii.	Nothing yet on LF bands (135-137 KHz and 472-479 KHz)
+		iii.	Enforcement
+			1.	About 1/3 of FCC field offices have been closed
+			2.	We’re attempting to upgrade the OO/FCC relationship
+			3.	Leaning toward fewer OO’s, but upgrading training, roles, etc.
+			4.	Unfortunately, most OO generated info can’t be directly used by the FCC in proceedings
+				5.	There has been improved pirate radio enforcement
+				6.	Jawboning is often effective, and FCC can be good at this
+				7.	Can ARRL’s role be increased?
+				8.	We’re doing better with the FCC with power line noise issues
+			9.	LED light issues – cheaper ones may not be so good …
+			10.	Solar – much variation in inverters concerning RF noise
+				11.	So far, not many reported problems with wind generators
+				12.	New FCC chairman soon
+		Iv.	Licensing
+			1.	FCC has rejected several petitions concerning merging some license classes
+			2.	Do we really need an entry level license like the old Novice – is the problem interest, or difficulty
+			3.	If we’re shooting for 11 year olds, is the math and technical of the technician exam too much?
+			4.	Note that National Conference of Volunteer Exam Coordinators (NCVEC) are accepting suggestions for the tech question pool
+			5.	65% of new hams get licensed through self-study
+	c.	Getting new hams
+		I.	Continuous club support may be a key factor – support in schools, etc.
+		ii.	Problem with a lot of school clubs – active members graduate !  Achieving continuity is tough
+		iii.	Keeping kids in involves social as well as technical things
+		iv.	Since only 20% or so of hams are club members, outreach has to go beyond clubs
+		v.	Consider advertising on social media
+		vi.	License classes can be a good opportunity to build elmering relationships in addition to training
+		vii.	In NE – about 1200 new hams in 2016, 513 upgrades
+	d.	Boxboro Convention (K1TWF)
+		i.	Weekend after Labor Day (Sept 8-10)
+		ii.	Be there or be square
+		iii.	There may be a builder event on Friday
+	e.	W1 QSL buro (KV1J/W1UE)
+		I.	Fee structure is changing a bit - 10 cents for the envelope plus 10 cents per ounce
+		ii.	Address is now in Marlboro MA
+		iii.	Using clubs for presorting incoming cards (1A, 1B, 1C, etc)
+		iv.	Volume is down somewhat as sunspots decline and LoTW is used more
+	f.	Spectrum
+		i.	Automobile collision avoidance radar is around 75GHz, and is being deployed
+		ii.	Surprising number of experimental licenses
+			1.	to search:  https://apps.fcc.gov/oetcf/els/reports/GenericSearch.cfm
+		iii.	440-450 MHz PAVEPAWS radar upgrade is underway on Cape Cod, but behind schedule
+	g.	National Parks on the Air
+		i.	Was a great success
+		ii.	Perhaps something like it in 2018
+	h.	Discussion on boosting college radio activity - perhaps a college contest
+	i.	Towers
+		i.	Some legislative action out west concerning towers (crop duster laws)
+		ii.	Federal law passed this summer – covers only areas with few/no people, but some potential impact to us (FAA)
+III.	Auction
+	a.	The book auction raised $218 for the new fund to promote collegiate ham radio activity.
+
+(31 people in attendance)		1/7/17 K1TWF
+----------
+
+February Business Meeting
+ Bob Evans, Clerk, N1BE
+
+The MMRA Board met on February 15th at New England AirGun in Hudson at 7:00 PM.  In attendance were N1DDK, K1KWP, KG1H, W1BRI, N1NVK, WA1NVC, N1BE and W1MPN.
+
+Kevin, K1KWP provided a Treasurer's Report.  The balance is up a few hundred dollars since the last business meeting, mostly as a result of dues payments.  However late as it is, we may not have many more membership renewals this year.  Kevin reviewed historic income and spending; also projected future income and spending.  We reviewed membership numbers and we are 40 memberships less than last year.  KG1H offered to send a letter to those with memberships that expired in 2016 to remind them to renew.
+
+Reviewing the electric bills at MRW we see that the new power supplies have approximately halved the power bill.
+
+Dave, KG1H, led a discussion about the MMRA charter.  This questioned the goal/purpose of the MMRA.  Are we a club, a provider of public service infrastructure, an educational organization or a group of people that get together for activities that we enjoy, be that public service operations, contesting or fox hunting.  
+
+We are considering a bus trip to ARRL headquarters - likely this would have to be during the week.  Mike, W1MPN suggested a newsletter article seeking feedback on what the members are interested in doing.
+
+James, N1DDK reported on actions to take place since the membership approved the purchase of LarCan VHF amplifiers.  James and K1IW will be building a crate for shipping the amplifiers.  Bryan, W1BRI mentioned the need for storage, not just of the LarCan amps but also other MMRA property in some officers' garages.  Roger, WA1NVC offered to get the price for a storage locker at one facility near his home.
+
+Bryan discussed the 6-meter duplexer that has been borrowed for MRE.  These are working well.  WA1NVC will approach the owner of the duplexer to negotiate a price for their purchase.
+
+N1NVK moved that we offer 2 rolls of hardline to the Barra club to for use on the replacement for their tower that recently  collapsed.  This motion was approved.
+
+Discussion of a nomination committee was deferred for email.
+
+We adjourned at 8:25 PM
+----------
+
+Next MMRA Business Meeting: Wednesday 19 April, 7PM
+Location: New England Airgun in Hudson 
+----------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay League, through which Amateur Radio in the United States is represented nationally and  internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+----------
+
+53.81 Marlboro going full duplex
+Bryan Cerqua ~ W1BRI
+
+Before discussing the rational for going full duplex at the 53.81 Marlboro east site, a brief history on 53.81 repeater is in order.
+
+The MMRA six meter repeater is the one I’ve been involved with the most of any repeater so far.  The 53.81 repeater was a converted GE MASTR II station that was initially on 42 MHz (photo 1).  The first and only MMRA six meter repeater was on the air around October of 1996 using a homebrew Hamtronics controller (photo2).  I remember the installation day when we had a bunch of hefty hams show up to help muscle the repeater from Eddie’s (N1NOM) nimrod mobile into the shelter, (photos 3 & 4).  Some of you old timers might recognize some of the folks in the photo. 
+
+The repeater is operated as a split site with the transmitter located on the east side of Marlboro and the receiver on the west side.  The Slygo hill receiver on 52.81 relays the signal via UHF to the transmitter site where it rebroadcasts out on 53.81 MHz.  
+
+The transmitter was based on an EIMAC 4CX250B tube transmitter.  It was quite a learning experience to convert the power amplifier to six meters.  Seems like every weekend for many years I was at the site playing with the plate and grid adjustments. On a good day I was lucky to get 250W out of it but most of the time the power would sag to less than 100W, with many tubes tried; some new and some old. I kept modifying the tube amp but it was becoming more difficult to keep the tube amplifier operating at a decent power level.
+
+Around October of 2010 the MMRA acquired a bunch of solid state power amplifier modules from the decommissioned channel 4 WTAE (Pittsburgh) analog station due to the DTV transition.  It was finally more than just a dream to retire the tube amp (photo 5) and try using one of these Larcan PA modules.   After a small amount of preparation and adding the cooling fans the Larcan amp was in service. It was a real pleasure to see at hold steady at 300W with only 3W of input power (photo 6).
+
+The Slygo hill receiver side of the repeater also has a long history. When the six meter repeater went on the air the receive antenna was mounted to a 10 foot mast off the fence surrounding the Slygo shelter. The coverage was not great but it basically worked pretty well.  For many years I kept trying to convince the city of Marlboro to allow the MMRA to put an antenna up on the water tank that is about 100 feet off the ground.  The day finally arrive in October of 1998, and with the help of Bill WA1NLR we had a PD83 coaxial type antenna mounted on the south side of the water tank.  
+
+The coverage towards the south was fantastic however the coverage towards the north was hampered due to the blockage of water tank’s metal cone.  To help improve things another receiver was installed at Slygo on a thirty foot mast.  This antenna gave better coverage towards the north. The selection on what receiver was used was based on which PL tone was used.   I was constantly telling users if you’re towards the south of Marlboro to use one PL tone and if you’re towards the north to use the other PL tone.  After a few years of this I got tired explaining which PL to use and built a dual MASTR II receiver voter that would automatically select the best receiver based on the best SNR (photo7).
+
+The voter was in service until the city of Marlboro decides to spend $750,000 on renovating the water tank between November 2011 and August 2012.  During this time the repeater was stuck using just the lower antenna.  For this period most of the MMRA repeaters at Slygo were operating on temporary antennas that were at ground elevation.
+
+With the renovation completed on the water tank the MMRA had to wait until September 2014 to get the antennas back up on the tank.  It was a long time coming for the MMRA and we finally celebrated this event with a nice cake that Bob (K1IW) presented at one of the MMRA meetings at the Northborough library.  Now that things are back to normal with most of the MMRA repeaters working better than ever since the cone of the tank is no longer made of metal (photo 8),  except for the 6 meter repeater receiver.  It didn’t take long to discover that something up on the tank produced broadband type noise that severely hampered reception.  Much effort was spent on trying to locate the noise source (another story for a later newsletter).   The top mounted PD83 6 meter antenna in its new location is probably parked next to a noisy cell phone power supply; not much we can do at this point but live with the noise.
+
+Just recently the Marlboro east site was totally cleaned up by Bob (K1IW), James (N1DDK) and me,  (photos 9 & 10).  All the equipment was removed and transported to Bob’s garage where we re-racked all the repeaters and Larcan amplifier into one rack.  This created a lot of extra space in the shelter.  Prior to this there was hardly any room to even move in the shelter.  At one of the board meetings the subject of trying the receiver at the transmit site on the east side of town was suggested.  To do this would require a large duplexer. With the help of Roger (WA1NVC) the MMRA obtained a loaner set of duplexers.  Roger and I transported the duplexer to the Marlboro east site.  Before the duplexer could be used I had to rivet on the bottom covers and tune them to 53.81 (photos 11 & 12).  To support running full duplex, I had to construct another six meter receiver.  I wanted to keep the Slygo split site receiver active also so I used an audio summing amplifier that allows using the audio from Slygo or the audio from the local duplex receiver.  The Slygo receiver requires a PL tone of 100 Hz and the local receiver requires a PL tone 71.9 Hz, here we go again with the two different PL tones! (Photos 13 & 14.)
+
+The full duplexer configuration is working quite nicely.  If a user is weak into the full duplex site then can try the Slygo site; even with the high noise floor it still provides some value.   
+The MMRA also has a third receiver in Hopkinton that uses a 173.8 Hz PL tone.  Currently the UHF side of this cross band receiver is not working; I hope to get access to the site soon to fix it.  Once fixed there is a possibility that this third receiver may be relocated to a better location such as Quincy.  The Marlboro east site is looking very nice now, you can see some of the latest photos of the repeaters on the MMRA web page (photo 15.)
+
+As you can see this 6 meter repeater has quite a busy history.  It’s one of my favorite repeaters so please give it a try.  By the way the Larcan 53.81 power amp is running smoothly at 300W so you should have no trouble hearing it.
+----------
+
+Upcoming MMRA Meetings
+
+Wednesday, 15 Mar ~ Membership Meeting
+Topic—Truths & Myths about Station Grounding ~ Neil Goodell ~ AE1P  
+Location—Leominster Emergency Management 
+
+Wed, 19 April ~ Business Meeting
+Location: New England Airgun in Hudson 
+
+Wednesday, 24 May ~ Membership Meeting
+Topic—End of Year Meeting / Officer’s Reports / Elections
+Location—TBD
+
+Wed, 21 June ~ Business Meeting
+Location: TBD
+----------
+
+Don’t Forget! Join Us.
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Net Control Operators:
+Week 1	WA1JIM	Jimmy Devaire	
+Week 2	W1DYJ	Larry Banks	
+Week 3 	KC1CLA	Ed Curley
+Week 4	K1KWP	Kevin Paetzold	
+Week 5 	KB1OQA	Tom Turner
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+MMRA VE Sessions
+
+Third Saturday
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           
+Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+Calendar of Ham Radio Flea Markets
+
+For more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+19 Mar 	Southington CT 	SARA @HS 
+19 Mar 	Henniker NH 	CVRC @CommSch
+31 Mar - 1 Apr Lewiston ME 	AARC ME Conv @Ramada
+  8 Apr Newton MA 	PHSNE Photographica @AmLegion
+  8 Apr	Hampton NH 	PCARC @Masonic
+  8 Apr 	Windsor CT 	VR+C Mus 115 Pierson LN
+15 Apr	S Portland ME 	PAWA @AmLegion
+16 Apr 	Cambridge MA 	Flea at  MIT
+22 Apr	Gales Ferry CT 	RASON @FireCo
+23 Apr	Framingham MA 	FARA @KeefeTS
+30 Apr	Middletown NY 	OARC @CommCtr
+5-6 May Deerfield NH 	NEARFest XXI @FG
+13 May 	E Greenbush NY 	EGARA  @FireCo
+20 May 	Goshen CT  	SoBARC  $5@8  @FG
+21 May 	Cambridge MA 	Flea at  MIT
+4 June 	Fishkill 	MtBARC @DwnStCorr
+3 Jun	Brookline NH 	NEARC Antique@EvntCr
+10 Jun	Windsor CT 	VR+C Mus 115 Pierson LN
+18 Jun	Cambridge MA	Flea at  MIT
+16 Jul	Cambridge MA  	Flea at  MIT
+20 Aug 	Cambridge MA    	Flea at  MIT
+27 Aug 	Adams MA 	NoBARC @BoweFld
+  8,10 Sep	Boxboro MA 	FEMARA NE Conv
+  9 Sep	Windsor CT 	VR+C Mus 115 Pierson LN
+10 Sep	Ballston Spa NY 	CRACES @FG
+17 Sep	Cambridge MA 	Flea at  MIT
+13-14 Oct Deerfield NH 	NEARFest XXII @FG
+15 Oct 	Cambridge MA 	Flea at  MIT
+----------
+
+END OF NEWSLETTER
+----------

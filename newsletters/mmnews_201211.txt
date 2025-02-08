@@ -1,0 +1,317 @@
+The Minuteman Repeater Association
+The Minuteman
+Volume 42, Number 2
+November 2012
+----------
+
+Membership Meeting
+Wednesday, November 14
+7 PM
+
+
+What We Owe The Early Hams
+
+How ham radio operators made friends, saved lives,
+and helped to create commercial radio.
+Donna Halper
+
+Tatnuck Bookseller in Westborough
+Talk-in: 147.27
+
+Our November guest speaker is Donna Halper. Donna has many interesting stories about what ham radio operators have done over the past 100 years to help their communities and help build the commercial broadcast industry. Ms. Halper is a respected and experienced media historian, who makes regular appearances on WBZ's Jordan Rich Show. She is also heard on WBUR-FM and WGBH-FM and is frequently quoted in the Boston Globe and other newspapers. She is the author of five books, the most recent of which is "Boston Radio 1920-2010," a history of Boston radio in words and pictures.   You can read more about Donna at http://www.donnahalper.com/bio.html.
+
+
+Tatnuck Bookseller
+18 Lyman Street (Lyman at Route 9)
+Westborough, MA 01581
+
+>From the North/South/East: Take I-495 to the route 9 interchange in Westborough. Head West on route 9 to the Lyman street traffic light. Take a left onto Lyman street. Tatnuck Bookseller will be about 1/2 mile down Lyman on your right. 
+>From the West: Take route 9 east to the Lyman street traffic light in Westborough. Turn right onto Lyman Street. Tatnuck Bookseller will be about 1/2 mile down Lyman on your right.  	Map at: 
+http://www.mmra.org/dir/tatnuck.html
+----------
+
+MMRA Bylaws Revision Vote at our NOVEMBER meeting
+ 
+
+The MMRA will be holding a vote to revise its bylaws at our November meeting.  We need a quorum of 40 Members, so please try to attend if you can.  These changes reduce the quorum requirement to conduct business and clarify the voting procedures for different orders of businesses. They also create a provision for life membership. Those interested should read the full documents on our web page: http://www.mmra.org/
+----------
+
+Have you renewed your membership yet?
+
+
+All 2010 memberships expired on August 31st! If you haven't renewed - it's time!  Go to the Member's login link at www.mmra.org to renew online.  If you prefer to renew by U.S. Mail, you can print out a membership application and mail it with a check to MMRA, PO Box 669, Stow, MA 01665.
+----------
+
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in Eastern
+Massachusetts.
+
+The MMRA meets (usually) on the 3rd Wednesday of each month from September to June.  Meeting times, locations, and talk-in frequency vary and are announced in this newsletter and on weekly nets.  Meetings are open to all interested parties.  Guest speakers and programs of general interest occur in September, November, January, March, and May.  The intervening meetings are also open to all members and are for general business.
+
+The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+
+Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+
+Email to the club leadership should be sent to 
+contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+
+An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/
+
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
+----------
+
+MMRA QRM Policy
+
+MMRA members and all other operators are strongly encouraged to report repeater 
+activity that does not abide by Part 97 rules or accepted amateur radio practice to the board of directors at contact@mmra.org or via other means.
+
+The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
+----------
+
+September Membership Meeting
+
+President Bob, K1IW, first presented a few slides about the repeaters, and then presented a primer on digital transmission.
+
+Featured Speakers
+ Bob Stone, N1KMA & Mark Pride, K1RX
+
+For more information: www.ercsystem.com or www.ProHam.com
+
+----------
+
+MMRA October Business Meeting
+Bob Evans ~ N1BE ~ Clerk
+
+The MMRA held a business meeting at 7PM on October 17 at the office of Stratus Technologies in Maynard, MA. W1MPN, W1BRI, WA1NVC, N1NVK, K1KWP, K1IW, KG1H, N1BDA, W3EVE, N1NVJ, KA1GFN and N1BE were present.
+
+
+
+Bob, K1IW reported the status of the repeaters.  This info will appear elsewhere in this newsletter.  Of particular note is the future use of a multi-mode (analog/d-star) repeater at the Pru.
+
+
+
+Kevin, K1KWP, presented a treasurer's report.  Details to appear separately in the newsletter.
+
+
+
+The board moved to request authorization to spend up to $3000 for emergency repairs during this fiscal year if necessary.  Spending from this budgeted amount will still require board approval and reporting of any expenditures to the membership.
+
+
+
+The meeting adjourned at 8:20PM.
+-----------
+
+Repeater update
+
+Bob DeMattia — K1IW 
+
+All MMRA analog systems are operating at this time.  The repeaters at Sligo continue to operate with reduced coverage due to the temporary antennas:
+
+53.81 Receiver
+147.27
+224.88
+449.925
+
+The Weston 146.79/224.70 link transmitter appears to have a lot of difficulty  reaching 449.925.  Other link transmitters offer fair to excellent signals. There is also a loose connection on the 449.925 antenna mast.  This is causing crackling noises on the repeater input.
+
+We have been told we should have access to the Pru site to bring 145.16 back on the air in November.  More information about this will be in our January newsletter.
+----------
+
+President’s Corner
+
+Bob DeMattia — K1IW 
+
+Earlier today, I completed my twice-yearly task of changing all the clocks in my house.  This is also the time when I check that all of the MMRA repeater clocks have adjusted themselves automatically.  
+
+I was lucky. For the first time, all of them had correctly set themselves back an hour. Keeping all the clocks in sync is not as trivial as it might seem.  In addition to the daylight savings adjustment, each clock also tends to drift. Some are slow, some are fast.  There are a total of fourteen controllers each with their own clock.  To help insure synchronization, HUB1 sends out a tone code in the wee hours of the morning telling all controllers to round their time to the nearest minute.  Those controllers that have drifted backwards round up.  Those that are running fast round down. As long as no controller has drifted more than 30 seconds in the past 24 hours, everything stays synchronized.  I wish the clocks in my house were as easy!
+----------
+
+Next Business Meeting
+19 December
+Northborough Public Library
+7:00 PM
+----------
+
+Treasurer’s Report
+
+Kevin Paetzold — K1KWP
+
+This is the first Treasurer‘s Report since the end of the MMRA 2011-2012 fiscal year which ended on May 31.  In this report I will refer to the 2011-2012 year as "last year".  We are now in the 2012-2013 fiscal year which I will refer to as "this year".
+
+$7042 was spent on expanding, improving, and maintaining the MMRA repeater system last year. Some of the larger line items/projects and improvements included:
+
+Fixing the Weston antenna tower ($1640)
+New PA for HUB2 (Weston) ($678)
+Preparing and placing the new shelter at (MRW) Marlboro West ($939)
+Removing antennas at MRW as part of the water tower project ($1850)
+Additional 7K controller with Digital Audio board ($500)
+HUB2 IRLP equipment ($400)
+
+The MMRA is responsible for 21 repeaters on 6 bands [10M(1), 6M(1), 2M(8), 220(4), 440(5), and 900(2)].  A large number of connectors, power switches, isolators, anntenna mast, etc.., etc.. etc.. add up for the rest of  the $7042.
+
+>From a gross receipts point of view MMRA income last year was $4185.  However $638 of the above is the result of dues collected last year for this year (2 year memberships etc...).   Likewise $1645 in dues was collected in 2010-2011 for last year (2011-2012).  The income Pie chart details for the overall income for last year (which is different than the $4185 actually received for last year.
+
+Total spending last year was $9356 vs. the gross income of $4186.  From that perspective the MMRA had a deficit year with spending exceeding income .  When the dues for this year (collected last year) are subracted our spending exceeded our income by ($5170).  The spending pie chart below gives details on the overall spending for last year.  "Galaxy" is the DSL provider for MRW and "ISP" is the provider for for the MMRA web page and database hosting service.
+
+The "Maint and Improvements to System" chart shows the amount of money put directly into maintaining and improving the system in the last 8 years.  $342 has been spent on the system so far this year.  It should be apparent that investment in the system has increased dramatically in recent years.  2009 was the year that the large income windfall from the Larcan amps etc... occured.
+
+A large project (by the city) to update and improve the "water tower" at the MRW repeater site has been underway for more than one year at this point.  The MMRA has known about and prepared for this project for many years.  The MMRA solicited and received donations of several thousand dollars from members over the last several years to support this effort.  If we include the MRW shelter replacement effort the MMRA has already spent $3000 for this project.  The membership has authorized the board to spent an additional $8000 for this project.  It is not clear if all (or any) of this additional $8000 will be spent this  year or not.  Lets all hope that the project moves forward later this year.
+
+The net effect of the $8000 on our finances is shown in the charts below.  If we spend the whole $8000 it will result in a signficant deficit on our cash reserves for the second year in a row. The 2011-2012 (last year) deficit was 16% of our cash reserves.  If all of the $8000 is spent this year it would be an additional 19% reduction in our cash reserves.
+
+The two charts below show our income from dues and the membership stats.  We are hoping to receive an additional $1445 in dues for this year.  Because of new members we need an additional 55 people to renew or join to keep membership parity with last year.  About 85 existing members have not yet renewed for this year.  44 people have already renewed for next year.
+
+If you have any questions about the MMRA finances please let me know.  All of this information (and much more) is regularly presented at the bi-monthly "business" meetings.  The location and schedule of these meetings is available on the web site.  They usually occur the third Wednesday of the months without general membership meetings.
+----------
+
+2012—2013 Meetings
+
+14 November ~ Membership Meeting
+Donna Halper ~ A Short History of Broadcast Radio in Boston
+Tatnuck Bookseller, Westborough  ~ 7:00 PM
+
+19 December ~ Business Meeting
+Northborough Public Library ~ 7:00 PM
+
+16 January ~ Membership Meeting
+The MMRA Network, & Free Pizza Night
+Southborough House of Pizza ~ 7:00 PM
+
+13 February ~ Business Meeting
+Stratus, Maynard ~ 7:00 PM
+
+20 March ~ Membership Meeting
+WRTC 2014 ~ Dave Pascoe KM3T & Doug Grant K1DG
+Location TBA ~ 7:00 PM
+
+17 April ~ No meeting in April
+
+15 May ~ Membership Meeting
+Annual Meeting & Elections
+Northborough Public Library ~ 7:00 PM
+
+19 June ~ Business Meeting
+Location TBA ~ 7:00 PM
+
+17 July ~ Summer Get Together
+Location TBA 
+
+21 August ~ Business Meeting
+Location TBA 
+----------
+
+Don’t Forget!
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	KQ1Y		Tim Wortley 
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using the digital modes during the Net: 
+Echolink node *NEW-ENG* (9123)
+IRLP node 4133
+----------
+
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2014		Clark Conti	N1NVK
+Director  »2014		Mike Neilsen	W1MPN
+Director  »2013		Steve Schwarm	W3EVE
+Director  »2013		Roger Coulson	WA1NVC
+
+Repeater Trustees, Appointed
+Boston 927.0625		Rick Zach	K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Bruce Pigott	KC1US
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Lowell 442.250		Vince De La Flor K1LVF
+Marlboro 53.810; Quincy 146.670; Southboro 449.575
+	
+		Bryan Cerqua	W1BRI
+Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
+Belmont 145.430;  Weston 442.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  	Bruce Pigott	KC1US
+VEC Liaison		Bill Wade		K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+www.mmra.org >> Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+
+Contact: 	Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM
+Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+ 3 Nov	Bourne MA FARA @UpperCC VoTech
+ 3 Nov	Londonderry NH IRS @Lions
+17 Nov	Salem NH @Rockingham
+ 1 Dec	Windsor CT VR+C Mus 115 Pierson LN
+16 Feb	Marlboro MA AARC @MidSc
+16 Feb	Springfield VT CVFMA @VFW 
+17 Feb	Westford MA NEARC RadioXLIV 
+23 Feb	S Burlington VT HAM-CON @HI 
+ 2 Mar	Feeding Hills MA MtTARA @TurnverneinClb
+ 3 Mar	Hicksville NY LIMARC @LevitHall
+29,30 Mar Lewiston ME AARC ME Conv @Ramada
+ 7 Apr	Southington CT SARA @HS
+ 7 Apr	Framingham MA FARA @KeefeTech
+13,14 Apr	Wakefield MA Photographica
+21 Apr	Cambridge MA  FLEA at MIT
+3,4 May	Deerfield NH NEARFest XIII @FG
+19 May	Cambridge MA  FLEA at MIT
+ 1 Jun	Hermon ME PSARA @HS
+15 Jun	Newington CT NARL @StMarySch
+16 Jun	Cambridge MA  FLEA at MIT
+21 Jul	Cambridge MA  FLEA at MIT
+18 Aug	Cambridge MA  FLEA at MIT
+ 7 Sep	Ballston Spa NY SCRACES
+ 8 Sep	Newtown CT CARA @TownHall
+15 Sep	Cambridge MA   FLEA at MIT
+21 Sep	Forestdale RI RIAFMRS @VFW
+13 Oct	Meriden CT Nutmeg @Sheraton
+----------
+
+End of Newsletter
+----------

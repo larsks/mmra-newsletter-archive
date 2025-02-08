@@ -1,0 +1,305 @@
+The Minuteman Repeater Association
+The Minuteman
+Volume 43, Number 3
+January 2014
+----------
+
+Membership Meeting ~ Wednesday, January 15 ~ 7 PM
+
+Volunteering for the 2014 Boston Marathon
+
+Steve Schwarm, W3EVE  
+
+Clay Center Observatory in Brookline 
+
+Talk-in: 146.82
+
+What's involved in volunteering for the Boston Marathon? Come find out when Steve Schwarm gives us the run down on what we do, how you can volunteer, and what to expect when you get there. 
+
+DIRECTIONS
+From the West:  Follow Route 9 into Brookline. At the intersection with Chestnut Hill Ave near the Brookline Reservoir turn south onto Lee Street, keeping right at merge with Clyde Street. Continue to the end at the traffic lights and get in left lane. Turn left onto Newton Street, stay in right lane, and look for red tile and stucco buildings on your right. Turn right onto St. Paul's Avenue (some maps call it Mt. Walley Ave.)
+
+From the East: Follow the Jamaicaway into Jamaica Plain. Follow the Jamaicaway south, keeping Jamaica Pond on your right. (Ignore the Pond Street that goes east at the pond.) When the road is split by a tree-lined park, get in the right lane and turn right at the traffic lights onto the Pond Street that heads west, up hill, and around many sharp curves. When the road straightens out look for Hopkins Road on your left. Take your next left onto St. Paul's Avenue (some maps call it Mt. Walley Ave.)
+
+From the South: Follow the VFW Parkway into West Roxbury. After Corey Street get in left lane. Look for signs for "Village at Chestnut Hill" and Bertucci's. Turn left onto Independence Drive, follow through lights, then straight through rotary onto Grove Street. Stay in right lane, and go straight ahead at lights by Exxon Station. You are now on Newton Street. Follow Newton Street through traffic lights at Clyde Street. Stay in right lane, and look for red tile and stucco buildings on your right. Turn right onto St. Paul's Avenue (some maps call it Mt. Walley Ave.)
+
+Parking: For the Clay Center: Take 2nd right through main gate, travel up the hill, bear LEFT, over top of hill, and park on Athletic Center roof deck.
+----------
+
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in Eastern Massachusetts.
+
+The MMRA meets (usually) on the 3rd Wednesday of each month from September to June.  Meeting times, locations, and talk-in frequency vary and are announced in this newsletter and on weekly nets.  Meetings are open to all interested parties.  Guest speakers and programs of general interest occur in September, November, January, March, and May.  The intervening meetings are also open to all members and are for general business.
+
+The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at 
+newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+
+Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+
+Email to the club leadership should be sent to 
+contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+
+An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/.  
+
+You can also follow us on twitter @mmraham and like us on Facebook: https://www.facebook.com/mmraham.
+
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
+----------
+
+MMRA QRM Policy
+
+MMRA members and all other operators are strongly encouraged to report repeater 
+activity that does not abide by Part 97 rules or accepted amateur radio practice to the board of directors at contact@mmra.org or via other means.
+
+The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
+----------
+
+Public Service Events
+David Wolfe — KG1H
+
+The following are public service events in which Amateur Radio operators from the MMRA and other clubs participated.
+ 
+Greenway Challenge, Sept 28
+The UniBank Greenway Challenge athletes run, paddle and bike on a newly designed course, through one of the most beautiful and historic regions of New England, the Blackstone River Valley National Heritage Corridor. This annual race is quickly becoming one of New England's premier adventure races.
+
+ALS Bicycle Ride, Sept 29
+The Ride to Defeat ALS is a one-day, fully-supported cycling event took place on Sunday, September 29, 2013 that raises funds to fight Lou Gehrig’s Disease.
+
+Grace Race, Chelmsford, Oct 5
+The 10th annual Grace Race 5-mile road race /5K walk on Saturday, Oct. 5, at 275 Billerica Road in Chelmsford, was hosted by the Grace Community Church.
+
+CF Cycle for Life, Oct 6
+CF Cycle for Life 65+ (Metric Century?), 30 & 12 mile routes, on Saturday, October 5, 2013, Fatima Shrine, Holliston, MA, to benefit Cystic Fibrosis 
+
+BAA Half Marathon, Oct 13
+The BAA Half Marathon was on October 13 using the 146.820 repeater. This race runs from Jamaica Plain to Brookline and back.
+
+Ashland Second Annual Half Marathon and 5K, Oct 27
+The Ashland Second Annual Half Marathon and 5K took place at Marathon Park on Sunday, Oct. 27. Organized by the Ashland Sporting Association, the race expected to have close to 1,000 runners this year.  This is the first time Ham Radio was used for the event.
+
+Sutton Festival of lights Dec 7
+Each year, the community of Sutton comes together to celebrate small-town New England at its best.  The festival uses Trolleys, the same ones that roam around Boston in the summertime, to transport people, from one site to another. There were about 9 Trolleys,  The operation consisted of a ham (and a town tour guide) in each Trolley, to communicate with net control, in order to maintain the safety aspect as to location, emergency needs etc.   It just so happens that David, KG1H, was the ham in a Trolley that was hit head on by an oncoming vehicle.  He reported the accident to net control who contacted the Sutton police.  Luckily, there were no injuries reported. Because of his operating position in the Trolley behind the driver, he was the witness to the accident and his statement was provided to the police.
+----------
+
+MMRA November Membership
+2300 MHz and Up!
+Tony Sousa, NN1D
+
+
+PHOTO CAPTION:
+Members are looking at some of Tony’s 10G and up modules.
+----------
+
+December Business Meeting ~ Bob Evans — N1BE ~ Clerk
+
+The MMRA met on December 18th at 7:00 pm at the headquarters of Stratus Technologies in Maynard.  K1KWP, K1IW, N1BE, WA1NVC, W3EVE, N1DDK, N1BDA, W1BRI, and N1NVK were present.
+ 
+Kevin, K1KWP opened the meeting with a treasurer’s report, beginning with expenses for the largely completed renovations at the Sligo site.  Kevin also reviewed income and expenses already incurred for this fiscal year.  Then we discussed expenses still expected to occur this year.  Finally he presented counts of renewed and not renewed members.
+ 
+The board moved to defer the previously approved expenditure of $400 for a new duplexer for the 449.575 MHz repeater.
+ 
+Bob, K1IW reported on the status of a few repeaters with many photos of the sites discussed.
+  - 146.82, with a receiver in Brookline and transmitter at the Prudential Center is working well.
+  - The City of Marlborough gave Bob a last minute notification that the Sligo antennas need to use black mounts.  This is a delay and an extra expense to purchase suitable mounts.  Then we looked at where we want the MMRA antennas mounted and how feedlines will be routed from the top of the tank to the ground level.
+ 
+We considered what to do with the spare MSF5000 now in storage at the garage of K1IW.  Consensus was to save this as spare for Boston 900 MHz repeater.  Bob will need some help relocating it to Weston for storage.
+ 
+We also discussed what to do with the old 449.925 MHz antenna.  The consensus was to re-finish the outside to prevent flaking of fiberglass.  Then we could use it as an improvement for a Burlington or Weston 70 cm antenna.  No one volunteered to do the refinishing work, but also, no one was a proponent of selling this antenna.
+ 
+The summer ham radio flea market tentatively planned for a weekend at the end of August was cancelled due to not being able to use the Clay Center for this event. 
+
+With the Sligo site renovations likely to be completed in the next few months, we discussed the possibility of an MMRA open house this spring to showcase this site.  The board was favorable to the idea, provided that we can complete the renovations.  Stay tuned as this becomes better defined in the next months.
+ 
+Finally we discussed the Feb. 15th flea market in Marlborough.  WA1NVC volunteered to man a table, but he will need at least one more person to assist.  We considered some small items from Weston that can be put up for sale.
+ 
+The meeting adjourned at 7:46 PM.
+----------
+
+President’s Corner
+
+Bob DeMattia — K1IW 
+
+Even though Larry, our newsletter editor, has done a large photo essay on the Sligo relocation in this issue, it's difficult for me NOT to write about it too.  In early November, we were informed by the City of Marlborough that it was time for us to move our shelter.  We did a walk-through the week before Thanksgiving, at which time we were told we could move the Shelter and reposition our antennas back to the top.
+
+The day before Thanksgiving, I found out that one of the other tenants on the hill was going to have a 40-ton crane on-site on December 6th.  No problem: All I had to do now was get everything out of the shelter, have the temporary antennas moved, the power and phone lines disconnected,  and the new site graded and ready in 9 days - with the Thanksgiving holiday in the middle of it!
+
+Fortunately, everything came together and we were ready on the 6th.  The crane operator moved our shelter at no cost to the club.  One downside was there wasn't time to schedule a work party to grade the new spot, which was originally supposed to happen on the 7th, so we hired a landscaping company to do the work.  This costs us $1500 - which was much less than the cost to hire a crane.
+
+Over the next few weeks, the equipment was brought back into the shelter, an electrician ran a new service and the power company gave us our electricity back.  There are still a few bugs in the system with the city and the antennas.  Our original plan to reinstall the antennas met up against uncooperative weather.  Now that's in January, the weather is even more uncooperative AND the city now wants us to wait on another tenant - so we are back in a holding pattern mostly like until Spring (unless something comes up).  So, as always, stay tuned!
+----------
+
+Next Business Meeting: Wednesday February 12, 7PM  Stratus, Maynard
+----------
+
+Sligo Update ~ Progress!!!
+
+As mentioned in our last MMRA Newsletter, and after much delay, progress has finally commenced at our main hub on the hill at Sligo in Marlborough.  The town, with little warning, told the MMRA that it was time to move forward.  This required that our shelter be moved and the antennas be positioned back up on the water tower.  Here are some photos from the recent happenings.
+
+PHOTO CAPTIONS:
+The equipment in Bob’s garage, waiting for transport to the newly moved shelter
+The old spot
+The Infamous tree trunk—or what’s left of it...
+Here we go!!!
+Careful!!!
+Our antennas are not even there yet!
+Neither are our cables.  These are from the cellphone providers.
+Our equipment is back in the shelter...
+...and the temporary antennas are operational again.
+Old Location   New Location
+
+Many articles about the Sligo upgrade are available in previous issues of the MMRA Newsletter at:
+www.mmra.org
+Newsletter Archive (on the left.)
+
+November 2012	Vol 42 #2		Page 4
+September 2012	Vol 42 #1		Page 5-6
+May 2012	Vol 41 #5		Page 3
+January 2012	Vol 41 #3		Page 6-7
+November 2011	Vol 41 #2		Page 3
+September 2011	Vol 41 #1		Page 5
+January 2011	Vol 40 #3		Page 4
+November 2010	Vol 40 #2 		Page 4
+September 2010	Vol 40 #1		Page 3
+November 2009	Vol 39 #2		page 6
+
+
+----------
+2013—2014 Meetings
+
+15 January ~ Membership Meeting
+Steve Schwarm W3EVE — Reflections on the 2013 Boston Marathon 
+Clay Center, Brookline 
+
+12 February ~ Business Meeting
+Stratus, Maynard
+
+19 March ~ Membership Meeting
+A Peek into the World of Nanotechnology
+Tatnuck Bookseller, Westborough 
+
+16 April ~ Business Meeting
+Stratus, Maynard
+
+21 May ~ Membership Meeting
+Topic TBD
+Location TBA 
+
+18 June ~ Business Meeting
+Stratus, Maynard
+
+16 July ~ Summer Get Together
+Location TBA 
+
+20 August ~ Business Meeting
+Stratus, Maynard
+----------
+
+Don’t Forget!
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	KQ1Y		Tim Wortley 
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 9127
+----------
+
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2015		Steve Schwarm	W3EVE
+Director  »2015		Roger Coulson	WA1NVC
+Director  »2014		Clark Conti	N1NVK
+Director  »2014		Mike Neilsen	W1MPN
+
+Repeater Trustees, Appointed
+Boston 927.0625		Rick Zach	K1RJZ
+Boston 146.820		John Mullaney 	K1BOS
+Brookline 146.820 Rcvr	Bob Phinney	K5TEC
+Burlington 146.715	Bruce Pigott	KC1US
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Lowell 442.250		Vince De La Flor K1LVF
+Marlboro 53.810; Quincy 146.670; Southboro 449.575
+
+			Bryan Cerqua	W1BRI
+Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
+Belmont 145.430;  Weston 442.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.	David Wolfe	KG1H
+VEC Liaison		Bill Wade		K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+www.mmra.org
+Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+1 Feb	Windsor CT	VR+C Mus 115 Pierson LN
+ 8 Feb	Springfield VT	CVFMA @Cong Ch
+15 Feb	Marlborough MA	AARC @MS
+15 Feb	Augusta ME	AARA @ClbCalumet
+16 Feb	Westford MA	NEARC RadioXVL
+22 Feb	S Burlington VT	HAM-CON @HI
+ 1 Mar	Chicopee MA	MtTomARA @MooseLodge
+ 2 Mar	Hicksville NY	LIMARC @Levittown Hall
+15 Mar	Dayville CT	ECARA @StJosephCh
+16 Mar	Southington CT	SARA @HS
+28,29 Mar Lewiston ME	AARC ME Conv @Ramada
+ 6 Apr	Framingham MA	FARA @Keefe Tech
+12,13 Apr Wakefield MA	Photographica @AmericalCtr
+12 Apr	Windsor CT	VR+C Mus 115 Pierson LN
+18 Apr	S.Portland ME	PAWA @AmLegion
+20 Apr	Cambridge MA	FLEA at MIT
+27 Apr	Middletown NY	OCARA @CommCtr
+2,3 May	Deerfield NH	NEARfest
+10 May	E Greenbush NY	EGARA @FireCo
+ 7 Jun	Hermon ME	PSARA @HS
+ 7 Jun	Windsor CT	VR+C Mus 115 Pierson LN
+18,19 Jul Hartford CT	ARRL Nat Conv 100th Anv.
+----------
+
+END OF NEWSLETTER

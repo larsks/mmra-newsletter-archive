@@ -1,0 +1,382 @@
+The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+Volume 48, Number 4
+March 2019
+----------
+
+Membership Meeting Wednesday, 20 March 7:30 PM
+FT8: Not a Prefix, a Powerful New Mode
+
+Larry Banks,W1DYJ 
+Location: Microsoft Technology Center, 5 Wayside Rd, Burlington, MA 01803
+Talkin: 146.715
+
+FT8 showed up on the ham horizon in August 2017, and has since become the “hot new mode.”  Larry will discuss it’s history and how to set up your station.  He will also introduce a supporting application called JTAlert and highlight some reporting web sites.  He will end with his personal experience using FT8 to chase DX with low power and homebrew antennas.
+ 
+Larry was licensed in 1962 as novice KN1VFX and became W1DYJ in 1966.   He was an engineer and manager developing cardiac instrumentation for HP Medical in Waltham and Andover from 1969 to 1985.  He then became the Section Manager responsible for establishing the Cardiac R&D lab’s CAD environment, the SW Testing and Quality group, and ongoing Technical Education.  Moving to HP Education in 1993 to be responsible for technical and project management training, he became Agilent Technology’s global program manager for their Learning Management System when Agilent split out of HP in 1999.  He “retired” in 2005 and then consulted for Avago Technologies (now Broadcom) on eLearning technologies through 2012.  Larry holds three degrees in EE from MIT.  He spends his time chasing DX and contesting both in Woburn and at his second home in Maine, traveling with his wife Maren, and attending as many jazz and classical concerts as they can.   He is also the net manager and newsletter editor for the MMRA, publications editor for FEMARA, a member of the YCCC, and on the executive board for the Merrymeeting ARA in mid-coast (Brunswick) ME.
+----------
+
+MMRA QRM Policy
+MMRA members and all other operators are strongly encouraged to report repeater 
+activity that does not abide by Part 97 rules or accepted amateur radio practice to the board of directors at contact@mmra.org or via other means.
+The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
+----------
+
+President’s Corner ~ David Hornbaker , N1DCH 
+
+Greetings to all MMRA members!
+ 
+Welcome to our new members, eighteen since 
+January 2019. We're glad to have you onboard and hope you enjoy all our membership activities.  
+ 
+A new Control Operator Guide has been written and approved by the board.  All members should read the editorial by Larry Banks, W1DYJ regarding the new control operator policy, as well as MMRA control operator manual-responsibilities which is attached.  If you hear any issues with repeaters misbehaving or Part 97 violations, please send the information to the control operators (control-op@mmra.org) and the board (contact@mmra.org).  I would like to thank Larry, W1DYJ, for researching and writing the new policy.    
+ 
+Additionally, all members should read the section of this newsletter regarding Pirate/Bootlegger.  Thanks to Bob, K1IW, Bruce KC1US, Larry W1DYJ and many others who sent in reports and for their efforts in tracking down the pirate.  Remember it is a violation of Part 97 to communicate with an unlicensed station.
+ 
+We've got elections on the horizon and any MMRA member can run for the openings.  We encourage you to be involved.   There is a deadline for 
+nominations.  Any member interested in running for director or for one of the offices, should notify the board (contact@mmra.org)  before the April  17th business meeting.  
+ 
+Presentations are an integral part of our membership meetings and are about an hour in length.  What would you like to see presented in the coming year, which begins in September?   Please send 
+suggestions to the board (contact@mmra.org).
+ 
+On behalf of MMRA, I thank Bob, K5TEC for providing meeting space for the MMRA's last few  monthly meetings.  If you have not been to a meeting at New England Sci-Tech, I would urge you to check it out.  If you need use of a Maker space, consider the offerings at New England Sci-Tech.
+ 
+I look forward to seeing you in Burlington on March 20, and hearing you on the TIOS Net, every Tuesday at 8:00 PM.
+ 
+73 ~ David Hornbaker,  N1DCH
+----------
+
+Hopkinton 220 off the air, 223.94 relocated ~ Bob DeMattia, K1IW
+
+Some may remember in 2015 when we wanted to update the site.  There were ongoing discussions with the site owner, 
+ending in a requirement that we had to purchase multiple insurance policies, including workers comp, vehicle insurance, and a $4M umbrella policy.  These would have cost the club over $4000/year.  
+
+After four years they have revisited this issue and unplugged the repeater.  They asked that we remove it.  Bryan, W1BRI, did so on Friday 1 March.  Bryan then replaced the (very old) 224.88 hardware in Marlboro with this repeater hardware.  Bryan will rebuild the current 224.88 repeater hardware and we will redeploy it at another site.
+----------
+
+16 January 2019 Membership Meeting Minutes
+Charles Miller, KC1JUO, Clerk
+
+ 
+The meeting was brought to order @ 17:11
+
+Presentation: Tim Duffy K3LR – COO @ DXEngineering via SKYPE
+Having Fun with Contesting and Contesting University
+
+Some useful URLs:
+http://www.arrl.org/the-arrl-contest-update
+http://www.contesting.com
+http://www.contestuniversity.com
+
+Q&A after the presentation:
+Q: How to be a better typist 	A: just keep doing it!
+Q: Recording the  contest and using it to correct the log afterward    A: Post correction is not allowed
+Comment: During beaks no contesting work can be done.  Off time means off contest.
+
+After the presentation the members engaged in a number of vigorous discussion topics:
+ * Learning to type discussion… Sharing of “Typing Stories”
+ * Contesting in general:
+ * What is a Unique?   A Unique is a contact where the other station didn’t send in a log and had only a few Qs 
+ * Postage on QSL cards is very expensive in Europe
+ * Log book of the World – monitoring website:
+             <  https://status.lotw.arrl.org/  >
+ * Net on Tuesday nights @ 20:00: good place to ask Qs
+ * Solar Power and Ham Stations / Presentation Topic???
+            April 2016 QST – Great Article on Solar and Filtering by K1KP.
+           (New ARRL  “Grounding and Bounding” book by N0AX.
+ * YCCC website – a lot of good info on Grounding and Ferrites / HF interference
+ * “Wall Warts” discussion
+ * Easy as pie attenuators: N1NVK
+            Another source of attenuators:  MFJ
+
+Business/House Keeping Topics:
+ * Renewals [how to distribute]
+ * Call for Secretary – Main duty is maintaining MMRA database
+ * Next Business Meeting will be a tele-conference/ Possible meeting location
+ * Discussion about Repeaters and Characteristics
+ * Idea: Field Days are a great way to gain experience / <ARRL Field Day locator> Calendar?
+ * Sci-Tech Winter Field Day January 26th
+ * National Weather Service – Norton MA
+ * Control Center for the Cape Cod Canal
+ * How the Repeater System Works
+ * Software Define Radio and Ham Radio
+
+Bob Phinney: Sci-Tech Overview and Tour : http://www.nescitech.org
+
+Meeting adjourned: 21:00
+----------
+
+Editorial: New Control Operators Policy ~ Larry Banks, W1DYJ
+
+In September of 2018 an incident occurred on the North Reading 2M repeater that required control operator intervention by repeater trustee Bruce, KC1US.  As the “listed” control operator of this 
+repeater, and the trustee of the companion North Reading 70cm repeater, I thought it was in my 
+personal interest to investigate, understand, and perhaps make suggestions for the future.   At the 
+19 December 2019 Business Meeting my suggestion was approved.
+
+In fact, this incident made me realize that I would not be sure of my own response if I experienced a similar situation.  When I was appointed a trustee of 446.775 and control operator of 146.715 it seemed more like an honor than a responsibility.  I received the “private” MMRA control operator codes but no directed training as to what was expected of me other than to understand FCC rules.  The only published member guidance is in each newsletter: see page 2.  This was written a number of years ago when the MMRA experienced a period of harassing and anonymous transmissions and has been our sole written guidance since. 
+
+The Incident
+
+ * Two non-members of the MMRA were involved in a political discussion on North Reading 2M, 146.715 MHz.  The following paraphrases Bruce’s documentation of this discussion:
+On 28 September two hams were using the KC1US repeater.  They were talking about a congressional hearing in progress. Then ham#1 was heard uttering an obscenity about the hearing.
+ * Trustee KC1US broke into the conversation, identified himself as the trustee, and asked the two hams to leave the repeater due to their use of prohibited language.
+ * The conversation quickly became heated with questions about what obscenity and first amendment rights from the two non-MMRA-member hams.
+ * Trustee KC1US then stated that he was banning them for three months.
+ * Ham#1 (and ham#2?) then proceeded to make comments about KC1US’s partisan agenda.
+ * Trustee KC1US heard them again on 12 October, reminded them that they had been banned, and was ignored, at which point KC1US turned off the repeater again 
+
+This incident has led various officers of the MMRA to discuss the current lack of a policy and what might have been a better control operator response.  It was obvious to me that the MMRA has no written policy covering incidents such as this one that would lead to banning someone from the MMRA repeaters.   I also believe that Bruce acted appropriately, given that it is his license at stake.
+
+It is also my personal opinion that this incident occurred because the overall concept of speaking with dignity and integrity in the public sphere has degraded over the past decade or two.   It probably would not have happened ten or twenty years ago.  To use Kevin’s (K1KWP) concept, one should always assume that your mother-in-law is listening on the repeater; or in my case, my granddaughters.
+
+Using FCC part 97 rules, guidance from the ARRL, and much input from MMRA officers, the policy 
+on the next page was generated, debated, and adopted by the MMRA at the business meeting of  
+20 February 2019.
+----------
+
+MMRA Control Operators Manual – Control Operators Responsibilities
+
+MMRA Repeaters are owned by the MMRA.  The MMRA Executive Board reserves the right to ban anyone from using the repeater system for behavior that:
+
+ * Does not adhere to FCC Part 97 legal requirements
+ * Causes a repeater to operate in a noncompliant fashion
+ * Reflects poorly upon the amateur radio community
+ * Hinders the emergency communications process.
+ * Hinders the legitimate use of the repeater system by any other licensed amateur.
+
+Control Operators (COs) are designated by the MMRA Board of Directors.  It is the responsibility of all COs to monitor the repeaters and act to ensure proper and legal usage of the repeaters as representatives of the MMRA.  Specifically:
+
+ * Although a repeater trustee is the "chief control operator" for their listed repeater, all COs (including all trustees) are COs for all MMRA repeaters.
+ * All CO’s are expected to read and understand FCC Part 97, §97.103, .105 and .113.
+ * CO’s have the responsibility to ensure proper operation of the repeater in accordance with the FCC Rules.  Of particular concern are:
+
+     * Proper technical operation of all repeaters.
+     * Adherence to the use of proper language by all users, especially as defined by FCC Part 97,  §97.113 Prohibited transmissions   (a)(4) :
+
+Music using a phone emission except as specifically provided elsewhere in this section; communications intended to facilitate a criminal act; messages encoded for the purpose of obscuring their meaning, except as otherwise provided herein; obscene or indecent words or language; or false or deceptive messages, signals or identification.
+
+ * If an MMRA CO witnesses repeater operation that does not adhere to the above and has reason to believe that the improper operating will continue, the response should be to turn the repeater off, log all pertinent data (callsign, time, prohibited behavior) and notify the MMRA Board of Directors of the issue by email via contact@mmra.org .  Discussion of issues “on-the-air” is discouraged.
+ * After a CO has notified the MMRA board, the Executive Board has the responsibility to (a) decide if the abuse warrants a warning to the offending ham(s) and if so (b) quickly warn the offending ham(s) that they may be denied use of the repeaters in the future.  The Executive Board will make all attempts to notify offenders: 
+
+     * Via email, by US mail, by telephone, or by any other good faith attempt.
+     * On-the-air warnings are highly discouraged but may occur if no other mechanism seems available.  
+
+ * If after being first informed, the offending ham continues to abuse the repeater system, the Executive Board will inform the ham(s) that their use of the repeaters is revoked.  
+ * If the offending ham continues to cause problem(s) after being notified that permission to use the repeaters has been revoked, the FCC will be informed.
+ * Ignorance of warnings and/or failure of acknowledgement of warnings will affect the Board's decision.
+----------
+
+20 February Business Meeting ~ Minutes
+ 
+Larry Banks, W1DYJ (with help from others)
+
+The meeting was called to order at 7:03 PM at New England Sci-Tech, Natick
+
+Present were Kevin, K1KWP; Larry, W1DYJ; Dave, N1DCH; Ed, W1OED, Bob. K5TEC; Bruce, KC1US
+Via teleconference: Bob. N1BE; Bill, N1KUG; Clark, N1NVK, Ed, KC1CLA; James, N1DDK; John, WA1MDD
+
+Item 1:  Bob, K1IW, has requested that we purchase a new router for the Slygo main hub site as the current router has failed three times recently.  Moved (K1KWP) and seconded (W1DYJ) to approved $100 for a new router.  Passed unanimously.
+
+Item 2: Approve the Control Operator Policy recently authored by W1DYJ.  Moved (K1KWP) and seconded (W1OED).  Passed unanimously.  (W1DYJ abstained.)  Next steps were discussed:  The policy will be published in the next newsletter.  It will be added to the website in the near future.  A discussion about whether the Control Operators names should be 
+public led to a decision to publicize only the CO email address (control-ops@mmra.org) but not the names of our many COs in order to keep the list private.   The need for additional CO training was mentioned again and a tentative springtime session was suggested.
+
+Item 3: The Pirate Situation.  The non-Ham using the call KC3JLY (and previously W2RFW) has been 
+identified as definitely a pirate bootlegger.  He has been reported to both the FCC and the ARRL.  We were reminded that it is against FCC Part 97 rules to talk to a non-ham on ham radio frequencies.   Multiple MMRA  members have been monitored communicating with the pirate.  It was decided that we should send an email to those members to inform them that they should not be communicating with a pirate.  There was a question as to whether we would be able to send that email from a neutral email address (like mmra@mmra.org) instead of from an individual.  W1DYJ agreed to compose this email and send it to N1DCH for distribution after approval.  This will also be highlighted in the next newsletter.
+
+Item 4: Public Service Coordinator.  Our past president Dave, KG1H, resigned as PSC when he recently moved to Florida.  Bruce, KC1US, has volunteered to serve as our PSC.  (Thanks Bruce!)  Moved (K1KWP) and seconded (W1DYJ) to approved Bruce as our PSC.  (KC1US abstained.) Passed unanimously.  Further discussion concerning how to inform the membership about scheduled public service events led to a review of the current MMRA public service web page.  We noted that there were some old or dead links.  Kevin, K1KWP, has updated/removed these links.  Bruce will be looking into ways to publicize upcoming events.
+
+Item 5: (not on the agenda)  A question was asked about whether the MMRA needs a social media coordinator for Twitter/Facebook etc.  The consensus was that it would be a good position to have, but no one at the meeting volunteered.
+
+Item 6: March Newsletter: Deadline for submission is Feb 28.  A recent audit of our membership list indicates that there are some anomalies.  Kevin, K1KWP, will write up a short note for the newsletter concerning this.  Dave, N1DCH, agreed to send out an email note to last year’s members who are not renewed to discover if they (1) did renew and were missed, or (2) perhaps will renew.
+
+Item 7:  Discussion of meeting time and May meeting date.  Some members have suggested that having meetings at 7 PM prevents them from attending due to the early time, and that starting at 7:30 would help.  We decided to have the March meeting start at 7:30 to see if it makes a difference and will ask those present at the meeting if it helped.  There is also an issue with the date of the May meeting due to a conflict with the Dayton Hamvention.  As the consensus was that as many might miss the meeting from a date change as will miss the meeting due to Dayton (currently 2 members that we know of), the decision was made to keep that May date as the 15th.
+
+A final comment: the experiment with telecommunication was deemed a success.
+
+The meeting was adjourned at 8:25 PM.
+----------
+
+Recent Pirate / Bootlegger
+
+The MMRA has tracked down a repeat offender, a Pirate/Bootlegger.
+ 
+This person was using the call W2RFW (“Dean, from Milton”) a few months ago; the real W2RWF (note the reversal of letters) has verified that it was not him.  When he was revealed to be a pirate, he switched to the call KC3JLY, 
+Curtis, and has recently been heard on the Quincy 146.670 repeater.  The real KC3JLY has been contacted and assures us that it is not him.   This offender has been reported to the FCC.  We believe that this pirate lives in the Milton area.
+ 
+Be aware that you should not engage with this imposter, as it is contrary to FCC Part 97 rules.  If you hear him, ignore him.  
+ 
+However, even though we have a log of some of these transmissions IF YOU DO HEAR HIM please log whatever you can.  If possible, switch to the input of the repeater and log the signal strength and your location and time.  This may help us locate the pirate.  
+
+The MMRA Board of Directors has confirmed these findings.  
+----------
+
+Membership Audit ~ Kevin Paetzold, K1KWP, Treasurer
+
+A recent audit of the MMRA membership lists has shown that there may be some discrepancies concerning renewal date.  We believe this has been fixed.    IF you joined or renewed at the Boxboro 2018 Convention in September, please check your membership status at:
+
+       http://www.mmra.org/index.html — you need to sign in to see your status.
+
+Anytime you believe we missed something or messed up something with your membership or dues please let us know:  contact@mmra.org.
+----------
+
+Upcoming MMRA Meetings
+
+Note: Meeting locations and times are subject to change.
+Consult the MMRA website for the most up-to-date information. Teleconference numbers will be available one week before a meeting—if you wish to attend, email contact@mmra.org.
+
+
+Wednesday, 20 Mar ~ Membership Meeting 
+Speaker: Larry Banks, W1DYJ
+Topic: FT8: Not a Prefix, a Very Powerful Mode
+Location: Microsoft, Burlington
+
+Wednesday, 17 April ~ Business Meeting
+Location: Marlboro Library + Teleconference
+
+Wednesday, 15 May ~ Annual Meeting & elections
+Speaker/Topic: tbd
+Location: New England Sci-Tech Inc., Natick
+
+Wednesday, 19 June ~ Business Meeting
+Location: tbd + Teleconference
+----------
+
+Don’t Forget! Join Us.
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Net Control Operators:
+Week 1	W1DYJ		Larry Banks	
+Week 2	WA1JIM		Jimmy Devaire	
+Week 3 	KC1CLA		Ed Curley
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	KB1OQA		Tom Turner
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+
+www.mmra.org è Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+
+Check here for the schedule:  
+http://www.mmra.org/exam.html
+Contact: Bill Wade, K1IJ      617-699-3670 
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+----------
+
+MMRA Leaders
+
+
+Executive Board — Officers
+President	David Hornbaker 	N1DCH 
+Vice President	John Spencer		WA1MDD
+Secretary	David Hornbaker 	N1DCH 
+Treasurer	Kevin Paetzold		K1KWP
+Clerk 		Charles Miller		KC1JUO
+
+Executive Board — Directors
+Director  »2019	Bob DeMattia		K1IW
+Director  »2019	Roger Coulson		WA1NVC
+Director  »2020	Clark Conti		N1NVK
+Director  »2020	James Lee		N1DDK
+
+Technical Officer	Bob DeMattia	K1IW
+
+President Emeritus	Bob DeMattia	K1IW
+Technical Officer Emeritus	Bryan Cerqua	W1BRI
+
+Repeater Trustees
+* Belmont 145.430	Ed Curley	KC1CLA
+* Boston 146.820	John Mullaney 	K1BOS
+* Brookline Rcv 146.82	Bob Phinney	K5TEC
+* Boston 927.0625	Rick Zach	K1RJZ
+* ????????   224.880	James Cahill	KB1LOY
+* Hopkinton 449.575	Bryan Cerqua	W1BRI
+* Lowell 442.250	Vince De La Flor K1LVF
+* Marlborough 53.810,  Quincy 146.670; 
+	
+			Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.390, 147.270, 223.940,
+
+       448.225, 449.925,  927.700 — all as W1MRA
+		
+	Bill Northup	N1QPR
+* Mendon 146.610	Kevin Paetzold	K1KWP
+* N. Reading 146.715	Bruce Pigott	KC1US
+* N. Reading 446.775	Larry Banks	W1DYJ
+* Quincy 224.400	Bill Dunn	N1KUG
+* Weston 146.790	Bob Evans	N1BE
+* Weston 224.700	Eddie Mulhern	N1NOM
+* Weston 442.700	David Wolfe	KG1H
+
+Additional, non-Voting
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	Bruce Pigott	KC1US
+* VEC Liaison		Bill Wade	K1IJ
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+ 
+
+* Appointed
+----------
+
+Contacting the MMRA
+
+email
+Members: MMRA@yahoogroups.com
+
+Officers: contact@mmra.org
+
+Control Ops: control-ops@mmra.org
+
+WWW: http://www.mmra.org/
+Twitter: @mmraham 
+Facebook: https://www.facebook.com/mmraham.
+----------
+
+Calendar of Ham Radio Flea Markets & Gatherings
+
+For more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+24 Mar	Southington CT	SARA @HS
+29,30 Mar Lewiston ME	AARC ME Conv 
+@Ramada
+ 7 Apr	Framingham MA	FARA @KeefeHS
+21 Apr	Cambridge MA	Flea at  MIT
+28 Apr	Thompson CT	ECARA @ Raceway
+3-4 May	Deerfield NH	NEARfest XXV @FG
+12 May	E Greenbush NY	EGARA FireCo
+18 May	Brookline NH	NEARC
+19 May	Cambridge MA	Flea at  MIT
+ 2 Jun	Queens, NY	HOSARC @HOS
+16 Jun	Cambridge MA	Flea at MIT
+21 Jul	Cambridge MA	Flea at MIT
+18 Aug	Cambridge MA	Flea at MIT
+25 Aug	Newtown CT	CARA @TownHall
+6-8 Sep	Boxboro! 2019 
+28 Sep	Brookline NH	NEARC
+11,12 Oct Deerfield NH	NEARfest XXVI @FG
+----------
+
+Directions: Membership Meeting ~ Wednesday, 20 March 7:30 PM
+Microsoft Technology Center, 5 Wayside Rd, Burlington, MA 01803 
+
+From Rt 128/I95 take exit 33A to Cambridge St. SOUTH.  At the first set of lights go RIGHT onto Wayside Road (not very far.)  Take your first LEFT into the entryway to #5.
+
+At top of the entryway (follow the signs) turn RIGHT and follow road around to the LEFT to the entrance.  
+Someone inside will direct you to the room.
+----------
+
+END OF NEWSLETTER
+

@@ -1,0 +1,405 @@
+The Minuteman 
+Volume 36, Number 2 November 2006 
+Membership Meeting
+15 November 2006 @ 7 PM [not 7:30!] 
+Software Defined Radios 
+SOUTH SHOREM : Milton Public Library
+Dr. Gregory D. Troxel, N1DAM 
+Greg is a network researcher at BBN Technologies working on cognitive 
+teams of software radios for the Department of Defense 
+Talk in freq: 146.67 More Information on Page 3 
+
+President's Corner ~ Bob Dematia, K1IW 
+With our second meeting of the year just around the corner, this is the time 
+where the MMRA board starts looking at those members who have not yet renewed. 
+As I am writing this, that number stands at 57. I'm comparing this to the 
+members lost from 2004 and 2005, and it looks quite large. In 2004, we lost 6 
+members, in 2005 that number was 15. We typically will get another 50% of 
+what we have now, but that still means we'll lose about 30. This is not good. 
+You've probably heard this before, but it is worth repeating. Almost all of 
+MMRA's operating income comes from dues. This revenue is necessary for 
+paying the electric bills and rent, as well as equipment repair and upgrades. In 
+the past year, MMRA has made some important investments in its infrastructure. 
+The Diamond X-500 antennas at Stoneham (one for VHF, the other for 
+UHF) were replaced after many years of service. We also placed the new 
+Brookline 146.820 machine in service. Though much of the radio equipment for 
+'82 was donated, we still had to purchase the antennas and feedlines as well as 
+the controller. (By the way, yes, this new system is still having problems and is 
+currently off line while we work out the bugs). 
+If you have already renewed your membership, thank you very much! If 
+you haven't, please consider doing so as soon as possible. We make it 
+easy for you by offering an online payment system - simply go to http://www. 
+mmra.org/access.html to see your membership status and renew it - or you can 
+still renew the "old-fashioned" way via pony express. 
+73, Bob - K1IW 
+
+PAGE 2
+Location MHz PL Call Note 
+Bolton 29.620 131.8 W1OJ Affiliated, PTL 
+Marlboro 53.810 71.9 W1BRI PTL 
+Norwell 145.250 77.0 AC1M Affiliated, PTL 
+Mendon 146.610 146.2 N1BHI FTL 
+Quincy 146.670 146.2 W1BRI PTL—problem linking 
+Stoneham 146.715 146.2 N1NVL PTL—problem hearing 
+Weston 146.790 146.2 N1BE PTL 
+Brookline 146.820 146.2 K5TEC FTL 
+Brookline 146.985 88.5 W1FCC Affiliated, PTL 
+Marlboro 147.270 146.2 W1MRA PTL (to 10 Meters) 
+Hopkinton 223.940 103.5 N1BHI FTL 
+Quincy 224.400 103.5 N1KUG FTL 
+Weston 224.700 103.5 N1NOM FTL 
+Marlboro 224.880 103.5 W1MRA FTL (to 10 Meters) 
+Weston 442.700 88.5 N1NOM (coming soon) 
+Stoneham 446.725 88.5 W1DYJ FTL 
+Milford 446.825 100.0 WA1QGU Affiliated, PTL 
+Brookline 447.875 136.5 K1IW Affiliated, FTL 
+Shrewsbury 449.575 88.5 W1BRI FTL 
+Marlboro 449.925 88.5 W1MRA Network Hub 
+Norwell 443.600 88.5 NS1N Affiliated, PTL 
+Marlboro 144.390 none W1MRA APRS Digipeater 
+??? 145.630 146.2 W1MRA Fox Box 
+Echolink node 94940 
+IRLP node 4133 
+
+The Minuteman Repeater Association 
+(MMRA) is dedicated to Amateur Radio 
+and public service. The MMRA maintains 
+a large system of repeaters in Eastern 
+Massachusetts. 
+The MMRA meets on the 3rd Wednesday 
+of September, November, January, 
+March, and May. Meeting time, locations 
+and talk-in frequency vary. These are announced 
+in the newsletter and on weekly 
+nets. Meetings are open to all interested 
+parties. 
+The Minuteman newsletter is mailed one 
+week before each meeting. Members are 
+encouraged to submit articles. Articles 
+may be sent to the editor via email to 
+newsletter@mmra.org. The deadline for 
+articles is the last Friday of the month preceding 
+the meeting. 
+Each Tuesday evening at 8PM the 
+MMRA links most of the repeaters for an 
+open net. The topic is “Technical Information 
+and Other Stuff”. Please join us. 
+Membership in the MMRA is open to all 
+radio amateurs. Annual dues are $25 per 
+individual or $35 per family. See our 
+website for details. 
+Email to the club leadership should be 
+sent to contact@mmra.org. The MMRA 
+maintains a web site at: 
+http://www.mmra.org/ 
+An email distribution list for club members 
+named MMRA has been established at: 
+http://www.yahoogroups.com/ 
+No part of this newsletter can be copied 
+or posted elsewhere without prior approval 
+from the club. Your cooperation in 
+this matter is greatly appreciated. 
+About the Minuteman Repeater Association 
+
+TIME TO RENEW YOUR 
+MEMBERSHIP, IF YOU HAVEN'T 
+
+PAGE 3
+Directions to the MMRA Meeting 
+For those interested in dinner before the meeting, coordinate on 146.67. 
+Membership Meeting
+Software Defined Radios 
+15 November 2006 @ 7 PM [not 7:30!] 
+Milton Public Library ~ 476 Canton Avenue Milton, Massachusets 
+SOUTH SHORE 
+Dr. Gregory D. Troxel, N1DAM 
+Greg is a network researcher at BBN Technologies working on cognitive teams of software radios 
+for the Department of Defense 
+Greg will give an overview of software-defined radios, a new technology that is already changing Ham Radio. He will 
+talk about a free software radio package called GNU Radio. Greg will also describe a hardware front end for software 
+radios the USRP that uses daughter-boards for various functions, from VHF and UHF receivers, to boards for IF 
+use, and to transceivers for 440, 902, 1296 and 2400 MHz. Greg's talk will highlight the challenges in changing GNU 
+Radio from receiving continuous signals to packet radio. Following the talk, Greg will demonstrate GNU Radio and 
+the USRP with several daughter-boards. Come and hear about the future of Ham Radio! 
+
+From West or South: 
+Take Route 93 (128) to route 28, Randolph Ave.; 
+Go north towards Milton on 28. 
+At second traffic light turn left on Reedsdale Road (staying on 
+28N). 
+(There is a Tedeschi's on the right and a church on the far left.) 
+Library is on left at next traffic light, Canton Ave. 
+From Boston, via Southeast Expressway (Route 93 
+South) 
+Take Exit 10: Milton, Squantum Street 
+Bear right onto Adams Street at fork. 
+At second light go left onto Centre Street 
+Continue to third traffic light, just after Milton Academy. 
+
+PAGE 4
+October Board Meeting 
+Bob Evans, N1BE ~ Clerk 
+The MMRA Board met at 7:00 PM in the Westborough 
+Library on 18 October. Present were K1IW, 
+K1KWP, N1BDA, N1NVK, W1WH, K1VEA and 
+N1BE. The following summarizes the discussion. 
+Kevin, K1KWP gave the Treasurer's report, summarizing 
+MMRA's finances. We looked at final numbers 
+for the past fiscal year ending on August 31st 
+and a projection of our funds through the current 
+MMRA fiscal year. We had many two-year renewals 
+at Boxboro, motivated by the free raffle tickets 
+for anyone who renewed for more than one year. 
+The financial projection splits the multi-year renewals 
+between this year and the other years for which 
+renewal was paid. Planned expenses for the current 
+year exceed income received thus far by about 
+$140. We hope to make this up with renewals that 
+are outstanding, from about 55 MMRA members 
+have not yet renewed. This report was accepted by 
+a unanimous vote. 
+Bob, K1IW, presented a proposal for more flexible 
+and easier to use repeater linking. This is a followup 
+of his action item from the June 2006 board 
+meeting. The primary change is that in addition to 
+the MMRA hub in Marlboro, the 442.7 MHz repeater 
+in Weston would be capable of acting as a 
+hub. All sites except for Echolink and W1OJ's 10 
+Meter repeater would be capable of linking to either 
+of the hubs, and Weston would still be capable of 
+linking to Marlboro. Benefits of this include more 
+reliability by having an alternate hub. Linking 
+would be more flexible since it is possible to separate 
+MMRA sites into two arbitrary sets of linked 
+repeaters. User codes would change to simpler 
+codes that would no longer require an access code 
+prefix. This proposal included new diagrams of the 
+MMRA repeater system (see next page) with affiliated 
+repeaters, new lists of user and control operator 
+codes, and an itemized list of equipment changes 
+necessary to implement this new scheme. With 
+K1IW abstaining, the board voted to purchase a radio 
+and necessary crystals to implement this plan 
+with the expenditure not to exceed $300. 
+Kevin, K1KWP, led a discussion exploring reclassifying 
+the MMRA as a 501(c)(3) Tax-Exempt Organization. 
+Currently, we are classified as 501(c) 
+(7). The primary motivation for this change is that 
+dues and gifts to the MMRA would become taxdeductible 
+and this would improve the possibility to 
+receive grants for improvement to the repeater system. 
+The cost to make this change is perhaps 80 
+hours work to fill in forms and bylaw changes including 
+a succession policy if all board members 
+could not serve and a conflict of interest policy. 
+Additional on-going work would include recording 
+all board votes by each member and filing annual 
+tax returns. We are watching as FEMARA goes 
+through a similar reclassification process. Kevin 
+offered to begin organizing the information needed 
+for the application even though we have not decided 
+to make this change. 
+In their MMRA member info, W1WH, N1AP, and 
+W1JMC expressed interest in grant application writing. 
+The board requested that they talk with the MA 
+State RACES Radio Officer, N1CPE, about whom 
+to contact for MEMA funding of emergency communications 
+infrastructure improvements. We envision 
+improvements to linking, and adding battery 
+backup power to our sites as the kind of things that 
+would be of value to MEMA. 
+We discussed the cost and extra effort required to 
+produce paper newsletters. Notably, many other 
+clubs either no longer produce paper newsletters, or 
+they require a larger dues payment for printing and 
+postage. No action was taken on this issue. 
+We received notification that Bill, WA1NLR, has 
+resigned his post of MMRA Director. The MMRA 
+Board wants to acknowledge a great debt and 
+thank Bill for his numerous contributions to the 
+club over many years. We plan to refill this director 
+seat at the May annual meeting. Given the vacancy, 
+we request nominations for this board seat. 
+The meeting adjourned at 8:30 PM. 
+
+PAGE 5
+Repeater Update ~ Bob Dematia, K1IW 
+The MMRA system has a number of issues right 
+now: As some members have noticed, the new 
+146.820 repeater in Brookline has been taken off the 
+air. Ongoing problems with intermod has forced us 
+to remove this repeater from service and bring it 
+back to the shop for additional work. As part of this 
+refurbishment, the system will be getting a new link 
+radio and will have the various cavities and filters in 
+the transmission system retuned and/or replaced. 
+To increase accessibility, the '82 machine will soon 
+be placed back in service at the old Marlborough 
+East site. We will give it a good work out here before 
+putting it back in Brookline. 
+The 146.715 repeater in Stoneham appears to be 
+having receiver problems. It is certainly outtransmitting 
+what it can hear. This is going to need 
+to be looked at soon. 
+The link radio for 146.670 has been intermittent - 
+although the transmitter works, meaning we can 
+hear conversations from '67 on the HUB, the receiver 
+sometimes stops - meaning people on '67 
+cannot hear the HUB. Bryan suspects the cause of 
+this to be the radio getting too warm. It is physically 
+located near the 222 power amp. A few 
+months ago, the fan on this power amp failed and 
+thus the link receiver gets cooked. 
+On a more positive note, progress is still being 
+made on getting the 442.700 repeater in Weston 
+online. Once it is on the air, it will serve as a second 
+HUB for the MMRA system. Over time, each 
+repeater in the MMRA network will be outfitted 
+with a 2-channel link radio, capable of operating 
+into either the 449.925 HUB or the new 442.700 
+HUB. This will provide us with more flexibility as 
+to how the repeaters are configured, and will also 
+give us some redundancy for when one of the two 
+HUBs fails. The before and after diagrams of the 
+MMRA network are shown below. 
+Roger, W1OJ, owner/operator of the 29.62 10m repeater 
+to which MMRA '27 links, will be making 
+some changes to his system soon. He is rebuilding 
+the 448.625 UHF repeater located on Mt. Wachusett, 
+and this repeater will be full-time linked to 
+29.62. MMRA will begin linking to 10M through 
+our 449.925 HUB, rather than 147.27. This will allow 
+us to link different 2m repeaters rather than 
+having to use '27. The MMRA board is seeking 
+your opinion on the best default state for the network 
+- so let us know what you think. 
+Proposed New Linking System 
+Current Configuration Proposed Configuration 
+
+PAGE 6
+MMRA September Meeting 
+Larry Banks, W1DYJ 
+Twenty two MMRA members and guests attended 
+our September meeting to hear Gordon Pettengill, 
+W1OUN, talk about the early days of Moonbounce. 
+The photos and slides below are of or by Gordon. 
+Our many thanks go out to W1OUN! 
+Before Gordon’s talk, VP Steve Telsey, N1BDA, ran 
+the business meeting. Discussions included a repeater 
+update; the need for a net control for the 1st 
+Tuesday; Roger, WA1NVC's 10M Project; and Treasurer 
+Kevin's report that for the fiscal year we have 
+about $500 in uncommitted funds. 
+Steve, N1BDA, running the 
+meeting. 
+How many Hams does it 
+take to make one laptop 
+work? 
+
+PAGE 7
+MMRA VE Sessions 
+3rd Saturday of each Month 
+9 AM at the Marlboro Public Library 
+Contact: Bill Wade, K1IJ 
+781-891-9079 Evenings 6 to 10 PM, 
+Weekends 8 AM to 10 PM. 
+Accredited by the ARRL VEC 
+Don't Forget! 
+Tuesdays @ 8 PM 
+Technical, Informational 
+and Other Stuff Net 
+Larry Banks, W1DYJ 
+Most of the MMRA's repeaters are linked 
+every Tuesday night for the MMRA TIAOS 
+Net. Join us! Over the past two months we 
+averaged seven participants with a high of 
+ten. This is a good way to keep up with 
+what is happening with the MMRA as well 
+as ask your ham related questions. 
+We are looking for a net control operator for 
+the first Tuesday of each month.  contact 
+me at W1DYJ@mmra.org if you would like 
+to try your hand at running a net some evening 
+ we have a script that you can use to 
+start with. This is good practice for a number 
+of ham related operations, from emergency 
+preparedness to contesting. 
+Current Net Control Operators: 
+Week 1 ????? We Need You! 
+Week 2 W1EUJ Dave Goncalves 
+Week 3 KB1KZI Jimmy Devarie 
+Week 4 K1KWP Kevin Paetzold 
+Week 5 W1DYJ Larry Banks 
+(also substitute & Net Manager) 
+
+Newsletter Delivery 
+If you received this via US Mail, 
+you might want to think about 
+having it sent by eMail. You will 
+receive it earlier, it will be in color, 
+it may have MORE great content, 
+and it will save the MMRA $$$! 
+Send your request to 
+W1JMC@mmra.org. 
+
+MMRA Leaders 
+President Bob DeMattia K1IW 
+Vice President Steve Telsey N1BDA 
+Secretary John 
+McGovern 
+W1JMC 
+Treasurer Kevin 
+Paetzold 
+K1KWP 
+Clerk Bob Evans N1BE 
+Technical Officer Bryan 
+Cerqua 
+W1BRI 
+Director 2006-08 Clark Conti N1NVK 
+Director 2006-08 Bill Hanrahan W1WH 
+Director 2005-07 Steve 
+Schwarm 
+W3EVE 
+Director 2005-07 Open 
+Emergency 
+Coordinator 
+James Cahill KB1LOY 
+Net Manager Larry Banks W1DYJ 
+Newsletter Editor Larry Banks W1DYJ 
+Public Service 
+Coordinator 
+James Cahill KB1LOY 
+VEC Liaison Bill Wade K1IJ 
+Web Page Editor Bob DeMattia K1IW 
+TIME TO RENEW YOUR 
+MEMBERSHIP, IF YOU HAVEN’T 
+
+WE'RE ON THE WEB! 
+HTTP://WWW.MMRA.ORG/ 
+Calendar of Ham Radio Events 
+MMRA 
+P.O. Box 669 
+Stow, MA. 01775-0669 
+
+THE MINUTEMAN REPEATER ASSOCIATION 
+Email: contact@mmra.org 
+New England Area Ham - Electronic Flea Markets 
+See this web site for contact information 
+http://mit.edu/w1gsl/Public/ne-fleas 
+17 Feb Marlborough MA AARC 
+24 Feb Milton VT RANV 
+17 Mar Pomfret CT ECARA 
+15 April Cambridge MA FLEA at MIT 
+[Third Sunday April thru October] 
+22 April Enfield CT NEWS East VHF UHF Conf 
+28-29 April Watertown MA Photographica 
+14 July Union ME PBARC 
+7 Oct Wallingford CT Nutmeg Conv 
+27 Oct Waterford CT TCARC Auction 
+
+
+TIME TO 
+RENEW YOUR 
+MEMBERSHIP, 
+IF YOU HAVEN'T 
+

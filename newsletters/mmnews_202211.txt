@@ -1,0 +1,390 @@
+The Minuteman
+
+Volume 52    Number 2   November2022
+
+The Minuteman Repeater Association is a non-profit organization providing communications infrastructure and volunteers for community and emergency events.
+----------
+Membership Meeting ~ Wednesday, 16 November 2022  ~7:30—9:30 pm
+Build a 10M Moxon Antenna — John Portune, W6NBC
+
+This is a Hybrid meeting: New England SciTech + ZOOM
+
+Members: log into your account on MMRA.ORG to obtain the ZOOM info.
+Non-members: send an email to contact@mmra to request the ZOOM info.
+
+This is a great project for a new ham wanting to experience the coming peak of Sunspot Cycle 25. Also, for experienced hams, it is easily extended to lower HF bands. And it is excellent for portable and field day operation. 
+
+John, W6NBC, is a native of Los Angeles, CA.  He was licensed in 1965, and received his Extra in 1972.  He also spent ten years as a resident of the UK as MØGCK. 
+
+Receiving his Bachelor’s degree in Physics from Oregon State University in 1960, he is a retired TV broadcast television engineer/instructor at KNBC Ch 4 Los Angeles and Sony Broadcast, San Francisco.   He also holds commercial licenses for GROL and General Radio Telegraph. 
+
+John is a prolific author, with over 25 articles in QST to date, along with other magazines.  He gives frequent free radio club Zoom presentations and live talks at ham expos.  Active on HF, VHF, UHF – SSB, FM, digital modes, and satellites, his “other” interests are steam railroading, pipe organs, and sushi. He is married to KF6OEB, has 3 children and 12 grandchildren +. 
+----------
+
+President’s Corner ~ David Hornbaker, N1DCH 
+
+Greetings and Happy November!
+
+Billerica Antenna Install: The new antenna is installed!  Thank you to Bob – K1IW and his team for the hours of work and many planning meetings. (See the article later in this newsletter for all those who helped.)
+
+Prudential Center Antenna Move:  I would like to thank everyone that participated in the vote to approve the money for the antenna move.  The measure passed 125-3.  We expect the move to happen by the end of November.
+
+Note that this is not just a move. The cost to move the existing antenna is the same as removing it and replacing it with a new one.  MMRA purchased the equivalent of a DB222 2-bay dipole array, and this is the antenna that will be installed at the new location.  It didn't make sense to keep the ~ 10-year-old amateur-grade antenna.  A 4-bay dipole exceeds the allowed height which is why we are using the shorter 2-bay.
+
+The old location was on the North side of the building on the roofline, obstructed by the penthouse and other structures located on the roof.  The new location is about twenty feet higher than the old and is less obstructed in all directions, especially South.
+
+November Membership Meeting:   Guest Speaker John Portune – W6NBC:  John’s topic will be “Build a 10-meter Moxon Antenna”
+
+In person at New England Sci-Tech in Natick Directions   Meetings are a great place to meet and greet your fellow hams and to welcome our new members.  Bring a friend, you do not have to be a member to attend.
+
+Via Zoom: All MMRA meetings are also available via Zoom.  The Zoom code is available to members on http://www.mmra.org.  If you need assistance getting connected contact us at contact@mmra.org.  If you are not a member, you can request the meeting code via email at  contact@mmra.org.
+
+VE Exams:  The November VE Session will be held on Saturday, November 19 at 9:00 AM, at City Church Marlborough in the Shoebox Building (adjacent to Kelleher Field), 72 Jefferson Street 2nd floor, Marlborough, MA 01752 Directions.  Walk-ins are welcome.  Please remember to bring a State ID, your FRN, and if upgrading, an Official copy of your current license.  For more information, contact Ron – WO1E at ve@mmra.org or wo1e@mmra.org.
+
+Membership renewal:  All MMRA memberships expired on August 31.  Please check your profile and if your membership expired in 2022, please renew.  Renewals may be done on the website, or you can mail your renewal to Minuteman Repeater Association, PO Box 669, Stow, MA 01775-0669.  Please allow 7 days for us to process your renewal. Please allow 14 days for renewals that are mailed.  While you're on the website (https://www.mmra.org) checking your expiration date, please verify your email address.  If your membership expired and has not been renewed, this is the last newsletter you will receive.
+
+Tuesday Net:  Join us Tuesday nights at 8:00 PM for our weekly Technical Information and Other Stuff (TIaOS) net.  There will be a lively discussion on all sorts of HAM issues, including equipment, antennas, software, repeaters, and other stuff.  The main purpose is to test our ability to link up the repeaters in case of an emergency or, to support an event like the Boston Marathon.   You can also join via EchoLink if your radio is a little under the weather.  See below for more information.
+
+You can find out more information about how and when the repeaters are linked on the website (https://www.mmra.org/repeaters/repeater_linking.html).
+
+Please remember to keep your profile up to date, especially if your email changes.  Note that if your callsign changes, send email to contact@mmra.org and we will update your callsign in the database.
+73 — Dave – N1DCH
+----------
+
+21 September 2022 Membership Meeting ~ Minutes
+
+Called to order @ 7:31 PM at New England Sci-Tech, Natick 
+
+Bob Phinney - K5TEC - spoke on the Big E event where Ham Radio will be on display to the General Public. While Ham Radio is involved in so many different activities like Public Service, Emergency Communications, DXing, Experimenting, teaching and Building Equipment to name a few, the highlight event at the Big E will involved a link with the Astronauts on the International Space Station that takes a year or two in planning to achieve. For most of us this is a once in a lifetime event to experience. For more detailed information on the Big E Ham Radio festivities please go to https://www.arrl.org/news/amateur-radio-takes-center-stage-at-the-big-e . 
+
+Jason Peardon – W1HFP – MMRA Secretary asks all of us to make sure our current email address is listed on our online profile. This is important and is asking for our help. 
+
+Repeater Status 
+Bob DeMattia – K1IW who was unable to attend provided the following update:
+  * Billerica TX keying RX.  Output tone changed to 162.2 to avoid key-up.  Problem persisted for about ten days, but it not currently occurring.
+  * Temporary DR1X running in Weston for 146.79.  
+  * New Weston repeater has arrived.
+  * New Billerica antenna planned install date October 4.
+  * Prudential antenna must be moved sometime in October-November.
+Will be replaced with a new antenna rather than just relocating.
+  * No output tone on North Reading
+  * All other systems running normally
+  * Need volunteer Tower Climber with proper safety equipment
+
+VE Exam Session Ron Rothman – WO1E – is the VEC for the MMRA
+Next exam session is on Saturday, October 15th at 9:00 AM at the City Church in Marlborough. The street address is 72 Jefferson Street, 2nd Floor. Test takers must have a photo id and FRN # from the FCC. SS#s cannot be used at the exam site. Please contact Ron at WO1E@mmra.org with questions or concerns about the exam session. 
+
+Upcoming Meetings
+  * October 19,  7:30 pm – Business Meeting
+New England Sci-Tech & Zoom Teleconference
+  * November 16, 7:30 pm – Build a 10-meter Moxon Antenna
+John Portune – W6NBC
+New England Sci-Tech & Zoom Teleconference
+  * December 21,  7:30 pm – Business Meeting
+New England Sci-Tech & Zoom Teleconference
+  * January 18, 7:30 pm – The "New" FCC RF Exposure Rules: A Practical Methodology
+Larry Banks – W1DYJ
+TBD & Zoom Teleconference
+  * February 15, 7:30 pm – Business Meeting
+TBD & Zoom Teleconference
+  * Tuesday night, 8:00 pm (year long)
+
+Technical, Information and Other Stuff Net
+MMRA Linked Repeaters
+
+Note: The business portion ended at 7:51 PM
+
+Presentation by Leandra MacLennon – AF1R – Digital Modes Beyond FT8 
+The digital modes discussed were keyboard to keyboard forms of communication. Presented were RTTY, PSK31 Domino, Contestia, Thor, MFSK, Hellschreiber, WinLink and Vara. 
+  * For more information on PSK go to: https://bpsk31.com/about/ .
+  * For more information on Contestia go to: http://www.oliviamode.com/Contestia.htm .
+  * Hellschreiber Club at: https://sites.google.com/site/feldhellclub/Home
+  * Getting started with digital modes — download the App called FLdigi and read the beginner guide at:
+		    http://www.w1hkj.com/beginners.html
+  * ARRL Book — Get on the Air with HF Digital, 3rd edition (make sure you get the 3rd edition):
+https://home.arrl.org/action/Store/Product-Details/productId/2003745875
+  * RTTY contest calendar: https://www.rttycontesting.com/records/
+  * ARRL Digital Bulletins: http://arrl.org/digital-transmissions
+  * Monthly ARES drill: Ask Don Rolph, AB1PH@arrl.net, to be added to the email list
+  * How to get started with Winlink —I have written a set of instructions to get started with Winlink, send me an email to get the instructions:  AF1R@arrl.net
+  * Weekly Winlink drill, learn more about the features in Winlink: 
+https://www.emcomm-training.org/Winlink_Thursdays.html
+  * VarAC: https://www.varac-hamradio.com/
+
+Leandra’s email address is leandra@leandramac.com for further help.  
+
+Meeting Attendees - At New England Sci-Tech
+Dave Hornbaker, N1DCH; Deborah Horton, N1NVJ; Ken Horton, KA1GFN; 
+Troy Lefebvre, KC1RUC; Daniel McEleny, AC1JL; Jason Peardon, W1HFP; 
+Leandra MacLennon, AF1R; Stephen Babbitt, KC1LPZ; Reed Prior, W1TF; 
+Jonathan Traum, K1BTZ; Bob Phinney, K5TEC; Larry Banks, W1DYJ
+
+Zoom Meeting Attendees:
+Kevin W Paetzold, K1KWP; Dan Long, N1DFL; John Spencer; WA1MDD; Howard Shpegel, AC1MN; 
+Roger Coulson, WA1NVC; Larry Vidoli, W1LSV; Ken Peluso, KC1PFS; Bill McIninch, KA1MOM;
+Glenn Axelrod, KC1HPZ; Glenn Small, KV1GS; John Iwuc,KB1VXY; Bob Evans, N1BE
+
+Meeting Adjourned at 9:04 PM
+Respectfully Submitted by Stephen M Babbitt – KC1LPZ – Clerk
+
+Following the above minutes, two pages of some of Leandra's slides are shown.
+----------
+Billerica 2M Repeater Report—Antenna Upgrade
+
+Bob DeMattia, K1IW—Technical Officer
+
+When the MMRA inherited the Billerica 147.12/W1DC 
+repeater from the 1200 Radio Club (with mostly 
+ex-Honeywell employees) in the summer of 2021, the MMRA decided to bring the repeater up to the current MMRA standards.  The 
+repeater is in a commercial building at 300 Concord Road.
+
+The repeater itself was 
+upgraded in April 2022 along with a new link antenna, however the main antenna was still a 40-year-old Stationmaster and had “issues.”  A project to replace this antenna was put into place shortly after the repeater electronics were installed, hopefully to be 
+accomplished in one day.
+
+On 4 October at 8 AM the crew showed up:  Bob, K1IW; Mike Antoine, K1UVH; John Morley, W1NI; Steve Lively, AF1SL; John Nitzke, KF1KI; 
+Howard Shpegel, AC1MN;
+Mike Rioux, W1USN; and Kevin Fallon KB1KTR.  As happens with many projects, the task was much larger than estimated.  The new antenna was not installed, but significant progress was made by removing all the "dead wood" from the tower.  After a long discussion, it was decided that the best option is to remove the tower and replace it with a monopole (antenna mast).  This is a simpler design and will also remove the need for the guy wires.
+
+Early on 27 October the crew arrived again.  The old 19’ length of Rohn-25 was taken down.  The new structure is an 18-foot monopole with a DB224E antenna.   To lower the tower, club member KB1KTR fashioned a tilt-plate.  The plate bolted to a 4x4 steel beam on the roof which runs alongside the tower and is part of the frame of the building.  With two of the tower legs bolted to the plate, the top of the tower is lowered with proper rigging lines until it is in a horizontal position.  Once done, the antenna was removed and the tower was safely 
+disassembled on the roof.   Raising the new monopole is the 
+reverse process.  With the base of the 
+monopole attached to the tilt plate, 
+rigging lines are attached and the new antenna is raised into place.  Once vertical, the pole is attached to the 4x4 steel beam using Unistrut assemblies.  Turn the repeater back on and 147.12 is back in business.  
+
+Many thanks to Kevin, KB1KTR for fabricating the tilt plate, supplying all the rigging equipment, and doing the climbing work.  Also thanks to Howard Shpegel AC1MN, and John Morley W1NI who volunteered for seven hours of roof work to get this done.
+----------
+
+Prudential Antenna Move
+
+Bob DeMattia, K1IW—Technical Officer
+
+Sometimes we run into unexpected expenses.  Our Boston 2M repeater is on top of the Prudential Center.  This is a key repeater for us.  For example, it was used for the last eight aid stations at the marathon. The Head of the Charles also uses this system.   
+
+New FCC rules for RF exposure forced the Pru to relocate many antennas on the roof, including ours.   As it didn't make sense to keep the ~ 10-year-old amateur-grade antenna, and a 4-bay dipole exceeds the allowed height, we are using a shorter 2-bay.  The old location was on the North side of the building on the roofline, obstructed by the penthouse and other structures located on the roof.  The new location is about twenty feet higher than the old and is less obstructed in all directions, especially South.
+
+Thank you to all the members who participated in the vote to approve the money for the antenna move.  The final vote to cover the labor for the move passed 125-3.  We expect the move to happen by the end of November.
+----------
+
+19 October Business Meeting ~ Minutes
+
+Called to order @ 7:38 PM at New England Sci-Tech and ZOOM.
+
+10 Meter Repeater: - Receiver in Weston - As said previously, Larry Banks – W1DYJ – has been testing the 10m repeater with mixed results. Kevin Paetzold – K1KWP – when transmitting to the repeater, if not used for a long time, there is a long delay to initiate. In regular use it seems to work fine. Perhaps that is the intermittent behavior being experienced. There also may be a loose connection not to mention the age of the Cushcraft Ringo antenna that may or may not need to be replaced. With the improving sun spot cycle, Dave checking the previous Minutes for more than a year and no recent physical onsite inspection, it appeared that we want to resolve this before the winter sets in. Bob DeMattia – K1IW – will be contacted. He was unable to attend this meeting. 
+
+Weston: New 2m Kenwood and amplifier are here. Setup will be forthcoming.
+
+Billerica Antenna Install: Based on emails only the main antenna and the link antenna remain. The DB224 was brought up to the “penthouse” so it can be ready to install. Howard Shpegel – AC1MN – attended a Zoom Meeting call hosted by Bob as he was one of the volunteers at the Billerica site. The best option decided upon is to remove the tower and install a piece of Unistrut to the existing iron mast.  Two things will result: no need for guy wires and in a slight loss in height of the antenna. 
+
+North Reading: DR2X malfunctioned, a repeat from 2 years ago, had to be reset by a power cycle done locally. Bob installed a Kasa Smartswitch so he can reset it remotely in the future.
+
+Prudential Antenna Move: With Bob not being present to provide the most up to date news, the discussion was based on emails and other prior oral communications. The antennas themselves and duplexer have already been purchased. The $3,000 is for the labor involved to move the antenna to the other side of the building and comply with the new FCC emissions safety requirements. The vote by the Board was unanimous for up to $350 can be spent for the purchase of one 15’ mast and 7/8EIA flange to N adapters in order to utilize the existing cable. The $3k expenditure must receive a vote by the membership who will receive their voting ballot by email for their response. 
+
+All other MMRA Repeater systems normal.
+
+Other Repeater News: Roger Coulson – WA1NVC – mentioned the Repeater on Mt Wachusetts is active with a stronger signal. It is on 53.31 Mhz, PL 71.9 and a -1 Mhz offset. 
+
+Newsletter: Deadline to Larry is Friday October 28th. Email W1DYJ@mmra.org .
+
+Upcoming Meetings
+  * November 16, 7:30 pm – Build a 10-meter Moxon Antenna 
+John Portune – W6NBC
+New England Sci-Tech & Zoom Teleconference
+  * December 21,  7:30 pm – Business Meeting
+New England Sci-Tech & Zoom Teleconference
+  * January 18, 7:30 pm – The "New" FCC RF Exposure Rules: A Practical Methodology
+Larry Banks – W1DYJ
+TBD & Zoom Teleconference
+  * February 15, 7:30 pm – Business Meeting
+TBD & Zoom Teleconference 
+  * March 15, 7:30 pm -AREDN Michael Ford – WZOC (tentative)
+  * April 19, 7:30 pm – Business Meeting
+
+Tuesday night, 8:00 pm (year long)
+Technical, Information and Other Stuff Net
+MMRA Linked Repeaters
+
+Meeting Attendees - At New England SciTech
+Daniel McEleney, AC1JL; Deborah Horton, N1NVJ; Ken Horton, KA1GFN;
+Bob Phinney, K5TEC; & Stephen Babbitt, KC1LPZ
+Zoom Meeting Attendees:
+Dave Hornbaker, K1DCH; Kevin W Paetzold, K1KWP; Jason Peardon, W1HFP; R
+oger Coulson, WA1NVC; 
+Ed Curley, KC1CLA; Larry Banks, W1DYJ; Jonathan Traum K1BTZ;  Howard Shpegel, AC1MN
+
+
+Meeting Adjourned at 8:37 PM
+Respectfully Submitted by Stephen M Babbitt – KC1LPZ – Clerk
+----------
+
+Treasurers Report ~ Kevin Paetzold, K1KWP
+
+The MMRA receives a significant amount of donations each year.  On behalf of the club I would like to acknowledge and thank people below who donated since my list in the May newsletter: AB1HO, AB1II, KA1UVN, KD1JL, KD1LV, KD1TE, N1HBR, and WG1V.  Hopefully I did not leave anyone off (and if I did I am sorry).
+
+73, K1KWP
+----------
+
+----------
+
+Upcoming MMRA Meetings
+Note: Meeting locations and times are subject to change.
+Consult the MMRA website for the most up-to-date information. ZOOM Teleconference login info is available
+once you log into your account on MMRA.ORG
+
+Non-members: if you wish to attend, email contact@mmra.org.
+
+
+Wednesday, 16 November – Membership Meeting ~ 7:30
+Location: New England Sci-Tech + Zoom Teleconference
+Topic: 10M Moxon Antenna — John Portune, W6NBC
+
+Wednesday, 21 December – Business Meeting ~ 7:30
+Location: New England Sci-Tech + Zoom Teleconference
+
+Wednesday, 18 January – Membership Meeting ~ 7:30
+Location: TBD + Zoom Teleconference
+Topic:  The “new” FCC RF Exposure Rules— Larry Banks, W1DYJ
+
+Wednesday, 15 February – Business Meeting ~ 7:30
+Location: TBD + Zoom Teleconference
+
+Wednesday, 15 March – Membership Meeting ~ 7:30
+Location: TBD + Zoom Teleconference
+Topic:  AREDN:  aka. The Amateur Radio Emergency Data Network
+
+Michael Ford, WZ0C 
+
+Wednesday, 19 April – Business Meeting ~ 7:30
+Location: TBD + Zoom Teleconference
+
+Wednesday, 17 May –  ANNUAL Membership Meeting ~ 7:30
+Location: TBD + Zoom Teleconference
+Topic:  Elections + TBD
+----------
+
+Don’t Forget! Join Us.
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.
+
+Net Control Operators:
+Week 1	W1DYJ		Larry Banks	
+Week 2	KB1OQA	Tom Turner	
+Week 3 	KC1CLA		Ed Curley
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	K1BTZ		Jonathan Traum
+	To connect using Echolink / IRLP during the Net: 
+   Echolink Conference *NEW-ENG2*
+   IRLP node 4133
+
+NOTE: we need another NC to be available as a substitute.  If you are interested, email W1DYJ@mmra.org
+---------
+
+MMRA Leaders
+
+------------
+Executive Board — Officers
+President		Dave Hornbaker 	N1DCH 
+Vice President	John Spencer	WA1MDD
+Secretary		Jason Peardon 	W1HFP
+Treasurer		Kevin Paetzold	K1KWP
+Clerk 		Stephen Babbitt 	KC1LPZ
+
+Executive Board — Directors
+Director  »2023	Bob DeMattia	K1IW
+Director  »2023	Roger Coulson	WA1NVC
+Director  »2024	Rob Evans		N1BE
+Director  »2024	James Lee		N1DDK
+
+Technical Officer	Bob DeMattia	K1IW
+
+President Emeritus	Bob DeMattia	K1IW
+
+Technical Officer Emeritus  Bryan Cerqua	W1BRI
+
+Repeater Trustees
+* Belmont 145.43		Ed Curley		KC1CLA
+* Billerica 147.12		Mike Rioux	W1USN
+* Boston 146.82		John Mullaney 	K1BOS
+* Boston 927.0625		Rick Zach		K1RJZ
+* Brookline 145.16		Joyce DeMattia	K1IWW
+* Brookline Rcv 146.82	Bob Phinney	K5TEC
+* Burlington 224.88		Bruce Pigott	KC1US
+* Hopkinton 449.575		Bryan Cerqua	W1BRI
+* Marlborough 53.81		Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.39, 147.27, 223.94, 448.225, 
+     449.925, 927.70  Lowell 442.25  all as W1MRA
+			Bill Northup  	N1QPR
+* Mendon 146.61		Kevin Paetzold	K1KWP
+* N. Reading 146.715		Bruce Pigott	KC1US
+* N. Reading 446.775		Larry Banks	W1DYJ
+* Quincy 224.40		Bill Dunn		N1KUG
+* Quincy 146.67		Bryan Cerqua	W1BRI
+* Weston 146.79		Rob Evans		N1BE
+* Weston 224.70		Eddie Mulhern	N1NOM
+* Weston 442.70		Dave Hornbaker	N1DCH
+
+Additional, non-Voting
+* Newsletter Editor		Larry Banks	W1DYJ
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.		Bruce Pigott	KC1US
+* VEC Liaison		Ron Rothman	WO1E
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor		Bob DeMattia	K1IW
+* Social Media Coordinator 	 Steve Umans	K8ZBE
+
+                       * Appointed
+----------
+
+Contacting the MMRA
+
+Members: mmra@groups.io
+Note: This may take some time. 
+You must be approved by the moderator.
+
+
+Officers: contact@mmra.org
+
+Control Ops: control-ops@mmra.org
+
+Internet: www: http://www.mmra.org/
+Facebook: https://www.facebook.com/mmraham
+----------
+
+MMRA VE SESSIONS
+Check out https://www.mmra.org/exam.html or email  ve@mmra.org 
+
+Ask your friends to become a member 
+Just let them know that it is not fully automated.  Although they can log into the MMRA website immediately, 
+they need to be manually processed.  This could take up to week.
+
+Previous issues of the MMRA Newsletter are available at: www.mmra.org > Newsletter Archive (on the left)
+
+If you haven't updated your MMRA profile in a while, now is the time! 
+Go to < MMRA.ORG > and log in to do so.
+----------
+
+Heavy Hitters Traffic Net
+This net is active on our repeaters Sunday through Friday evenings from 10—11 PM.
+
+The repeaters that are active are:
+2m:  Mendon (146.61), Quincy (146.67), North Reading (146.715), Boston (146.82), and
+Marlborough (147.27) 
+220: Marlborough (223.94), Quincy (224.40), Weston (224.70), and Burlington (224.88), 
+440: Lowell (442.25), North Reading (446.775), Hopkinton (449.575), and Marlborough (449.925)
+----------
+
+Get connected on the MMRA Repeater System ~ Dave Hornbaker N1DCH
+
+What is the best way to get connected on the MMRA repeater system?  Try announcing yourself!  Just say your call sign followed by "listening".   If you want, you can include the last 3 digits of the repeater frequency. For example, "N1DCH listening" or maybe "N1DCH listening on 925", you may very well get a response.  Try to connect by announcing yourself several times.
+
+Most of the time, Marlborough Hub1 (449.495) is linked to the following repeaters, Boston (146.820), North Reading (446.775), Mendon (146.610), Lowell (442.250), and Hopkinton (449.575).  Remember that when the repeaters are linked, you need to wait two or three seconds after you key up and before you speak. This is especially
+important on the TIaOS net on Tuesday when most of the repeaters are linked.
+
+You can also link (and delink) the repeaters yourself.  See the information you received when you became a 
+member, or check the User Control Codes once you log into the MMRA web.
+
+Try one of the non-linked repeaters too. There are Hams monitoring them as well. For more information on the repeater network and how it is linked at various times, check out https://mmra.org/repeaters/repeater_linking.html.
+----------
+END OF NEWSLETTER

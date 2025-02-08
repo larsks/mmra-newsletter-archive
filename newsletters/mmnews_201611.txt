@@ -1,0 +1,279 @@
+The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+Volume 46, Number 2
+November 2016
+----------
+
+November Membership Meeting ~ Wednesday, 16 November, 7 PM
+
+Linux in the Hamshack
+Andy Stewart, KB1OIQ 
+There's a lot of good, free software out there to make our hobby more fun and operating easier.  Come hear about it from Andy.
+
+Andy has been running Linux user groups since 1997, and taught Linux classes for several years in Chelmsford.  Two students, who were hams, convinced Andy to become a ham in 2007.  
+
+
+
+Andy has been the President of the Police Amateur Radio Team (PART) in Westford for the last 8 years, and holds an amateur extra license.  He created "Andy's Ham Radio Linux" in 2011 as a way to give back to both the ham and Linux communities.  Andy is also an ARRL Assistant Section Manager for EMA.
+
+
+
+Andy has a master's degree in electrical engineering from WPI, and by day works as a digital logic verification 
+engineer.
+
+Holiday Inn Boxboro:  take Exit 28 off Rt.495 and head East.  Take the first right off Rt.111 to hotel.
+----------
+
+James, N1DDK’s talk on CHIRP is now an ARRL Webinar; look for it on the ARRL YouTube channel.
+----------
+
+The MMRA has a number of rolls of 1 5/8” hardline available for sale for $300.  See the President’s Corner for details, page 3.
+----------
+
+Quincy: 146.67 and 224.40 are rebuilt, back on the air at full power, and linkable.  (See page 4.)
+----------
+
+President’s Corner ~ David Wolfe, KG1H
+
+The following is a summary of the MMRA activities at the recent Boxborough Convention:
+
+MMRA Door Prize winners:
+
+TYT MD-380 VHF Analog & DMR radio portable: WA3ITR
+Cushcraft A5-5s 6M 5 element beam: K1WVU
+Diamond X50A 2m/440 dual band vertical base station antenna: KC1CLA
+ARRL Antenna Book: N1JAF
+
+Other interesting data:
+
+Membership Renewals at MMRA suite: 17
+New members joined at MMRA suite: 4
+MMRA Door Prize Tickets sold at MMRA suite: 178
+Others from donations and recent renewals ~ 455 tickets total
+Free MMRA membership applications (VE) at Boxboro sessions: 19
+
+DMR was discussed at the recent MMRA Board Meeting and the board determined that incorporation of new DMR repeaters or modification of existing FM repeaters was not in MMRA's best interest. Besides, there are no 2M frequency pairs available for a new repeater, and adding a 440MHz repeater may be impacted by PAVE PAWS.   In addition, eastern MA is already sufficiently covered by DMR repeaters and sorry to say that ham activity on these DMR repeaters appears to be sparse. 
+
+MMRA has been awarding free one year memberships to new hams passing the VE Session examinations.  As the free memberships are only valid for one year, those who have not renewed will be deleted from the membership roster.  The MMRA is using these free memberships to attract new hams with fresh ideas, so please do renew.  Renewal can be done on-line at   http://www.mmra.org/renew.html.
+
+Stored in Hopkinton are about a dozen rolls of 50? foam core 1 5/8" diameter heliax cable with DIN connectors.  These are used but in good condition, about 165 ft of length in each roll.  The board moved to approve sale of these cables at $300 per roll.  If interested, send an email to W1DYJ@mmra.org with the number of rolls you would like to purchase.  The rolls must be picked up in Hopkinton.  
+
+A first draft of a next fiscal year budget proposal was presented at the recent board meeting.  The intent is to develop this document further for approval by the board in April, and presentation to the membership for vote at the general meeting in May.  This would let us work more with a plan and less in reaction to unfolding events during the fiscal year that begins on June 1, 2017.
+
+Bob, K1IW, presented a plan for technical improvements to the MMRA system.  The board took action on some of these items and noted others for the future.  A key aspect of this proposal is a new type of repeater controller under development by James, N1DDK.  Ultimately, the new controllers would be used at sites that host multiple repeaters and the other sites would get the SCom controllers that are capable of Internet control.  Thus all MMRA repeaters could be controlled via the internet.  Bob expects this project would take 3-years for development and deployment. 
+
+73, David, KG1H
+
+Photo: David, KG1H, and Clark, N1NVK at Boxboro 2014
+----------
+
+Quincy Update ~ Bob DeMattia, K1IW
+Photos: Bryan Cerqua, W1BRI
+146.67 and 224.40 are rebuilt, back on the air at full power, and linkable.  
+
+The MMRA Quincy repeater first went on the air in the mid-70's from the Quincy city hospital.  In the early 1980's, American Cablesystems wanted to install a cable headend at the hospital.  MMRA was forced to move, but was able to find an equally good site not too far away on Forbes Hill.  The castle-like structure, clearly visible from I-93, actually surrounds a steel standpipe.  The standpipe and granite building were built at the turn of the century (the 20th century, not the recent one) as part of the Quincy water supply system.  When built, the roof was open  to the public as an observation deck.  Space is tight inside this structure, as there is only about three feet between the granite wall and the steel standpipe inside! 
+
+Earlier in the summer, the thirty-year-old repeater controller began to misbehave, most likely due to a deterioration of the lithium power cell used to retain the programming.  The controller began to lose programming code, causing it to behave erratically.  The MMRA board chose to replace the controller rather than fix it.  In the process, the "hodgepodge" arrangement of the 2m repeater and 222 repeater would be rebuilt into one compact setup, entirely within the Mastr-II rack panel.
+
+To accomplish the work, the entire repeater was removed and brought to K1IW's garage where it could be taken apart and reconstructed.  MMRA's portable DR1X repeater was put into service to keep 146.67 on the air during this two month period.
+
+Quincy Before (Two Photos)
+Two meters in rack panel.  Short pieces of 2x4s used to keep things in place.  Old SCOM 7K with no display.  Linear power supply at bottom.  The 224.4 repeater was located on a shelf behind the rack, with each component kind-of sitting there.  Notice the width of the rack and the amount of space on either side to the walls.  That's all the space there is!
+
+Quincy After (Two Photos)
+All components are now located in one rack - and all bolted down.  You can turn this rack on its side (we did to get move it to the site) and nothing will move.  Notice the new SCOM 7330 controller (center) and new energy efficient switching power supply (bottom). The lightning protection and duplexers remain behind the main rack.
+----------
+
+September Membership Meeting 
+and Boxboro Update
+
+The September Membership Meeting was held at the Boxboro 2016 ARRL New England Convention.  Bob, K1IW, presented a walk through of the MMRA repeater network, including a technical discussion of how linking is done.
+
+A general Q&A period followed.
+
+Two of our members gave talks at the convention: 
+
+Rick Zack, K1RJZ, moderated a discussion about Digital Radio Repeater Modes.  Some of his introductory slides are shown below.  (There follows a number of images of Rick's slides.)
+
+James Lee, N1DDK, gave two talks: Program Your Radios with Open Source Software ( CHIRP, highlighted in our September MMRA Newsletter,) and Care and Feeding of Astron Power Supplies.  James subsequently gave his CHIRP presentation as an ARRL Webinar. 
+----------
+
+October Business Meeting   Bob Evans, Clerk, N1BE
+
+The MMRA board met for a business meeting at the office of Stratus in Maynard, MA at 7:00 PM on October 19.  In attendance were K1KWP, N1NVK, W1DYJ, W1BRI, N1BE, W1MPN, WA1NVC and K1IW.
+
+Vice President Mike, W1MPN chaired the meeting in the absence of our president.
+
+Mike reported on the MMRA participation at the Boxboro convention.  In the raffle, 455 tickets were in the drawing, 178 of which were sold at the convention.  This was profitable, MMRA proceeds were $205 compared to $140 in the previous year.  The board discussed a suggestion is to use this excess in some way to promote Amateur Radio as our participation at Boxboro is not for profit.  Mike also reported that dues were received for 17 member renewals and 4 new members; 19 free MMRA memberships were given to newly licensed hams at the VE sessions.
+
+Kevin, K1KWP gave a treasurer's report that covered income and expenses, historical, year-to-date, and expectations for this fiscal year.  Of note, no free members from past years have renewed.  The recent power supply replacement at MRW reduced power cost about 30%.  We predict payback in less than two years.  The board moved to accept the treasure's report.
+
+Mike then presented a first draft of a next fiscal year budget proposal.  The intent is we develop this document further for approval by the board April and presentation to the membership for vote at the general meeting in May.  This would let us work more with a plan and less in reaction to unfolding events during the fiscal year that begins on June 1, 2017.
+
+Mike's proposal addresses the big picture of running the MMRA:  critical resources, maintenance, system improvements, operational costs, expected income, funding emergency repairs, contingency plans, managing donations and funding special projects.  This is very much a work in progress.  In addition to our comments at the meeting, Mike requested further feedback from the other board members.
+
+We then briefly discussed whether MMRA would support DMR repeaters.  Our reasons for lack of DMR activity is two-fold.  First, the MMRA does not have sites that would enhance DMR coverage in EMA.  And because with today's technology DMR and analog FM do not co-exist on one repeater, we prefer to not lose rare 2-meter analog frequencies.
+
+Stored in Hopkinton are about a dozen rolls of 50-ohm 1 5/8" diameter heliax cable with DIN connectors.  These are used but in good condition, about 165 ft of length in each roll.  The board moved to approve sale of these cables at $300 per roll, the buyer must coordinate with K1IW to pick up the cable at Hopkinton.  We prefer to have these go to Amateur Radio applications.  To that end, WA1NVC and W1DYJ offered to inquire for interested amateurs.
+
+W1BRI and K1IW report that Quincy repairs are complete.  The repeaters are back to normal functioning at full power.
+
+K1IW presented a plan for technical improvements to the MMRA system.  We took action on some of these items and noted others for the future.  A key aspect of this proposal is a new type of repeater controller under development by N1DDK.  Ultimately, the new controllers would be used at sites that host multiple repeaters and the other sites would get the SCom controllers that are capable of Internet control.  Thus all MMRA repeaters could be controlled via the internet.  Bob expects this project would take 3-years for development and deployment.  The board took these actions:
+- Approved sale of the two spare 7K controllers.
+- Approved an expenditure not to exceed $150 for a Raspberry Pi and Freedom Pop modem to provide Internet connectivity at the Quincy repeater site.
+- Approved an expenditure not to exceed $500 for an SCom 7330 controller to be used at MRW.  (The controller currently at MRW would be used as an upgrade elsewhere in our network.)
+- Took no action on a proposal to similarly upgrade Lowell to an SCom 7330 controller.
+- Approved an expenditure not to exceed $450 to reimburse N1DDK for hardware needed to develop a prototype of his "PiPeater", with provision that the MMRA receives the prototype at completion of James' development effort.
+
+We adjourned at 9 PM.
+----------
+
+Upcoming MMRA Meetings
+
+Wednesday, 16 Nov ~ Membership Meeting
+Topic—Linux in the Hamshack,
+Andy Stewart, KB1OIQ
+Location—Holiday Inn, Boxborough
+
+Wed, 21 Dec ~ Business Meeting
+Location: Stratus, Maynard
+
+Wednesday, 18 Jan ~ Membership Meeting
+Topic—12V Power for Emergency Power Use in Ham Stations
+Greg Troxel, N1DAM
+Location—Northborough Free Library
+
+Wed, 15 Feb ~ Business Meeting
+Location: Stratus, Maynard
+
+Wednesday, 15 Mar ~ Membership Meeting
+Topic—TBD
+Location—TBD
+
+Wed, 19 April ~ Business Meeting
+Location: Stratus, Maynard
+
+Wednesday, 17 May ~ Membership Meeting
+Topic—TBD
+Location—TBD
+
+Wed, 21 June ~ Business Meeting
+Location: Stratus, Maynard
+----------
+
+Don’t Forget! Join Us.
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  
+Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Net Control Operators:
+Week 1	WA1JIM	Jimmy Devaire	
+Week 2	W1DYJ	Larry Banks	
+Week 3 	KC1CLA	Ed Curley
+Week 4	K1KWP	Kevin Paetzold	
+Week 5 	KB1OQA	Tom Turner
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+Previous issues of the MMRA Newsletter are available 
+at:
+www.mmra.org è Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+
+Third Saturday
+
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+MMRA Leaders
+
+
+Officers
+President		David Wolfe		KG1H
+Vice President		Mike Neilsen		W1MPN
+Secretary		John McGovern		W1JMC
+Treasurer		Kevin Paetzold		K1KWP
+Clerk			Bob Evans		N1BE
+* Technical Officer	Bryan Cerqua		W1BRI
+
+Board of Directors
+Director  »2017		Steve Schwarm		W3EVE
+Director  »2017		Roger Coulson		WA1NVC
+Director  »2018		Clark Conti		N1NVK
+Director  »2018		James Lee		N1DDK
+Director  »2017		Bob DeMattia		K1IW
+
+Repeater Trustees
+* Belmont 145.430	Ed Curley		KC1CLA
+* Boston 927.0625	Rick Zach		K1RJZ
+* Boston 146.820	John Mullaney 		K1BOS
+* Brookline 145.160	Joyce DeMattia		N1QPH
+* Brookline 146.820 	Rcvr  Bob Phinney	K5TEC
+* Hopkinton 223.940	James Cahill		KB1LOY
+* Hopkinton 449.575	Bryan Cerqua		W1BRI
+* Lowell 442.250	Vince De La Flor	K1LVF
+* Marlborough 53.810,  Quincy 146.670; 
+		Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.390, 147.270, 224.880,
+ 
+      448.225, 449.925,  927.700 — all as W1MRA
+	Bill Northup	N1QPR
+* Mendon 146.610	Kevin Paetzold		K1KWP
+* N. Reading 146.715	Bruce Pigott		KC1US
+* N. Reading 446.775	Larry Banks		W1DYJ
+* Quincy 224.40		Bill Dunn		N1KUG
+* Weston 146.790	Bob Evans		N1BE
+* Weston 224.700	Eddie Mulhern		N1NOM
+* Weston 442.700	David Wolfe		KG1H
+
+
+Additional, non-Voting
+* Newsletter Editor	Larry Banks		W1DYJ
+* Emerg. Coord.		Kevin Paetzold		K1KWP
+* Pub. Serv. Coord.	David Wolfe		KG1H
+* VEC Liaison		Bill Wade		K1IJ
+* Net Manager		Larry Banks		W1DYJ
+* Web Page Editor	Bob DeMattia		K1IW
+
+* Appointed
+----------
+
+Calendar of Ham Radio Flea Markets
+
+For more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+2016 
+ 3 Dec 	Windsor CT 		VR+C Mus 	115 Pierson LN
+
+2017                                     
+21 Jan 	Whitman MA 		WARC 9AM@KoC Rt18
+18 Feb	Marlboro MA		Algonquin ARC
+ 5 Mar 	Nashua NH 		NEARC @ Marriott
+11 Mar 	Chicopee MA 		MtTomARA @Castle
+31 Mar 	Lewiston ME 		AARC ME Conv  @Ramada
+ 8 Apr 	Newton MA 		PHSNE Photographica Sat Only @AmLegion
+ 8 Apr 	Hampton NH 		PCARC @Masonic
+13 May 	E Greenbush NY 		EGARA  @FireCo
+16 Apr 	Cambridge MA   		Flea at  MIT
+13 May 	E Greenbush NY 		EGARA  @FireCo
+8,10 Sep    Boxboro MA 		FEMARA NE Conv
+----------
+
+END OF NEWSLETTER
+
+
+
+

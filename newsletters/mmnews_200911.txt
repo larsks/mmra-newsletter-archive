@@ -1,0 +1,378 @@
+The Minuteman
+Volume 39, Number 2
+November 2009
+
+----------
+
+Membership Meeting
+Wednesday, 18 November, 2009 @ 7:00 PM
+The PAVE PAWS Radar
+Milton Public Library, 476 Canton Ave, Milton, Mass
+
+Lt Col. Max Lantz, Commander, USAF 6th Space Warning Squadron will present a description of the U.S. Air Force's PAVE PAWS facility and its mission. He will also field questions from the audience concerning PAVE PAWS and its relation to amateur radio.
+
+Directions
+
+From West or South:
+
+Take Route 128 to route 28 N, Randolph Ave. toward Milton.
+At fourth traffic light turn left on Reedsdale Road (staying on 28N). There is a Tedeschi’s on the right and a church on the left.
+At next traffic light turn left onto Canton Ave.
+Library is on this corner, use the 1st driveway to turn left into parking lot. 
+
+From Boston, via Southeast Expressway (Route 93 South) 
+
+Take Exit 10: Milton, Squantum Street
+Bear right onto Adams Street at end of Squantum.
+At first light go left onto Centre Street 
+Continue through the third traffic light, just after Milton Academy. 
+Library is on your left. Use the 1st driveway to turn left into the library parking lot.
+
+----------
+
+Dues were Due Sept 1st.
+
+----------
+
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in Eastern
+Massachusetts.
+The MMRA meets (usually) on the 3rd Wednesday of September, November, January, March, and May.  Meeting time, locations and talk-in frequency vary.  These are announced in the newsletter and on weekly nets.  Meetings are open to all interested parties.
+The Minuteman newsletter is Emailed one week before each meeting.  Members are encouraged to submit articles.  Articles may be sent to the editor via email to newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+Email to the club leadership should be sent to contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
+
+----------
+
+Public Service and the MMRA
+Bruce, KC1US — Public Service Coordinator 
+
+One of the objectives of the Minuteman Repeater Association is to be active in Public Service.  Due to repeater locations and linking, the systems themselves are called on many times.  
+
+First, there are some large scale events.  In April is the Boston Athletic Association Marathon which links Marlboro, Weston and Quincy machines with Belmont operating independently.  These are used to link about 150 radio operators at Red Cross Aid Stations and water stops along the race course.  A consortium of clubs organizes this event with many MMRA members in lead roles.  
+
+For the Marathon Walk in October Marlboro, Brookline, Quincy are linked.  Belmont also fills in a few spots.  
+
+At the Walk for Hunger in May and the Head of the Charles Regatta in October, Belmont and Brookline repeaters are used, which gives good coverage of the Boston, Cambridge and Newton areas for hand held users.
+
+Other smaller events include talk in for the Algonquin ARC flea market, the Run of the Charles Canoe and Kayak Race and the Minuteman bicycle tour for the Multiple Sclerosis Society.  Events taper off in the winter, but will be back in the spring.  Keep tuned to this space
+
+----------
+
+Membership Meeting Report
+16 September 2009
+
+Bob, K1IW, walked us through what had happened
+during the summer, and what was in the future. Some highlights that were not in the last newsletter.
+
+MMRA on 10M:
+Equipment rack at receiver site
+Antennas
+Transmitter
+Transmitting Antenna
+
+Next Up...
+     Quincy "Buzz-Buzz" interference 
+     Quincy 224.400 interference
+     Southborough Intermod when linked to HUB1
+     Weston Intermod when linked to WCH
+     6m Power Amplifier Upgrade
+     HUB controller upgrade
+
+----------
+
+MMRA October Board of Directors Meeting
+Bob Evans — N1BE — Clerk
+
+Bob Evans — N1BE — Clerk
+
+The MMRA board met at 19:00 EDT on October 21 at Stratus Technologies in Maynard, MA.  Present were K1KWP, WA1NVC, K1IW, W1MPN, KC1US, W3EVE, N1BDA, W1DYJ, K1RJZ and N1BE.
+
+K1KWP spoke first with a Treasurer and membership report.  Kevin has a new format for graphically presenting this information.  He reviewed anticipated expenditures for this year and historic expenses for the last 5 years.  The report showed income broken down by sources for this year and the past 5 years.  We also reviewed power usage and changes to the telephone service at MRW where DSL is now installed for linking the 900MHz repeater via the Internet.
+
+Bob, K1IW led a discussion of repeater status that covered only the few repeaters now having problems:
+
+224.400 in Quincy is off the air.
+
+146.67 in Quincy is receiving "Buzz-Buzz" interference.  This sounds like the kind of problem that Bryan eventually figured out in Marlboro -- sporadic unintended radiation from a cordless phone charger.  This will probably require a fox hunting effort at a time when the interference is active.
+
+We brainstormed steps for determining the cause of de-sense to 146.82, Brookline.  When transmitting, a signal appears on the 146.22 MHz input frequency.  This problem is present all the time.
+
+Newsletter issues were next discussed.  There was a suggestion for a new column on current public service events and which MMRA resources were expected to be in use.
+
+K1KWP will not be available to fold and mail the next newsletter.  N1BE agreed to do this with the following assistance:  W3EVE will print and supply address labels; K1IW will supply a list of expired members; N1BE will create an insert reminding expired members to renew as otherwise they will get no future newsletters.
+
+New business items were next discussed.
+
+The board wants to thankfully recognize KB1OEI for transporting the new MRW shelter from Maine to Marlborough. Although it is a small token compared to Keith's time and expenses, the board voted unanimously to at no cost extend Keith's membership for the next year.
+
+Linking of the 900MHz MRW repeater was next discussed.  DSL with a VOIP phone line has been installed with the intention to replace the previous Verizon POTS phone line.  The VOIP phone has been connected to the HUB1 controller.  The DSL will be used for IRLP connection to 900MHz.  K1IW supplied a computer for IRLP.  Thanks to K1RJZ, GEMOTO paid for the cost of a memory module and a specialized IRLP board.  The board voted unanimously to accept the donation from GEMOTO.
+
+145.16 D-Star in Boston was briefly discussed.  K1IW expressed some concern about potential for interference to adjacent analog channels.  Bob supplied a computer and cables for the D-Star software.  WA1WOK supplied media containing the D-Star software.  N3HFK will install the OS and application software.  Internet access at the repeater site will be available at no cost.
+
+Boston 900 MHz is receiving noise from Part-15 devices.  A trial of moving the input to the low end of the band was proposed.  The board unanimously approved a temporary move of the input frequency to 902.0125 MHz to avoid this interference.  The board also unanimously approved the following: If the test on 902.0125 MHz is successful, to apply at the Nov 7th NESMC meeting for coordination on this frequency, with possible TX frequency change to maintain the usual 25 MHz split.  Several of the MMRA board members confirmed their plans to attend that NESMC meeting.
+
+N1BDA suggested we consider an MMRA policy for use of digital modes on analog repeaters.  The board passed this motion unanimously: The MMRA Network is intended for voice communications.  Digital transmissions on analog repeaters are not permitted except where authorized.  For experimenting, digital modes such as MT-63, PSK-31 and Olivia are only authorized on Belmont 145.43.  These transmissions must be accompanied by a voice ID.
+
+Future meetings were discussed.  We are seeking speakers and meeting locations for January 20 and March 17.
+
+Finally we had a round table discussion of Public Service events.  It was suggested that KC1US continue to notify the board and members of repeater usage in the two weeks before an event.  Use of twitter was also suggested as an easy way to get a notice on the MMRA web site.  K1KWP noted the newly released clarification of the rules from the FCC which confirmed that paid employees of a non-profit organization may not use Amateur Radio as a control operator to support a fund raising event.  W1MPN discussed interoperability and interference issues facing state and municipal agencies.
+
+The meeting adjourned at 21:30.
+
+----------
+
+19 September Foxhunt
+Tim Shepard ~ KD1KY
+
+On September 19, 2009, the MMRA Saturday morning foxhunt was held on the input (146.19) to the Weston 146.79 repeater.
+
+Tim KD1KY was the fox and made 3 bonus transmissions before the official 10am start time.  The bonus transmissions around 9:40am and 9:45am were made while westbound on Route 9 in Newton.  The 9:55am bonus transmission was from the fox hiding location. Starting at 10:00am, 30-second long transmissions were made every 5 minutes.
+
+The fox was located near the end of Riverside Road in Newton, parked in one of the parking slots next to the park.
+
+Riverside Road is about 4 miles SE of the repeater site and is not shown on some maps.  It is a short dead-end road, only about 300 feet long, running parallel to and just south of the Mass Pike.  It connects to Charles Street to the east, and dead ends near the Charles River.  It is about a quarter mile east of Route 128.  It can only be reached by car by passing through the Charles Street tunnel underneath the Mass Pike.
+
+Transmissions from Riverside Road were made using only 0.5W into a mag-mount antenna on the car.  The two earlier transmissions while traveling on Route 9 were made with higher power (perhaps 20W).
+
+The fox was first found at 12:06pm by Briggs AB2NJ and Dick WB1W.  Next to find the fox was Charles AA1VS at 12:11pm.  And then Alan N1TBN and Mike N1OMJ arrived at 12:12pm.  Jonathan KB1SDS and Jonathan KC6F arrived at 12:25pm.
+
+At 12:30pm the fox announced the location and the hunt ended.
+
+----------
+
+New Shelter for Marlboro West
+
+A new shelter for MRW was moved from Maine to Marlboro. Many thanks to N1KMA for donating the shelter and to Keith (KB1OEI) of Land's towing for transporting the shelter for the club!
+
+----------
+
+24 October Foxhunt
+Dick MacPherson ~ KB1W
+
+It was a very dismal day. The ‘fox’ did not mind, as it was his day finally for another few hours of freedom before the hunters descend on him again. On a day like this, the ‘fox’ has some advantages over the hunters. He has a choice of staying under a roof and keeping dry, while the hunters are continually going out in the elements to take their bearings.
+
+With such dismal conditions, he also takes advantage of yelling loud as his voice will propagate and reflect off the near by hills and create echoes thru the valleys below. Is this the day the fox sees final freedom?
+
+At 10 AM on October 24, 2009 the hunt commenced. Today the hunting territory was centered on the Burlington Repeater with his hiding territory limited to a radius of 10 miles. The fox’s voice could be heard every 5 minutes for 30 seconds during the next hours. To the hunters this would often present a tease, always wishing for a little longer transmission. As the hunt went on it appeared that the weather & rain was causing problems with the signal they heard, as it would at times vary as reported.
+
+The hunt continued and during the first hour the fox could hear the hunters going wildly around the countryside and at times away from his location. Yes, this may be the final day for freedom.
+
+It was not just the hunters on the repeater, in addition, we heard from others (ex: W1GFF) at home reporting they are ‘Listening & Enjoying the Hunt’.
+
+After an hour and twenty minutes the fox’s voice was getting sore from yelling so loud and reduced his power from 50 to 20 watts. Still there are no hunters showing themselves. The fox at times would try and tease the hunters with some subtle hints.
+
+As the second hour mark approaches the fox gets braver and starts to give hints to taunt the hunters with his freedom he may soon enjoy forever.
+
+Too smart he got, because at 12:20, the N1OMJ team (with N1TBN & AB1IC) came round the corner. The fox was found and his freedom had ended.
+
+The ‘fox’ was finally located at Whip Hill Road in Stoneham.
+
+The fox continued his transmissions and at 12:43, VK3MD came around the corner. He was soon followed up by AA1VS at 12:49.
+
+By 1:00 the remaining hunters arrived at site and the hunting stories started to develop among the hunters. A few decided to continue the stories over lunch at Polcari’s in Woburn.
+
+Despite the weather a good time was had by all.
+
+Again would like to thank, the Minute Man Repeater Association, for use of their repeater during this hunt.
+
+Although the fox has been captured again he will soon be released again. The first hunter, N1OMJ, who took the fox captive will be the fox on the next hunt. Stayed tuned, the details of the next hunt will be announced.
+
+Join the fun and try your skills. Talk to a hunter, grab a ride or try on your own. You soon will be enjoying the sport of ‘fox hunting’.
+
+----------
+
+Dues were Due Sept. 1st
+$25 / Individual
+$35 / Family
+
+Pay on line with PayPal:
+1-  Go to the MMRA home page at
+ www.mmra.org
+ 
+2-  Click on Member’s Login at bottom left
+ 
+3-  Login in with your call and password
+ 
+4-  If you are not paid up, you will see “It’s Membership Renewal Time!  Please verify your information below is correct and click here to renew now.  Click there, and pay!
+
+----------
+
+MMRA Leaders
+
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2010		Clark Conti	N1NVK
+Director  »2010		Mike Neilsen	W1MPN
+Director  »2011		Steve Schwarm	W3EVE
+Director  »2011		Roger Coulson	WA1NVC
+
+Repeater Trustees, Appointed
+Belmont 145.430		Larry Arone	WA1RTT
+Boston 927.775		Rick Zack	K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Chris Conti	N2NVL
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Marlboro 53.810, Quincy 146.670, Southboro 449.575	Bryan Cerqua	W1BRI
+Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Quincy 224.400		Bill Dunn	N1KUG
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  Bruce Pigott	KC1US
+VEC Liaison		Bill Wade	K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+
+----------
+
+Treasurer’s Report
+Kevin Paetzold ~ K1KWP 
+
+INCOME
+Dues 			 $2350.00
+Future Dues 		    50.00 
+Donations 	  	   560.91 
+Misc 			  1847.56 
+Newsletters 	  	    40.00 
+Total Income 		 $4848.47
+Expected Income		  1171.65
+TOTAL			 $6020.12
+
+EXPENDITURES
+Total Spending so far 			($7187.04)
+Expected remaining expenses		  1418.81
+Total Expected Spend 			($8605.85)
+Total Expected Income 		 	 $6020.12
+Expected balance delta at year end	($2585.73)
+
+MEMBERSHIP
+Members joined/renewed for
+2007-2008 	173
+2008-2009 	191
+2009-2010 	147
+
+Members needed for parity with last year: 44
+
+Significant payments since last board meeting:
+MRW Tower Work 			$2463.73
+Phone 			          120.00
+Electric 			  350.00
+SCOM 7330's 			  948.00
+Power supply/stuff for .82  	  175.00
+HOP/MRW/900 lightning etc.. 	~ 600.00
+Newsletters 			   80.99
+Maint. 				  164.24
+Milton Library 			   75.00
+
+Upcoming Known/Expected Significant Payments:
+Verizon 			 $131.60
+Galaxy 				  203.00
+Electric 			  272.36
+Newsletters 			  233.15
+MRE Rent 			  150.00
+Insurance 			  520.00
+Corp Fees 			   18.50
+Total expected remaining expense$1418.81
+
+----------
+
+Don’t Forget!
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
+
+We need another net control!
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+
+Current Net Control Operators:
+
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	???		OPEN	
+Week 3	W1DYJ		Larry Banks
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+----------
+
+Dues were Due Sept. 1st
+$25 / Individual
+$35 / Family
+
+Make out your check to:
+Minuteman Repeater Association
+...and send your check to:
+mMRA
+	P. O. Box 669 
+	Stow, MA 01775-0669
+
+Be sure to add your call(s) to the check
+
+----------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the
+Marlboro Public Library
+Contact: Bill Wade, K1IJ
+781-891-9079
+Evenings 6 to 10 PM,
+Weekends 8 AM to 10 PM.
+Accredited by the ARRL VEC
+
+----------
+
+Public Service Events
+
+See this web site for information
+http://purl.org/hamradio/publicservice/nediv
+
+Join this NEW Yahoo Group
+http://groups.yahoo.com/group/PublicServiceEvents/
+
+No upcoming events are shown in either of the above web sites.
+
+----------
+
+New England Area Ham - Electronic Flea Markets 
+See this web site for contact information
+: http://mit.edu/w1gsl/Public/ne-fleas
+
+ 6 Nov		Feeding Hills MA HCRA	Cong Ch 
+ 7 Nov		Londonderry NH IRS 	Lions 
+ 7 Nov		Bourne MA FARA 		Upper CC VoTech 
+14 Nov		Rockport MA CAARA 	Pidgeon Cove 
+ 5 Dec 		Windsor CT VR+C Mus 	115 Pierson LN 
+13 Feb 		Marlboro MA AARC 	Middle Sc 
+28 Feb 		Hicksville NY LIMARC 	Levitt Hal 
+28 Feb 		Colchester VT RANV 	Hampton Inn 
+20 Mar 		Pomfret CT 		ECARA 
+21 Mar 		Southington CT SARA 	HS 
+10 Apr 		Middletown NY OCARC 	Wallkill Com Ctr
+17 April 	Lindenhurst NY GSBARC 	Fireman Pk
+17,18 Apr 	Wakefield MA Photographica   AmericalCtr
+18 Apr    	Cambridge MA        	FLEA at MIT
+
+----------
+
+End of Newsletter

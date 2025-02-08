@@ -1,0 +1,277 @@
+The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+Volume 47, Number 5
+May 2018
+----------
+
+Membership Meeting ~ Wednesday, 16 May 7:00 PM
+
+Annual Meeting & Elections
+
+Talk: One Ham’s Journey with Antennas ~ Larry Banks, W1DYJ
+Location: Campion Center, Weston
+
+Talk-in: 146.79  pl 146.2
+
+
+During the 56 years that Larry has been a ham, he has built and used many antennas.
+Using ARRL awards as goals, he will survey his antennas in Woburn and Harpswell, ME, as he pursued these awards. Some antenna theory will be included. This is not a how-to talk, it is a you-can-do-it-too talk, designed to get you thinking. 
+
+Larry was licensed in 1962 as novice KN1VFX and then Technician, K1VFX.  He received W1DYJ in 1966 while in college in Cambridge.   He was an engineer and manager for Hewlett-Packard Medical in Waltham and Andover from 1969 to 1993.  From 1985 to 1993 he was the Section Manager
+responsible for establishing the Cardiac R&D lab’s Computer Aided Design environment, the
+SW Testing and Quality group, and ongoing Technical Education.  Moving to HP Medical Education in 1993, he was responsible for technical (R&D) education and Project Management training.   He 
+became Agilent Technology’s manager for their global LMS (Learning Management System) when Agilent split out of HP in 1999.  “Retiring” in 2005,  he consulted for Avago Technologies 
+(now Broadcom) serving as global manager for their corporate LMS until 2012.  Larry holds three 
+degrees in Electrical Engineering from MIT.  When he is not experimenting with antennas, he chases DX and contests (160 through 432), both in Woburn and at his second home in Maine, and travels with his wife Maren.   He is also the Net Manager and Newsletter Editor for the MMRA, publications manager for FEMARA, and a member of the YCCC and NEWS.
+----------
+
+MMRA Officer Nominations:
+	* KG1H David Wolfe – President 
+	* WA1MDD John Spencer -- Vice President 
+	* K1KWP Kevin Paetzold – Treasurer 
+	* N1DCH David Hornbaker – Secretary 
+	* N1NVK Clark Conti – Director  ? 2020
+	* N1DDK James Lee – Director  ? 2020
+Nominations for Clerk are still solicited
+----------
+
+President’s Corner
+
+David Wolfe ~ KG1H
+
+Well, the MMRA calendar year is almost over, and elections are upon us. Many updates to our repeater systems have been accomplished by our technical wizards, and several 
+suggested and great updates have been set aside to the near future. Without these 
+dedicated hams together with our elected officers, directors and trustees very little would have been accomplished this past year. Stagnation is not acceptable in this gargantuan 
+organization: the MMRA.
+
+When I initially sat down at my keyboard I didn't have any ideas to write about, however what quickly came to mind is my concern is that we the officers and many of the support staff are all getting older, our interests are changing, and/or moving out of the MMRA area. The newer members don't appear to be attracted to infiltrating the management end of the organization. Are us old hams scaring them away?
+
+What do we need to do/say/communicate to these 
+prospective, not necessarily younger hams, to attract them with their fresh ideas and energy? What sort of an event would attract them? The MMRA is not the only ham 
+organization with this predicament. Maybe those MMRA net control operators could mention the gratification of being a leader as part of their introduction and closing statements.
+----------
+
+April Business Meeting ~ Larry Banks, W1DYJ, clerk pro tem
+
+The meeting was brought to order at 6:35 pm at the 
+Marlborough Library.  Present were: Clark, N1NVK; 
+John, WA1MDD; David, KG1H; Bob, K1IW; Brian, W1BRI; 
+Dave, N1DCH; Kevin, K1KWP; and Larry, W1DYJ.
+ 
+Old Business: Upcoming Meetings
+The Annual Meeting will be at the Campion Center on 16 May at 7 PM.  Election of officers will be held.  Nominations:
+KG1H David Wolfe – President 
+WA1MDD John Spencer -- Vice President 
+K1KWP Kevin Paetzold – Treasurer 
+N1DCH David Hornbaker – Secretary 
+N1NVK Clark Conti – Director 
+N1DDK James Lee – Director
+The position of Clerk is unfilled; we need a nominee.
+After the elections and any additional business, Larry, W1DYJ, will present “One Ham’s Journey with Antennas.”
+ 
+Boxboro Convention:  After some discussion, it was decided that our September Membership Meeting will be held during the ARRL New England Boxboro Convention, the weekend of Sept. 7-9, date and time to be announced.  
+Moved (K1WP), seconded (KG1H), and voted that we 
+allocate $100 for an advertisement in the Convention Program.  
+Moved (K1WP), seconded (N1NVK), and voted that we allocate $400 for “door prizes,” with one of the prizes to be awarded to a participant of the membership meeting.
+
+Treasurer’s Report
+Kevin, K1KWP, detailed our financial situation.  We are 
+currently ahead for the year, although we are down about $700 in dues.  President David will send out a dues reminder.
+ 
+Boston Marathon MMRA Equipment (Bob, K1IW)
+Everything worked really well this year.  This is the first year we used HUB2 for linking.  It ran like a trooper.  In the future, we should continue to use HUB2, leaving HUB1 available for normal traffic.  (Editor’s note: Bob, K1IW, and John, WA1MDD, spent a great deal of time setting up net control at the Clay Center.)
+ 
+Hub 1 449.825 Repeater Status (Bryan, W1BRI)
+> Checking out PA with repeater and all is OK, PA is putting out 75W with Kenwood repeater driving the input. 
+> Bypass mode is now working when there is no AC power 
+> Completed the interface cable and have the new repeater working with the Scom 7330 controller 
+> Getting all audio adjustments done while repeater and 
+controller are on my bench before moving to site 
+> Racking up the entire system with duplexer, power meter, preamp and filters 
+> Building up all new RF interconnect cables, this will take some time
+Hopefully Hub 1 will be back up by mid-May.  However, the extended time it has taken to replace Hub 1 led to a discussion about emergency funds, which was originally discussed some months ago during budget discussions for this year.
+Moved (K1IW), seconded (N1NVK), and voted that we draft a proposal, to be voted on at the Annual Meeting, to the effect that we set aside $2500 in an emergency fund.  This fund will be available to replace existing assets only in the event of a repeater system component failure.  Using this fund will require a vote of the Board of Directors.  The specific language of this proposal must be drafted.
+ 
+Future Upgrade Discussion (Bob, K1IW) 
+We discussed the idea of upgrading the remaining controllers on the MMRA network to 7330's.  There are only four left that do not have internet remote capability:
+Belmont/145.43 - Need controller only, internet 
+connection available 
+Hopkinton/223.94 - Needs controller and FreedomPop 
+Hopkinton/449.575 - Needs controller and FreedomPop  
+Mendon/146.61 - Needs controller and FreedomPop 
+We decided to upgrade Belmont before the others, mostly due to volunteer time limitations.
+Moved (W1DYJ), seconded (N1NVK), and voted that we allocate $500 for an new Scom 7330 controller for Belmont.
+
+Current Repairs Needed (Bob, K1IW)
+> The tone encoder on 146.82 in Boston is broken and needs to be replaced.  This is a common issue with these MastrII 
+encoders which will recur if we fix it.  It is better to just buy a new one and be done with it (especially given the access at the Pru).
+> The internet box up there is an old Ethernet to Serial that locks up if you leave it on more than two days or so, it should be replaced with a Raspberry Pi setup. 
+Moved (N1NVK), seconded (KG1H), and voted that we allocate $150 for repairs to Boston 146.82. 
+ 
+New business:  Trustee Status
+It was pointed out that a few of the repeater trustees do not attend meetings and do not vote when asked to do so via email.  As trustees are appointed and not voted into office, it was decided to ask all current trustees if they wished to 
+remain a trustee.  Those who wish to remain are expected to [1] pay their dues; [2] attend a meeting now and then; and [3] vote on all email votes.  The wording of this request needs to be finalized before it is sent.
+  
+The meeting was adjourned at 8:15 pm 
+Respectfully submitted, W1DYJ, clerk pro-tem
+----------
+
+March Membership Meeting ~ The K3LR Super Contest Station
+Bob, W5OV, showed off super-contest station K3LR, via SKYPE.  When you drive I-80 from Pennsylvania into Ohio, you will notice an extremely large antenna farm - this is K3LR.
+
+Six photos -- the captions:
+	The Antenna Farm
+	Watching the presentation
+	Superfood for a Super Station
+	One tower’s base
+	20M @ 170’
+	18 el on 15M
+----------
+
+The NEW Hub 1 ~ a “Teaser” 
+
+Thanks to Bryan, W1BRI, for both the photos and all of the work.  
+Perhaps by the time you read this, Hub 1 will be back on the air!
+
+Two phptos:
+	The Kenwood NXR-810 Repeater
+	Testing the new Henry RF power amplifier 
+----------
+
+Early Ham History – Part 5
+
+
+>From W1DYJ: I recently obtained an ARRL Handbook from 1962, the year I was first licensed. The first few pages are a wonderful, short history of the early years of Ham radio. I hope you enjoy reading this as much as I did.  It is in 5 parts.
+
+Here is Part 5: Technical Developments 
+
+Throughout these many years the amateur was careful not to slight experimental development in the enthusiasm incident to international DX. The experimenter was constantly at work on ever-higher frequencies, devising improved apparatus, and learning how to cram several stations where previously there was room for only one! In particular, the amateur pressed on to the development of the very high frequencies and his experience with five meters is especially representative of his initiative and 
+resourcefulness and his ability to make the most of what is at hand. In 1924, first amateur experiments in the vicinity of 56 Mc. indicated that band to be practically worthless for DX. Nonetheless, great "short-haul" activity eventually came about in the band and new gear was developed to meet its special problems. Beginning in 1934 a series of investigations by the brilliant experimenter, Ross Hull (later QST's editor), developed the theory of v.h.f. wave-bending in the lower atmosphere and led amateurs to the attainment of better distances; while occasional manifestations of ionospheric propagation, with still greater distances, gave the band uniquely erratic performance. By Pearl Harbor thousands of amateurs were spending much of their time on this and the next higher band, many having worked hundreds of stations at distances up to 
+several thousand miles. Transcontinental 6-meter DX is not uncommon; during solar peaks, even the oceans have been bridged! It is a tribute to these indefatigable amateurs that today's concept of v.h.f. propagation was developed largely through amateur research.
+
+The amateur is constantly in the forefront of technical progress. His incessant curiosity, his eagerness to try anything new, are two reasons. Another is that ever-growing amateur radio continually overcrowds its frequency assignments, spurring amateurs to the development and adoption of new techniques to permit the accommodation of more stations. For examples, amateurs turned from spark to c.w., designed more selective receivers, adopted crystal control and pure d.c. power supplies. From the ARRL's own laboratory in 1932 came James Lamb's "single-signal" superheterodyne—the world's most advanced high-frequency radiotelegraph receiver—and, in 1936, the "noise-silencer" circuit. Amateurs are now turning to speech "clippers" to reduce bandwidths of phone transmissions and "single-sideband suppressed-carrier" systems as well as even more selectivity in receiving equipment for greater efficiency in spectrum use.
+
+During World War II, thousands of skilled amateurs contributed their knowledge to the development of secret radio devices, both in Government and private laboratories. Equally as important, the prewar technical progress by amateurs provided the keystone for the development of modern military communications equipment. Perhaps more important today than individual contributions to the art is the mass cooperation of the amateur body in Government projects such as propagation studies; each participating station is in reality a separate field laboratory from which reports are made for correlation and analysis. An outstanding example was varied amateur participation in several activities of the International Geophysical Year program. ARRL, with Air Force sponsorship, conducted an intensive study of v.h.f. propagation phenomena— DX transmissions via little-understood methods such as meteor and auroral reflections, and transequatorial scatter. ARRL-affiliated clubs and groups have operated precision receiving antennas and apparatus to help track earth satellites via radio. For volunteer astronomers searching visually for the satellites, other amateurs have manned networks to provide instant radio reports of sightings to a central agency so that an orbit might be computed.
+
+The above is COPYRIGHT 1962 by ARRL.  The Handbook back then cost $3.50. 
+Here ends the readings from 1962
+----------
+
+Upcoming MMRA Meetings
+Note: Meeting locations are subject to change. Consult the MMRA website for the most up-to-date information.
+
+
+Wednesday, 16 May ~ Annual Meeting
+Topic: One Ham’s Journey with Antennas
+
+Larry Banks, W1DYJ
+Location: Campion Center, Weston
+
+Wednesday, 20 June ~ Business Meeting
+Location: Marlborough MA library 
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+
+www.mmra.org
+Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+
+Check here for the schedule: 
+http://www.mmra.org/exam.html
+Contact: Bill Wade, K1IJ      617-699-3670 
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+MMRA Leaders
+Executive Board — Officers
+President	David Wolfe	KG1H
+Vice President	John Spencer	WA1MDD
+Secretary	John McGovern	W1JMC
+Treasurer	Kevin Paetzold	K1KWP
+Clerk		open
+
+Executive Board — Directors
+Director  »2018	Clark Conti	N1NVK
+Director  »2018	James Lee	N1DDK
+Director  »2019	Bob DeMattia	K1IW
+Director  »2019	Roger Coulson	WA1NVC
+
+Technical Officer
+* Technical Officer	Bryan Cerqua	W1BRI
+
+Repeater Trustees
+* Belmont 145.430	Ed Curley	KC1CLA
+* Boston 146.820	John Mullaney 	K1BOS
+* Brookline Rcv 146.82	Bob Phinney	K5TEC
+* Boston 927.0625	Rick Zach	K1RJZ
+* Hopkinton 223.940	James Cahill	KB1LOY
+* Hopkinton 449.575	Bryan Cerqua	W1BRI
+* Lowell 442.250	Vince De La Flor  K1LVF
+* Marlborough 53.810,  Quincy 146.670; 
+	Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.390, 147.270, 224.880,
+
+       448.225, 449.925,  927.700 — all as W1MRA
+
+			Bill Northup	N1QPR
+* Mendon 146.610	Kevin Paetzold	K1KWP
+* N. Reading 146.715	Bruce Pigott	KC1US
+* N. Reading 446.775	Larry Banks	W1DYJ
+* Quincy 224.400	Bill Dunn	N1KUG
+* Weston 146.790	Bob Evans	N1BE
+* Weston 224.700	Eddie Mulhern	N1NOM
+* Weston 442.700	David Wolfe	KG1H
+
+
+Additional, non-Voting
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	David Wolfe	KG1H
+* VEC Liaison		Bill Wade	K1IJ
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+
+* Appointed
+----------
+
+Calendar of Ham Radio Flea Markets
+
+For more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+12 May 	E Greenbush NY 	EGARA FireCo 
+19 May 	Goshen CT   	SBARC @FG 
+20 May 	Cambridge MA 	Flea at  MIT
+ 2 Jun	Brookline NH	NEARC antique
+ 2 June	Hermon ME	PSARC @HS
+ 9 Jun	Windsor CT	VR+C Mus 115 Pierson LN
+17 Jun	Cambridge MA 	Flea at  MIT
+15 Jul	Cambridge MA	Flea at  MIT
+  4 Aug	Milo ME	PARC @Kiwanis
+11 Aug	St Albans VT	STARC @Elks
+19 Aug	Cambridge MA	Flea at  MIT
+19 Aug 	Adams MA 	NoBARC @FG
+26 Aug 	Newtown CT 	CARA @TownHall
+8-10 Sep  Boxboro MA 	FEMARA NE Conv
+ 8 Sep	Windsor CT	VR+C Mus 115 Pierson LN
+15 Sep	Alexander ME 	StCVARC @ElSch
+16 Sep	Cambridge MA	Flea at  MIT
+  6 Oct	Brookline NH	NEARC antique
+12-13 Oct Deerfield NH	NEARfest XXIV @FG
+21 Oct	Cambridge MA 	Flea at  MIT
+27 Oct	Gales Ferry CT 	TCARC @FireCo
+ 3 Nov 	Bourne MA 	FARA @UpperCC VoTech
+ 1 Dec 	Windsor CT 	VR+C Mus 115 Pierson LN 
+ 9 Mar 	Chicopee MA 	MtTomARA @Castle
+ 7 Apr	Framingham MA 	FARA 9AM@KeefeHS
+3-4 May 	Deerfield NH 	NEARfest XXV @FG 
+----------
+
+END OF NEWSLETTER
+----------
