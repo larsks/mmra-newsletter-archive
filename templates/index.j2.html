@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MMRA Newsletter Archive</title>
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <section id="header">
+      <p><img class="masthead" src="assets/header.png"></p>
+      <h1>MMRA Newsletter Archive</h1>
+    </section>
+    <section id="intro">
+<p>The <a href="https://mmra.org/">Minuteman Repeater Association</a> (MMRA) maintains a linked network of
+amateur radio repeaters covering much of Eastern Massachusetts. The MMRA newsletter, The
+Minuteman, is published five times a year, in September, November, January,
+March, and May, to coincide with the regular MMRA membership meetings.</p>
+
+<p>The newsletters are licensed under the <a
+href="https://creativecommons.org/licenses/by/4.0">CC-BY-4.0</a>
+license.</p>
+
+<p>This website is a copy of the <a href="https://mmra.org/newsltrs/index.html">MMRA newsletter archive</a>. It is not maintained by or otherwise associated with the MMRA.</p>
+    </section>
+<a id="top"></a>
+<div class="yearnav">
+{% for year in archive %}
+      <li><a href="#{{year}}">{{year}}</a></li>
+{% endfor %}
+</ul>
+</div>
+{% for year in archive|reverse %}
+    <h2 id="{{year}}"><a href="#top">{{year}}</a></h2>
+    <ul>
+{% for month in archive[year] %}
+      <li>
+        {{calendar.month_name[month]}} (
+        <ul class="issue">
+        {% for filetype in archive[year][month] %}
+          <li><a href="{{archive[year][month][filetype]}}">{{filetype}}</a></li>
+        {% endfor %}
+        </ul>
+        )
+      </li>
+{% endfor %}
+    </ul>
+{% endfor %}
+  </body>
+</html>

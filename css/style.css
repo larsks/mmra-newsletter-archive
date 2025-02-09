@@ -1,0 +1,35 @@
+body {
+  margin: min(10%, 2.5cm);
+}
+
+.masthead {
+  width: 100%
+}
+
+.yearnav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.yearnav li {
+  display: inline;
+}
+
+.yearnav {
+  border-top: thin dotted black;
+  border-bottom: thin dotted black;
+  padding-top: 1ex;
+  padding-bottom: 1ex;
+}
+
+ul.issue {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+.issue li {
+  display: inline;
+}
