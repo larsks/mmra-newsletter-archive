@@ -1,0 +1,259 @@
+The Minuteman Repeater Association
+
+The Minuteman
+
+Volume 40, Number 4    March 2011
+----------------
+
+Membership Meeting ~ Wednesday, 16 March 2011 @ 7:00 PM
+
+Ed Perry, Founder and President of 95.9 WATD in Marshfield
+
+Milton Public Library, 476 Canton Ave, Milton
+
+Talk in — 146.67
+
+
+WATD is one of only a few locally owned and operated FM broadcast stations in the Boston area. WATD signed on December 6, 1977 and has endured booms and busts in the economy, and a drastically changing broadcast industry. Ed will share his experiences in the broadcast industry with us, and will also take questions from the membership. Read Ed's full bio at < http://www.959watd.com/EdPerry.php >, it's pretty interesting! 
+
+
+Directions:	 From West or South:
+Take Route 128 to route 28 N, Randolph Ave. toward Milton.
+At fourth traffic light turn left on Reedsdale Road (staying on 28N). There is a Tedeschi’s on the right and a church on the left.
+At next traffic light turn left onto Canton Ave.
+Library is on this corner, use the 1st driveway to turn left into parking lot. 
+
+>From Boston, via Southeast Expressway (Route 93 South) 
+Take Exit 10: Milton, Squantum Street
+Bear right onto Adams Street at end of Squantum.
+At first light go left onto Centre Street 
+Continue through the third traffic light, just after Milton Academy. 
+Library is on your left. Use the 1st driveway to turn left into the library parking lot.
+
+----------------
+
+President‘s Corner
+Bob DeMattia (K1IW)
+
+	In 1938, Congress passed the Agriculture Adjustment Act, which imposed limits on the amount of corn, cotton, and wheat that could be produced by farmers.  Each year, a farmer was given an allotment which he was not allowed to exceed.  In 1941, Roscoe Filburn, a farmer in Southwest Ohio was given an allotment of 11.1 acres. Despite this, he planted 23 acres.  When the crops were harvested, Mr. Filburn sold 11.1 acres into the market, but kept the remaining wheat for use on his own property for his farm animals and his family to consume.  The secretary of agriculture fined him $117.11.  Mr. Filburn sued the federal government and the case made its way all the way to the U.S. Supreme Court.  Filburn had argued that since the excess wheat had not been used across state lines that the federal government had no authority over the matter.  The Supreme Court disagreed and upheld the fine.  They stated that although the wheat itself was not brought across state lines, it still reduced demand as Mr. Filburn would have otherwise had to engage in interstate commerce to purchase the wheat had he not grown some himself.  
+	That court case, Wickard v. Filburn, is fairly well known and has been used in a number of subsequent cases involving the constitution's commerce clause.  It is known as the decision which broadened the power of the federal government to regulate commerce significantly.  Roscoe Filburn farmed until his death in 1987.  However, in 1966 he persuaded his family to sell much of the family farm.  
+	The farm eventually became the Salem Mall in Trotwood, Ohio. The mall was mostly out of business in the late 90's and mostly torn down in 2006.  However, for those that have visited the Dayton Hamvention,  it is the place many people park to take the shuttle buses to the convention.   It is ironic that a seemingly common, obscure, barren piece of  land has such an exceptional history.
+----------------
+
+January Membership Meeting ~ MMRA Mid-Winter Pizza Gathering
+
+The test setup for the new S-Com 7330 Controller for Hub One, courtesy of K1IW, Bob
+
+One of the tables at
+Pizzeria Uno in Newton
+
+Roger, WA1NVC, demonstrates a Software Defined Radio using the SDR-IQ at the left and the SDR-radio.com software on his laptop.  The hardware is the SDR-IQ from RFSPACE (http://www.rfspace.com/RFSPACE/SDR-IQ.html).  The software is from Simon Brown, HB9DRV, the developer of Ham Radio Deluxe (HRD) at www.SDR-RADIO.com.
+---------------
+
+Updating an old Mastr II for use in a D-Star System
+Harold Read, K3FG ~ Part 1
+
+This is the first article documenting the repair of an old Mastr II repeater and modifying it for use as the 2M radio for the D-Star repeater at the Prudential building. A number of things need to be accomplished for this:
+	-- Change the frequency from 147.15/147.75 to 144.56/145.16
+	-- Replace the receiver crystal filters with narrow band filters.
+	-- Repair the defective PA section.
+	-- Figure out where/how to interface the ‘Not Quite So Mini-Hot Spot’ (or NQSMHS), which is essentially a modem for the D-Star controller, to the Mastr II.
+	-- Fabricate cables and connectors as needed to interface the various components.
+	
+The first two items required ICOMs set to the desired frequencies and crystal filters which Bob (K1IW) obtained. The remaining items caused me to spend a fair amount of time researching the various components of the repeater on line. I found the repeater builder web site (http://www.repeater-builder.com/rbtip/) among others to be quite useful.
+
+While researching the project, it occurred to me that it would be a simple thing to configure the repeater so that it could be used as a voice repeater as well as a D-Star digital repeater. Since D-Star radios are not too widespread in the field so far, it seemed to me that more HAMs could get some use out of the repeater if voice mode was available. I reviewed the idea with Bob and he noted there were some spare S-Com 5K controllers available so we agreed to try it out and see how it works. We need to remember that the repeater is getting modified to narrow band, so users will have to configure their radios to use narrow band for voice with this repeater. Also, the digital mode will have to have priority over the voice mode which means digital traffic could potentially interrupt voice traffic. This seems to be a reasonable trade-off to have voice mode available. This idea adds some additional items to the action item list:
+	-- Figure out the connections for the S-Com controller.
+	-- Add a relay to switch the transmit modulation source between the digital and analog modes.
+	-- Fabricate cables and connectors as needed to interface the various components.
+Program the S-Com controller.
+	-- Test, tune, etc.
+
+
+Once of my goals was to minimize the modifications to the repeater. The idea is to make it as easy as possible for someone else that might have to work on the unit to understand what’s going on. This turns out to be relatively easy as the receiver already has discriminator audio coming out to the controller backplane and the second generation (ours is first gen) of the exciter board has provisions for feeding in a digital modulation signal after the audio processing section with the necessary chassis wiring changes already mapped out.
+
+The first pictures show the radio and associated components as I received them.  The main chassis and front door components were all intact and in very good condition.
+
+The PA section on the next page had been removed from the main chassis. It looked a little crispy inside in the area of the final amplifier transistors.  More on that next issue.
+
+Phase one of the project was to get the receiver working on the new frequency before making any other changes.  I had to verify that the oscillator board had been modified for the low band split option as the part numbers indicated the receiver was a high band split model. The oscillator board had a tag on it saying it had been modified but we wanted to be sure all the changes had been made that the documentation said were required. Below is a picture of the oscillator board.  The changes required for low band split were verified.
+
+When I put the boards back in the receiver and powered it up, it worked as advertised and I was able to tune it up on the new frequency without further issues.  The next step was to replace the existing crystal filters with the new narrow band parts. The new filters were packaged as pairs with instructions for installation at the various locations in the receiver.
+
+This first picture shows the mixer / IF board installed in the radio with the existing filters.
+The picture to the right is of the mixer / IF board with the new filters installed.
+
+The final picture is the IFAS board with the new crystal filters (3) installed. There was a capacitor that needed to be changed on this board as well. It’s the little yellow one next to the 15K 5% carbon resistor on the left side of the picture. 
+
+Next issue: the transmitter.
+-----------------
+
+MMRA February Board of Directors Meeting
+Bob Evans — N1BE — Clerk
+
+MMRA Board meeting minutes by N1BE.
+
+The MMRA board met on the evening of 2011-02-16 at the office of Conexant in Waltham at 7:32 PM.  K1KWP, K1IW, N1BE, WA1NVC, KC1US, N1BDA, W1DYJ and N1NVK were present.
+
+Kevin, K1KWP presented a report of the MMRA accounts and expenses.  About $185 of the dues collected for the current year has not been committed to expenses.  He also reviewed MRW electricity usage, with the last month an all time high. and membership status.  Kevin's report also showed memberships numbers; about 46 of last year's members have not renewed.
+
+We considered replacing linear and ferro-resonant power supplies with switching supplies to lower the energy usage.  We estimate it takes about three years for the reduced electric bill to offset the cost of switching power supplies, or less time if the power rates go up.  WA1NVC will provide info about the MRW loads so that N1NVK can research alternatives to the current power supplies.
+
+147.27 is suspected of imminent PA failure.  Bryan, W1BRI plans to work on this at his earliest opportunity.  147.27 was noisy with receive sensitivity varying during last night's MMRA TIAOS net.  We do not know if the sensitivity issue is due to a transmitter problem.  Bryan also has several other MMRA projects in his garage.
+
+K1IW also reported that the new 7330 controllers have been installed in HUB1 and HUB2.
+
+Larry, W1DYJ is looking for additional net control operators.  This is only once a month for each control operator.  Larry also reminded us about the newsletter deadline, the last Friday of the month before the general membership meeting.
+
+Roger, WA1NVC reports that at the February
+Algonquin flea KC1US and K1NZQ will be helping him at the MMRA table.  MMRA property to be sold includes some Larcan amps and coax cables.  KC1US also will link the MMRA repeaters for talk-in.
+
+Bruce, KC1US reports public service is pretty quiet at the present time.  But things are starting to get active for the Boston Marathon.
+
+Bob, K1IW reports there is a new way people can register to be marathon communications operators.  There are 192 volunteers so far, with reports that it is easier to register than in the past.  More operators are still needed for the Marathon.  K1IW also indicates the Walk For Hunger in early May will soon be recruiting volunteers.
+
+Steve, N1BDA mentioned the Emergency Communications training in Concord, MA on March 5th.
+
+The meeting adjourned at 20:56.
+---------------------------
+
+Walk for Hunger 2011
+
+
+Amateur Radio Volunteer Signup
+The Walk is on Sunday, May 1
+http://wfh.mmra.org 
+-------------------------
+
+Boston Marathon
+
+Marathon Amateur Radio Communications is seeking amateur radio volunteers for the Boston Marathon on April 18. People are needed at stations all along the route! For more information or to volunteer, visit http://marc.mmra.org
+---------------------------
+
+2010—2011 Membership Meetings
+
+16 March Meeting 
+Milton Public Library ~ 7:00 PM
+Ed Perry, WATD 95.9 Radio 
+
+18 May Meeting 
+Tatnuck Bookseller, Westborough, MA
+Phil Temples, K9HI, on the Courage Handiham System
+MMRA General Elections
+
+Board of Directors Meetings
+
+Wed, Apr 20	No meeting in April
+Wed, Jun 15	Kennedy's Pub, Marlboro
+--------------------------
+
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+We need another net control!  If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	???		shared	
+Week 3	W1DYJ		Larry Banks
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using the digital modes during the Net, use the New England Reflector:
+	For IRLP use node 9127
+	For Echolink, connect via *NEW-ENG*.  You can find this under “Node Types” >> “Conferences”
+--------------------------
+
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2011		Steve Schwarm	W3EVE
+Director  »2011		Roger Coulson	WA1NVC
+Director  »2012		Clark Conti	N1NVK
+Director  »2012		Mike Neilsen	W1MPN
+
+Repeater Trustees, Appointed
+Belmont 145.430		Larry Arone	WA1RTT
+Boston 927.0625		Rick Zach	K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Bruce Pigott	KC1US
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Lowell 442.250		Vince De La Flor K1LVF
+Marlboro 53.810, Quincy 146.670, Southboro 449.575		Bryan Cerqua	W1BRI
+Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Quincy 224.400		Bill Dunn	N1KUG
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  Bruce Pigott	KC1US
+VEC Liaison		Bill Wade	K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+------------------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the
+Marlboro Public Library
+
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM
+Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+-------------------
+
+Calendar of Ham Radio Events
+
+Framingham
+Amateur Radio Association
+
+Spring Flea Market and Exams
+Sunday, April 3, 2011
+New location: Keefe Technical School
+
+Doors open at 9 am
+ 
+
+Amateur radio equipment, electronics
+and computer hardware and software
+http://www.fara.org/flea/
+--------------------
+
+New England Area Ham - Electronic Flea Markets 
+See this web site for contact information
+
+http://mit.edu/w1gsl/Public/ne-fleas
+
+5 Mar	Feeding Hills MA MtTARA	@TurnverneinClb
+19 Mar	Dayville CT ECARA	@StJosephCh
+20 Mar	Southington CT SARA	@HS
+25 Mar	Lewiston ME AARC StConv	@ Ramada
+26 Mar	Middletown NY OCARC	@CommCtr
+27 Mar	Henniker NH CVRC	@CommSch
+ 3 Apr	Framingham MA FARA	@KeefeTech
+10 Apr	LaGrangeville NY MtBARC	@TymorPk
+16 Apr	Manchester NH NHAntqRC	@Bingo
+16 Apr	S Portland ME PAWA	@AmLegion
+17 Apr	Cambridge MA  FLEA at MIT
+29,30 Apr  Deerfield NH Nearfest IX 	@FG
+----------------------
+
+END OF NEWSLETTER

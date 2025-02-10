@@ -1,0 +1,374 @@
+The Minuteman Repeater Association
+
+The Minuteman
+Volume 46, Number 1
+September 2013
+----------
+
+Have you renewed your membership yet?
+All 2012 memberships expired on August 31st! Time to renew either on the Member's login link at www.mmra.org or by U.S. Mail with a check to MMRA, PO Box 669, Stow, MA 01665.
+----------
+
+Membership Meeting ~ Wednesday, September 18 ~ 7 PM
+
+Linux in Your Hamshack 
+
+Northborough Public Library, 34 Main Street, Northborough 
+
+Talk-in: 147.27
+
+Up until recently, Linux was to the server world what Windows was to the personal PC world. However, Linux has evolved into something that anyone can use at home. Andy Stewart, KB1OIQ founder of the Worcester Linux Users Group and producer of the DVD with the same title as this meeting topic, will present Linux applications anyone can use in their ham shack.
+
+Directions to The Northborough Free Library from I-495:
+  -  From I-495, take Exit 24B which is Rt. 20 West toward Northborough.
+  -  Follow Rt. 20 West about 3.5 miles, into the center of Northborough..
+  -  Opposite the Gulf Station on the right, turn left into Patty Lane.
+  -  The Northborough Free Library parking lot will be on the left
+
+LIBRARY PARKING 
+
+Patty Lane is right across from the Gulf station.  Follow Patty Lane to the library parking lot.  
+ 
+The red brick building next to the library has a tempting driveway, being right next to the library, but it is private 
+property.  Please respect the owners' property, and use the library lot.  Additional parking is available on the corner of Hudson and Pierce, or at Town Hall.  
+
+Traffic exiting Patty Lane should stay to far right, even for left turns, to avoid traffic turning in. The lane closest to the pizza shop is for INCOMING traffic ONLY from Rt. 20 eastbound.
+----------
+
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is 
+dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in 
+Eastern Massachusetts.
+The MMRA meets (usually) on the 3rd Wednesday of each month from September to June.  Meeting times, locations, and talk-in frequency vary and are 
+announced in this newsletter and on weekly nets.  Meetings are open to all interested parties.  Guest speakers and programs of general interest occur in September, November, January, March, and May.  The intervening meetings are also open to all members and are for general business.
+The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+Membership in the MMRA is open to all radio 
+amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+Email to the club leadership should be sent to 
+contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
+----------
+
+MMRA QRM Policy
+MMRA members and all other operators are strongly encouraged to report repeater 
+activity that does not abide by Part 97 rules or accepted amateur radio practice to the board of directors at contact@mmra.org or via other means.
+
+The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
+----------
+
+MMRA DSTAR On The Air
+ Bob DeMattia — K1IW 
+
+At the end of June, the long-awaited MMRA DSTAR repeater went on the air from MMRA’s repeater site in Brookline.  Previous attempts to get the system working from the Prudential Tower in Boston were unsuccessful due to the high noise environment.  This time around we took a different approach.  First, the 146.82 analog repeater was relocated to the Prudential site.  Since we knew that there would be problems with receiving there, we kept a remote receiver at the Brookline site.  146.82 now operates with two receivers – one at the Prudential Tower with a PL 127.3, and the second a remote receiver with a PL of 146.2.  This went online in April and was been working successfully.  Since its reconfiguration, 146.82 has been used for numerous public service events.  
+
+With the analog transmitter “out of the way”, we were able to install the D-Star repeater in Brookline.  For the first month, this system operated with a temporary antenna and feedline.  In July, the DB224 antenna formerly installed at Sligo Hill for 147.27 was moved to Brookline and new feedline was installed.  This made a remarkable improvement – “W1MRA  C” is now operating with solid coverage in the metro Boston area.
+----------
+
+Upcoming Public Service Events
+David Wolfe — KG1H
+
+This is a listing of interesting Public Service Events requiring mobile and/or HT support.  Both seasoned and new hams who want to participate are welcomed.  
+
+You may subscribe to this list by visiting our website:
+http://www.mmra.org/access.html or by emailing web@mmra.org. 
+
+
+Past Public Service Events
+  Cycle 4 Life Bike Ride supporting Floating Hospital for Children.  North Shore, September 7th.  25 and 50 mile bicycle tours starting in Marblehead going to Manchester by the Sea or Ipswich.
+  Jimmy Fund Walk, Sunday, September 8th.  This event was on the Boston Marathon Course.
+  For a report on the Marathon, check minute 24 of this HamNation episode #95 for a 7-minute segment:
+   http://twit.cachefly.net/video/hn/hn0095/hn0095_h264b_640x368_256.mp4
+
+
+Upcoming Public Service Events
+  The UniBank Greenway Challenge athletes run, paddle and bike on a newly designed course, through one of the most beautiful and historic regions of New England, the Blackstone River Valley National Heritage Corridor. The Greenway Challenge course includes 1 - 3 biking segments. Any combination of street cycling, mountain biking and off road trails may be included. More information about this event is available at:
+   greenwaychallenge.org
+They are looking for two (2) radio operators for Saturday 28 with mobile or HT radios for the Greenway Challenge in North Grafton, MA area. They will be using the Mendon 146.610 MMRA repeater.  Please contact Marian Juskuv, AA1VU, aa1vu@yahoo.com or 401-257-9449 if you are interested.
+  Once again, The Head of the Charles® is partnering with the Red Cross to provide medical support throughout the regatta (this includes lifeguards, ham radio operators and first aid personnel). They are looking for volunteers to help staff first aid stations from Friday to Sunday, October 18th to 20th. Each first aid station includes 3-4 HAMs and 10-12 first aid personnel (all ranges of certifications accepted – minimum first aid AND CPR). The hours of the regatta are as follows:
+	Friday October 19th: 12pm-6pm
+	Saturday, October 20th: 6am-6pm 
+	Sunday,  6am-6pm
+Due to the manner of the responsibilities, they only accept full day shifts for volunteers. If you are available to volunteer and can commit to a shift, please visit:
+   http://www.hocr-volunteer.org/active/volunteer/
+----------
+
+MMRA May Membership Meeting
+Larry Banks — W1DYJ ~ Clerk “pro-tempore”
+
+The Annual Meeting of the MMRA was held on 22 May 2013 at the Clay Center Observatory, Brookline, MA.  The meeting was called to order at 7:37 PM EDT by President Bob DeMattia, K1IW.  A quorum was present.
+
+Officer Elections
+Moved and Seconded to bring the Nominating Committee slate of officers to a vote.  There being no additional nominations from the floor, the vote was unanimous:
+
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk		Bob Evans	N1BE
+Tech. Officer		Bryan Cerqua	W1BRI
+Director »2015 		Steve Schwarm	W3EVE
+Director »2015		Roger Coulson	WA1NVC
+
+Treasurer's Report (Kevin Paetzold, K1KWP)
+Fiscally, we are at a net positive for the year by a small amount.  We are at a high in membership for as long as I have been involved - 186 paid members.
+
+New Business - Vote to Reauthorize purchase WA1RTT (SK) equipment at Belmont site
+Moved and Seconded, as written in the May Newsletter:  Authorize the purchase of the 145.43 Power Amplifier, Duplexers and Astron Power Supply from the estate of WA1RTT for the sum of $600.  (This action was authorized by a vote of the membership in July 2012 and was delayed to allow a year to pass after WA1RTT's passing.)  There was no further discussion and the motion passed unanimously.
+ 
+New Business - Vote to Reauthorize completion of Sligo work
+Moved and Seconded, as written in the May Newsletter:  Authorize the MMRA board to expend up to $8000 for work at Sligo as detailed in the MMRA meeting minutes from June 20, 2012.  This action was authorized by a vote of the membership in July 2012 and has been delayed due to the overall delay in the work at the water tower by the town of Marlborough.  A question was asked from the floor about the projected cost of $8000, given that the MMRA has already spent $1600, and whether the amount should therefore be $6400.  Bob, K1IW, explained that since the original vote it appears that two of the antennas should be purchased new as the old antennas were going to be either too expensive or too risky to refurbish.  Discussion from the floor indicated that there was agreement to this and it was the consensus. There was no further discussion and the motion passed unanimously.
+ 
+Old Business
+The D-Star controller has been purchased and plans are underway to install it at the Clay Center
+ 
+Moved, Seconded, and voted to adjourn at 7:52 PM EDT.
+ 
+ 
+The membership then enjoyed a tour of the "big telescope" at the observatory, followed by viewing of three meteorites from the Chelyabinsk, Russia, MegaMeteor of 15 February 2013 and of slices of meteorites from:
+an asteroid, from Mars, and from the Moon.
+----------
+
+June Business Meeting
+Bob Evans — N1BE ~ Clerk
+
+The MMRA held a business meeting at 1900 EDT on June 19 at the HQ office of Stratus Technologies in Maynard, MA.  Present were K1KWP, N1BE, WA1NVC, W1MPN, N1NVK, N1BDA, W3EVE, W1DYJ, K3FG and K1IW.
+
+Kevin, K1KWP presented a report of the treasury, with details of the income and spending for the fiscal year that ended May 31, 2013.  We also reviewed summaries of income and spending for the most recent 10 years, looked at historic power usage for MRW where we pay an electric bill, and reviewed expected expenses and income for the fiscal year that began June 1.  Paid membership of 190 is at the highest level since Kevin has been tracking this number.
+
+Bob, K1IW reviewed status of the repeaters.  Noteworthy systems are:
+
+ -  29.68 is off the air for a not yet diagnosed reason.
+
+ -  53.81 was apparently not receiving.  Roger, WA1NVC reports that he and Bryan, W1BRI found a loose connection in the audio path and fixed it.  But this may be a temporary repair.
+
+ -  147.27 had a PA failure; this was fixed and seems to be down again.  Otherwise there are no changes at MRW.  Bryan wanted to purchase a spare PA for this machine.  The board approved an expenditure not to exceed $120 for this purpose.
+
+ -  145.16 D-Star was configured by Bryan and Harold, K3FG; the repeater is working but not yet installed at the Clay center.
+
+ -  146.82 was not making it into the MMRA network last night when monitored by Larry, W1DYJ.
+
+ -  Discussion strayed to problems of VHF transmitting and receiving at the same site in Boston without reaching any conclusion.
+
+ -  For 449.575 Southborough the board approved an expenditure not to exceed $400 to purchase a replacement duplexer for this machine.
+
+Bob, K1IW led a discussion brainstorming meeting schedule and locations for this year.  We are looking for suggestions of topics/speakers and locations for our meetings.
+
+Due to the 100th anniversary of the League, the ARRL convention in 2014 will be in Hartford instead of in Boxborough.  Mike W1MPN, Steve W3EVE, and possibly Steve, N1BDA volunteered to represent the MMRA at this event in July 2014.  We discussed the possibility of having a local mini-convention event sponsored by the MMRA and other local clubs on the traditional late August date for Boxboro.  Bob, K1IW is looking for participants to help organize this event, to determine whether we have enough interest to make this occur.
+
+The meeting adjourned at 2025.
+----------
+
+President’s Corner
+Bob DeMattia — K1IW 
+Marlboro West and the Sligo Tower
+
+As many know, the Sligo Water tower, on which our 147.27, 224.88, 449.925, 927.7, and APRS repeaters operated for many years, underwent extensive renovations in the late spring on 2012.  At that time, MMRA was required to remove our antennas from the tank.  These repeaters, as well as the 53.81 receiver, have been operating from smaller antennas mounted on 20-30 foot masts since that time.  This has not gone unnoticed.  As was expected, coverage for these machines has been severely hampered. 
+
+The whole renovation was supposed to take three months - and in fact the work on the tower was finished in August last year.  Unfortunately, there were some issues with the installation which needed to be resolved.
+
+In June, MMRA was notified that the city had approved the work on the tower.  The paying customers on the tower, mainly three wireless companies, may now install their equipment and reroute the cables through the new raceway in the center of the tank.
+
+Once this work is complete, MMRA will be permitted to restore our systems to their previous glory.  I want to thank all of those that have waited for your patience. The situation has been frustrating for the MMRA officers as well as for me as well. Hopefully, the wireless work will be done soon and we will have Sligo "back to normal".
+----------
+
+August Business Meeting
+
+The MMRA held a business meeting at 1900 EDT on August 21st at the HQ office of Stratus Technologies in Maynard, MA.
+
+Treasurer Kevin Paetzold began with a presentation of the club's finances to date.  Based on last year's total, MMRA has taken in about 46% of the expected dues for 2013-2014.  (Currently at 62% - Ed.)  At the end of FY2013, MMRA had 190 paid members - the highest number since at least 2004.  Membership number fluctuate up and down every other year, as MMRA gains a lot of member who only pay for membership at the Boxborough convention which is help every  two years.  2014 will be different, as the New England convention is being held in Hartford.  MMRA is considering running some sort of flea market event to replace Boxboro.
+
+Club president Bob DeMattia then proceeded with the repeater status. Thanks to the efforts of KG1H, K3FG, K5TEC, and KB1NCG, the club's D-Star repeater on 145.16 is now on the air from the Clay Center in Brookline.  We also received some encouraging news from Sligo where the city has approved the renovation and the wireless companies have been given the go ahead to install their antennas.
+
+The meeting ended at 8:35pm.
+----------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay League, through which Amateur Radio in the United States is represented nationally and  internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+----------
+
+WRTC 2014—One Person’s Beam Team Experience
+
+Joe Harris — N1QD (special to the MMRA)
+
+Every year, the IARU HF Championship takes place during the second weekend of July.  Every four years, the World Radio Team Championship (WRTC) is held during this contest.  This is the Olympics of contesting, where top competitors assemble from around the world to try to best each other when the only variable is the operator.  In 2014, New England will have the opportunity to host WRTC, when there will be close to 60 sites on the air from locations around Massachusetts and southern New Hampshire.
+	A concerted effort has been made to equalize all station locations, with identical antennas at each site.  But wait? How do they determine that all the locations are really equal?  Well, they have to take measurements.  Lots of measurements.  With tools such as the Reverse Beacon Network <http://www.reversebeacon.net>, it is possible to see the S/N ratio of a station as heard at various sites all over the world.  In 2012 the WRTC organizers put about a dozen of the planned sites on the air during the IARU contest to see how well they played.  In 2013, there were close to 25 stations on the air.  This is where my part of this story comes in to play.
+	I am a member of the multi-op team at K1KP in Andover, MA.  Tony, K1KP has a great Multi-2 setup, and it’s a pleasure to get on the air with him and make some points for the YCCC.  Over the winter, he put out a note requesting assistance with a WRTC beam team.  These are the volunteer groups that will set up and take down the competitors’ stations. 
+	I agreed to help out, and we received our assignment about a month before the station test.  We would be setting up one, possibly two stations in southeastern Massachusetts.
+	Early Friday morning, the day before the contest, we assembled in Milford, where Krassy, K1LZ had provided storage space for some of the WRTC sites.  We loaded up a truck with forty feet of Rohn 25, a seven element triband Yagi, 40 and 80 meter dipoles, coax, and other necessities.  From there, it was a forty minute drive to the Dighton Rock state park in Berkley.
+	Once onsite, we broke into smaller teams.  Art, NF1A and Rick, K1PAD worked on assembling the tribander while Tony, Jeff, N1RD, Larry, W1DYJ, and I set about preparing the tower.  Immediately, we saw that there were going to be some issues here.  The clearing was not quite as large as was spelled out in the Beam Team documentation, and to boot there was a large tree near where the tower had to go.  This was going to require some finesse.
+	Once we had the tower sections bolted together and on the ground, the Yagi was attached to the top, and dipoles strung off a cross bar.  The WRTC folks had devised a falling derrick system to raise the tower safely with no climbing involved.  Still, it wound up being necessary to rotate the antenna 90 degrees while the tower was at a 30 degree angle off of the ground so we could clear the tree.  Once we were past the tree, we got the tower vertical and installed the dipoles in inverted-V fashion.  Uh-oh, the 80 meter antenna wanted to attach to ground in the middle of the site’s access road.  We had to string it up through the tree and then over the street. 
+	Once our part was complete, the operating team took over the site for the next day and a half.  The beam team made a quick stop to check out the second site we would be responsible for in 2014, and then departed for home, exhausted.
+	Not content to just set up one of the sites, I visited another test location on Saturday at the Mansfield Airport.  Here, Jeremy, KB1REQ was getting ready to run for 24 hours using the Clay Center’s W1CLA call sign.  Jeremy is a current member of the radio club at Northeastern University, so I was eager to give a fellow Husky a hand.  I had volunteered to help make some CW contacts during the morning.  The night before, I had fashioned an ugly serial-port-to-CW-jack keying cable so we could use N1MM Logger to send CW and protect the airwaves from my less than stellar fist.  We were also visited by Dave, K1MBO, the NU club advisor and a good friend.  We took turns manning the radio, making sure to tune in to prescribed bands and beam heading at certain times so that the organizers could collect their data. 
+	Sunday morning the Beam Team regrouped at the site to take down the station.  As expected, takedown was much quicker than the setup.  We were back at the warehouse by lunchtime, putting the equipment back in storage until the main event, WRTC 2014.
+----------
+
+2013—2014 Meetings
+
+18 September — Membership Meeting
+Andy Stewart, KB1OIQ, Linux in Your Hamshack 
+Northborough Public Library 
+
+16 October  — Business Meeting
+Stratus, Maynard
+
+20 November ~ Membership Meeting
+Tony Sousa, NN1D — 2300 MHz and Up! 
+TBD
+
+18 December ~ Business Meeting
+Stratus, Maynard
+
+15 January ~ Membership Meeting
+Steve Schwarm W3EVE — Reflections on the 2013 Boston Marathon 
+Clay Center, Brookline 
+
+12 February ~ Business Meeting
+Stratus, Maynard
+
+19 March ~ Membership Meeting
+Topic TBD
+Location TBA 
+
+16 April ~ Business Meeting
+Stratus, Maynard
+
+21 May ~ Membership Meeting
+Topic TBD
+Location TBA 
+
+18 June ~ Business Meeting
+Stratus, Maynard
+
+16 July ~ Summer Get Together
+Location TBA 
+
+21 August ~ Business Meeting
+Stratus, Maynard
+----------
+
+Don’t Forget!
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	KQ1Y		Tim Wortley 
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 9127
+----------
+
+
+MMRA Leaders
+
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2015		Steve Schwarm	W3EVE
+Director  »2015		Roger Coulson	WA1NVC
+Director  »2014		Clark Conti	N1NVK
+Director  »2014		Mike Neilsen	W1MPN
+
+Repeater Trustees, Appointed
+Boston 927.0625		Rick Zach	K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Bruce Pigott	KC1US
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Lowell 442.250		Vince De La Flor  K1LVF
+Marlboro 53.810; Quincy 146.670; Southboro 449.575
+
+			Bryan Cerqua	W1BRI
+Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
+Belmont 145.430;  Weston 442.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  	David Wolfe	KG1H
+VEC Liaison		Bill Wade	K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+----------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+EXCEPT: September session is on the 14th
+November session is on the 9th
+9 AM at the Marlboro Public Library
+
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM
+Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+10 Aug	Milo ME 	PARC @AmLegion
+18 Aug	Cambridge MA	FLEA at MIT
+25 Aug	N Adams MA 	NoBARC @BoweFld
+ 7 Sep	Windsor CT	VR+C Mus 
+115 Pierson LN 
+ 7 Sep	Windsor ME	AARA @FG
+ 8 Sep	Newtown CT	CARA @TownHall
+15 Sep	Cambridge MA	FLEA at MIT
+21 Sep	Forestdale RI	RIAFMRS @VFW
+21 Sep	Manchester CT	PVRA @MarcusComm 
+21 Sep	Alexander ME	StCVARC @ElSch
+28 Sep	Brookline NH	NEARC Antique
+11,12 Oct Deerfield NH	NEARFest XIV @FG
+13 Oct	Meriden CT	Nutmeg @Sheraton
+20 Oct	Cambridge MA	FLEA at MIT
+26 Oct	Gales Ferry CT	TCARC Auction @FireCo
+ 2 Nov	Londonderry NH	IRS
+ 9 Nov	Bourne MA	FARA @UpperCC VoTech
+30 Nov	Windsor CT	VR+C Mus 115 
+Pierson LN
+22 Feb	S Burlington VT	HAM-CON @HI
+15 Mar	Dayville CT	ECARA 8A @StJosephCh
+28,29 Mar Lewiston ME	AARC ME Conv @Ramada
+2,3 May	Deerfield NH	NEARfest XV @FG
+----------
+
+End of Newsletter

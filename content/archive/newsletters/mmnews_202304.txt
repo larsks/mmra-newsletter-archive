@@ -1,0 +1,39 @@
+The Minuteman
+
+Volume 52    Number 4.5   April2023
+
+The Minuteman Repeater Association is a non-profit organization providing communications infrastructure and volunteers for community and emergency events.
+----------
+Business / Membership Meeting
+Wednesday, 19 April 2023 ~7:30ï¿½9:30 pm
+
+Special Meeting
+
+Part II of:  Amateur Radio Emergency Data Network (AREDN)
+
+This is a Hybrid meeting: New England SciTech + ZOOM
+Members: log into your account on MMRA.ORG to obtain the ZOOM info.
+Non-members: send an email to contact@mmra to request the ZOOM info.
+----------
+
+The snow storm of 15 March forced us to change that meeting to ZOOM only.
+This precluded Jim, KC1BHD from giving his demonstration. Jim has
+graciously agreed to attend our April meeting. Michael, WZ0C expects to be
+with us as well. Jimï¿½s demonstration will be followed by our usual Business
+Meeting. The text below is from last monthï¿½s newsletter.
+
+----------
+
+Learn what AREDN is all about, what it can be used for, and how you can get started with this technology.  Orv, W6BI,  will discuss how ham radio networking with AREDN software works and what you need to get started.  He'll also show some examples of user setups and things an AREDN network can be used for.  Jim, KC1BHD, will give a demonstration of his AREDN go-kit prototype to be used in ARES activations, at disaster locations, or public service events.  Michael, WZ0C, will talk about some of the AREDN efforts in New England along with the propagation testing he and Jim have been doing for this.
+
+Orv, W6BI, was first licensed as WN6WEY in 1967.  He's been into digital ham radio all his life, starting with CW.  He started messing around with ham radio networking in 2014, and is now an AREDN Ambassador, one who promotes using AREDN software and helps educate folks on its use.  He's helped deploy network digital radios in Ventura County and western Los Angeles County.  He's also active in coordinating the build-out and maintenance of the wider ham radio network, which now spans from California's central coast south to the Mexican border and east to Las Vegas, comprising over 550 nodes, both on hilltops and at ham QTHs.
+
+Jim, KC1BHD, has always been interested in data transmission in general and for several years, AREDN mesh networking in particular.  He lives near Worcester and envisions creating RF access to an AREDN mesh for hams across Massachusetts.
+
+Michael, WZ0C, lives in Maynard and enjoys the amateur radio digital modes.  Michael became interested in AREDN last year, connecting with Orv and Jim and learning about their efforts.  Michael is hoping to use AREDN to increase the digital presence in Massachusetts.  Michael will talk about some of the AREDN efforts in New England along with the propagation testing he and Jim have been doing for this.
+----------
+
+END OF NEWLETTER
+
+
+

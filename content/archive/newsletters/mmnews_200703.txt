@@ -1,0 +1,161 @@
+The Minuteman
+Volume 36, Number 4
+March2007
+
+------------------------
+
+Membership Meeting
+21 March 2007 @ 7:30 PM @ the Campion Center
+
+Mike Raisbeck, K1TWF
+New England Division Assistant Director
+
+ARRL Update ~ developments at the league and Q & A Session
+
+Talk in freq: 146.79    
+
+------------------------
+
+President’s Corner ~ Bob Dematia, K1IW
+
+	From the “only slightly related to ham radio” department this month, a short snippet on HD radio.  The CD player in my car recently died.  My YL, who tolerates being referred to in ham radio lingo provided I leave out the “X”, bought me a replacement.  The new one actually had “HD” capability, so now I’m having some fun with this new technology.  While the “HD” in TV-land stands for “High Definition”, in radio land it stands for “Hybrid Digital”.  This is because the digital information is sent in sidebands alongside the traditional analog carrier.  There’s not enough room for a detailed explanation here, so I’ll go straight to my experiences.  
+        On the AM band, I’ve found two stations transmitting HD – WBZ (1030 and Radio Disney (WMKI – 1260).  The way the radio works, it initially tunes the analog carrier.  As soon as the digital carrier lock acquired, it switches to HD.  There is something surreal about hearing an AM station in high fidelity.  This effect is somewhat limited because WBZ is mostly talk – but the announcer voices do sound more natural and there’s a big difference in the jingles and commercials.  One major drawback is that the coverage of the digital signal is limited.  When digital lock is lost, the radio switches back to analog.  Out here 35 miles west of Boston, I find the radio switching back and forth quite a bit.  (By the way, the stations delay their analog signals so that they will be in sync with the digital delay on the HD side).  When it switches, the analog signal is still pretty strong.  The Radio Disney signal is analog-only until I get to the Waltham area, and even there it’s spotty.  Disney actually has music, and the HD makes a big difference.  
+AM Radio DX-ers are not happy about HD radio – the sidebands are quite broad and wipe out distant stations on adjacent channels.  Stations still turn off the HD signals at night for this reason.  On a traditional AM radio, you can tune to 1020 or 1040 during the day and hear the digital “hash”, which sounds like a connected computer modem.
+        On the FM band, there are probably a dozen or more stations transmitting HD.     Some also provide a secondary channel with alternative programming content.  Currently, there are no commercials on any of these sub channels, so it’s like getting a few satellite radio channels for free.  I noticed only a subtle difference between HD and analog signals on the strong FM stations.  Again, HD coverage is limited and some of the weaker stations switch back and forth.  In a reception area like this, the analog signals tend to lose their higher frequencies, so I would hear the treble kick in and out when the HD signal locked and unlocked.  There’s no analog backup for the sub channel, so if you are listening there and the signal unlocks, you get silence.
+      VHF Hams are catching up with the broadcasters on the digital voice forefront.  There is a group in New Hampshire working on bringing the first D-Star system to New England.  Like its broadcast counterpart, equipment is still difficult to find and expensive, and this is making adoption of the technology very slow.  Nevertheless, it will be interesting to see if ham radio version (which from a technology standpoint is very different from broadcast) will have the same problems with effective range.  I guess I need to turn off my new toy and start using my Kenwood TM-732 again.
+
+
+73, Bob — K1IW
+
+-------------------------
+
+Repeater Update
+Bryan Cerqua, W1BRI ~ Technical Officer
+
+HUB2
+
+	The major ongoing project is to convert our system to have two hubs.  See The Minuteman, Volume 36, No. 2, November 2006 for details.    All of the ICM crystals for the HUB2 link radios have arrived.
+
+Quincy
+
+	The Quincy link radio has been repaired and crystals installed for HUB1 and HUB2. We hope to install it soon so we will have 146.67 and 224.4 linkable. We also plan to look at the Quincy 220 repeater to find out why its not working.
+
+Southboro 449.575
+
+	The repeater continues to run well at its new home in Southboro, however during one Tuesday night during the TIAOS net the link dropped out at 8:45PM.  This may have something to do with the Scom 5K clock or error in the scheduler set points. We plan on getting into the site soon to pull the Uniden link radio for the HUB2 upgrade.  
+
+	The Southboro site is infested with hornets and we need to seal off all of the holes.  When the repeater was installed back a few months ago the hornets were all over the place but lucky for us the weather was cold enough to slow the hornets down.
+
+Weston
+
+Weston is HUB2, 442.700
+
+	So far so good. The hardline connectors were in tough shape at the repeater end so I took them apart and cleaned them up.
+
+	Two antennas were tried in an attempt to identify which one was the 4 bay dipole array and what one is the corner reflector.
+
+	After some experimentation with WA1NVC I believe we do have the dipole array connected to the UHF repeater.
+
+	The plan is to use the corner reflector for the two channel link radio connected to HUB2. This will allow HUB2 to connect to HUB1: 449.925 or 448.625, the Mt. Wachusett repeater that is full time linked to the 29.62 FM repeater.  Later this year we plan on adding a small UHF beam antenna to the Weston tower for the 146.79 link or use it for HUB2 linking depending on what antenna works best to 448.625.
+
+	I hope to install the 448.625 crystals in the GE channel elements and also install in the MASTR II link radio this week.  If completed, the plan would
+be to re-install the link radio on HUB2 soon.
+
+Stoneham  446.725, 146.715
+
+	The two meter repeater has been experiencing poor sensitivity lately.  Bob, K1IW, found a loose connector during a troubleshooting visit on 9 March and it seems to be back in spec.
+
+	Bob also found what had failed with the receiver on 446.725 and K1IW will replace/repair it soon.  This should put .725 back on line and linkable to either HUB1 or HUB2.
+
+Mendon 146.61
+
+	Plans are to use the Motorola M120 on port 3 for linking to HUB1 and HUB2.  The Johnson link radio that is currently used will be removed and used in place of one of the Aerotron UHF link radios since we can no longer get channel elements.
+
+	At some point we need to turn on PL encode and see if the repeater still keys up due to transmitter noise or some other site noise.  Currently the repeater is not transmitting PL.
+
+53.81
+
+	The link radio needs to be upgraded for HUB2 operation. Also we need to find a “Y” to come up with another logic output from the Hamtronics controller to allow switching between the channels.
+
+
+-------------------------
+
+Summary Treasurer’s Report ~ 21 February
+Kevin Paetzold, K1KWP ~ Treasurer
+
+
+Income	2006-2007 dues	$4033   
+	2007-2008 dues	  635
+ 	Donations	  426
+	Misc.	          220   
+	TOTAL		$5314
+
+Expenses
+	Expenses to date  $3617
+	Known upcoming	    690
+	TOTAL		  $4307
+Summary
+We would have ~$1007 in discretionary spending left before running an overall deficit year (this includes the $635 in dues we already have collected for next year).
+
+-------------------------
+
+MMRA January Meeting
+Larry Banks, W1DYJ
+
+The January membership meeting was held at MEMA in Framingham.  A short meeting was moderated by Steve Telsey and Bob DeMattia.  Discussion items:
+
+Bryan -- repeater report
+Dual hub configuration in process
+575 now in Southboro and working well
+Kevin -- membership report, we have a few more than last year
+Roger -- has a 50' tower available
+Working on 10M project
+
+The Main Event was a viewing of a DVD of the 3Y0X DXpedition, presented by Jim Podsiadlo, AE1C.
+
+This DXpedition went to Peter Island, a small island off the coast of Antarctica in the Bellinghausen Sea in February 2006. They completed 86,888 QSOs in the worst weather you can imagine.   The DVD made it very apparent the you need to be in top physical condition to endure a DXpedition this rigorous.
+
+
+-------------------------
+MMRA February Board of Directors Meeting
+Bob Evans, N1BE, Clerk
+
+   The MMRA board met at 7:30 on Feb 21 at Oasis Semiconductor in Waltham. K1KWP, K1IW, N1BDA, N1BE, N1NVK, W1BRI, W1DYJ, WA1NVC, and W3EVE were present.
+Kevin, K1KWP, presented a treasurer's report. We had a number of recent dues payments, but about 37 past members have not renewed. About $600 of expected expenses for this year have not been paid. We have about $460 of dues for the current year not yet allocated for an particular use.
+   Bob, K1IW , discussed the logistics of providing link radios for the "Two Hub" project. This would allow Weston to be a network hub in addition to Marlboro West. Bryan, W1BRI, mentioned that we can no longer purchase the additional channel elements that would allow Aerotron radios to work on two link frequencies. We planned to cannibalize one Aerotron's elements so that another could be used in the project. We deferred upgrading Hopkinton to work with the new hub, to avoid the need for one link radio purchase.
+   As part of the Two Hub expansion, 449.925 will use a 2-channel link radio to link to Weston or to Mt. Wachusett. At present there is no link radio since this is the original hub and the 449.925 repeater Rx and Tx handle the links. In a unanimous vote, with K1IW abstaining, we agreed to purchase a 2-channel Motorola link radio from K1IW for this purpose. (This expenditure is not included in the treasurer's report.)
+K1IW mentioned that he suspects that a Tx/Rx relay is sticking and that would be a reason why Quincy 220 sometimes does not transmit. Bob, N1BE, agreed to communicate with KQ1F and K1XM to see if they can assist with an antenna replacement job at Quincy.
+   At Stoneham, both transmitters seem OK, but there is poor sensitivity of both receivers. The problem stems from the time of the last antenna work there. Cables, Rx duplexers and receiver need to be checked on the next site visit. Although a visit will be needed for link radio upgrade to support Two Hubs, this may be looked at before that time.
+   NESMC notified the MMRA that Stoneham UHF is causing interference to the USAF. Although we have very few details, we understand that the USAF is working with the FCC and the ARRL is aware of this situation. We are awaiting contact, probably from the FCC, to learn what is needed to resolve this problem. Stoneham has been de-listed from the NESMC coordination database, apparently due to this complaint. The MMRA board is very concerned that this is an unjustified action that puts the coordination of this RACES repeater in jeopardy. The board unanimously agreed to ask our secretary, W1JMC, to send a letter to NESMC protesting this situation.
+   Roger, WA1NVC, visited the Clay Center site in Brookline in connection with his 10-Meter repeater receiver. He detected a lot of pulse noise, and suspects the windmill powered generator controller may be the cause. We suspect this may also relate to the de-sense or feedback problems with our 2-Meter repeater at that site. Various ideas to investigate the noise were mentioned. There also seems to be similar noise at another Brookline site, the site of the K1IW UHF repeater. After rework, the 146.82 repeater will be moved from K1IW's garage back to the Clay Center. That may be an opportunity to use a spectrum analyzer to see what is on the air there.
+   We briefly mentioned possible antenna work at Marlboro East, and the need for some repairs to the structure at Marlboro West. We expect a work party at Marlboro West in June.
+Although it is not clear what the MMRA technical role will be in the BAA Marathon, we unanimously authorized the use of all our repeater assets to support that event.
+   The March meeting will be at the Campion Center, but a speaker had not been selected by the time we met.
+   We adjourned at 9:40 PM.
+
+
+
+-------------------------
+
+Don’t Forget!
+Tuesday’s @ 8 PM
+Technical, Informational and Other Stuff Net
+Larry Banks, W1DYJ
+
+Most of the MMRA’s repeaters are linked every Tuesday night for the MMRA TIAOS Net.  Join us!  Over the past two months we averaged seven participants with a high of twelve.  This is a good way to keep up with what is happening with the MMRA as well as ask your ham related questions.
+
+We are looking for a net control operator for the first Tuesday  of each month – contact me at W1DYJ@mmra.org if you would like to try your hand at running a net some evening – we have a script that you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+
+Current Net Control Operators:
+
+Week 1	?????		We Need You!	
+Week 2	W1EUJ		Dave Goncalves	
+Week 3	KB1KZI		Jimmy Devarie	
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks 
+	(also substitute & Net Manager)
+
+
+-------------------------
+
+

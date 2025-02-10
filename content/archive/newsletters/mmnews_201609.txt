@@ -1,0 +1,274 @@
+The Minuteman Repeater Association
+
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+Volume 46, Number 1
+September 2016
+----------
+
+September Membership Meeting ~ Sunday, 11 September, 11 AM
+
+Introduction to the MMRA and door prizes!
+
+At Boxboro! 2016  [in the Federal Room]
+Holiday Inn Boxboro Woods, 242 Adams Place, Boxborough, MA
+ 
+SPECIAL: MMRA Door Prizes at the Boxboro Convention
+
+TYT MD-380 Vhf Analog & DMR radio Portable
+
+Cushcraft A50-5s 6 M 5 element Beam
+
+Diamond X50A 2m/440 dual Band vertical base station antenna
+
+ARRL Antenna book
+
+All MMRA members with paid-up 2-year memberships as of 11am September 11, 2016 will be eligible for the MMRA door prizes at the Boxboro Convention. Door prize winners will be announced shortly after 12 noon on Sunday September 11.
+----------
+
+Also of interest at Boxboro! 2016
+
+DIGITAL RADIO REPEATER MODES		3 PM Sat., Cotillion Room
+Rick Zach, K1RJZ, Moderator		Rick will lead a discussion about digital voice repeater technologies: DMR, D-Star, Fusion, and NXDN, “on an equal footing in a single unbiased presentation. These will be presented from the perspective of five subject matter experts with technology breakout sessions to follow.  An emphasis will be to present the acceptance status of each in New England as of September 2016.
+  
+PROGRAM YOUR RADIOS WITH OPEN SOURCE SOFTWARE	10 AM Sat., Board Room
+James Lee, N1DDK		This presentation is an overview of Chirp software which is used to program most radios.  What is Chirp?  Supported radios?  Common problems and solutions?  A workshop will follow. Power supplies along with computers and programming cables will be available.
+
+CARE AND FEEDING OF ASTRON POWER SUPPLIES
+11 AM Sat., Board Room	James Lee, N1DDK
+Astron’s are the most common supplies found in most ham shacks. This talk will outline repairs and upgrades to a few Astron supplies: the RS20, RS35, and other models.  Photos and hands on parts will allow attendees to walk away with the confidence to repair their supply.
+----------
+
+President’s Corner ~ David Wolfe, KG1H
+
+As the president of the MMRA, I participated in the ARRL New England Division Cabinet Meeting on Saturday, July 9th.  Even though not all MMRA members are members of the ARRL, most of the subjects discussed apply to all hams.  Attendees initiated most of subjects that were discussed.
+
+The Air Force is involved in a major upgrade to the PAVE Phased Array Warn (PAVE PAWS) in both Cape Cod and California requiring additional testing next year.  They reported that the noise floor is increasing across the band.  The information that came down to ARRL is that the impacts to the ham utilization of the 440 MHz band may require ‘adjustments’ from what it is now, and may require an ‘extension’ of the impact radius. As you might recall, some 440 MHz repeaters close to PAVE PAWS were shut down and others further out (impact radius) required that their output power be greatly reduced.  The ARRL is monitoring the situation.
+
+The general consensus of all the attendees is that the number of hams that participate in public service events across New England has been greatly reduced from what it has been several years ago.  Some thought that the increasing age of those participating has been the main reason, and that the new/younger hams have not picked up the interest.  Some associations rely on preprogrammed cell phones, a few on DMR.  That lead to a discussion of how we need to attract the young to become hams and participate in these events.  Any ideas are welcome.
+
+The full House Energy and Commerce Committee at a markup session on July 13 unanimously adopted a substitute bill in the form of an amendment to  the Amateur Radio Parity Act (H.R. 1301).  The next step for the bill as amended is for consideration by the full House.  There is no current timetable for that action.  It will ensure that every ham in the US, regardless of the community they live in, will have the opportunity to practice their avocation from their own homes without breaking any rules or fear of reprisal.
+
+No FCC action on ham VLF as yet for 472-479 KHz and 135-137 kHz.  Expecting something soon.  Coordinating with the power companies is complex.  Clearly, our national power system is vulnerable.  
+
+The effectivity of the FCC Official Observer (OO) program has been reduced by less FCC enforcement.  The OO program serves as the first line of "eyes and ears" for the FCC. It is the backbone of the Amateur Auxiliary. OOs are certified in the Auxiliary by passing a mandatory written examination.
+----------
+
+Attention!
+Quincy 146.67 is currently running on temporary equipment while the permanent rig is repaired.  It is at 40% of normal power and NOT linkable.  Quincy 224.4 is off-the-air.  This will revert to normal operation in about six weeks or so.
+----------
+
+Hopkinton Heliax Cables donated to MMRA
+
+Thanks to Rick Zach, K1RJZ, on the afternoon of July 21, the MMRA removed twelve donated 160+ foot sections of Heliax cable (and some antennas) as they were removed by contractors from a 200’ tower in Hopkinton.  Here are photos of the operation, thanks to Rick and Dave, KG1H.  (Following are 9 photos.)
+----------
+
+May Membership ANNUAL Meeting
+
+and
+
+Programming Your Radio with CHIRP ~ James Lee N1DDK 
+
+First Bob, K1IW, ran his last Annual Meeting as President by holding the vote for officers.  The nominees were all elected:
+
+David Wolfe, KG1H	President
+Mike Neilsen, W1MPN	Vice President,
+John McGovern, W1JMC	(incumbent) Secretary
+Kevin Paetzold, K1KWP	(incumbent) Treasurer
+Bob Evans, N1BE	(incumbent) Clerk
+Clark Conti, N1NVK	(incumbent) Director > 2018 
+James Lee, N1DDK	Director >  2018. 
+
+Next, James, N1DDK, talked about CHIRP.  
+(Following are 14 slides from Jams's presentation.)
+----------
+
+June Business Meeting
+Bob Evans, Clerk, N1BE
+
+Minutes of the June MMRA Business meeting by N1BE, MMRA Clerk
+
+The MMRA board met for a business meeting at the office of Stratus in Maynard, MA at 7:00 PM on June 15.  In attendance were K1KWP, N1DDK, W1DYJ, N1BE, W1BRI, KG1H, W1MPN, N1NVK, WA1NVC  and K1IW.
+
+New MMRA President Dave, KG1H, opened the meeting with a discussion of overall running and management of the MMRA.  We reviewed roles of the club leaders.  Dave emphasized the need for active support.  Particularly since it takes many skills from many different people to make the MMRA productive and interesting.
+
+Dave looked at various technical specialties.  Although we collect this info on the membership application, the categories need to be revised.  Experience shows that members do show up and volunteer when we need some labor, like the recent repeater move to North Reading.
+
+With so many repeaters, the maintenance effort is too much for the few people we have that know how to work on a repeater.  We brainstormed ways to train interested members in how to do preliminary diagnosis and simple repairs.
+
+Dave suggest putting together a list of who to call for each kind of failure.  Also documenting the details of each repeater / site.
+
+Next we reviewed locations and speakers for general membership meetings.  We will have an MMRA presentation at Boxboro on Sept 11th.  This will be the MMRA meeting for that month.
+
+We next discussed the MMRA room at Boxboro.  N1NVK will be making arrangements for talk-in.  Clark also agreed to purchase items for a raffle.  The board approved an expenditure of up to $350 to purchase prizes.  We also plan to offer a 6-M beam owned by the MMRA as another prize.
+
+Discussion next turned to our primary assets, the 22 repeaters.  Given our membership numbers, there is approximately one repeater for each 10 members.  This is a lot to support.  But it also offers a lot of value to each member.
+
+Dave next reviewed standby power for the repeaters - batteries and generators.  No action was taken except to discuss how we could power the HUB1 site in an emergency if someone brought a generator or source of 12V DC to the site.
+
+Although KG1H had an agenda item about DMR, we did not discuss this item due to lack of time.
+
+Next we discussed a few open issues needing action in the near term.
+- W1BRI proposed a new home for 449.575.  Bryan will move the repeater if the site is available.
+- When 449.575 is moved K1IW offered to pick up feedline and accessories at the same time.
+- K1IW is replacing two repeater power supplies – Brookline is already done.
+- We have to do more work on the antenna mounts in North Reading - deferred until autumn.
+- Determine cause of failure and repair North Reading 446.775 failure - K1IW volunteered to do this, W1DYJ offered to come along to learn about the site.
+- Isolate source of Quincy 146.67 intermittent noise - W1BRI has parts and plans to go to the site to replace a marginal N-connector.
+
+Ed Curley, KC1CLA, was appointed as the new trustee of Belmont 145.43.
+
+The board approved purchase of tickets for dinner tables at Boxboro.
+
+The board approved an expenditure not to exceed $50 to repair an MMRA RS-50M power supply.
+
+We adjourned at 20:49.
+----------
+
+Upcoming MMRA Meetings
+
+Saturday, 11 Sept ~ Membership Meeting
+Introduction to MMRA & Door Prize Drawing  
+At the Boxboro! 2016 ARRL Convention
+Holiday Inn, Boxborough 
+
+Wed, 21 Sept ~ Business Meeting
+Location: Stratus, Maynard
+
+Wed, 19 Oct ~ Business Meeting
+Location: Stratus, Maynard
+
+Wednesday, 16 Nov ~ Membership Meeting
+Topic—TBD
+Location—TBD
+
+Wed, 21 Dec ~ Business Meeting
+Location: Stratus, Maynard
+
+Wednesday, 18 Jan ~ Membership Meeting
+Topic—TBD
+Location—TBD
+
+Wed, 15 Feb ~ Business Meeting
+Location: Stratus, Maynard
+
+Wednesday, 15 Mar ~ Membership Meeting
+Topic—TBD
+Location—TBD
+
+Wed, 19 April ~ Business Meeting
+Location: Stratus, Maynard
+
+Wednesday, 17 May ~ Membership Meeting
+Topic—TBD
+Location—TBD
+----------
+
+Don’t Forget! 
+Join Us.
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Net Control Operators:
+Week 1	WA1JIM	Jimmy Devaire	
+Week 2	W1DYJ	Larry Banks	
+Week 3 	KC1CLA	Ed Curley
+Week 4	K1KWP	Kevin Paetzold	
+Week 5 	KB1OQA	Tom Turner
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+MMRA Leaders
+Officers
+President		David Wolfe	KG1H
+Vice President		Mike Neilsen	W1MPN
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+* Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2017		Steve Schwarm	W3EVE
+Director  »2017		Roger Coulson	WA1NVC
+Director  »2018		Clark Conti	N1NVK
+Director  »2018		James Lee	N1DDK
+Director  »2017		Bob DeMattia	K1IW
+
+Repeater Trustees
+* Belmont 145.430	Ed Curley	KC1CLA
+* Boston 927.0625	Rick Zach	K1RJZ
+* Boston 146.820	John Mullaney 	K1BOS
+* Brookline 145.160	Joyce DeMattia	N1QPH
+* Brookline 146.820 Rcvr  Bob Phinney	K5TEC
+* Hopkinton 223.940	James Cahill	KB1LOY
+* Hopkinton 449.575	Bryan Cerqua	W1BRI
+* Lowell 442.250	Vince De La Flor	K1LVF
+* Marlborough 53.810,  Quincy 146.670; 
+	Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.390, 147.270, 224.880,
+       448.225, 449.925,  927.700 — all as W1MRA
+	Bill Northup	N1QPR
+* Mendon 146.610	Kevin Paetzold	K1KWP
+* N. Reading 146.715	Bruce Pigott	KC1US
+* N. Reading 446.775	Larry Banks	W1DYJ
+* Quincy 224.40		Bill Dunn	N1KUG
+* Weston 146.790	Bob Evans	N1BE
+* Weston 224.700	Eddie Mulhern	N1NOM
+* Weston 442.700	David Wolfe	KG1H
+
+Additional, non-Voting
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	David Wolfe	KG1H
+* VEC Liaison		Bill Wade	K1IJ
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+* Appointed
+----------
+
+MMRA VE Sessions
+
+Third Saturday
+
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+Calendar of Ham Radio Flea Markets
+For more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+9-11 Sep	Boxboro MA 	FEMARA NE Conv
+10 Sep		Windsor CT 	VR+C Mus 115 Pierson LN
+11 Sep		Ballston Spa NY 	SCRACES @FG 
+17 Sep		Forestdale RI 	RIAFMRS @VFW
+18 Sep 		Cambridge MA 	Flea at  MIT
+24 Sep		Brookline NH 	NEARC Antiqe @EvntCr
+24 Sep		Forestdale RI 	RIAFMRS @VFW
+  9 Oct 	Queens NY 	HoSARC @HoS
+14-15 Oct 	Deerfield NH 	NEARfest XX    @FG
+16 Oct 		Cambridge MA 	Flea at  MIT
+16 Oct 		Meriden CT 	Nutmeg @Sheraton
+29 Oct 		Gales Ferry CT 	TCARC @FireCo
+30 Oct 		Hicksville NY 	LIMARC @Levitt Hall
+12 Nov 		Bourne MA 	FARA @UpperCC VoTech
+  3 Dec 	Windsor CT 	VR+C Mus 115 Pierson LN
+
+2017———————————————————————-
+  4 Mar 	Chicopee MA 	MtTomARA  @8:30 S@6:30
+31 Mar 		Lewiston ME 	AARC ME Conv @Ramada
+  8 Apr 	Newton MA 	PHSNE Photographica
+		Sat Only @AmLegion
+8-10 Sep	Boxboro MA 	FEMARA NE Conv
+----------
+
+END OF NEWSLETTER

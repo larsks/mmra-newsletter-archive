@@ -1,0 +1,278 @@
+The Minuteman Repeater Association
+The Minuteman
+Volume 41, Number 5
+May 2012
+-----
+
+Membership Meeting ~ Wednesday, 23 May 2012 @ 7:00 PM
+
+The 3Y0X DXpedition
+
+Northborough Free Library,
+34 Main Street, Northborough, MA
+
+
+
+May's meeting will feature a DVD presentation of the DXpedition to St. Peter Island.  Frozen wasteland, environmental treasure, or ham radio paradise?  You be the judge!
+
+
+
+Free pizza will be served. 
+General elections will also be held at this meeting.
+
+Directions to 
+The Northborough Free Library
+
+Directions from I-495:
+>From I-495, take Exit 24B which is Rt. 20 West toward Northborough.
+Follow Rt. 20 West about 3.5 miles, into the center of Northborough..
+Opposite the Gulf Station on the right, turn left into Patty Lane.
+The Northborough Free Library parking lot will be on the left.
+-----
+
+Nominating Committee
+Report
+
+President	Bob DeMattia	K1IW
+Vice President	Steve Telsey	N1BDA
+Secretary	John McGovern	W1JMC
+Treasurer	Kevin Paetzold	K1KWP
+Clerk		Bob Evans	N1BE
+Tech. Officer	Bryan Cerqua	W1BRI
+Director »2014	Clark Conti	N1NVK
+Director »2014	Mike Neilsen	W1MPN
+-----
+
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in Eastern
+Massachusetts.
+
+The MMRA meets (usually) on the 3rd Wednesday of each month from September to June.  Meeting times, locations, and talk-in frequency vary and are announced in this newsletter and on weekly nets.  Meetings are open to all interested parties.  Guest speakers and programs of general interest occur in September, November, January, March, and May.  The intervening meetings are also open to all members and are for general business.
+
+The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+
+Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+
+Email to the club leadership should be sent to 
+contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+
+An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/
+
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
+-----
+
+MMRA QRM Policy
+
+MMRA members and all other operators are strongly encouraged to report repeater 
+activity that does not abide by Part 97 rules or accepted amateur radio practice to the board of directors at contact@mmra.org or via other means.
+
+The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
+-----
+
+President’s Corner — Current Events
+
+Bob DeMattia — K1IW 
+
+A number of items are on our current agenda:
+
+Sligo Update
+
+Renovation work by the City of Marlborough at our Sligo Hill repeater site continues.  In the next stage, all antennas on the water tank need to be removed.  The APRS, 6m receiver, 224.880, 449.925 and 927.7 antennas will be removed first, with 147.27 shortly thereafter.  During the time these antennas are down, we will have most systems running on mast-mounted backup antennas.  These antennas are about 100 feet lower, so you can expect reduced coverage.  The city has not given us a time table for when things will return to normal, so things may stay this way for quite some time.
+
+Boxboro 2012
+
+The Boxboro Convention is on August 24th, 25th, and 26th.  MMRA will be providing talk-in from our hospitality suite just off the main courtyard inside the hotel throughout the convention.  Be sure to stop by and say hello to the other members of the club.
+
+Even better, we are planning to attend the Saturday evening banquet as a club.  The banquet features a guest speaker and other entertainment. If you would like to join us, purchase your banquet ticket through us to receive a $5 discount.  Contact K1IW at k1iw@mmra.org for further information.
+-----
+
+March Membership Meeting
+
+Ham's in Emergency Communications
+Mike Neilsen, W1MPN
+
+Mike discussed how ham radio operators are still considered important players in the overall emergency communication (EMCOMM) response.  He outlined how ham radio is used in today’s complex public safety environment in the face of complicated issues of reduced state budgets and agency consolidations.  He also briefly described the requirements of NIMS, ICS, and state programs, as they apply to ham operators.  W1MPN explained many of the new approaches to the integration of ham EMCOMM volunteers into initiatives such as COML, RADO, ACS, and COOP/COG, and how they relate to RACES, ARES, SKYWARN, MARS, and the CERT programs.  He then gave a brief update of the changes being proposed for the existing RACES program by MEMA, as part of the current outreach to hams.
+-----
+
+>From the ARRL Eastern Massachusetts Section News
+
+Amateur radio volunteers turned out in droves for the 2012 Boston Marathon on April 16. According to Amateur Radio Communications Coordinator Steve Schwarm, W3EVE, approximately 250 hams provided communications support to the Boston Athletic Association, Massachusetts Emergency Management Agency, American Red Cross, Boston Emergency Medical Services, along with the public safety departments of eight different municipalities. 
+
+Forty hams comprised the start team; 110 were situated along the course; 20 were assigned to Net Control in Brookline; 60 amateurs made up the finish team; an additional 22 helped coordinate bus operations.
+
+Amateurs were also stationed at the ARES Regional Command Center in Bridgewater, and at the MA State EOC in Framingham. 
+
+The Boston Marathon continues to be one of the largest and most visible Amateur Radio public service operations in the country. The amateur community can be proud of its contributions to this historic race.
+-----
+
+Boxboro — Call for Speakers
+
+Ken Caruso, WO1N
+
+All speakers wanting to participate in the 2012 ARRL New England Division Convention program, please contact us at your earliest opportunity and include a subject title and a brief abstract.
+
+The dates for the convention are August 24 – 26, 2012.
+
+If you represent a regional club or organization (e.g. NESMC, CEMARC, MARS, NEWS etc.) we can help facilitate open forums or closed meetings. We do ask organizations to please consider Sunday morning time slots for their closed meetings.
+
+Groups looking to set up information booths should get your request in early. While the information booths are offered without charge, we ask for some volunteer time in return to assist us with ticket sales and other logistics during the convention operation.
+
+Ken Caruso, WO1N
+
+Boxboro Program Chairman
+
+Wo1n@arrl.net
+
+508-572-3347
+-----
+
+Proposed Change to MMRA ByLaws
+Bob DeMattia, President  — K1IW 
+
+The current bylaws require a vote for the general membership for any expenditure over $500.  This makes sense most of the time, but there are times when things must be done, such as repairs where there isn't really must choice, and often time is of the essence.
+
+This bylaw will eliminate the general membership requirement under certain conditions.
+
+This is what we have now:
+
+a.   All expenditures in excess of five hundred dollars must be approved by the majority of the membership present at a meeting. The subject of the vote must be  announced to the members in the meeting announcement.  Alternatively, such a vote may be accomplished by mail or by electronic means as provided in Article IV section 8 and Article IV section 9.  If this alternate method is used, a majority of the full membership is required.
+
+The proposal is to add the following to this paragraph:
+
+Expenses related to the immediate repair of existing equipment or to prevent damage to existing equipment are exempt from this limit and may be authorized by the board.  In this case, the board shall provide notice to the general membership of such expense at the next regularly scheduled general meeting.
+
+This will be voted on at the June membership meeting.
+-----
+
+2011—2012 Meetings
+
+23 May — Membership Meeting
+The 3Y0X DXpedition  & MMRA General Elections
+Northborough Free Library  ~ 7:00 PM
+
+20 June — Membership Meeting
+General Business 
+
+Blue Coyote Grille, Maynard ~ 7:00 PM
+-----
+
+Don’t Forget!
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	KQ1Y		Tim Wortley 
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+Beginning 1 June:
+To connect using the digital modes during the Net: 
+Use MMRA’s node: 
+Connect via *W1MRA-L*, node 9128.  
+-----
+
+MMRA Leaders
+
+Officers
+
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+
+Director  »2012	Clark Conti	N1NVK
+Director  »2012	Mike Neilsen	W1MPN
+Director  »2013	Steve Schwarm	W3EVE
+Director  »2013	Roger Coulson	WA1NVC
+
+Repeater Trustees, Appointed
+
+Belmont 145.430		Larry Arone		WA1RTT
+Boston 927.0625		Rick Zach		K1RJZ
+Brookline 146.820	Bob Phinney		K5TEC
+Burlington 146.715	Bruce Pigott		KC1US
+Burlington 446.775	Larry Banks		W1DYJ
+Hopkinton 223.940	Kevin Paetzold		K1KWP
+Lowell 442.250		Vince De La Flor	K1LVF
+Marlboro 53.810, Quincy 146.670, Southboro 449.575
+
+		Bryan Cerqua	W1BRI
+Marlboro 144.390, 147.270, 224.880, 449.925, 927.700 
+Weston 442.700 — all as W1MRA
+		Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo		AE1C
+Weston 146.790		Bob Evans		N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+
+Newsletter Editor	Larry Banks		W1DYJ
+Emergency  Coord.	Kevin Paetzold		K1KWP
+Public Service Coord.  	Bruce Pigott		KC1US
+VEC Liaison		Bill Wade		K1IJ
+Net Manager		Larry Banks		W1DYJ
+Web Page Editor		Bob DeMattia		K1IW
+-----
+
+Previous issues of the MMRA Newsletter are available at:
+
+www.mmra.org
+Newsletter Archive (on the left)
+-----
+
+MMRA VE Sessions
+
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+-----
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+2 Jun 	Windsor CT 	VR+C Mus 
+10 Jun 	Queens NY 	HoSARC @HoS
+16 Jun	Newington CT 	NARL @StMarySch
+16 Jun	Brookline NH 	NEAntqRC@EvntCtr
+17 Jun	Cambridge MA 	FLEA at MIT
+15 Jul	Cambridge MA  	FLEA at MIT
+11 Aug 	St Albans VT 	STARC @VFW
+12 Aug 	Adams MA 	NoBARC @BoweFld
+19 Aug	Cambridge MA 	FLEA at MIT
+24-26 Aug Boxboro MA 	ARRL Conv @HI
+ 8 Sep	Ballston Spa NY	SCRACES @FG
+ 9 Sep	Newtown CT	CARA @TownHall
+15 Sep	Forestdale RI	RIAFMRS @VFW
+15 Sep	Windsor CT	VR+C Mus
+16 Sep	Cambridge MA	FLEA at MIT
+12,13 Oct Deerfield NH	NEARFest XII @FG
+14 Oct	Queens NY	HoSARC @HoS
+21 Oct	Cambridge MA	FLEA at MIT
+27 Oct	Gales Ferry CT	TCARC @FireCo
+ 8 Oct 	Hicksville NY 	LIMARC @LevitHall
+ 2 Nov 	Feeding Hills MA @CongCh
+ 3 Nov 	Bourne MA FARA 	@UpperCC VoTech
+ 3 Nov 	Londonderry NH 	IRS @Lions
+ 1 Dec 	Windsor CT 	VR+C Mus
+-----
+
+END of NEWSLETTER

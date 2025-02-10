@@ -1,0 +1,259 @@
+The Minuteman Repeater Association
+The Minuteman
+Volume 37, Number 4
+March 2008
+-------------------
+
+Membership Meeting ~ 19 March, 7:30 PM
+Campion Center, 19 Concord Rd, Weston, MA
+GEMOTO and the Mt. Uncanoonuc Repeater System 
+
+GEMOTO is a collection of ham radio operators with an interest in GE and Motorola commercial gear. Recently, several members of this group undertook an ambitious project to build a 6 meter repeater system that spans from Central NH to Massachusetts. Rick Zach, K1RJZ, a GEMOTO founder, will give a presentation on the GEMOTO group and their 6-meter repeater system. Expect to see some examples of converted gear on display. For more information on GEMOTO, visit http://www.gemoto.com
+Talk in on 146.79
+-----------------
+
+Directions to the MMRA Meeting
+
+>From Rt. 128 — Take Rt. 128 to Rt. 20 WEST in Waltham. Take right from Rt. 20 onto Boston Post Road.  Take right from Rt. 20 onto Concord Road.  The Campion Center is on Concord Road. At the fork in the road, before arriving at the Campion Center, bear left.
+
+>From Rt. 20 heading East — Head East on Rt. 20.  After entering Weston bear left onto Boston Post Road.  From Boston Post Road turn left onto Concord Road. At the fork in the road, before arriving at the Campion Center, bear left.
+----------------
+
+MMRA February Board of Directors Meeting
+Bob DeMattia, K1IW — President
+
+The board meeting began at 7:30pm. Bob DeMattia K1IW, Kevin Paetzold K1KWP, Roger Coulson WA1NVC, and Steve Schwarm W3EVE were in attendance.
+
+K1KWP presented the treasurer's report. The club is close to on par with last year. One item of note is the increase in bank fees - now running $20 per month. K1IW made the motion that K1KWP find a new bank, which was unanimously passed.
+
+Membership is currently at 194 members. There were 31 unexplained non-renewals from last year, which is about average.
+
+The board reviewed the current status of the MMRA's repeaters: 
+STO - all is good
+QCY - 222 amplifier is not working
+WES - 222 amplifier is under driven
+BRK - 2m receiver is not working correctly
+SBO - is not decoding DTMF
+MRE - TX to RX link transmitter is drifting; intermittent audio on HUB link receiver
+MDN - Needs HUB2 upgrade
+HOP - all is good
+MRW - lower 6m antenna needs replacing, battery charger needs updating, '925 PA is still intermittent, 224.88 needs its audio circuits reviewed (DTMF doesn't decode properly).
+
+MMRA's participation in Boxboro was reviewed:
+We will have the same setup as in past years, and will be providing talk-in. 
+K1IW to pick raffle prizes totalling 200-250 dollars. 
+W1BRI to create a new MMRA photo slide show. 
+K1KWP/W1DYJ to develop special edition of newsletter. 
+K1KWP will handle the foxbox. 
+Raffle tickets will be 1/$1, 6/$5, 14/$10.
+MMRA will also rent a fleamarket space for an unattended display.
+
+The board meeting closed at 9:30pm.
+-------------------
+
+Antenna Work at Weston Hub 2 in December 
+Bryan Cerqua — W1BRI
+
+(This should have been in the last Newsletter — Editor.)
+
+New antennas were installed on HUB2 main repeater and link radio. 
+
+After spending about three frustrating hours trying to get the 7/8" hardline up the shaft that runs up the six floors within the building we could not get it by the last leg where there as a right angle turn near the floor below the roof.  We ended up using the hardline that was on the corner reflector. The corner reflector was removed since it was not being used. We did however get a run of 9913 coax up the shaft for the new link antenna. A 5dB Antennex stick was used on HUB2 and coverage is greatly improved. This antenna was originally used on Shrewsbury 449.575. For the HUB2 link radio a small 5 element beam was mounted on the tower about 7 feet off the roof to hit HUB1 and Mt Wachusett. This link antenna is used to connect HUB2 to HUB1 as well as Mt Wachusett 448.625 (W1OJ 10 Meter System.) 
+
+Thanks go to the crew, Nat NG1Z, Bob K1IW and W1BRI
+-----------------
+
+Update on Stoneham 440
+Larry Banks — W1DYJ
+
+As we all know, the antenna at Stoneham 440 was changed from a vertical to a corner reflector pointing AWAY from Cape Cod because of the interference it was causing to the PAVE PAWS radar station in Sandwich.  Here is an update from the ARRL.
+
+The ARRL Letter
+Vol. 27, No. 8
+February 29, 2008
+
+==> ARRL, FCC, DEPARTMENT OF DEFENSE REVIEW NEW DEVELOPMENTS IN PAVE PAWS INTERFERENCE MITIGATION
+
+The FCC, ARRL representatives and agents of the various US Air Force units working on developing a plan to mitigate alleged interference from 70 cm ham radio repeaters to PAVE PAWS radar systems on both coasts met February 20 via conference call. The purpose of the conference was to review the status of the mitigation plans at both sites: the Massachusetts Military Reservation on Cape Cod and Beale AFB, north of Sacramento, California. 
+
+Thanks to the cooperation and assistance of the involved repeater owners on Cape Cod, ARRL Regulatory Branch Manager Dan Henderson, N1ND, said, "I am pleased to be able to pass along that at this time, the Department of Defense has determined that the levels of harmful interference to the PAVE PAWS radar site on Cape Cod have been sufficiently reduced. As part of this determination, they are not rescheduling additional follow-up testing for that area until sometime in 2009." 
+
+Henderson said that this decision doesn't mean New England is back to pre-mitigation repeater operation: "Any mitigation steps that have been taken should remain in place. A repeater that has gone off the air should not be simply turned back on at its original power level -- its previously determined mitigation standard still applies in order to protect the primary user from harmful interference." 
+
+Henderson stressed that the entire process is ongoing. "The high degree of voluntary cooperation shown by the owners of Air Force-identified repeaters has helped demonstrate to the DoD that the amateur community takes its responsibility seriously. This should help us retain access to the band in the long run." 
+
+During the discussion of the Cape Cod radar during the teleconference, the ARRL broached the topic of allowing the resumption of coordinating new repeaters on the 70 cm band in New England. The Air Force has agreed in principle to allow the New England Spectrum Management Council (NESMC) to resume coordination efforts under certain conditions. "These include that in addition to NESMC's normal coordination policies, Longley-Rice signal strength plots are prepared to determine expected signal strength at the radar site," Henderson said. 
+
+Henderson said that the ARRL has a "fairly good understanding of what strength level at the site should be workable, even though the DoD has not given us specific information on the sensitivity of the radar. The Longley-Rice plots should indicate if the operating parameters of the proposed repeater might be sufficient to prevent harmful interference to the radar site. The Longley-Rice plots are not the 'last word' in the process, but are a good tool giving the repeater owner and NESMC a reasonable assessment of possible problems." 
+
+Henderson reiterated that "any specific mitigation number from the Air Force is an exact measurement, not a 'predicted' number from a computer analysis." 
+
+Once NESMC approves a tentative coordination, Henderson explained that NESMC would forward the complete information on the new repeater to the Air Force for authorization on a case-by-case basis, as provided for in Title 47 §2.106 Footnote US7. "During a 60 day trial period, the Air Force would contact NESMC for an immediate shut-down of a new repeater causing harmful interference. If that happens the new repeater would have to remain off the air until it can be successfully mitigated." 
+
+While this new process is a bit burdensome to NESMC and the repeater owners, it goes a long way toward keeping Amateur Radio in a position where 70 cm operation can grow with careful attention to the effect of our operations on the primary users. 
+----------------------
+
+Notes on the Membership Meeting of 10 January 2008
+WA1JXR, Greg Algieri ~ Antenna Analyzers
+Larry Banks — W1DYJ
+
+Greg, WA1JXR, gave us a really good overview of what Antenna Analyzers can do for us in our constant quest for better antennas and feed lines.  They can do a LOT MORE that just give us an SWR reading!
+
+This was a joint meeting with the Algonquin Amateur Radio Club, and we expect to have a joint meeting with the AARC group in the future.
+
+Here are some highlights from the meeting — if you were not there, you really should think about attending future meetings.
+
+Before the meeting…
+
+More before the meeting…
+
+Ed, K1DIN, President of the AARC making his introductory remarks...
+
+Greg, WA1JXR, introducing himself…
+
+The Talk!
+
+What can an Antenna Analyzer do — more than you realize…
+
+What IS an Antenna Analyzer???
+
+Greg describing how the basic analyzer works.
+---------------------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay League, through which Amateur Radio in the United States is represented nationally and  internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+---------------------
+
+Treasurer’s Report
+Kevin Paetzold, K1KWP
+
+Income	   Dues			$3854.71
+	   Donations		  524.06
+	   Misc.		  507.03
+	   Future Dues		  100.00
+	   Total		$4985.80
+
+Number of members renewed to date = 162
+Number not yet renewed = 	     22
+
+Expenses   Spent to date	$2681.66
+	   Known expenses	  406.41
+	   Total		$3088.07
+---------------------
+
+President’s Message
+Bob DeMattia, K1IW
+
+March is the time of year when we begin the nomination process for next year’s officers. Every year, this is a pretty mundane affair and the same board is reelected. While I appreciate the vote of confidence from the membership, it would be nice to see some "new blood" take the reigns occasionally. This year is a prime opportunity - our club secretary and one of the director's have already announced they will not be seeking another term. If you're interested in taking a more active part 
+in the club, we need you!
+
+Club officers take on the duties of keeping the club operating efficiently by processing and tracking memberships, and decided maintenance issues. They also help set the direction of the club in the future.
+
+If you think you or someone you know would make a good officer, please let the nomination committee know by sending the name to
+contact@mmra.org.
+
+I'm looking forward to hearing from you.
+
+73,
+Bob
+------------------
+
+Upcoming MMRA Meetings
+
+Mar 19	Campion Center, Weston 	GEMOTO and the Mt. Uncanoonuc Repeater System, Rick, K1RJZ	
+Apr 16	TBD	Board Meeting
+May 21	Clay Center Observatory, Brookline 	Astronomy Night and General Elections
+------------------
+
+MMRA Leaders
+
+President			Bob DeMattia		K1IW
+Vice President			Steve Telsey		N1BDA
+Secretary			John McGovern		W1JMC
+Treasurer			Kevin Paetzold		K1KWP
+Clerk				Bob Evans		N1BE
+Technical Officer		Bryan Cerqua		W1BRI
+Director 2006-08		Clark Conti		N1NVK
+Director 2006-08		Bill Hanrahan		W1WH
+Director 2007-09		Steve Schwarm		W3EVE
+Director 2007-09		Roger Coulson		WA1NVC
+Emergency  Coordinator		open
+Net Manager			Larry Banks		W1DYJ
+Newsletter Editor		Larry Banks		W1DYJ
+Public Service Coordinator	Bruce Pigott		KC1US
+VEC Liaison			Bill Wade		K1IJ
+Web Page Editor			Bob DeMattia		K1IW
+--------------------
+
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational
+and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.
+
+If you would like to tray your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+
+Current Net Control Operators:
+
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1EUJ		Dave Goncalves	
+Week 3	W1DYJ		Larry Banks
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+--------------------
+
+Calendar of Ham Radio Events
+
+Public Service Events 
+See this web site for contact information
+http://purl.org/hamradio/publicservice/nediv
+
+Apr  5 Newton MA	Multiple Sclerosis Journey  
+Apr 13 Boston MA	Multiple Sclerosis Walk    
+Apr 19 Townsend MA  	Squannacook Canoe Race
+Apr 20 Boston MA	Women's Olympic Marathon Trial
+Apr 21 Hopkinton MA  	Boston Marathon Start
+Apr 21 Hopkinton MA  	Boston Marathon Route/1st Aid
+Apr 21 Boston MA	Boston Marathon Finish
+Apr 27 Groton MA	Groton Road Race 
+Apr 27 Needham MA	Run of the Charles Canoe Race
+May  4 Boston MA	Walk for Hunger
+May 18 Devens MA	Parker Classic Road Race
+Jun  8 Boston MA	Bikes Not Bombs Bike Ride
+
+
+New England Area Ham - Electronic Flea Markets 
+See this web site for contact information http://mit.edu/w1gsl/Public/ne-fleas
+
+29 Mar	Windsor CT VR+C Mus 115 Pierson
+30 Mar	Southington CT SARA @ HS
+30 Mar	Henniker NH CVRC @ Comm Sch
+ 5 Apr	Londonderry NH IRS @ Lions
+ 6 Apr	Framingham MA FARA @ Keefe Sch
+13 Apr	LaGrangeville NY MtBARC @T ymorePk
+19 Apr	Manchester NH NEAntqRC @ Bingo Ctr
+19 Apr	S Portland ME PAWA @ AM Legion
+26 Apr	Middletown NY OCARC @ Wallkill Comm Ctr
+27 Apr	Lindenhurst NY GSBARC @ Fire Mm Pk
+2,3 May	Deerfield NH NearFest @ FG
+10 May	Rensselaer NY EGARA @ Fire Co
+24 May	Vernon CT NARC @ Tolland Ag Ctr
+---------------------
+
+End of Newsletter

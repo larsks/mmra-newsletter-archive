@@ -1,0 +1,245 @@
+The Minuteman Repeater Association
+
+The Minuteman
+Volume 40, Number 1
+September 2010
+
+----------------
+Membership Meeting ~ Wednesday, 15 September 2010 @ 7:30 PM
+Antenna Myths: Transmission Line Tall Tales 
+Dave Allred ~ N1VU
+Lexington Public Library ~ 1874 Mass Avenue
+Talk in — 146.79
+
+Whatever you choose, open wire, hardline, or wet string, myths can suck up your signal as it travels between rig and antenna. David Allred, N1VU, details where your RF really goes, both useful and useless. We will examine transmission line tricks, traps, and tips that will help you persuade your RF to be obedient and useful. Myths from print, 
+75 meters, and the Internet will be exposed and expunged.
+
+David Allred, N1VU, has been seen coaxing RF through coax to and from antennas for quite some time, both professionally (FCC Radiotelephone 1970) and avocationally (WB1EOQ 1977). He is a member of the Harvard Wireless Club, the IEEE Antennas and Propagation Society, and the IEEE Computer Society.
+
+As a consultant at Photon, Inc. in Cambridge, David uses his UNIX and Macintosh computer expertise to help client businesses do more with less while saving time and money. He is active, mostly on HF SSB and CW, on those occasions when antenna construction and experimenting is interrupted by operating.
+
+Directions to Cary Memorial Library
+
+>From the North and South
+Take Route 95 (Route 128) to Exit 31A (Route 4-225 East). Follow Route 4-225 (Bedford Street) about 1.5 miles to Lexington Center. As you pass the Statue of the Lexington Minuteman on the Battle Green, the library will be on your right. Go beyond the Library and turn right onto Muzzey Street. Take the next right onto Raymond Street and next right onto Clarke Street. The Library is the second building on the right. 
+
+>From the East 
+Take Route 2 West to Exit 54B (Waltham Street). Follow Waltham Street 1.6 miles to Forest Street and turn left. Go two blocks to Clarke Street and turn right. Go 1 1/2 blocks and the Library is on your right. 
+
+------------
+President‘s Corner
+Bob DeMattia (K1IW)
+
+"Get thee to the sun, we have time."  Those were the very words of our newsletter editor in a email to me earlier today.  While I was under a deadline to get my bimonthly column to him, it was just really too nice a day to be inside typing on a computer.
+
+Now that the sun has set, I have returned to the computer and Larry's words have taken this column on a whole new track.
+
+Like many other club members, my work-related, friends and family activities often compete with club activities.  In the MMRA, there are always things to be done.  We are fortunate to have over 200 members to help share the load.
+
+Our biggest need is for technical projects.  There are things to fix and improve on our twenty repeaters.  We have a new shelter for Sligo Hill, donated by N1KMA, which needs to be gutted, cleaned, painted and assembled.
+
+In addition to numerous technical projects, there are other ways you can participate.  You can help by being a net control station for our weekly net.  Or perhaps watch our club table at the Marlboro flea market or the Boxboro convention.  For those who are more or less confined to home, write a short article for our club newsletter.  There are many ways you can participate.  If you are interested, drop us an eMail at contact@mmra.org.
+
+------------
+
+Boxboro!
+
+Boxboro Convention MMRA Raffle Results
+N3EVL - First Prize: MFJ Antenna Analyzer
+N1OTY - Second Prize: Alinco 220 HT
+NK1D - Third Prize: Arrow Antenna J-pole
+N1VUX - Fourth Prize: ARRL Handbook
+
+Boxboro Convention FoxBox
+On Saturday the MMRA FoxBox was found by Stan,  KD1LE, VK1MD, and Mitchell, W1SJ.
+On Sunday it was found by VK1MD, W1SJ, John J Callahan IV and Geoff Wallick. 
+
+John, K1BOS at his computer programming 900 MHz  radios for hams.  Note the stack of 900 MHz radios on the left side of the table.  He did this on Saturday and Sunday.  John deserves a big thank you!
+ (WA1NVC photo.)
+
+-----------------
+Help Needed!
+
+Last fall, the MMRA transported a military shelter
+donated by N1KMA to a storage facility in Marlborough. Now we are looking for members (or even non-members) that are interested in getting this shelter
+reconditioned and ready for service to the club.  The long term plan is to replace the existing Sligo shelter which is over 30 years old and falling apart.
+The new shelter needs to be stripped and repainted.  The existing rack and internal components need to be taken out and new racks & cabling installed.  If you are interested in helping, send email to contact@mmra.org.
+
+-----------------
+
+Treasurer's Report ~ Kevin Paetzold (K1KWP)
+
+This is the first newsletter since the end of the MMRA fiscal year (May 31.)  Certainly this year will go down as one of the most active and unique in the MMRA's 30+ year history.
+
+More than $9000 was spent on expanding and improving the system.  This includes lightning protection, grounding, and power improvements at multiple sites, and new repeater sites in Boston.  This is more than four times the average spending on the system of the previous five years.  Some of the projects included:
+
+Purchase of the new Marlboro West (MRW) 900 repeater
+Purchase of a 7K controller for our new 10m repeater
+Tower work and antennas projects for MRW (summer 2009)
+Tree trimming and antenna projects at Marlboro East (MRE) (spring 2010)
+Cleanup/rebuild of the 146.820 repeater including a new power supply
+Conversion of our 6m repeater from a tube amp to a solid state amp
+Repair of the Hopkington (HOP) repeater and improvments to grounding and lightning protection at the site
+Repair of the Quincy (QCY) repeater and improvments to grounding and lightning protection at site
+Improvments to grounding and lightning protection at the MRW site
+Addition of the new Boston 900 repeater
+Move of DSTAR repeater from MRE to Boston
+Purchase of two SCOM 7330 repeater controllers to upgrade HUB1 and 2
+
+Likewise, income during the year was also four times the average of the previous five years.  This large one time increase in income was primarily due to the donation and sale of the Larcan transmitter amps and the salvaged copper waveguide.  Special thanks goes to those responsible for making this happen and those who donated their time to make this happen.
+
+There have been some changes to the fixed cost structure of the MMRA.  My articles in the September newsletters of previous years go into details of those costs.  Changes this year include eliminating any fees associated with the checking account, and switching the phone line at MRW from a Verizon voice line to a Galaxy DSL line.  Newsletter costs have dropped dramatically as the club has pushed eMail newsletters.  Power usage at MRW has increased more than 30% since August/September of 2009 when the 900 repeater went online.
+
+The net result of the spending, income, and expenses described above is that the financial reserves of the MMRA increased by 104% year over year.  Since June 1, 2004 the reserve has increased 303%.  Of course it still would only take one significant lightning hit to use up most of the reserve....
+
+As I write this article the Boxborough convention has just occured.  About one third of the membership visited the MMRA booth based on renewal counts.  I would also like to welcome nine new members who joined at Boxboro (W1BP, KB1TTF, K1NZQ, KB1UKU, KB1JFG, N1HVA, N1DDK, N1TQ, and KB1EDA) to the MMRA.
+
+-----------
+
+>From the ARRL Letter for Sept. 2nd
+
+
+FCC: New Rules for Employee Participation in Drills Begin September 3 
+
+
+Beginning September 3, the new, revised wording of Section 97.113 goes into effect. As of this date, the FCC will permit government entities that sponsor disaster and emergency drills to hold these drills without applying for a waiver. Additionally, employees who wish to participate in non-government-sponsored drills and exercises may do so under certain conditions. Part 97 is the portion of the Commission's rules that govern the Amateur Radio Service. Read more at:
+http://www.arrl.org/arrlletter?issue=2010-09-02#toc05
+
+---------------
+
+Pictures from the Membership Meeting of 19 May at the Clay Center
+
+A used Shuttle tire
+
+Ron Dantowitz, Director of the Clay Center Observatory, discussing the latest student activities.
+
+----------------
+
+2010—2011 Membership Meetings
+
+15 September Meeting 
+Lexington Public Library ~ 7:30 PM
+Dave Allred, N1VU
+Antenna Myths: Transmission Line Tall Tales
+
+17 November Meeting 
+Northborough Public Library ~ 7:00 PM
+Barry Baines, President of AMSAT
+
+19 January Meeting 
+Pizzeria Uno, Newton MA ~ 7:00 PM
+MMRA Mid-Winter Pizza Gathering
+
+16 March Meeting 
+TBD ~ 7:00 PM
+MMRA Pre-St. Patty’s Day Activities
+
+18 May Meeting 
+TBD ~ 7:00 PM
+MMRA General Elections and ????
+
+Board of Directors Meetings
+Wed, Oct 20	Southborough House of Pizza	
+Wed, Dec 15	Stratus, Maynard 	
+Wed, Feb 17	Conexant, Waltham 	
+Wed, Apr 21	No meeting in April 	
+Wed, Jun 16	Kennedy's Pub
+
+---------------
+
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President	Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk		Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2011	Steve Schwarm	W3EVE
+Director  »2011	Roger Coulson	WA1NVC
+Director  »2012	Clark Conti	N1NVK
+Director  »2012	Mike Neilsen	W1MPN
+
+Repeater Trustees, Appointed
+Belmont 145.430	Larry Arone	WA1RTT
+Boston 927.0625	Rick Zach		K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Chris Conti	N1NVL
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Marlboro 53.810, Quincy 146.670, Southboro 449.575		Bryan Cerqua	W1BRI
+Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 — all as W1MRA
+		Bill Northup	N1QPR
+Mendon 146.610	Jim Podsiadlo	AE1C
+Quincy 224.400	Bill Dunn		N1KUG
+Weston 146.790	Bob Evans	N1BE
+Weston 224.700	Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  Bruce Pigott	KC1US
+VEC Liaison	Bill Wade		K1IJ
+Net Manager	Larry Banks	W1DYJ
+Web Page Editor	Bob DeMattia	K1IW
+
+------------
+
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+We need another net control!  Over the past few months there have been some weeks when the Net was not activated as we only have three and need four. 
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	???		shared	
+Week 3	W1DYJ		Larry Banks
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using the digital modes during the Net, use the New England Reflector:
+	For IRLP use node 9127
+	For Echolink, connect via *NEW-ENG*.  You can find this under “Node Types” >> “Conferences”
+
+NOTE — the Echolink conference 
+Connection has recently changed to *NEW-ENG*.
+
+----------------
+
+Public Service Events
+See this web site for contact information
+http://purl.org/hamradio/publicservice/nediv
+
+Oct  2 	Bristol  NH 	New Hampshire Marathon
+
+---------------
+
+New England Area Ham - Electronic Flea Markets 
+See this web site for contact information
+http://mit.edu/w1gsl/Public/ne-fleas
+
+11 Sept 	Windsor ME AARA @FG $5@8
+11 Sept 	Windsor CT VR+C Mus 115 Pierson LN @8AM
+11 Sept 	Ballston Spa NY SCRACES @FG @7
+12 Sept 	Newtown CT CARA @TownHall $6@8:30 $15/T
+18 Sept 	Alton NH MASONS @Lodge @7:30 Tg$10 $20/insidT
+18 Sept 	Forestdale RI RIFMARS @VFW $5/SP@8 Auction@11
+19 Sept 	Cambridge MA        FLEA at MIT
+2 Oct 	Manchester NH NHAntqRC @Bingo $3 @8:30
+3 Oct 	Queens NY HOSARC @HoS $5@9 $10/sp@7:30
+10 Oct 	Wallingford CT Nutmeg Conv $20/sp $7@8
+15,16 Oct	Deerfield NH Nearfest VIII @FG
+30 Oct 	Gales Ferry CT TCARC Auction @FireCo @10
+31 Oct 	Hicksville NY LIMARC @LevitHall
+
+------------------
+
+END OF NEWSLETTER

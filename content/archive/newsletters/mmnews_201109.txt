@@ -1,0 +1,348 @@
+The Minuteman Repeater Association
+The Minuteman
+Volume 41, Number 1
+September 2011
+---------
+
+Membership Meeting ~ Wednesday, 21 September 2011 @ 7:00 PM
+
+"Tornadoes and Hurricanes"
+
+Rob Macedo, KD1CY
+
+Rob Macedo, KD1CY, head of the Eastern Mass. SKYWARN program will be visiting to tell us all about the recent weather events in our area - and of course the ham response.
+
+Westborough Public Library  55 West Main Street     508-366-3050
+
+DIRECTIONS:   The Westborough Public Library is located two blocks west of the rotary on Route 30 (West Main Street), between Parkman Street and Church Street.
+
+
+
+From Route 135 in Westborough:
+Follow Route 135 to the rotary in the center of Westborough. At the rotary (the intersection of Routes 135 and 30), take route 30 West (West Main Street.) The library is two blocks ahead on the right, just after the police station, on the corner of West Main and Parkman Streets. 
+
+
+
+From the Massachusetts Turnpike:
+Exit at Route 495 North/Westborough. From Route 495 take Route 9 West. Follow Route 9 approximately 1.5 miles to Route 30 West. Follow Route 30 (about 2 miles) straight through the rotary in the center of Westborough. The library is two blocks ahead on the right, just after the police station, on the corner of West Main and Parkman Streets. 
+--------------------
+
+It’s Another Year!
+
+Dues are due.
+
+$25/year — $35/family
+
+http://www.mmra.org/memberapp.html
+-----------------
+
+The MMRA Marlborough East
+Antenna Juxtaposition Expedition
+Bob DeMattia ~ K1IW
+
+Club members may remember the work that was done installing the 10M repeater in the Marlborough East shelter in 2009.  One thing that was not finished was the antenna repositioning.  In the original configuration, the old 146.61 Stationmaster was on the tall telephone pole, the 6m antenna was on a shorter portable mast, and the 10m antenna was on a 20' mast.
+
+In 2010, the Stationmaster was removed and a new 6m antenna was put in its place on the telephone pole.  The old 6m antenna was left unused and the Stationmaster was kept in storage on the side of the shelter.
+
+This summer a crew consisting of WA1NVC, K1KWP, and K1IW took down the old 6m antenna, moved the 10m antenna into its place, and reinstalled the Stationmaster on the short 20' pole.
+-----------------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay League, through which Amateur Radio in the United States is represented nationally and  internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+---------------
+
+Drake Equipment for sale
+
+Previous club member Bob, KB1CUL is moving and donated some very nice equipment to the club.  As part of this donation, the club is helping Bob sell one piece of equipment - a vintage Drake TR4C transceiver with remote VFO and matching network.
+
+If you or someone you know is interested in purchasing this, please contact Bob K1IW k1iw@mmra.org.
+-------------
+
+MMRA June Board of Directors meeting
+ Bob Evans ~ N1BE ~ Clerk
+
+The MMRA board met at 7:30 PM on June 15th at the home of K1IW.  In attendance were K1IW, N1NVK, N1BE, WA1NVC, N1BDA, K1KWP and W3EVE. 
+
+Treasurer's report
+Kevin, K1KWP, presented a report of MMRA finances with the closing of the books on the fiscal year that ended May 2011.  This showed sources of income and expenses.  The differences in income for Boxboro and non-Boxboro years was evident in the summaries of the prior five years that he presented for comparison.
+
+Kevin's report also tracks electricity usage and cost for the MRW site.  The MMRA paid $918 for electricity at MRW last year.  This led to a discussion of options for reducing electricity use at MRW.
+
+We reviewed the number of members for each year and a list of members who did not join the most recent year.
+
+The ARRL has announced a change in insurance providers.  As an affiliated club, the MMRA has been purchasing Liability insurance through the ARRL.  We discussed whether to stay with our current insurance company or to now buy the club's insurance from the company now suggested by the League.  We decided to stay with the League when it is time to renew our policy; one benefit of this is having more leverage if there is a dispute with the insurance company.
+
+Repeater Status discussion led by Bob, K1IW
+
+29.68 Antenna Work party - WA1NVC to organize party.  We discussed doing this during weekday nights in June.
+
+53.81 is running OK.  We discussed some technical details for installing a remote receiver in Quincy.
+
+145.430, 146.670, 146.715, 146.790 and 147.270 are working OK.
+
+144.390 APRS is working well.
+
+145.160 DStar - Bob drove to Indianapolis to get a connector we needed for this repeater.  We now have all the pieces to finish enhancing this repeater.
+
+146.610 is working very well, but has a low volume issue on link radio, and unreliability in linking to HUB2.
+
+146.820 is again getting interference from the Galaxy box. We have gotten good coverage reports when the problem is not occurring.
+
+223.940 is working OK. Bob will replace the 5K controller with a 7K this summer.  Roger, WA1NVC suggested selling the 5K controllers we are phasing out.
+
+224.400 (Quincy) - Bryan is presently trying to figure out a frequency stability problem.
+
+224.700 is working OK.
+
+224.880 has a low audio level in the receiver output.  Bob has a few ideas of a possible cause.
+
+442.250 is OK
+
+442.700: weak output at times.  We expect Bryan will look at this after he has finished working on 224.400.
+
+446.775 is OK. It is not as good a location as Stoneham.
+
+449.575 is on the air and behaving reliably, but Bryan wants to optimize the receiver.  Those of us using it agreed it was not receiving well.
+
+449.925 is working well since Bryan fixed a fuse.  There was an incident of varying output power last month.
+
+927.0625 is working well.
+
+927.700 is working well.  A discussion developed about  the amount of electricity that 927.700 uses and possible solutions to reduce the power consumption.
+
+New Sligo Shelter, what's next?
+It is urgent to fix the current shelter since we have leaks and rodents in the shelter.
+
+W1JMC APRS radio donation.
+We discussed where to install a new digipeater.  We are considering Weston unless testing shows adequate APRS coverage in that vicinity.  The board approved purchase of antennas and diplexers for this project.
+
+Campion Center Internet status / possible IRLP.
+MMRA now has Internet access at the Weston site.  We discussed how to set up to receive incoming connect requests necessary for IRLP.  We approved spending up to $200 to buy the IRLP board and cables necessary.
+
+2011-2012 Meeting Schedules, ideas.
+We discussed a possibility for monthly meetings.  Perhaps a dinner social on the months when we do not have speakers.  We also brainstormed about speakers for the next few meetings.
+
+The meeting adjourned at 9:30 PM.
+---------------
+
+Special September 1st
+Board of Directors Meeting
+Bob Evans ~ Clerk
+
+MMRA Board Minutes by Bob Evans, N1BE
+
+The MMRA Board met for a special meeting at 7:30 PM on September 1st at Stratus Technologies. Attending were K1KWP, K1IW, N1BDA, N1BE, WA1NVC, KB1LOY, N1NVK, W1BRI, W3EVE, W1JMC and KB1OEI.
+
+Kevin, K1KWP, presented a brief treasurer's report.  Last year we spent $1141 of this year's dues and we have already spent $1305 this year.  So far we have received $1695 in dues for the current year.  Thus we are running a deficit until more dues are received.
+
+The primary topic was a discussion of a plan to repair the MRW shelter which is failing and no longer weather tight.  After an August rainstorm, a tarp had to put over the shelter to keep water out.  (See Below.)  Tropical storm Irene convinced the board that we need to take immediate action.  James, KB1LOY, led a discussion of the logistics to perform this task.
+
+The shelter will be painted as part of the repair.  The board approved a motion to paint the roof of the shelter a uniform color.
+The meeting adjourned at 8:45 PM.
+-----------
+
+After a recent August rainstorm, we discovered that the roof of the Sligo shelter is beginning to separate from the sidewalls.  To prevent possible water damage, a  tarp was installed over a section of the shelter.  The shelter is very old and the club already voted on plans for its replacement several years ago.  The MMRA board held an emergency meeting (above) to discuss the current situation with the shelter and what should be done. More details will follow in the November issue.
+-------------
+
+Cycle for Life Needs Hams
+Bruce Pigott, KC1US
+Public Service Coordinator
+
+The Minuteman Repeater Association will be organizing support for the Cystic Fibrosis Foundation fund raising bicycle tours on Saturday, October 1st.  Originating from Holliston, the tours are 12, 30 and 65 miles long with 250 riders expected.  The routes will be going through Framingham, Concord, Sudbury and Dover plus other towns with 8AM and 10AM start times.  We need communicators in sweep vehicles, at rest stops and critical intersections and as organizer shadows.  This will be the first time ham radio will be used to assist with rider safety.  One problem is that cell phones do not have coverage in certain communities.  The repeaters of the MMRA will give us very good coverage of the routes.  Event information about Cycle for Life can be found at <http://mass-ri.cff.org/cycle>.
+
+For more information or to sign up, please contact kc1us@mmra.org. 
+-------------
+
+HUB2 gets a new Transmitter
+Bob DeMattia ~ K1IW
+
+Since it was installed, MMRA's backup hub, 442.700, has had the old Quintron transmitter which used to be on 449.925.  This transmitter has always been troublesome, but for the last few months it's been non-functional.  Late in August, I replaced the Quintron with a Motorola M10/Henry Amp combo from my own personal radio collection.  To make this solution permanent, the club will vote to purchase the M10 from K1IW, buy its own Henry Amp, and purchase a receiver pre-amp for HUB2 at the September meeting.
+--------
+
+Hopkinton is now on a 7K Controller
+Bob DeMattia ~ K1IW
+
+On July 1st, I removed the last 5K controller from an MMRA repeater. Hopkinton is now on a 7K controller — how's that for keeping up with technology!  
+
+The Hopkinton interface box consisted of a medium size aluminum box with cables going into it from the controller, main receiver, transmitter, and link radio.  Inside the box were four terminal strips, one each for the controller, receiver, transmitter, and link radio. Because the 5K is designed to control a simple repeater with no link radio, a circuit board, built by KA1YQB*, has an audio mixer, a relay, and some transistors.  The various terminal strips were interconnected through this board.
+
+The board is not needed with the 7K, so I removed it, along with all the interconnects.  This left the four terminal strips connected to their devices.
+
+Before getting to work on this box, I first removed the Aerotron link radio and replaced it with a Motorola M120.  I had prepped the M120 (see picture below) ahead of time with remote frequency control circuit and also brought out the separate COS line.  With this, it can access HUB1 or HUB2. 
+
+With the Motorola in place, it was time to get working on the box:
+
+There is a DB25 cable that goes from the 5k to a connector on the side of the box.  Although the cable is fully wired, only pins 1-14 and 25 were wired into the terminal strip.  What made things easy was that the terminal strip was wired in order from pin 1 through 13.  On the 5K, pins 14 and 25 are ground.
+
+To use this with a 7K, I had to add wiring for pins 15, and 22-24. All the existing pins change function, including pin 14 which is no longer ground.  I took care of this by simply relabeling slots on the terminal strip.  There were a few spare  slots on the strip, but not enough for all the new wires.  Since an interconnect is no longer needed between the terminal strips, I reused the main receiver terminal strip for the additional signals.  The receiver cable does not need its own strip since it can now connect directly to the controller's.  This took care of the 1st DB25 on the 7K.
+
+But the 7K has a second DB25!  There are only six signals we need from this one, so I reused the transmitter terminal strip for LO5 ,6, and 7 (which are used for TX3 PTT, TX3 F2 select, and fan control).  This strip also has TX3 audio which connects to the RCA jack that we add to the controller.  The remaining three signals from the second DB25 are LI1, LI2, and LI3, these connect directly to the CTCSS freq control outputs already located on the main controller terminal strip.
+
+The fourth terminal strip, originally used for the link radio, is not needed and was removed.
+
+With this in place, it was time to plug it in!  Things mostly worked, except for the receiver COS.  A quick check found that it goes from 50mV quiet to 2.5-3V active.  The 7K can't distinguish this.  Also the output is such a high impedance that the 7K's internal pull-up makes the output look like 4.99V all the time when connected.  To fix this, I recovered an NPN transistor and a resistor from the interface board and placed them on the back of the receiver box (see transistor "hack" to the right).  Yes, I could have put this inside the receiver box, but that would have required disassembling a whole lot of things.
+
+So Hopkinton is now running.  One thing that does NOT work is the PL encode on the transmitter.  On the original interconnect board, the tone was mixed in to the mic audio.  The schematic showed a separate PL input line to the transmitter, but nothing was connected to it.  I tried using this but it doesn't seem to work. I don't think this is too important and didn't have the right equipment to debug it, so I let it be for now.
+
+The audio levels were adjusted by ear...hopefully they are OK.  If not, there'll have to be another trip at some point at which time I can look into the PL encoder some more.
+
+[* KA1YQB is currently known as Bryan, W1BRI…]
+-------------
+
+2010—2011 Membership Meetings
+
+21 September Meeting 
+Westborough Public Library ~ 7:00 PM
+Rob Macedo, KC1CY
+Tornadoes and Hurrricanes
+
+16 November Meeting 
+MEMA Headquarters, Framingham ~ 7:00 PM
+TBA
+
+19 January Meeting 
+TBA ~ 7:00 PM
+TBA
+
+21 March Meeting 
+TBA ~ 7:00 PM
+TBA
+
+16 May Meeting  ~ 7:00 PM
+TBA ~ 7:00 PM
+TBA & MMRA General Elections
+
+Board of Directors Meetings
+(all are welcome)
+Wed, Oct 19	Southborough House of Pizza	
+Wed, Dec 14	Stratus, Maynard 	
+Wed, Feb 15	Conexant, Waltham 
+Wed, Apr 18	No meeting in April
+Wed, Jun 20	Kennedy's Pub, Marlboro
+-----------------
+
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	KQ1Y		Tim Wortley 
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using the digital modes during the Net: Use the New England Reflector: connect via *NEW-ENG*, node 9123.  You can find this under “Node Types” >> “Conferences.”
+
+For the HHTN, use *NEW-ENG2*, node 9127
+----------------
+
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2012		Clark Conti	N1NVK
+Director  »2012		Mike Neilsen	W1MPN
+Director  »2013		Steve Schwarm	W3EVE
+Director  »2013		Roger Coulson	WA1NVC
+
+Repeater Trustees, Appointed
+Belmont 145.430		Larry Arone	WA1RTT
+Boston 927.0625		Rick Zach	K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Bruce Pigott	KC1US
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Lowell 442.250		Vince De La Flor	K1LVF
+Marlboro 53.810, Quincy 146.670, Southboro 449.575
+
+		Bryan Cerqua	W1BRI
+Marlboro 144.390, 47.270, 224.880, 449.925, 
+Weston 442.700, 927.700 — all as W1MRA
+		Bill Northup	N1QPR
+Mendon 146.610	Jim Podsiadlo	AE1C
+Weston 146.790	Bob Evans	N1BE
+Weston 224.700	Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  	Bruce Pigott	KC1US
+VEC Liaison		Bill Wade	K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+-------------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the
+Marlboro Public Library
+
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM
+Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+--------------
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+10 Sep	Ballston Spa NY 	SCRACES @FG
+10 Sep	Windsor CT 		VR+C Mus 115 Pierson LN
+10 Sep	Windsor ME 		AARA @FG
+11 Sep	Newtown CT 		CARA @TownHall
+17 Sep	Alexander ME 		StCVARC @ElSch
+17 Sep	Forestdale RI 		RIAFMRS @VFW
+17 Sep	Alton NH 		Masonic Lodge 
+18 Sep	Cambridge MA		FLEA at MIT
+25 Sep	Hicksville NY		LIMARC @LevitHall
+ 2 Oct	Queens NY 		HoSARC 
+ 9 Oct	Wallingford CT		Nutmeg Conv 
+14,15 Oct  Deerfield NH		Nearfest X @FG
+15 Oct	Greenwood NS		GARC @CommCtr
+16 Oct	Cambridge MA 		FLEA at MIT
+22 Oct	Longueuil PQ		MSSARC 
+29 Oct	Gales Ferry CT		TCARC Auction @FireCo
+30 Oct	Westford MA		NEAntiqueRC @Regency
+ 4 Nov	Feeding Hills MA	HCRA Auction @CongCh
+5,6 Nov	Wakefield MA		Photographica 
+ 5 Nov	Londonderry NH		IRS @Lions
+12 Nov	Bourne MA		FARA @UpperCC VoTech
+ 3 Dec	Windsor CT		VR+C Mus 115 Pierson LN
+
+
+2012—————
+ 3 Mar	Feeding Hills MA	MtTARA @TurnverneinClb
+25 Mar	Framingham MA		FARA @KeefeTech
+16 Jun	Newington CT		NARL @StMarySch
+
+--------
+
+END OF NEWSLETTER

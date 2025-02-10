@@ -1,0 +1,357 @@
+The Minuteman Repeater Association
+The Minuteman
+Volume 41, Number 3
+January 2012
+--------
+
+Membership Meeting ~ Wednesday, 18 January 2012 @ 7:00 PM
+
+Introduction to D-Star
+
+Northborough Free Library ~ 34 Main Street (Rt. 20), Northborough
+Talk in — 147.27
+Terry Stader KA8SCP will be visiting to provide an introduction to D-Star digital radio technology.  With the MMRA D-Star repeater now on the air, the timing couldn't be more appropriate!
+
+Directions to The Northborough Free Library from I-495:
+>From I-495, take Exit 24B which is Rt. 20 West toward Northborough.
+Follow Rt. 20 West about 3.5 miles, into the center of Northborough..
+Opposite the Gulf Station on the right, turn left into Patty Lane.
+The Northborough Free Library parking lot will be on the left.
+--------
+
+Quincy 220 back on the air!
+Thanks to Bryan, W1BRI,
+and Roger, WA1NVC!  
+Bryan can hit it with his rubber duck on a VX7 portable at 300mW from his Milford 2nd floor shack room.  Roger can also, with his Alinco HT from Framingham.  Power into the antenna cable was measured at 45W.
+--------
+
+For those of you that would like to try 222 or 900:
+
+Alinco just released the first amateur dual band handheld for 900 MHz and 222 MHz. — The Alinco DJ-G29T
+http://www.alinco.com/Products/DJ-G29/
+--------
+
+President’s Corner
+
+Bob DeMattia — K1IW 
+
+August isn't too far away, right?  If you're involved with the New England Convention, August is never too far away, but especially now.
+
+In a few short weeks, tickets for the Boxboro convention will be on sale.  I bring this up because the convention is one of the best way to advertise MMRA to many hams that aren't members.   MMRA provides the talk-in for the convention and in return is given a hospitality booth to greet potential new members.  
+
+We need ideas and volunteers to help out with the planning and execution at this event.  If you have a really neat idea that we could use at the convention, let us know.  Would you like to help staff the table for a few hours?  Let us know.
+--------
+
+MMRA Repeaters used for Public Service in 2011
+
+Bruce Pigott — KC1US
+
+This is a summary of the repeaters used for public service events in the past year.  The coverage area of both the suburbs and downtown Boston is a great asset for organizations looking for communications support. 
+
+Event Date	Repeater		Group				Use
+Sat Feb 19	147.270, 449.925	Algonquin Amateur Radio Club	flea market talk in	
+Mon Apr 18	145.430, 146.670, 146.790, 146.820,
+147.270, 224.700, 449.925		Boston Athletic Association and
+					Mass. Bay Red Cross		Boston Marathon
+Sat Apr 30	145.430			Charles River Watershed Assoc.	fund raising canoe race
+Sun May 1	146.820, 145.430	Project Bread			Walk for Hunger
+Sun May 15	145.430			Brain Tumor Association		fund raising bicycle tour
+Sun Jun 12	146.790, 147.270	ALS Assoc. of Mass.		fund raising bicycle tour
+Sat Jul 16	147.270			NE Multiple Sclerosis Society	fund raising bicycle tour
+Tue Aug  8	ARES linked net configuration	EMass ARES		hurricane drill
+Sun Sep 18	145.430, 146.820, 147.270	Mass. Bay Red Cross	Jimmy Fund Marathon Walk
+Sat Oct  1	147.270			Cystic Fibrosis Foundation	fund raising bicycle tour
+Fri to Sun, Oct 21 to Oct 23	146.820	Mass. Bay Red Cross		Head of the Charles Regatta
+--------
+
+November 16th Membership Meeting
+Ham Radio at the Boston Marathon
+
+About 50 Hams attended the November meeting, held at MEMA Headquarters in Framingham.  After a business meeting which included a Treasurer’s report and an update on the status of all repeaters, the main event was a presentation about the Boston Marathon.
+--------
+
+MMRA Repeater Controller Primer – Part 2 - Linking
+Bob DeMattia — K1IW 
+
+In the last installment, I discussed how the MMRA repeater systems were standardized.  This was done for two reasons: (1) to make it easier to maintain all of them and (2) to provide a consistent set of control commands for both control-ops and users.  With a large linked network, one of the biggest problems to overcome is keeping the linking commands from getting too complicated.  It would be good if people are able to remember how to link and de-link without confusion, but at the same time have lots of flexibility.
+
+Each MMRA repeater can operate unlinked, linked to HUB1, or linked to HUB2.  There are user commands which work on all repeaters to accomplish this.  The exact DTMF codes are available to members on the members-only portion of our website.  Use of the link commands is on the honor system.  If you are not a member, or your membership is expired, please refrain from using the linking commands.
+
+When an MMRA member changes the link state with a user command, the change is temporary.  After nine minutes of repeater inactivity, the controller will revert to the default state.  The default state may be permanently changed by the control-op version of the linking command, or by automatically scheduled event such as the MMRA TIOS net link up on Tuesday nights.
+
+The three commands are of course “Delink”, “Link to HUB1”, and “Link to HUB2”.  For dual-repeater sites, there is only one controller and one link radio, so there are no combinations where one repeater is linked to HUB1 and the other is linked to HUB2 at the same time.  Also, one repeater cannot link to both HUBs at the same time.
+
+The controller operates in one of eight modes.  These modes and the transitions between them are explained best in the table to the right.  If a command is not listed for a particular state, it has no effect.  Note that if there is a command that would change the linking from HUB1 to HUB2, then the repeater not being linked by the new command will always end up unlinked.
+
+When linking, you shouldn’t have to worry much about this table.  Just enter the link you want to change and the controller will take care of the rest.  When you say “Link to HUB1”, the controller looks at which repeater you are on and assumes that repeater.  This allows you to use the same command, for example, on 147.27 or on 224.88 but that command will translate to “Link R1 to H1” or “Link R2 to H1” automatically.  When you are on a HUB, there are specific unique linking commands for each repeater.
+
+Transition Table    (H1 = HUB1, H2 = HUB2)
+
+State 	Repeater 1	Repeater 2	Command
+		New State
+#	(R1)		(R2)		Received	#
+-----	----------	----------	-------------	----
+0	unlinked	unlinked	Link R1 to H1	1
+0	unlinked	unlinked	Link R2 to H1	2
+0	unlinked	unlinked	Link R1 to H2	5
+0	unlinked	unlinked	Link R2 to H2	6
+0	unlinked	unlinked	Link R1 to R2	4
+1	linked H1	unlinked	Link R2 to H1	3
+1	linked H1	unlinked	Delink R1	0
+1	linked H1	unlinked	Link R1 to H2	5
+1	linked H1	unlinked	Link R2 to H2	6
+1	linked H1	unlinked	Link R1 to R2	4
+2	unlinked	linked H1	Link R1 to H1	3
+2	unlinked	linked H1	Delink R2	1
+2	unlinked	linked H1	Link R1 to H2	5
+2	unlinked	linked H1	Link R2 to H2	6
+2	unlinked	linked H1	Link R1 to R2	4
+3	linked H1	linked H1	Delink R1	2
+3	linked H1	linked H1	Delink R2	1
+3	linked H1	linked H1	Link R1 to H2	5
+3	linked H1	linked H1	Link R2 to H2	6
+3	linked H1	linked H1	Link R1 to R2	4
+4	linked R2	linked R1	Delink R1	0
+4	linked R2	linked R1	Delink R2	0
+4	linked R2	linked R1	Link R1 to H1	1
+4	linked R2	linked R1	Link R1 to H2	5
+4	linked R2	linked R1	Link R2 to H1	2
+4	linked R2	linked R1	Link R2 to H2	3
+5	linked H2	unlinked	Link R2 to H2	7
+5	linked H2	unlinked	Delink R1	0
+5	linked H2	unlinked	Link R1 to H1	1
+5	linked H2	unlinked	Link R2 to H1	2
+5	linked H2	unlinked	Link R1 to R2	4
+6	unlinked	linked H1	Link R1 to H1	7
+6	unlinked	linked H1	Delink R2	0
+6	unlinked	linked H1	Link R1 to H1	1
+6	unlinked	linked H1	Link R2 to H1	2
+6	unlinked	linked H1	Link R1 to R2	4
+7	linked H2	linked H2	Delink R1	6
+7	linked H2	linked H2	Delink R2	5
+7	linked H2	linked H2	Link R1 to H1	1
+7	linked H2	linked H2	Link R2 to H1	2
+7	linked H2	linked H2	Link R1 to R2	4
+
+In the next installment, I’ll provide a little more detail on how the SCOM controller decodes and executes DTMF commands.
+--------
+
+Marlborough West Shelter Gets an Upgrade 
+Bob DeMattia — K1IW 
+
+You may have seen this photo, or one like it, in previous issues of The Minuteman.  This was the shelter that housed the MMRA’s main Hub repeater, 449.925, as well as 147.27, 224.88, 927.700, the receive end of 53.81, the 447.875 affiliated repeater, and the APRS node.  
+
+The club had gotten used to the frequent rodent visitors that found many ways to access the interior.  However, after the heavy rainstorms in mid-August 2011, we were treated to a new problem when we found moisture inside the shelter.  This prompted the addition of the blue tarp.  While the tarp endured the subsequent tropical storm Irene, it didn’t provide full protection.  Moisture and electronics don’t generally mix well, so the decision was made that the shelter needed to be replaced before it went through another winter.
+
+The club knew this day was coming for a long time.  In 2009, Bob Stone, N1KMA donated a new shelter to the club.  All we had to do and come and get it (Bob lives in Maine), so we did!
+
+The shelter laid in waiting for nearly two years.  In that time, the inside was cleaned up and the outside was given a new coat of paint.
+
+
+On October 21st, club members descended on the old shelter and removed all the equipment.  Later in the evening, the old shelter was dragged onto a flatbed truck and hauled away.
+
+The equipment was brought to K1IW’s garage for safe storage 
+
+The next morning, the ground was graded to provide  a flat surface.
+And the new shelter was put in place by crane. 
+
+With the shelter in place, all the equipment was repopulated.  It is now protected from weather and rodents!  
+
+Special thanks go to Keith KB1OEI who hauled the shelter from Maine, stored it for almost two years, pulled out the old shelter and arranged for the crane to put the new shelter in place (all free of charge).  To James N1DDK for designing, organizing, and contributing greatly to the new shelter rebuild.  Also thanks to James KB1LOY for organizing the replacement effort and providing valuable expertise.  
+
+Finally, thanks to all the other club members who helped with the paint job, the old shelter cleanout, and the new shelter build up!
+--------
+
+MMRA December Board of Directors meeting
+Bob Evans ~ N1BE ~ Clerk
+
+At 7:00 PM on December 14th the MMRA Board met in the Maynard, MA headquarters of Stratus Technologies.  In attendance were K1KWP, K1IW, N1BDA, W1MPN, W3EVE, KC1US, W1BRI, N1DDK, N1BE and WA1NVC.
+
+Kevin, K1KWP, presented a report with details of our treasury balance, income sources and spending.  As previously reported, the MMRA was hit with expenses, including large planned and unplanned maintenance projects that exceed the income this year.  Kevin projects $1325 of additional expenses this fiscal year.  We also reviewed MRW power usage.
+
+Then Bob, K1IW led a discussion of repeater status:
+
+145.160 D-Star is back on the air in Boston but unbalanced with transmitter coverage reaching into NH, but the receiver range is much more limited.  K1IW believes that the high 2-meter noise level at the site is the primary problem.  Bob suggests dropping transmit power from 100 W to both decrease some de-sense as well as to balance the transmit and receive range.  We are also considering replacing cables and adding a circulator to that system.  It was suggested to plan a longer site visit possibly including surveying the received spectrum, so as to minimize the impact on the site host.
+
+The reworked 224.40 repeater is ready to go online in Quincy, perhaps as soon as December 28th.
+
+Site work by the City of Marlborough continues at the MRW site.  There was a tarp with an ice load pulling on the feedline of 449.925.  Bryan tightened the connection at the lightening arrestor that may have been affected by this.  Also the 6-meter receive antenna is bent.  Due to the city's site work, we may need to replace some MMRA feedlines at the time all the site feedlines are re-routed through the soon to be installed central standpipe.
+
+Roger, WA1NVC suggests a network test with all sites routing through HUB2.  This would indicate which sites need some enhancement.  The goal would be to have a redundant hub capability.  This may not be feasible for all sites like Lowell, with the present frequency plan when the links are also considered.
+
+At present MRE has difficulty linking to HUB2.  And last night during the TIAOS Net, HUB2 did not seem to be linked to HUB1.  We also discussed synchronizing the clocks in the outlying repeater controllers to the time in a 7330 HUB controller. 
+
+Bruce, KC1US reports good receive sensitivity in the Burlington VHF repeater that he has been monitoring for the last several months.
+
+Other repeaters are operating normally and were not mentioned.
+
+There have been a few recent changes of repeater control operator.  These are the control operators in the NESMC database.  (Each repeater also has a trustee registered.)  K1IW has become control operator for 146.79 at present.  Jim, N1DDK is the new control operator of 147.27.  And Ron, KB1UXT is the new control operator of 442.250.
+
+We then considered plans for the Algonquin flea market on Feb 18. WA1NVC and KC1US will represent the MMRA at this event.  We have been asked to allow talk-in on 147.27.  We will query AARC whether they also want to use 449.925.
+
+With a Boxboro convention this year, we began to consider MMRA involvement.  Much time was spent considering how to attract people to the MMRA hospitality suite.  We discussed free sodas to members, free bottle of water to those who pay dues, raffle prizes, etc.  The MMRA has an IC-730 HF radio that by consensus will be used for a raffle item.  We also considered a few other possible prizes like test equipment, a new 6-meter beam already in MMRA possession, and perhaps a new handheld VHF/UHF radio.
+
+The MMRA web hosting provider moved their equipment to a new site today.  K1IW provided a backup site with the most popular mmra.org content for today.  At the time of the board meeting, the web host completed their relocation.  With DNS updates needing to propagate, we should be online with all normal mmra.org content tomorrow.
+
+KC1US reported on the use of the MMRA network for public service events in the year 2011.  Details will appear elsewhere in the newsletter.  We also discussed putting similar info on the MMRA web site.
+
+The meeting adjourned at 9:00 PM.
+--------
+
+2011—2012 Meetings
+
+21 September 
+Rob Macedo, KC1CY — Tornadoes and Hurricanes
+Westborough Public Library ~ 7:00 PM
+
+19 October  — Business Meeting
+Southborough House of Pizza
+
+16 November 
+Ham Radio at The Boston Marathon
+MEMA Hqtrs, Framingham ~ 7:30 PM
+
+14 December — Business Meeting
+Stratus, Maynard 
+
+18 January
+All About D-Star  — Terry Stader, KA8SCP
+Northborough Free Library  ~ 7:00 PM
+
+15 February — Business Meeting
+Conexant, Waltham ` 7:00 PM
+
+21 March
+TBA
+Concord Public Safety Bldg / EOC  ~ 7:00 PM
+
+18 April
+No meeting in April
+
+16 May 
+TBA & MMRA General Elections
+TBA ~ 7:00 PM
+
+20 June — Business Meeting
+Kennedy's Pub, Marlboro ~ 7:00 PM
+--------
+
+Don’t Forget!
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	KQ1Y		Tim Wortley 
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using the digital modes during the Net: Use the New England Reflector: connect via *NEW-ENG*, node 9123.  You can find this under “Node Types” >> “Conferences.”
+
+For the HHTN, use *NEW-ENG2*, node 9127
+--------
+
+MMRA Leaders
+
+Officers
+--------
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+------------------
+Director  »2012	Clark Conti	N1NVK
+Director  »2012	Mike Neilsen	W1MPN
+Director  »2013	Steve Schwarm	W3EVE
+Director  »2013	Roger Coulson	WA1NVC
+
+Repeater Trustees, Appointed
+----------------------------
+Belmont 145.430		Larry Arone	WA1RTT
+Boston 927.0625		Rick Zach	K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Bruce Pigott	KC1US
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Lowell 442.250		Vince De La Flor K1LVF
+Marlboro 53.810, Quincy 146.670, Southboro 449.575
+	
+		Bryan Cerqua	W1BRI
+Marlboro 144.390, 47.270, 224.880, 449.925, 
+Weston 442.700, 927.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+---------------------
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  	Bruce Pigott	KC1US
+VEC Liaison		Bill Wade	K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor	B	ob DeMattia	K1IW
+--------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM
+Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+--------
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+4 Feb 	Augusta ME 	AARA @Club Calumet
+11 Feb 	Windsor CT 	VR+C Mus 115 Pierson LN 
+18 Feb 	Marlboro MA 	AARC @MidSc 
+25 Feb 	S Burlington VT 	HAM-CON @HI 
+25 Feb 	N Conway NH 	WMARC @ComCtr
+ 4 Mar 	Hicksville NY 	LIMARC @LevitHall
+10 Mar 	Feeding Hills MA MtTARA @TurnverneinClb
+18 Mar 	Southington CT 	SARA @HS 
+25 Mar 	Framingham MA F	ARA @KeefeTech
+14 Apr 	Montreal PQ 	MARC @RCL Hall
+15 Apr	Cambridge MA	FLEA at MIT
+28 Apr 	Gales Ferry CT 	RASON Auction @FireCo 
+4,5 May Deerfield NH 	Nearfest XI @FG
+12 May 	E Greenbush NY 	EGARA @FD
+20 May 	Cambridge MA	FLEA at MIT
+ 2 Jun	Windsor CT 	VR+C Mus
+16 Jun	Newington CT	NARL @StMarySch
+17 Jun	Cambridge MA	FLEA at MIT
+15 Jul	Cambridge MA	FLEA at MIT
+12 Aug	Adams MA	NoBARC @BoweFld
+19 Aug	Cambridge MA	FLEA at MIT
+ 8 Sep	Ballston Spa NY	SCRACES @FG
+--------
+
+If you haven't renewed...
+Dues are due.
+$25/year — $35/family
+($10 extra for snailmail Newsletter)
+http://www.mmra.org/
+...or mail your check,
+with your callsign listed, to:
+MMRA
+P.O. Box 669
+Stow, MA. 01775-0669
+--------
+
+END OF NEWSLETTER
