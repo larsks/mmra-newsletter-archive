@@ -1,0 +1,429 @@
+The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+Volume 44, Number 3
+January 2015
+----------
+
+Membership Meeting ~ Wednesday, Jan 21 ~ 7 PM
+
+New Roles for Amateur Radio in Public Service and Emergency Communications
+
+Rob Macedo, KD1CY 
+
+Rob serves as the National Weather Service Taunton Liason and ARES SKYWARN coordinator.  He is also a former Section Emergency Coordinator.
+Location: Westborough Public Library, 55 West Main St, Westborough.
+Talkin: 147.27
+
+For many years, one of Amateur Radio's biggest roles has been supporting surface and severe weather spotter reports for the National Weather Service SKYWARN program. ?Rob will discuss how that is done and further ways to enhance that capability, and extend it into other critical areas for public service events and other aspects of emergency communications. We will also discuss how our networks via Amateur Radio are the original form of social media and how connecting and managing other social media outlets can be a significant role for Amateur Radio Operators for Emergency Management and Non-Governmental Organizations in times of disaster and from a public service event perspective. These new roles will allow Hams to be better connected to served agencies to perform the traditional 'when all else fails' communications role during disasters by providing a high level of situational awareness and disaster intelligence information before and when normal communications fail.
+
+DIRECTIONS:   The Westborough Public Library is two blocks west of the rotary on Route 30 (West Main Street), between Parkman St. and Church St.
+>From Route 135 in Westborough:
+Follow Route 135 to the rotary in the center of Westborough. At the rotary (the intersection of Routes 135 and 30), take route 30 West (West Main Street.) The library is two blocks ahead on the right, just after the police station, on the corner of West Main and Parkman Streets. 
+>From the Massachusetts Turnpike:
+Exit at Route 495 North/Westborough. From Route 495 take Route 9 West. Follow Route 9 approximately 1.5 miles to Route 30 West. Follow Route 30 (about 2 miles) straight through the rotary in the center of Westborough. The library is two blocks ahead on the right, just after the police station, on the corner of West Main and Parkman Streets. 
+
+----------
+
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in Eastern Massachusetts.
+
+The MMRA meets (usually) on the 3rd Wednesday of each month from September to June.  Meeting times, locations, and talk-in frequency vary and are announced in this newsletter and on weekly nets.  Meetings are open to all interested parties.  Guest speakers and programs of general interest occur in September, November, January, March, and May.  The intervening meetings are also open to all members and are for general business.
+
+The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at 
+newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+
+Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+
+Email to the club leadership should be sent to 
+contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+
+An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/.  
+You can also follow us on twitter @mmraham and like us on Facebook: https://www.facebook.com/mmraham.
+
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
+----------
+
+MMRA QRM Policy
+MMRA members and all other operators are strongly encouraged to report repeater 
+activity that does not abide by Part 97 rules or accepted amateur radio practice to the board of directors at contact@mmra.org or via other means.
+
+The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
+----------
+
+President’s Corner ~ Bob DeMattia, K1IW
+
+
+December 27th, the crew of W1BRI, KG1H, N1DDK and myself installed the club's second D-STAR repeater at Sligo Hill in Marlborough.  This was done entirely with loaned equipment.  Since a few have asked if MMRA is interested in other digital modes, specifically DMR, I thought I might take a moment to answer this question as well as why we are sponsoring two D-STAR systems and no other technologies. 
+
+The original D-STAR repeater on 145.16 was spawned by a group of members who thought MMRA should have some new technologies.  The purchase was passed by a general membership vote.
+
+Since that time, it became clear that better coverage was needed further west. By a fortunate set of circumstances, N1PA had an unused D-STAR repeater which needed a home - and found one at Sligo Hill. 
+
+I've had a few inquiries about whether MMRA would be interested in sponsoring a DMR repeater.  The quick answer is that it will depend on the membership.  Just like our first D-STAR system was membership driven - other modes should be too.  That being said, a second thing to consider is how MMRA  could contribute to the existing DMR infrastructure in a useful way.  Currently,  there is a very wide coverage repeater on 145.27 in Southborough.  An MMRA installation at a site like Sligo would be very redundant with this system and thus doesn't make a lot of  sense.  DMR also has very good coverage in Boston through two repeaters, one located in Malden and another located on the Boston/Brookline line. 
+
+Finally, the club would need to consider the recurring expense aspect of the DMR system. In order to be useful, an DMR repeater would require an internet connection.  At the Brookline site, internet service is available to us at no charge.  At Sligo, we already have an existing DSL line.  Thus both systems incur no additional recurring costs. Internet connectivity adds an additional consideration to MMRA sites like Quincy or Mendon.
+
+In summary, MMRA is interested in supporting new technologies.  However, only if we have strong member support, can contribute in a meaningful way to the new mode's development, and can do it in a financially prudent way.  If you are interested in seeing MMRA expand in new directions, I encourage you to attend one of our business meetings - held on the third Wednesday of February, April, and June - and ask the board to discuss it.
+
+73, Bob
+----------
+
+Another D-Star Repeater for the MMRA ~ Bob DeMattia, K1IW
+
+
+With thanks to Paul Anzalone, N1PA, MMRA now has a second D-Star repeater on the air from our primary hub in Marlborough.  N1PA is loaning us the Icom D-Star equipment at no charge to the club.  I'm loaning the duplexer, power supply and some other miscellaneous components.  The new repeater is on 448.225 (-600).
+
+Programming a D-Star radio to operate on networked repeaters is actually a lot easier than most of the instructions you can find will have you believe.  There are four callsign fields, two of which should always be the same:
+	
+MYCALL:  (your callsign)
+
+	URCALL:  CQCQCQ
+
+The remaining two callsigns are different for each repeater - think of it like having to program two PL tones:
+    
+For the MMRA D-Star repeaters, you need:
+
+	145.16 in Brookline:
+		RPT1: K1MRA..C
+		RPT2: K1MRA..G
+	
+	448.225 in Marlborough
+
+		RPT1: W1MRA..B	
+		RPT2: W1MRA..G
+     
+	The dots (".") above represent spaces.
+
+Once you set up the correct frequency and RPT fields, you save it to a memory in your radio and you are ready to roll.
+
+Finally, remember that MMRA provides D-Star registration to all active members.  Please see http://dstar.mmra.org to register.  Registration is required in order for the network to properly connect you to distant repeaters.
+----------
+
+Belmont Update~ Bob DeMattia, K1IW
+
+
+MMRA's Belmont repeater, 145.43, is now part of Disney Amateur Radio Interconnect (DARI). This is a system of 21 repeaters around the country that are sponsored by employees of Disney, ESPN, ABC, and other Disney companies.  MMRA is the first non-Disney group to join their network. 
+
+Do you have a friend who moved to Florida or one of the locations below?  Set up a sked to chat with them on 145.43!
+
+Please note: The PL frequency of 145.43 has been changed to the MMRA 2m standard of 146.2
+
+DARI Repeater		Call		Freq	PL	Location
+
+Mt Wilson CA		WB6AJE		445.540	123.0	North of Los Angeles 
+
+Bristol CT 		WE1SPN 	448.725 	77.0 	South of Hartford 
+
+Washington DC 		WA3KOK	449.975	107.2  
+
+Orlando FL 		WD4WDW 	147.300 	103.5  
+
+Orlando FL 		WD4WDW	442.500	103.5  
+
+Orlando FL		WD4WDW	444.000	103.5  
+	
+Belmont MA		N1DDK		145.430	146.2	WNW of Boston 
+
+Frederick MD 		WA3KOK	443.400	107.2	North Central MD 
+
+Germantown MD		WA3KOK	147.270	156.7	North of DC 
+
+Towson MD 		N3DCY 		449.275	107.2	North of Baltimore 
+
+Alpine NJ			WB2ZZO		444.200	136.5 	NY/NJ Border 
+
+Hillsborough NJ		N2BEI 		449.325	107.2	Central NJ 
+
+Manhattan NY		W2ABC		147.270	141.3	Millenium Tower 
+
+Manhattan NY		K2JRC		443.700	127.3	Millenium Tower
+
+Newburgh NY		N2BEI		224.760	123.0	Mt. Beacon 
+
+Newburgh NY		N2BEI 		441.050 141.3	Mt. Beacon 
+
+Noyock NY		K1IMD		448.675	141.3	East Long Is. 
+
+Bull Run Mt. VA		WA3KOK	447.775	67.0	30 miles west of 
+ Washington, DC 
+
+Fork Mt. VA		K3HOT		443.250	107.2	120 miles west of  
+Richmond, VA 
+
+High Knob Mt. VA 	 	N4NRO		442.725 107.2	50 miles west of 
+Washington, DC 
+
+Cacapon Mt. WV		WA3KOK	442.450	107.2	East panhandle 
+----------
+
+Tones, In and Out ~ Bob DeMattia, K1IW
+
+
+Recently, we changed the tone access on the MMRA 927.700 repeater in Marlborough.  This apparently is a source of confusion, so I'll use this as an opportunity to explain tone access to our newer members.  
+
+Almost all of out repeaters transmit the same access tone that they require for access.  For example, to access the 147.27 repeater, you need to set the tone encoder on your radio to 146.2 Hz.  If you don't, the repeater will ignore your signal.  Additionally, the repeater transmits the same tone, 146.2 Hz, on its output. It's up to you whether you care to make use of this tone or not.  If you don't, your receiver is operating "CSQ" - any signal heard will be demodulated and  audio is sent to the speaker.  However, most modern radios also have a feature to enable tone squelch on their receiver.  If you choose to use this option, then only signals received with the proper tone will be heard on the speaker.  This is useful if you are often in an area where there is interference on 147.27 and you don't want to hear it.
+
+Some but not all radios allow you to use a different encode and decode tones  (encode is the tone you select to transmit, decode is the tone you require in order to hear).
+
+On 927.7, we are having a problem with feedback from the the repeater transmitter into the repeater receiver.  Because the transmitter has the same tone as the  receiver, the repeater is able to key itself.  We are still working on eliminating the feedback, but in the mean time, the tone on the transmitter output has been changed.  Because the transmitter tone no longer matches the receiver tone, the repeater can no longer key itself.
+
+What this means to you:  If you have you 900 radio set up with DPL244 on transmit and CSQ (not tone) on receive, you don't need to do anything.  If your radio is set up with DPL244 on both TX and RX, you will key up the repeater but your receiver will mute it.  You will need to set your receiver to either CSQ, or to require a tone of 131.8.  Unless you have a lot of noise on the 927.7 frequency, I would recommend going with CSQ.  This way, when we fix the feedback problem and change the repeater TX back to its original configuration, you won't need to do anything.
+----------
+
+Photos from the WTAG visit — MMRA November Meeting —
+Historical Exhibit   [Photos: KG1H]
+
+A montage of photos from the visit.
+----------
+
+December Business Meeting ~ Bob Evans, Clerk, N1BE
+
+The MMRA met for a business meeting at Stratus Technologies on Dec 17 at 7PM. In attendance were K1KWP, K1IW, N1BE, W3EVE, N1BDA, W1MPN, N1NVK, N1DDK, W1BRI, WA1NVC, KB1LOY and KG1H.
+
+Kevin, K1KWP, presented a report of club finances.  We reviewed in detail memberships that have not been renewed.  We also looked at power costs with a focus on MRW where the cost per KWH recently increased about 50%.  This spurred a discussion of ways that we might lower power consumption.
+
+Bob, K1IW, then led a discussion of repeater status updates.
+
+145.43 is back on the air.  Usually this repeater is linked to the BEARS system.  There is hum which Bob believes is a power supply problem.  We discussed getting a replacement supply.  Also, audio levels need adjusting.  The board approved an expenditure of up to $200 to purchase a replacement supply.  (12 VDC at 35 A continuously)
+
+146.715 is back on the air.  W1BRI repaired the power amp and K1IW rebuilt the rack.
+
+The board appointed Dave, KG1H, as the trustee of 442.700, Hub 2 in Weston.
+
+We discussed the 146.61 Mendon site, where the town is installing a new tower.  No action was taken.
+
+147.27 has a new battery.  Roger, WA1NVC, presented info about the Super PWRgate PG40S which is a smart charge controller.  We also considered getting a proper float charger.  The board approved an expenditure of up to $100 to purchase a float charger (not the PWRgate).  N1DDK took the action item to purchase the charger.
+
+927.700 buzz saw interference has been mitigated, but is still somewhat present.  There is also high SWR.  K1IW believes the duplexer needs to be tuned.
+
+UHF DStar repeater proposal.  N1PA has a UHF DStar repeater that he has offered on loan to the MMRA for a DStar system on Sligo.  K1IW proposed that the MMRA sponsor this repeater.  The board approved installing this repeater at MRW.  Between the Algonquin Club and the MMRA there already are three UHF repeaters at this site.  So we may have some new issues once it is installed.
+
+Discussion then turned to non-technical topics.
+
+KG1H suggested considering a special MMRA Dues Structure for youngsters to encourage them to stay active with ham radio and with the MMRA.  The board took no action since we have just started offering one year of free membership to new hams who pass exams to get their first license at the Clay Center or at the MMRA VE sessions.  It seems that next year will be a better time to discuss this when those free memberships are expiring.
+
+K1IW mentioned that there will be a Boxboro convention in 2015 and in 2016.  We brainstormed about some things that the MMRA could do at this convention.
+
+James, N1DDK reported good results with the 
+tilt-a-ma-gig for accessing the antenna mast at the MRW shelter.  When we do this in the future, James mentioned that for safety, a three-person crew is needed.  Also, James owns the winch used for this task.
+
+James also discussed ventilation for cooling the equipment in the MRW shelter.  James is looking for donations of aluminum sheet metal 13 inches square for mounting fans.  He also is looking for eight 5-inch 120V muffin fans.  We have money approved for this activity, but donated material is sought to defray some cost.
+
+Roger, WA1NVC, mentioned that BEARS has greatly increased the activity on 145.43.  Consequently, at his home QTH there is a problem with a Rhode Island repeater on the same frequency.
+
+The meeting adjourned at 8:35 PM.
+----------
+
+Antenna Mast Tilt-Over Project ~ Marlboro West (Sligo) Site
+
+James Cahill, KB1LOY
+
+Photos: KG1H
+
+The 30 ft. mast supporting link antennas secured to the shelter the MMRA Marlboro West site was difficult (and dangerous) to lower using the “Armstrong” method. A better way to get the mast down was needed.  James Lee, N1DDK proposed the concept of a “tilt-over” support frame to safely raise and lower the mast at the October 15, 2014 MMRA Board Meeting. 
+
+Later in October, James Lee, N1DDK, and James Cahill, KB1LOY, held a work party at the Sligo shelter to install the tilt-over support constructed entirely from Unistrut framing and bracket materials.  The tilt-over frame and rotating bracket was installed around the existing mast while still secured to the shelter.   The concept of using an electric winch powered by a 12 volt battery to raise and lower the mast was developed by the two at the site.  More hardware and hands were needed to execute the tilt-over.
+
+On November 22, 2014 a work party was called at the Sligo site for the maiden tilt-over.  The work party consisted of Bob, K1IW; Bryan, W1BRI; James, N1DDK; Dave, KG1H; and James, KB1LOY.  The winch and a tailboard block (pulley) were secured to existing unistrut framing.  A clamp was attached to the bottom of the mast to secure the cable from the winch.  With the rigging in place the workplan to perform the mast tilt-over was reviewed with all members of the work party.  The antenna feedlines were protected with a piece of plywood prior to the tilt-over as a prudent precaution.  The brackets securing the mast were then removed and the tilt-over was successfully executed using the winch.  
+
+With the mast lowered the feedlines and 3 link antennas were readily accessible for maintenance. The feedline connection to the uppermost link antenna was remade.  Antennas were then inspected, tested, and repositioned for improved signals between HUB1 and HUB2.  The lowermost antenna was repositioned for as a backup or for future use.   The mast was then successfully raised using the 12V power winch and re-secured to the shelter.  
+
+Article included 4 photos.
+----------
+
+MMRA HOPKINTON REPEATER   223.940 MHz
+SITE VISIT REPORT
+
+James Cahill, KB1LOY
+
+
+Bob DeMattia, K1IW, and James Cahill, KB1LOY, visited the Hopkinton Repeater site to conduct routine inspection and maintenance.  Access to the site is restricted and requires an appointment as well as site safety orientation for all visitors.  
+
+After completing the safety training we were given access into the shelter where the repeater was found to be functioning properly.  Feedlines, grounding, and power cables were visually inspected and found in good working order. The repeater and immediate area was cleaned using a portable vacuum.  The repeater controller was tested and functioned properly.
+Further inspection inside the shelter indicated visual evidence of water staining on the interior ceiling tiles. We took a closer look at the repeater and components and confirmed there was no water infiltration or water damage.
+
+The shelter was secured.  Water seepage was reported to the site host prior to departure.
+
+Article included 4 photos.
+----------
+
+New Net Controls ~ Larry Banks, Net Manager, W1DYJ
+
+I am happy to announce that we have two new Net Controls for the Technical, Informational and Other Stuff Net.  Please welcome:
+
+KC1CLA, Ed Curley from Belmont
+
+My Ham Radio history is brief.  I received my Technician's license in August 2014.  I am studying for my General which I hope to get this coming spring.  I became interested in Ham Radio because my wife and I do a lot of hiking up north and I wanted to have a means to communicate when in the back woods of New Hampshire and Maine (my wife hopes to get her Technician's license soon).  I am also interested in the public service and emergency preparedness aspect of Ham Radio.  I volunteered as a Ham to assist in communications at the Ashland Half Marathon in October 2014; and I look forward to volunteering for such events in the future.  I also hope to become involved in ARES in the future.  I volunteered to become a net control to improve and hone my on-air operating skills and to have the chance to speak with (and learn from) the many experienced Hams who check in to the MMRA net each week
+
+KB1OQA, Tom Turner from Wayland 
+
+My interest in radio goes back a long time.  I studied Broadcasting and Mass Communications at Emerson College in Boston, had a part-time job in production at a commercial radio station, and also worked as a Public Safety Dispatcher in my hometown for many years, retiring in 2011.   I received my ticket in March of 2007, and have derived much pleasure from amateur radio. Public Service Events are one of my most enjoyable functions. For several years, I have provided communications support with 250 other hams at the Boston Marathon, in addition to other events for various organizations.  I’ve also served as “Net Control” for “Georges Old-Timers Net”, as well as the Central MA 2-Meter Traffic Net (Also on the Paxton Repeater) from time to time. I’m currently a Net Controller for the “FARA Sunday Evening Net”, and also will be serving in a similar capacity on the MMRA’s “Technical, Informational, and Other Stuff Net.”
+
+And continuing on as Net Controls:
+
+K1KWP, Kevin Paetzold from Shrewsbury 
+
+I was first licensed in 1998 as KB1CZM, taking my initial license tests at an MMRA VE session.  I joined the MMRA in the summer of 1998 at the Boxborough ARRL convention.  I started attending board meetings of the MMRA in early 1998/1999 and became a net control as a result of one of those meetings.  In 1999 I was elected to be the president of the club and served for several years.  I have been the treasurer since 2004.  Two things primarily attracted me to the MMRA.  The first was the large technical/system aspect of the linked repeater system which I found very interesting.  The  other was that I view the club as the trustee of important valuable resources (the repeater sites and repeaters) that other amateurs built through great effort over many years and I wanted to do my part to preserve it for the future. I enjoy being one of the net controls because i get to experience first hand the state of the system and how it operates.  As net control I enjoy having contact with the newly licensed hams for which our net seems to be one of their first QSOs and first nets.
+
+WA1JIM, Jimmy Devaire from Quincy
+
+As a kid growing up in Puerto Rico, I was always very interested in technology. Learning about TVs and repairing them was fun enough. I was always interested in wireless communications and growing up had several handheld "walkie talkies" and CB radio. Unfortunately FCC licensing information there was not readily available much less finding a VE team to take the test. Fast forward a bit and after moving to the Boston area I was able to identify several radio clubs that offered the ticket test. I got my technician license in 2004 through the Braintree radio club as KB1KZI just before the CW requirement was removed. After meeting several fellow hams on the new to me VHF and UHF frequencies, I became interested in the magic behind the workings of repeaters. I stumbled upon the MMRA which had a large repeater network and joined it. About a decade ago I checked into one of the TIAOS nets, an opening for a net control opened up, and I gave it a shot. I've been a net control since.  I have enjoyed my time in the MMRA and have been fortunate enough to help with some projects and interact with the membership at some meetings. I only wish I could get more involved. Realizing what an important resource the MMRA is made it a no brainer for me to continue helping. Over time I changed my call sign to the vanity call WA1JIM, upgraded my ticket to General and became active in HF digital modes and the like. I've done some EME and satellite work as well. Unfortunately I have not been active in contesting, one thing I look forward to doing once I get my Extra ticket.
+
+W1DYJ, Larry Banks from Woburn 
+
+I was first licensed in 1962 in Stratford CT with novice call KN1VFX and quickly acquired my Technician license, K1VFX.  I received my current call, W1DYJ, in 1966 and currently hold the  Extra Class license.  Joining the MMRA in 1994, I am active in Contesting and DXing along with the MMRA nets.   I am also the Trustee for the Burlington 440 repeater, a member of the Board of Directors, and the Newsletter Editor.  (I am always looking for newsletter articles!)  I enjoy the MMRA nets and continue to learn new things from the conversations.  I also have a second home in Harpswell, ME, so sometimes I check into the net via Echolink.  I retired in 2012 after 24 years of Diagnostic Cardiac equipment R&D development and management with Hewlett-Packard Medical Products Group, followed by 19 years providing and managing Technical and Legal Education with HP, Agilent Technologies and Avago Technologies. 
+----------
+
+Upcoming MMRA Meetings
+
+
+Wed, 21 Jan ~ Membership Meeting
+New Roles for Amateur Radio in Public Service 
+and Emergency Communications
+Rob Macedo, KD1CY 
+Westborough Public Library
+
+Wed, 18 Feb ~ Business Meeting
+Stratus, Maynard
+
+Wed, 18 Mar ~ Membership Meeting
+Weak Signals and DX’ing
+Location TBA
+
+Wed, 15 Apr ~ Business Meeting
+Stratus, Maynard
+
+Wed, 20 May ~ Membership Meeting
+Annual Meeting: Officers Report and General Elections
+Location TBA
+
+Wed, 17 June ~ Business Meeting
+Stratus, Maynard
+
+Wed, 21 July ~ Mid-summer Get Together
+Location TBA
+
+Wed, 19 Aug ~ Business Meeting
+Stratus, Maynard
+----------
+
+Don’t Forget! 
+Join Us.
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIaOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3   KC1CLA		Ed Curley
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	KB1OQA		Tom Turner
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+MMRA Leaders
+
+	Officers
+President			Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer			Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+* Technical Officer		Bryan Cerqua	W1BRI
+
+	Board of Directors
+Director  »2015		Steve Schwarm	W3EVE
+Director  »2015		Roger Coulson	WA1NVC
+Director  »2016		Clark Conti	N1NVK
+Director  »2016		Mike Neilsen	W1MPN
+
+	Repeater Trustees
+* Belmont 145.430		James Lee	N1DDK
+* Boston 927.0625		Rick Zach	K1RJZ
+
+* Boston 146.820		John Mullaney 	K1BOS
+* Brookline 145.160	Joyce DeMattia	N1QPH
+
+* Brookline 146.820 Rcvr  	Bob Phinney	K5TEC
+* Burlington 146.715	Bruce Pigott	KC1US
+* Burlington 446.775	Larry Banks	W1DYJ
+* Hopkinton 223.940	James Cahill	KB1LOY
+* Lowell 442.250		Vince De La Flor	K1LVF
+* Marlborough 53.810; Quincy 146.670; 
+       Southborough 449.575  
+			Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.390, 147.270, 224.880,
+ 448.225, 449.925,  927.700 — all as W1MRA
+	
+			Bill Northup	N1QPR
+* Mendon 146.610		Jim Podsiadlo	AE1C
+* Quincy 224.40		Bill Dunn	N1KUG
+* Weston 146.790		Bob Evans	N1BE
+* Weston 224.700		Eddie Mulhern	N1NOM
+* Weston 442.700		David Wolfe	KG1H
+
+
+	Additional, non-Voting
+* Newsletter Editor		Larry Banks	W1DYJ
+
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.		David Wolfe	KG1H
+
+* VEC Liaison		Bill Wade	K1IJ
+
+* Net Manager		Larry Banks	W1DYJ
+
+* Web Page Editor		Bob DeMattia	K1IW
+
+	* Appointed
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+
+www.mmra.org 
+Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+
+Second Saturday
+
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+Calendar of Ham Radio Flea Markets
+
+For more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+31 Jan	Windsor CT	VR+C Mus 115 Pierson LN 
+14 Feb	Marlborough MA	AARC @MS >>>>>>>>>>>
+15 Feb	Westford MA	NEARC RadioXLVI
+ 7 Mar	Chicopee MA	MtTomARA @MooseLodge
+14 Mar	Dayville CT	ECARA @StJosephCh 
+15 Mar	Southington CT	SARA $5@8A @HS 
+22 Mar	Henniker NH	CVRC @CommSch
+27,28 Mar Lewiston ME	AARC ME Conv @Ramada
+11 Apr	Windsor CT	VR+C Mus 115 Pierson LN 
+19 Apr	Cambridge MA	Flea at  MIT 
+25 Apr	Brookline,NH	NEARC Antique
+1,2 May	Deerfield NH	NEARfest XVII @FG
+ 9 May	E Greenbush NY	EGARA @FireCo
+ 6 Jun	Hermon ME	PSARA @8 @HS 
+----------
+
+END OF NEWSLETTER
+----------

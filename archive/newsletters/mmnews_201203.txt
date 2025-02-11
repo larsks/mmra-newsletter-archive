@@ -1,0 +1,340 @@
+The Minuteman
+Volume 41, Number 4
+March 2012
+----------
+
+Membership Meeting ~ Wednesday, 21 March 2012 @ 7:00 PM
+
+
+Ham's in Emergency Communications
+
+
+Concord Public Safety Building, EOC training room, 209-219 Walden St.
+North off Rt. 2 away from Walden Pond and past the courthouse.  Walden St. is also Rt. 126.
+
+Mike Neilsen, W1MPN
+Mike will discuss how ham radio operators are still considered important players in the overall emergency communication (EMCOMM) response.  He will outline how ham radio is used in today’s complex public safety environment in the face of complicated issues of reduced state budgets and agency consolidations.  Mike will discuss the onset of sophisticated EMCOMM systems in the state and region and chart the systems for you.  He will also briefly describe the requirements of NIMS, ICS, and state programs, as they apply to ham operators.  W1MPN will explain many of the new approaches to the integration of ham EMCOMM volunteers into initiatives such as COML, RADO, ACS, and COOP/COG, and how they relate to RACES, ARES, SKYWARN, MARS, and the CERT programs.
+
+He will then give a brief update of the changes being proposed for the existing RACES program by MEMA, as part of the current outreach to hams.
+
+Mike also serves on our Board of Directors as a director.  He has previously served two terms as ARRL Eastern Massachusetts Section Manager, and as ARRL Eastern Massachusetts Section Emergency Coordinator before that.  W1MPN is a civilian advisor to the National Weather Service Office in Taunton, MA, and the SKYWARN program.  Mike presently owns Neilsen Group, an investment risk management firm.
+
+----------
+
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in Eastern
+Massachusetts.
+
+The MMRA meets (usually) on the 3rd Wednesday of September, November, January, March, and May.  Meeting time, locations and talk-in frequency vary.  These are announced in the newsletter and on weekly nets.  Meetings are open to all interested parties.
+
+The Minuteman newsletter is Emailed one week before each meeting.  Members are encouraged to submit articles.  Articles may be sent to the editor via email to newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+
+Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+
+Email to the club leadership should be sent to contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/
+
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
+----------
+
+MMRA QRM Policy
+
+MMRA members and all other operators are strongly encouraged to report repeater 
+activity that does not abide by Part 97 rules or accepted amateur radio practice to the board of directors at contact@mmra.org or via other means.
+
+The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are
+ being taken to make audio recordings of
+repeater activity.
+----------
+
+President’s Corner
+
+Bob DeMattia — K1IW 
+
+Recently, my daughter participated in a visual presentation competition through her 4-H club.  In the competition, the kids come up with a topic they wish to discuss, then prepare a three to ten minute speech, with visual aids.   They do their presentation in front of judges and are graded on many aspects of its quality.  To give you an idea of the diversity of the topics, they range from "Why people get brain freeze" to "The history of the Boston Bruins", to "What is the composition of a black hole".
+
+My daughter chose the topic "What is Ham Radio".  So next came the challenge of explaining to people who might know absolutely nothing about the hobby in about seven minutes.  
+
+What she came up with was a whole new amateur radio spectrum.  She basically broke the hobby up into four major interest areas: 
+
+Inserted graphic: A Venn Diagram of four overlapping circles labled "Working the World," "Working Local," "Construction/Experimenting," and "Contestng/Awards."  
+
+This was an interesting way to view the hobby.  After I saw it, I began trying to think of some aspect of the hobby that didn't fit these four areas, but couldn't.  Comparing this model against the sections in a recent copy of QST didn't disprove anything either.
+
+Where do you fit in this universe?  If you are an MMRA member, you most likely participate in "Working Local".  But is this your only interest, or the major one?  As a club that operates VHF and UHF repeaters, MMRA is more or less confined to this quadrant.  There are other clubs, such as YCCC, that fall into other areas.
+
+I'd be interested in hearing from club members about their interests in our hobby, and where MMRA might better serve them.  Please contact me at k1iw@mmra.org.  I may use one of the emails for a future topic in this space.
+
+By the way, if you have children or grandchildren, I encourage you to look into the 4H program in your area.  When they hear of 4H, most people think of large pumpkins or shiny apples at the state fair.  On the contrary, this organization has a strong technology component, as well as other areas of interest.  Their website is http://www.mass-4h.org.
+
+Bob—K1IW
+----------
+
+MMRA Repeater Controller Primer – Part 3 - Inside the 7K
+Bob DeMattia — K1IW 
+
+In the previous two installments, I discussed the MMRA standardization and how the MMRA network links can be reconfigured.  In this third and final part, I’ll explain a little more about the SCOM controllers.  The controllers are microprocessor based.  There is a DTMF decode listening to each repeater receiver.  When a digit is received, it is sent to the CPU to be stored as an incoming sequence.  The sequence is determined to be complete after a certain amount of time, after a “*” DTMF is received, or after the receiver goes inactive.  Once a sequence is completed, it is compared against a table of sequences to determine what to do next.
+
+The controller has built-in “root commands” that are hard coded to a particular action.  These root commands are prefixed by a secret password code which MMRA has selected.  For reasons of security, I’ll represent this code by (PW), though in reality it is a sequence of digits.
+
+Here is an example of how a root command is processed. The 7K controller has seven logic outputs which can be turned on or off by a particular DTMF sequence.
+
+That sequence is: (PW) 70 n p
+
+Where ‘n’ is the logic output number, 1 through 7, and ‘p’ is a 0 to turn it off or 1 to turn it on.  So to turn on logic output #3, you would enter: (PW) 70 3 1
+
+Then the sequence is completed by letting go of your PTT switch.  The controller looks up this sequence and turns on logic output 3.  There are hundreds of root commands that change timer values, turn transmitters on and off, enable receivers in carrier squelch on PL tone, etc.  SCOM makes its user’s manual available on its website.  If you are interested in seeing all of them, visit http://www.scomcontrollers.com/resource.shtml.
+
+The root commands are nice, but what if you want to do a number of things at once.  You wouldn’t want to have to enter dozens of different root commands separately.  To accomplish this, the controller also allows us to program macros.  Macros are a collection of root commands which are assigned to a predetermined DTMF sequence.  This sequence must be different from (PW) so that there is no possibility of confusion between a root command and a macro.  As an example, let say you want to a function “1234” that turns on logic output 3, changes the timeout timer to 90 seconds, then announces that it has done this.  You would program a macro using a set of root commands:
+
+(PW) 20 1234 (PW) 70 3 1                   //macro 1234 step 1, turn on logic output 3
+
+(PW) 29 1234 (PW) 40 015                  // step 2, set timeout timer to 90 second 
+
+(PW) 29 1234 (PW) 15 9960 0515 0338 0439  //step 3, say “Timer Ninety Seconds”
+
+Note that the root commands are embedded into the macro.  Now whenever the controller receives the sequence “1234”, it will execute the three root commands programmed into it.
+
+This process might raise a few questions:  
+
+Q: The MMRA repeaters have well over 300 macros programmed.  Do I really have to enter hundreds of DTMF digits in order to program the controllers?
+
+A: No.  While DTMF into the repeater is an option, there is a way to connect the controller to a PC and upload the sequences without have to go over the air.  At some sites, the PC is on the internet and we can actually do the whole thing off-the-air from my home office.
+
+Q: What’s with all the numbers?  It seems very cryptic.
+
+A: Fortunately, there is a text translator that allows me to enter the programming an plain English text.  I would write the above example like this:
+
+#define SHORTTIMEOUT 1234
+SHORTTIMEOUT: LO3_ON
+	SET_TIMEOUT 015
+	MSG_TX1 “Timer Ninety Seconds”
+
+The translator would take this text and convert it to the above digit sequence.
+
+I hope you’ve enjoyed my explanation of the MMRA controller system.  If you have any further questions, please feel free to email me at k1iw@mmra.org.
+
+Bob—K1IW
+----------
+
+New MMRA 222 MHz Network!
+
+The MMRA has created an exclusively 222 MHz Repeater Network.  All the MMRA 222 MHz repeaters are now full time linked together to each other only.  The “MMRA 222 MHz Repeater Network” currently consists of:
+
+	223.94 Hopkinton (HOP)	224.40 Quincy (QCY)	224.70 Weston (WES)	224.88 Marlboro (MRW)
+
+The proposal was made at the February 16 board meeting by WA1NVC to promote activity on the 222 MHz band, make more effective use of the MMRA 222 MHz repeaters, and hopefully bring more members to the club.  The cost was $0.00.  The implementation was completed on the same day.
+
+With the recent Air Force Radar activity on the 440 MHz band and the Pave Paws Radar restrictions placed on the 440 MHz band, many are looking towards other bands with 900 MHz and 222 MHz being the obvious choices.  The 900 MHz band has gained activity as a result of the 440 MHz restrictions; the 222 MHz band has better propagation than 900 MHz and there is much more ham gear available for it.
+
+New equipment for the 222 MHz band has come on the market: Jetstream mobile ($230), Alinco mobile ($230), Wouxun 144/222 MHz portable ($100), Alinco 222 MHz portable ($170), Alinco 222/900 portable ($350), Kenwood 144/222/440 MHz portable($300), etc.
+
+“Tuesday is 220 Day” is being promoted by Jeff, N1ZZN, and Roger, WA1NVC.  This is similar to the “Thursday is 900 Day” promotion.  The choice of days comes from the activity nights: Monday 144 MHz, Tuesday 220 MHz, Wednesday 432 MHz, Thursday 900 MHz and up.
+
+The New England IRLP Reflector has created a New England Amateur Radio 220 MHz Network(Near-220) channel (9124) just like the Near-900 channel (9125).
+
+The board made an additional recommendation that the “MMRA 222 MHz Repeater Network” be connected to the Near-220 channel on Tuesdays.  This will be implemented as soon as the HUB2 IRLP node is working.
+----------
+
+W1S Needs You!
+Bill McIninch — KA1MOM — Coordinator, W1S
+
+Special event station W1S (Waltham: #1 in Steam) will be part of Waltham’s 2012 Steampunk City festival on May 12-13.  We need operators and ideas to keep the station on the air from 1300-2300Z both days.  The station will be a modern HF station disguised in a shell modeled after the Massie Spark Gap station.
+
+In the steampunk world, the world of Jules Verne and other visionaries, Congress granted Mahlon Loomis a charter for his Aerial Telegraph Company in 1873, and five years later a charter to William Henry Ward for voice transmissions. By 1880, the aether was full of signals from both commercial and amateur stations.  The Industrial Age had sent its thoughts to the skies.  Waltham was the American center of the Industrial Revolution, and the town now celebrates it with the annual Steampunk City weekend.  Come help us show Wireless as part of that world.
+
+For more information, contact Bill McIninch at KA1MOM@aol.com.
+
+NOTE: Fancy costume not required, but we have people to help operators look the part.  Other hams welcome, especially those willing to disguise HTs for effect.
+----------
+
+MMRA February Business Meeting
+Bob Evans ~ N1BE ~ Clerk
+
+The MMRA held a business meeting at the Waltham-Weston Corporate Center on February 15th at 7:00 PM.  K1IW, K1KWP, N1NVK, N1BDA, WA1NVC, N1BE, and W1MPN were in attendance.  Many items were discussed.  Look for additional details elsewhere in this newsletter.
+
+	
+
+Kevin, K1KWP, presented a treasurer's report complete with balances, analysis of historic and expected spending and income, and a list of previous members who have not renewed and are now beyond the grace period for lapsed members.  Roger, WA1NVC, supplemented the list of lapsed members with callsigns of heavy 900 MHz users who are not current MMRA members.  Kevin took the action item to write a letter to the non-member 900 MHz users, inviting them to join the MMRA.  On a positive note, the MMRA currently has more dues paying members than we did in either of the last two years.
+
+	
+
+Bob, K1IW, quickly reported repeater status, focusing on changes since our last meeting.  224.88 seems to be getting desensed by its output; a similar problem is also occurring on 146.715.  The 6-Meter receive system has been replaced, eliminating the voter; this seems to be working well.  The poor D-Star receive sensitivity problem continues.
+
+	
+
+Roger, WA1NVC, presented a proposal to create an exclusively 222 MHz repeater network, by having the four MMRA repeaters on this band linked to HUB2 by default.  HUB2 also could be linked to an IRLP reflector for 222 MHz systems on Tuesdays (222 MHz day).  The board approved giving this a trial and reconfiguring MMRA assets.
+
+
+The HUB2 usage change will isolate the 10-Meter repeater from the MMRA network.  In addition, there are some issues with the 10-Meter repeater that were discussed but the board did not resolve: 10-Meter receive sensitivity seems poor, and now that 10M skip is occurring, we want to limit the amount of QRM (to both bands) caused by linking 10M to the repeater network.  Isolating 10M from the network seems to be a reasonable approach at this juncture.
+
+	
+
+$160 was approved for hardware to allow connection of HUB2 to IRLP.  In addition, $300 was approved to build an additional RF link to the Clay Center if we cannot establish TCP/IP connectivity to HUB2 for IRLP.  At the time of the meeting, it was not certain whether the second expenditure would be necessary.
+
+	
+
+We discussed MMRA participation at the Feb. 18 Marlboro flea market.  WA1NVC and KC1US are expected to represent the MMRA.  A few others indicated they likely would also attend.
+
+	
+
+MMRA participation at the Boxboro convention was then discussed.  We mostly talked about raffle prizes.  The board confirmed the action from a prior meeting, to use the IC-730 in MMRA possession as one prize.  Mike, W1MPN, offered to donate an ARRL General Class License Course to be used as another prize.  The board approved an expenditure of up to $300 for additional prizes, favoring test equipment and/or a radio suitable for 222 MHz.  K1IW and W1MPN took the action item to acquire the additional prizes. 
+
+
+Bob, K1IW, mentioned the possibility of getting an MMRA table for the Boxboro Saturday evening banquet.  This would provide 8 seats together at a 12.5% price reduction.  No action was taken on this.
+
+	
+
+Mike, W1MPN, represented the MMRA at the ARRL NE Division Cabinet meeting in January.  Mike presented a dozen slides with highlights from that meeting.  We had brief discussions of the items pertaining to teaming with makezine readers/hackerspace users as individuals who would be interested in Amateur Radio, RF Spectrum challenges due to the National Broadband plan, and an e-book version of QST to be available in the future.  Mike closed with a summary of changes planned for Massachusetts Emergency Communications.  We had particular interest in this last item with an extended discussion.  There is a meeting for former MRAS members on Feb. 25 devoted to this item.  Mike also will provide a presentation on this topic at the March MMRA meeting.
+
+	
+
+The meeting adjourned at 9:15 PM.
+
+Bob—N1BE
+----------
+
+2011—2012 Meetings
+
+21 March— Membership Meeting
+Ham’s in Emergency Communications — Mike Neilson, W1MPN
+Concord Public Safety Bldg / EOC  ~ 7:00 PM
+
+18 April — Business Meeting
+No meeting in April
+
+16 May — Membership Meeting
+TBA & MMRA General Elections
+TBA ~ 7:00 PM
+
+20 June — Business Meeting
+Kennedy's Pub, Marlboro ~ 7:00 PM
+----------
+
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	KQ1Y		Tim Wortley 
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using the digital modes during the Net: 
+Use the New England Reflector: connect via *NEW-ENG*, node 9123.  You can find this under “Node Types” >> “Conferences.”
+For the HHTN, use *NEW-ENG2*, node 9127
+----------
+
+MMRA Leaders
+
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2012		Clark Conti	N1NVK
+Director  »2012		Mike Neilsen	W1MPN
+Director  »2013		Steve Schwarm	W3EVE
+Director  »2013		Roger Coulson	WA1NVC
+
+Repeater Trustees, Appointed
+Belmont 145.430		Larry Arone	WA1RTT
+Boston 927.0625		Rick Zach		K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Bruce Pigott	KC1US
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Lowell 442.250		Vince De La Flor	K1LVF
+Marlboro 53.810, Quincy 146.670, Southboro 449.575
+	
+		Bryan Cerqua	W1BRI
+Marlboro 144.390, 147.270, 224.880, 449.925, 927.700 
+
+Weston 442.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  	Bruce Pigott	KC1US
+VEC Liaison		Bill Wade		K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+www.mmra.org >> Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+
+Contact: Bill Wade, K1IJ
+781-891-9079
+Evenings 6 - 10 PM
+Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+23-24 Mar	Lewiston ME	AARL Conv @Ramada
+25 Mar 		Framingham MA 	FARA @KeefeTech
+31 Mar 		Middletown NY 	OCARC @WalkillCom
+15 Apr 		Cambridge MA 	FLEA at MIT
+21 Apr 		S Portland ME 	PAWA @AmLegion
+28 Apr 		Gales Ferry CT 	RASON @FireCo
+29 Apr 		LaGrangeville NY MtBARC @TymorPk
+4,5 May 	Deerfield NH 	Nearfest XI @FG
+12 May 		E Greenbush NY 	EGARA @FD
+19 May 		Goshen CT 	SoBARC @FG
+20 May 		Cambridge MA 	FLEA at MIT
+ 2 Jun 		Windsor CT 	VR+C Mus 
+10 Jun 		Queens NY 	HoSARC @HoS
+16 Jun		Newington CT 	NARL @StMarySch
+16 Jun		Brookline NH 	NEAntqRC@EvntCtr
+17 Jun		Cambridge MA 	FLEA at MIT
+15 Jul		Cambridge MA  	FLEA at MIT
+11 Aug 		St Albans VT 	STARC @VFW
+12 Aug 		Adams MA 	NoBARC @BoweFld
+19 Aug		Cambridge MA 	FLEA at MIT
+24-26 Aug 	Boxboro MA 	ARRL Conv @HI
+ 8 Sep		Ballston Spa NY	SCRACES @FG
+ 9 Sep		Newtown CT	CARA @TownHall
+15 Sep		Forestdale RI	RIAFMRS @VFW
+15 Sep		Windsor CT	VR+C Mus
+16 Sep		Cambridge MA	FLEA at MIT
+12,13 Oct 	Deerfield NH	NEARFest XII @FG
+14 Oct		Queens NY	HoSARC @HoS
+21 Oct		Cambridge MA	FLEA at MIT
+27 Oct		Gales Ferry CT	TCARC @FireCo
+----------
+
+THE MINUTEMAN REPEATER ASSOCIATION
+MMRA
+P.O. Box 669
+Stow, MA. 01775-0669
+Email: contact@mmra.org
+----------
+
+End Of Newsletter

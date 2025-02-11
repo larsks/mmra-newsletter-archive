@@ -1,0 +1,365 @@
+The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+Volume 47, Number 4
+March 2018
+----------
+
+Membership Meeting 
+
+Tuesday, 20 March 7:00 PM
+
+The K3LR Super Contest Station
+Bob Naumann, W5OV, via Skype
+Location: Northborough Free Library
+Directions on Page 3
+
+Talk-in: 147.27  pl 146.2
+
+
+Bob will be showing off super-contest station K3LR. If you've ever driven I-80 from Pennsylvania into Ohio, you may have noticed an extremely large antenna farm - this is K3LR.
+----------
+
+Annual Elections for MMRA Officers will be held at the Annual Meeting on 16 May.
+We currently do not have nominees for the following positions:
+Secretary
+Clerk
+
+We also would like to solicit those interested in the other positions to be voted on:
+President
+Vice President
+Treasurer
+Two Directors
+
+If you are interested, or have a suggested name, please send it to contact@mmra.org
+by 15 April.
+----------
+
+President’s Corner
+
+David Wolfe ~ KG1H
+
+The MMRA technical experts have been busy for the past few weeks.  One of Marlborough's major repeater, Hub 1 449.925 MHz has been misbehaving for the past several months, and after extensive diagnosis and fault isolation by our experts, it was decided by the board to not fix it, but replace it with a new Kenwood NXR-810 repeater followed by a Henry amplifier.  Some of us older hams will recognize the Henry brand name.
+
+The North Reading 146.715 repeater, another misbehavior, is back on the air after its power supply was repaired
+
+In the very near future, elections of new/old officers will be selected and elected/reelected.  Identification of interested potential officers need to be determined on or before April 15.  The President will appoint a nominating committee of no less than three (3) members.   This committee, on or before May 1, will submit to the President the list of the candidates.  Nominations will be published on or before one week (May 8) prior to the May 16 meeting at the Campion Center, where the Annual Meeting & Election of officers takes place.
+
+These MMRA officers accepted to stand for reelection:
+
+	KG1H President 
+	WA1MDD Vice President
+	K1KWP Treasurer
+
+These board members, whose terms run out, accepted to stand for reelection:
+
+	WA1NVC and N1DDK
+
+We need nominations for Clerk and Secretary.  Please send suggested names to contact@mmra.org by 15 April business meeting.
+----------
+
+Directions to the 
+Northborough Free Library
+
+Directions from I-495:
+>From I-495, take Exit 24B which is Rt. 20 West toward Northborough.
+Follow Rt. 20 West about 3.5 miles, into the center of Northborough.
+Opposite the Gulf Station on the right, turn left into Patty Lane.
+The Northborough Free Library parking lot will be on the left.
+
+LIBRARY PARKING:  Patty Lane is right across from the Gulf station.  Follow Patty Lane to the library parking lot.   
+The red brick building next to the library has a tempting driveway, being right next to the library, but it is private property.  Please respect the owners' property, and use the library lot.  Additional parking is available on the corner of Hudson and Pierce, or at Town Hall.  
+Traffic exiting Patty Lane should stay to far right, even for left turns, to avoid traffic turning in. The lane closest to the pizza shop is for INCOMING traffic ONLY from Rt. 20 eastbound.
+----------
+
+ARRL Requests Expanded HF Privileges for Technician Licensees
+
+ARRL has asked the FCC to expand HF privileges for Technician licensees to include limited phone privileges on 75, 40, and 15 meters, plus RTTY and digital mode privileges on 80, 40, 15, and 10 meters. The FCC has not yet invited public comment on the proposals, which stem from recommendations put forth by the ARRL Board of Directors' Entry-Level License Committee, which explored various initiatives and gauged member opinions in 2016 and 2017.
+
+"This action will enhance the available license operating privileges in what has become the principal entry-level license class in the Amateur Service," ARRL said in its Petition. "It will attract more newcomers to Amateur Radio, it will result in increased retention of licensees who hold Technician Class licenses, and it will provide an improved incentive for entry-level licensees to increase technical self-training and pursue higher license class achievement and development of communications skills."
+
+Specifically, ARRL proposes to provide Technician licensees, present and future, with phone privileges at 3.900 to 4.000 MHz, 7.225 to 7.300 MHz, and 21.350 to 21.450 MHz, plus RTTY and digital privileges in current Technician allocations on 80, 40, 15, and 10 meters. The ARRL petition points out the explosion in popularity of various digital modes over the past 2 decades. Under the ARRL plan, the maximum HF power level for Technician operators would remain at 200 W PEP. The few remaining Novice licensees would gain no new privileges under the League's proposal.
+
+ARRL's petition points to the need for compelling incentives not only to become a radio amateur in the first place, but then to upgrade and further develop skills. Demographic and technological changes call for a "periodic rebalancing" between those two objectives, the League maintains.
+"There has not been such a rebalancing in many years," ARRL said in its petition. "It is time to do that now." The FCC has not assessed entry-level operating privileges since 2005.
+
+The Entry-Level License Committee offered very specific data and survey-supported findings about growth in Amateur Radio and its place in the advanced technological demographic that includes individuals younger than 30. It received significant input from ARRL members via more than 8,000 survey responses.
+
+"The Committee's analysis noted that today, Amateur Radio exists among many more modes of communication than it did half a century ago, or even 20 years ago," ARRL said in its petition.
+Now numbering some 378,000, Technician licensees comprise more than half of the US Amateur Radio population. ARRL said that after 17 years of experience with the current Technician license as the gateway to Amateur Radio, it's urgent to make it more attractive to newcomers, in part to improve upon science, technology, engineering, and mathematics (STEM) education "that inescapably accompanies a healthy, growing Amateur Radio Service," ARRL asserted.
+
+ARRL said its proposal is critical to developing improved operating skills, increasing emergency communication participation, improving technical self-training, and boosting overall growth in the Amateur Service, which has remained nearly inert at about 1% per year.
+
+The Entry-Level License Committee determined that the current Technician class question pool already covers far more material than necessary for an entry-level exam to validate expanded privileges. ARRL told the FCC that it would continue to refine examination preparation and training materials aimed at STEM topics, increase outreach and recruitment, work with Amateur Radio clubs, and
+encourage educational institutions to utilize Amateur Radio in STEM and other experiential learning programs.
+"ARRL requests that the Commission become a partner in this effort to promote Amateur Radio as a public benefit by making the very nominal changes proposed herein in the Technician class license operating privileges," the petition concluded.
+----------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay League, through which Amateur Radio in the United States is represented nationally and internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+----------
+
+February Business Meeting ~ Larry Banks, W1DYJ, clerk pro tem
+
+The meeting was brought to order at 6:30 pm at the Marlborough Library.  Present were: Clark, N1NVK; John, WA1MDD; Roger, WA1NVC; David, KG1H; Bob, K1IW; Brian, W1BRI; Hunter, KC1IEG, and Larry, W1DYJ.
+
+ Agenda Item: Financial Report
+* Kevin, K1KWP, our treasurer, was unable to attend.  We are told that all is well.
+ 
+Agenda Item: MMRA Calendar
+* It’s on line: www.mmra.org/meetings.html
+* A discussion concerning where to hold the next two business meetings (18 April and 20 June) ensued.  All present agreed that the Marlborough Library was a fine location and is available at a very nominal cost.  (As the MMRA is more or less located in Marlborough, supporting Marlborough City services is also a good thing to do.)  KG1H will make the reservations. (Done and acknowledged after the meeting.)
+* The Annual Meeting is scheduled on 16 May at the Campion Center in Weston.  As that is the day before the annual Dayton Hamvention, a discussion about delaying the meeting by one week ensued.  The consensus was to keep it on the 16th.  W1DYJ will make the reservation for the room at the Campion Center.  We also need a place for the dinner beforehand, as the “old” place is gone.  Suggestions solicited.
+ 
+Agenda Item: Repeater Status
+Marlborough 449.925 Hub 1
+* W1BRI confirmed that the problem is the transmitter
+* The membership-wide motion to spend up to $2000 to replace it overwhelmingly passed – 66 yes / 0 no
+* The originally recommended replacement unit: Kenwood TKR850 is no longer available, requiring us to purchase a new Kenwood NXR810 at additional cost.  Either of these require an amplifier: a Henry 70w or 100w amplifier.  The consensus was to go with the more robust amp, at $960.  However this combination (NXR810/Henry 100w amp) is over the $2000 the membership voted to approve.
+    >  Moved by N1NVK, seconded by WA1MDD, and voted unanimously that we recommend that the club spend the additional money.  (As this is over $500 a vote of the membership is required.)
+    > K1IW will generate a second Internet vote of the Membership to fund the Henry amplifier. (Sent out after the meeting.)
+ 
+North Reading
+* A power supply failure took 146.715 off the air.
+* K1IW traveled to North Reading and replaced the power supply and all is well.
+* There is still a question about 70cm coverage.  Hopefully when these units are replaced with the Yaesu DR2X this will improve.
+ 
+Internet Access
+* Internet accessible :   HUB1, HUB2, BBY, BOS, BRK, LWL, MRE, MRW, MRX, NRD, QCY, WES
+* Internet available but controller not compatible:  BEL
+* No Internet and controller not compatible:  HOP, HPC, MDN
+ 
+Agenda Item: PiPtr Controller Status
+* James, N1DDK, project lead, was unable to attend the meeting.
+* The status of the MOU between N1DDK and the MMRA is unknown.
+* This led to a discussion about the project in general, which led to the following motion:
+    > Moved by K1IW, seconded by KG1H, and voted unanimously:  To reaffirm the vote of the last Business Meeting (as recorded in the minutes published in the January 2018 newsletter) with the additional proviso that the MOU must be signed by the end of the fiscal year (31 August).
+ 
+Agenda Item: Upcoming Meeting
+* Skype Presentation in March 20, 2018
+* The topic will be the the K3LR super-contest station  (Impressive - see www.k3lr.com)
+* Bob Naumann, W5OV, giving the presentation
+* To be held at the Northborough Library – non-members invited
+* General reminder to interested hams (W1DYJ will send invite to NEWS and YCCC clubs.)
+ 
+Agenda Item: Next Newsletter
+* Article submissions need to be to W1DYJ by last day of the previous month (for March newsletter: 28 February).
+ 
+Agenda Item: Upcoming Elections
+* Elections will be at the Annual Meeting, as usual
+* Those present agreed to stand for reelection:
+    > KG1H President
+    > WA1MDD Vice President
+    > WA1NVC Director, 2020
+KG1H will email those absent to get their decision
+	(answers received are shown.)
+    > W1JMC Secretary — NO
+    > K1KWP Treasurer  — YES
+    > N1DDK Director, 2020 — YES
+* We need a Clerk – names solicited
+* Announcement to be in newsletter: need names by 18 April business meeting
+ 
+The meeting was adjourned at 7:45 pm.
+----------
+
+Early Ham History – Part 4
+
+
+>From W1DYJ: I recently obtained an ARRL Handbook from 1962, the year I was first licensed. The first few pages are a wonderful, short history of the early years of Ham radio. I hope you enjoy reading this as much as I did.  It is in 5 parts.
+
+Here is Part 4: Public Service 
+
+Amateur radio is a grand and glorious hobby but this fact alone would hardly merit such 
+wholehearted support as is given it by our 
+Government at international conferences. There are other reasons. One of these is a thorough 
+appreciation by the military and civil defense 
+authorities of the value of the amateur as a source of skilled radio personnel in time of war. Another asset is best described as "public service."
+
+About 4000 amateurs had contributed their skill and ability in '17-'18. After the war it was only natural that cordial relations should prevail 
+between the Army and Navy and the amateur. These relations strengthened in the next few years and, in gradual steps, grew into cooperative activities which resulted, in 1925, in the 
+establishment of the Naval Communications 
+Reserve and the Army-Amateur Radio System (now the Military Affiliate Radio System). In World War II thousands of amateurs in the Naval 
+Reserve were called to active duty, where they served with distinction, while many other 
+thousands served in the Army, Air Forces, Coast Guard and Marine Corps. Altogether, more than 25,000 radio amateurs served in the armed forces of the United States. Other thousands were 
+engaged in vital civilian electronic research, 
+development and manufacturing. They also 
+organized and manned the War Emergency Radio Service, the communications section of OCD.
+
+The "public-service" record of the amateur is a brilliant tribute to his work. These activities can be roughly divided into two classes, expeditions and emergencies. Amateur cooperation with 
+expeditions began in 1923 when a League 
+member, Don Mix, 1TS, of Bristol, Conn, (now 
+assistant technical editor of QST), accompanied MacMillan to the Arctic on the schooner Bowdoin with an amateur station. Amateurs in Canada and the U.S. provided the home contacts. The success of this venture was so outstanding that other 
+explorers followed suit. During subsequent years a total of perhaps two hundred voyages and 
+expeditions were assisted by amateur radio, the several explorations of the Antarctic being perhaps the best known.
+
+Since 1913 amateur radio has been the principal, and in many cases the only, means of outside 
+communication in several hundred storm, flood and earthquake emergencies in this country. The 1936 and 1937 eastern states floods, the Southern 
+California flood and Long Island-New England 
+hurricane disaster in 1938, the Florida-Gulf Coast hurricanes of 1947, and the 1955 flood disasters called for the amateur's greatest emergency effort. In these disasters and many others—tornadoes, sleet storms, forest fires, blizzards—amateurs played a major role in the relief work and earned wide commendation for their resourcefulness in 
+effecting communication where all other means had failed. During 1938 ARRL inaugurated a new 
+emergency-preparedness program, registering 
+personnel and equipment in its Emergency Corps and putting into effect a comprehensive program of cooperation with the Red Cross, and in 1947 a 
+National Emergency Coordinator was appointed to full-time duty at League headquarters.
+
+The amateur's outstanding record of organized preparation for emergency communications and performance under fire has been largely responsible for the decision of the Federal Government to set up special regulations and set aside special 
+frequencies for use by amateurs in providing 
+auxiliary communications for civil defense purposes in the event of war. Under the banner, "Radio 
+Amateur Civil Emergency Service," amateurs are setting up and manning community and area 
+networks integrated with civil defense functions of the municipal governments. Should a war cause the shut-down of routine amateur activities, the RACES will be immediately available in the national 
+defense, manned by amateurs highly skilled in emergency communication.
+
+The above is COPYRIGHT 1962 by ARRL.  
+The Handbook back then cost $3.50. 
+Next time Part 5: Technical Developments
+----------
+
+Upcoming MMRA Meetings
+Note: Meeting locations are subject to change. Consult the MMRA website for the most up-to-date information.
+
+Tuesday, 20 Mar ~ Membership Meeting — note one day early
+Topic: The K3LR Super-Contest station (via Skype)
+Bob Naumann, W5OV
+Location: Northborough Free Library 
+
+Wednesday, 18 April ~ Business Meeting
+Location: TBD
+
+Wednesday, 16 May ~ Annual Meeting
+Topic: One Ham’s Journey with Antennas
+
+Larry Banks, W1DYJ
+Location: Campion Center, Weston
+
+Wednesday, 20 June ~ Business Meeting
+Location: TBD
+----------
+
+Don’t Forget! Join Us.
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Net Control Operators:
+Week 1	WA1JIM	Jimmy Devaire	
+Week 2	W1DYJ	Larry Banks	
+Week 3 	KC1CLA	Ed Curley
+Week 4	K1KWP	Kevin Paetzold	
+Week 5 	KB1OQA	Tom Turner
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+Previous issues of the MMRA Newsletter are available at: 
+www.mmra.org >> Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+
+Third Saturday
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+MMRA Leaders
+
+Executive Board — Officers
+President	David Wolfe	KG1H
+Vice President	John Spencer	WA1MDD
+Secretary	John McGovern	W1JMC
+Treasurer	Kevin Paetzold	K1KWP
+Clerk		open
+
+Executive Board — Directors
+Director  »2018	Clark Conti	N1NVK
+Director  »2018	James Lee	N1DDK
+Director  »2019	Bob DeMattia	K1IW
+Director  »2019	Roger Coulson	WA1NVC
+
+Technical Officer
+* Technical Officer	Bryan Cerqua	W1BRI
+
+Repeater Trustees
+* Belmont 145.430	Ed Curley	KC1CLA
+* Boston 146.820	John Mullaney 	K1BOS
+* Brookline Rcv 146.82	Bob Phinney	K5TEC
+* Boston 927.0625	Rick Zach	K1RJZ
+* Hopkinton 223.940	James Cahill	KB1LOY
+* Hopkinton 449.575	Bryan Cerqua	W1BRI
+* Lowell 442.250	Vince De La Flor K1LVF
+* Marlborough 53.810,  Quincy 146.670
+		 
+	Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.390, 147.270, 224.880,
+
+       448.225, 449.925,  927.700 — all as W1MRA
+		
+	Bill Northup	N1QPR
+* Mendon 146.610	Kevin Paetzold	K1KWP
+* N. Reading 146.715	Bruce Pigott	KC1US
+* N. Reading 446.775	Larry Banks	W1DYJ
+* Quincy 224.400	Bill Dunn	N1KUG
+* Weston 146.790	Bob Evans	N1BE
+* Weston 224.700	Eddie Mulhern	N1NOM
+* Weston 442.700	David Wolfe	KG1H
+
+
+Additional, non-Voting
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	David Wolfe	KG1H
+* VEC Liaison		Bill Wade	K1IJ
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+
+* Appointed
+----------
+
+Calendar of Ham Radio Flea Markets
+
+For more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+18 Mar	Southington CT	SARA @HS
+18 Mar	Henniker NH	CVRC @CommSch
+30,31 Mar Lewiston ME	AARC ME Conv @Ramada
+ 7 Apr Hampton NH 	PCARC @Masonic
+ 8 Apr	Framingham MA FARA @KeefeHS
+14 Apr	 Newton MA 	PHSNE Photographica Sat Only @AmLegion
+15 Apr	Cambridge MA	Flea at  MIT
+21 Apr	Gales Ferry CT	RASON @FireCo
+22 Apr	Manchester CT	NEWS EVHF/UHF @Baymont
+29 Apri	Thompson CT	ECARA @ Raceway
+29 Apr	Middletown NY 	OCARC @ CommCtr
+4-5 May Deerfield NH	NEARfest XXIII @FG
+12 May	E Greenbush NY	EGARA FireCo
+19 May	Goshen CT 	SBARC @FG
+ 3 Jun	Fishkill 	MtBARC @DwnStCorr
+11 Aug	St Albans VT	STARC @VFW
+19 Aug	Adams MA	NoBARC @FG
+8,10 Sep Boxboro MA	FEMARA NE Conv
+ 9 Sep	Ballston Spa NY	SCRACES
+12-13 Oct Deerfield NH NEARfest XXIV@FG
+----------
+
+END OF NEWSLETTER

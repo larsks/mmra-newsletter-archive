@@ -1,0 +1,262 @@
+The Minuteman Repeater Association
+
+The Minuteman
+Volume 39, Number 5
+May 2010
+
+----------------
+Membership Meeting ~ Wednesday, 19 May 2010 @ 7:00 PM
+Astronomy Night
+MMRA General Elections
+The Clay Center Observatory
+
+Six NASA Astronauts are members of the Clay Center Amateur Radio Club!  Three students to will fly on NASA Hyabusa recovery mission!  Come learn about the Clay Center’s latest projects in research and education
+
+Talk in — 146.82  ~  Directions on Page 3
+
+Guest speakers: Ron Dantowitz, Director, Clay Center Observatory, and Marek Kozubal KB1NCG, Research Scientist and Astronomer
+
+-----------------
+General Elections—Slate
+
+President	Bob DeMattia		K1IW
+Vice President	Steve Telsey		N1BDA
+Secretary	John McGovern		W1JMC
+Treasurer	Kevin Paetzold		K1KWP
+Clerk		Bob Evans		N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+Director  »2011	Steve Schwarm		W3EVE
+Director  »2011	Roger Coulson		WA1NVC
+Director  »2012	Clark Conti		N1NVK
+Director  »2012	Mike Neilsen		W1MPN
+
+------------------
+The ARRL New England Convention (Boxboro) is on for August 26-29 at the Holiday Inn in Boxboro.
+
+Tickets are on sale on line at the convention website
+http://www.boxboro.org.
+
+Members who renew for two years at the convention also receive three free tickets to the MMRA convention raffle, where this year's prizes include an MFJ antenna analyzer, an Alinco 222 MHz HT, and possibly some other great items.
+
+------------------
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM   Weekends 8 AM to 10 PM.
+Accredited by the ARRL VEC
+
+------------------------
+Public Service
+Bruce Pigott —  KC1US — Public Service Coordinator
+
+Operating at Public Service events has a certain flow to it and certain procedures.  First, the communications involve setting up of the route and water stops. Then participants start with the more athletic types at the front.  A rising tide of participants follows, then a tapering, which slows down to a trickle and picking up of supplies and equipment. The messages are of tactical nature and do not need the formal requirements of the National Traffic System.  Since these events happen during the warmer weather, it is usually a nice day to be outside, not cutting the grass. It is a less stressful way to learn the features of your radio and practice setting up of equipment.  
+
+Depending on the size of the event you may be part of a team or by yourself.  At the Boston Marathon, the Red Cross aid stations are staffed with three operators —  important due to the amount of communications at times.  It also allows less experienced hams to learn from those with more experience. After being at a few events, you will be the only communicator at a location, and most of the other event volunteers helping will have less experience than you. 
+
+Here are a few tips based on listening to communications at events through the years:
+
+Use plain language - Q signals, Morse code prosigns, and funny phonetics are unnecessary on voice channels and reduce message comprehension. 
+
+Push to talk, Wait to talk - All repeaters have delay.  Some have more transmit delay than others, especially linked systems. 
+
+Take it off your belt.  Leaving your hand held radio next to your body will cause up to a 15dB loss in transmit power.  Your two watts are reduced to only 1/16 of a watt. 
+
+Upcoming event: June 26 and 27 is the MS150 Cape Cod Getaway scenic bicycle tour from Quincy to Provincetown. As it is on Field Day weekend, there is a lot of competition for operators. See the list at the end of this newsletter for contact details. One club that is looking for more support at a number of events is the Boston Amateur Radio Club. Their calendar is listed in the current newsletter available at
+http://www.barc.org/. 
+
+-----------------------
+President’s Corner
+
+Bob DeMattia — K1IW 
+
+As always, we will be wrapping up the MMRA calendar year with our May meeting.  We will be meeting at the Clay Center Observatory in Brookline where a member of the observatory staff will brief us in developments in astronomy and in particular one aspect of their work there.
+
+After this meeting, the MMRA doesn't completely go to sleep however.  Summertime weather allows us to complete infrastructure projects that we don't get to when it's cold.  Look for our new 7330 controllers to come online at our HUB1 and HUB2 repeaters.  The existing 7K controllers that
+are at these sites will be redeployed to our Hopkinton and Southborough sites.  Also on the list is an upgrade to our 10m transmitter antenna location in Marlborough.  It will be moved from its low spot on a storage building to the top of the crank-up mast - an increase of approximately 30 feet.
+
+Finally, look for the MMRA suite at the Boxboro convention in August.  We  will be providing talk-in for the convention.  The suite also has a member's reception area with soft drinks and light snacks for members.  The suite is also a great way to renew your membership in person.  Members who renew for two years at the convention also receive three free tickets to the MMRA convention raffle, where this year's prizes include an MFJ antenna analyzer, an Alinco 222 MHz HT, and possibly some other great items.  Even if you don't renew, or if you do but want to purchase additional tickets, the raffle tickets are sold for $2 each, 3 for $5, or 7 for $10.  Tickets are only available for purchase at the convention.  The drawing is held in our suit just before we shut down the main convention drawing.  You need not be present to win.
+
+If you are not going to attend the convention, you can still renew your membership online from our club website.  All memberships run September through August, so why not take the opportunity to renew today for next year!?
+
+73 — Bob
+
+--------------------
+Digital Update ~ How to connect via Echolink or IRLP
+
+Bob DeMattia — K1IW 
+
+MMRA repeaters are on automatic schedulers which allow the network to reconfigure on its own several times during the week.  On Tuesdays at 8PM, most MMRA repeaters link together for the MMRA Technical Information and Other Stuff net.  On other weeknights, they link up at 10PM for the Heavy Hitters traffic net.  The links disconnect just before midnight.  To see which repeaters link up, see our website: http://www.mmra.org/repeaters, then click on "Table View".
+
+The 900 MHz repeaters are normally linked to the NEAR-900 net, a collection of 900 MHz systems tied to IRLP reflector 9125.  On Tuesdays, the 449.925 and the two 900 machines link together through IRLP reflector 9122.  
+
+If you want to join our net on Tuesday nights, you will not be able to connect directly to the HUB.  Instead, connect to the New England reflector.  This reflector can also be reached via EchoLink at *NEW-ENG2* or IRLP node 9127.  The reflector allows a lot more Echolink users than our HUBs node can, as well as allowing the 900 MHz repeaters to be linked.  For more information on the New England reflector, go to http://new-eng.com.
+
+----------------------
+March Membership Meeting
+
+The March Members Meeting was held at the MEMA bunker in Framingham on 24 March.  Featured speaker was Ed Hare, W1RFI, ARRL Lab Manager, who told us about the latest activities at the ARRL Lab.  Here are some photos from the night:
+
+With the successful completion of the Larcan Amplifier Fundraiser, President Bob, K1IW, presents Rick, K1RJZ, with a “Thank You” — a plaque and a $50 gift certificate.  
+
+Other awardees include  Mike Keller, Dave Beauvais, Doug Durkee, and Robert Maw.
+
+------------------------
+SKYWARN Storm Spotter training ~ Steve Telsey, N1BDA
+
+There will be a SKYWARN Storm Spotter training class May 15 at Concord Academy, in the Ransome room of the Math and Arts Center which is located across from the Gym. Concord Academy is located at 166 Main Street in Concord.  Parking at the school is limited; however, there is a municipal parking lot off of Main Street on Keyes Road.  The training is scheduled to begin at 10:00 AM.
+
+Rob Macedo, KD1CY a 15-year veteran of the NWS SKYWARN program will be the presenter. The program covers topics such as hurricanes, lightning, tornadoes, down bursts and other summer and winter weather events. This highly informative and timely program will also provide information on identifying cloud formations, identifying hail sizes and estimating wind speed.
+This program is open to all and will be of particular interest to anyone who enjoys outside activities such as sports, camping, boating or is just interested in learning more about the weather.  This program will also cover safety tips that are appropriate during severe weather events.
+
+The workshop is free, the multi-media presentation is captivating, and the handouts (new this spring) are excellent and informative reference materials.  At the end of the program participants will have the opportunity to join the National Weather Service SKYWARN Spotters Program.
+
+Please pass the word and encourage hams and non-hams alike to join us on May 15.
+
+-------------------
+March 6 Foxhunt Results
+Charlie Suprin, AA1VS 
+
+The call of the fox lured many a hunter out from their winter den.  The fox hid on the Weston 146.790 repeater while the hunters used their traditional shotgun start.  The hunters cornered the fox at the end of Cranberry Circuit in Sudbury, near the borders of Sudbury, Maynard, Acton, and Concord.  After the first foxhunt, there was an optional second foxhunt on 902.5 simplex for the hunters.  This hunt brought out several teams and an interesting collection of hunting gear.
+
+The teams found the primary fox in the following order.
+1st Place at 11:05: N1OMJ, K1BOS, N1DIZ, N1TBN
+2nd Place at 11:20: KB1TEH, KB1REQ, NI1X
+3rd Place at 11:52: W1/VK3MD
+4th Place at 11:53: WB1W
+5th Place at 12:35: KB1NXM
+
+The hunters used varied tools in their hunt.  Tape measure yagis were common.  One Doppler system appeared. L-per and ARDF gear also appeared.  Also most stations were able to copy the 900MHz fox using either an extended receive amateur radio, a scanner or modified commercial equipment.
+
+Back row left to right: Dennis Ditto N1DIZ, John Mullaney K1BOS, Alan Marchioni N1TBN and Bob Rogers WA1PIO - the fox. Front kneeling left to right: Charlie Suprin AA1VS Assistant Fox and Mike Giovannucci N1OMJ.
+
+------------------------
+6M Work at MRE
+
+Some pictures from the recent project to improve the 6M repeater transmitter at MRE.  
+
+Bryan, W1BRI, and Bob, K1IW, checking out the SWR of the 6M new antenna.
+
+The new “very high-end Kreco co-plane" 6M antenna.
+
+Bryan, W1BRI, also replaced the MASTR-II 1/4 kW tube type (4CX250) PA with a solid-state “Larcan Ionosphere Hole-Burner” running at a leisurely 350 watts.
+
+-------------------------
+MMRA April
+Board of Directors Meeting
+
+Attendees: K1KWP, K1IW, W1BRI, N1NVK and W1MPN.
+
+Moved and voted to spend $350 on Boxboro prizes.
+
+Moved and voted to put the current officer slate up for re-election.
+
+Repeater progress:
+
+	Quincy 220 — Bryan will continue to work on it with the hope of repairing it before we buy a new one.
+
+	MRE — The tree work is complete.  W1BRI and K1KWP lowered the crank-up mast and started to remove the existing 6m antenna.  (See more information about replacing the 6M antenna elsewhere in this Newsletter.)
+
+
+
+------------------------
+Don’t Forget!
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  We need another net control!
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+
+Current Net Control Operators:
+
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	???		OPEN	
+Week 3	W1DYJ		Larry Banks
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using the digital modes, use the New England Reflector:
+	For IRLP use node 9127
+	For Echolink, connect via *NEW-ENG2*.  You can find this under “Node Types” >> “Conferences”
+
+--------------------------
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2010		Clark Conti	N1NVK
+Director  »2010		Mike Neilsen	W1MPN
+Director  »2011			Steve Schwarm	W3EVE
+Director  »2011	Roger Coulson	WA1NVC
+
+Repeater Trustees, Appointed
+Belmont 145.430		Larry Arone	WA1RTT
+Boston 927.0625		Rick Zach		K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Chris Conti	N1NVL
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Marlboro 53.810, Quincy 146.670, Southboro 449.575
+			Bryan Cerqua	W1BRI
+Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Quincy 224.400		Bill Dunn		N1KUG
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  Bruce Pigott	KC1US
+VEC Liaison		Bill Wade		K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+
+--------------------------
+Calendar of Ham Radio Events
+Public Service Events
+See this web site for contact information
+ http://purl.org/hamradio/publicservice/nediv
+
+May 22	Natick MA		MS Journey of Hope Walk
+May 23	Devens MA		Parker Classic
+Jun 26,27  Quincy MA  to PTown	MS Cape Cod Getaway
+Jul 3-5	Fitchburg MA		Longsjo Classic 
+Jul 17	Concord MA		MS Minuteman Ride
+Jul 24	Devens MA		Alzheimer's Memory Ride
+
+New England Area Ham - Electronic Flea Markets 
+See this web site for contact information
+http://mit.edu/w1gsl/Public/ne-fleas
+
+16 May	Cambridge MA		FLEA at MIT 
+22 May	Goshen CT		SoBARC
+29 May	Vernon CT		NARC	
+ 4 Jun	Feeding Hills MA 	HCRA Tail Gate 
+  5 Jun	Hermon ME		PSARC
+ 12 Jun	Windsor CT		VR+C Mus
+12 Jun	Rochester NH		GBRA 
+ 9 Jun	Newington CT		NARL
+19 Jun	Windsor VT		CVFMA
+24 Jul	Thomaston ME		PBARC
+24 Jul	N Haven CT		Yankee Peddler
+14 Aug	Gales Ferry CT		RASON
+14 Aug	Swanton VT		StAARC
+22 Aug	Adams MA		NoBarc
+27,29 Aug 	Boxboro MA	FEMARA NE Conv
+
+----------------------
+END OF NEWSLETTER
+
+
+

@@ -1,0 +1,320 @@
+The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+Volume 48, Number 2
+November 2018
+----------
+
+Membership Meeting Wednesday, 28 November 7:30 PM
+James Lee ~ N1DDK
+CHIRP / HT Workshop
+
+Bring your (analog FM) HT to get help with programming with Chirp or test it on some test equipment.
+James, N1DDK, will be doing a shortened version of his popular chirp talk tailored to MMRA and will have
+programming cables for many types of radios.  Bring your laptop with the latest chirp installed to get some pointers.  Tips for making cables and dealing with driver issues will be presented.  We will not attempt to resolver driver issues.
+Brian, W1BRI will bring various test equipment and will be able to test your HT.   When you leave you should be able to program your radio with chirp and should know if it is in proper working order.
+James Lee N1DDK was first licensed in 1982, did some chirp development and is a big believer in helping the open source and ham radio communities.  While he refuses to fix your radios, he hopes to inspire you to fix, program or do more with your radio and hobby gear!
+
+Location:
+New England Sci-Tech Inc.
+16 Tech Circle Natick MA
+[Talk-in: 147.27  pl 146.2]
+
+Before James’ talk, the MMRA will have an election to fill the vacant 
+positions of President and Clerk.
+
+
+MMRA Officer Nominations:
+N1DCH David Hornbaker – President 
+N1NVK Clark Conti  – Clerk 
+----------
+
+Directions to New England Sci-Tech Inc.
+
+16 Tech Circle		Natick MA 01760
+
+
+From the north: take Rt 95 or Rt 27 or Rt 495 south to Route 30 toward Wayland. Once in Wayland, turn South on Oak Street and in 1/2 mile look for Tech Circle on your left. Follow Tech Circle to the end.
+
+From the south: take Rt 95 or Rt 27 or Rt 495 north to Route 9 toward Natick. At the Wellesley-Natick line, turn North on Oak Street and in 1/2 mile look for Tech Circle on your right. Follow Tech Circle to the end.
+
+From the east or west: follow either Rt 30 or Rt 9 toward Natick, turn onto Oak Street at a set of traffic lights, and in 1/2 mile look for Tech Circle. Follow Tech Circle to the end.
+----------
+
+BOXBORO! 2018 ~ September 2018
+The following lucky hams were winners of the MMRA door prizes:
+ICOM 2730A Dual Band Mobile: Dave, KG1H 
+		(Dave subsequently donated this to New England Sci-Tech and Bob Phinney, K5TEC)
+Yaesu FT70DR HT:	Joe, N1JIW
+Book: More Arduino Projects for Ham Radio: Mike, KC1HNG
+
+Following are five photos form Boxboro! 2018
+----------
+
+September Membership Meeting Minutes
+
+The September membership meeting of the MMRA was held on 19 September 2018 at New England Sci-Tech Inc. in Natick MA.  The meeting was called to order at 7:01 PM EDT by Vice President John Spencer, WA1MDD. 
+
+Present were 16 MMRA members and 8 guests from New England Sci-Tech.  Of the MMRA members, seven (7) were Board members of which four (4) were Executive Board members, and nine (9) were non-Board members.  This meets the MMRA quorum requirements.
+
+Old Business
+
+There was none
+
+New Business
+
+A motion was made by Dave N1DCH to allow the MMRA board to spend up to $2500 dollars on emergency repairs of currently in-service repeater equipment, in the event of catastrophic failure. This money was not to be used on upgrades or improvements. This money is subject to an annual vote.  After a long discussion a vote was taken: 16 members voted Yes, and 0 members voted No. Motion was ruled Passed.
+
+The membership was notified of the resignation of the president Dave KG1H for personal reasons and nominations for a new president was opened to the floor. No nomination was made. Dave, N1DCH said he would take the office of President and keep the position of Secretary. The MMRA Bylaws permit an officer to hold two offices but not three.  The membership needs to be notified and a vote taken at the next MMRA Meeting. 
+
+The membership was asked to fill the vacant position of Clerk. After a discussion of the duties of the Clerk, Clark, N1NVK said he would take the position of Clerk. The membership needs to be notified and a vote taken at the next MMRA Meeting. 
+
+Bryan, W1BRI, (Technical Officer) discussed problems and changes at the Mendon Repeater site. A new higher tower has been installed and a new equipment building. Bryan has talked to the “powers that be” and the MMRA has the option to move our 146.610 antenna to the new tower and our equipment to the new building. After a lot of comments from the membership the consensus was that the cost of taking the 12-year-old DB224 antenna down was likely to be more than the cost of a new DB224 antenna, not to mention the risk of using an old antenna. After a long discussion of the costs and checking prices on the internet, a motion was made to do the upgrade if the cost was less the $1500 dollars, including labor, when the opportunity presented itself. 16 members voted Yes, and 0 members voted No. Motion was ruled Passed. 
+
+A discussion of repeater IDs during recent nets ensued.  Many participants mentioned how often a person is interrupted by these IDs.  It appears that the IDs may not be activating as expected.  Bruce, KC1US, mentioned that he had a recording of the recent net from Belmont 2M and would send it to the Board so we could diagnose the likely cause.  (Note – during the net of 25 September the IDs were once again very obvious, with one participant counting five(5) IDs in the space of one minute – ed.) 
+
+The meeting was closed at 7:47 PM and turned over to Bob Phinney, K5TEC for his talk on his new startup “New England Sci-Tech Inc.” and a presentation on:
+ Discovering Ham Radio through Makerspace.
+(In the editors opinion, this was one of the best meetings we have had in quite some time – ed) 
+
+73 – John, WA1MDD (with additional input from Larry, W1DYJ)
+----------
+
+September Membership Meeting ~ Photos
+Bob Phinney ~ K5TEC
+Discovering Ham Radio through Makerspace
+
+ 
+Following are five photos frm the presentation.
+----------
+
+From: The ARRL Contest Update for September 19, 2018
+
+Editor: Brian Moran, N9ADG
+
+CONVERSATION ~ It's Different for a YL
+
+
+One YL operator I spoke with recently shared some of her experiences in becoming a contester. She relates that after she'd become an Amateur and expressed her contesting interest at a local radio club meeting, she was told that "she didn't want to be a contester" by more than a small number of crusty been-there done-that types, in various ways verbally and non-verbally. Thankfully, she's persistent, confident, and has skills that enable her to reach her goals, and also met some contesters that encouraged her interest. It turns out she's a good operator, and not infrequently makes more contacts than anyone else when she participates in multi-op groups. 
+
+When she does a multi-op, she has different on the air experiences than her male team members. She has not infrequently received comments on the order of "I hate when women do contests, I can't understand their accent." After calling "CQ Contest," callers will often uncomfortably draw out the contact, and stray from the contest format with creepy requests for non-exchange related personal information. If tolerance for this type of behavior continues as part of Amateur Radio, then we should expect continued declining numbers and lack of diversity in our hobby. The next time you hear a female-sounding voice during a contest, you should assume that person is on the air to make a lot of contacts, just like you. If you hear someone stopping to comment on a voice or request non-relevant personal details, not only are they delaying her, they're slowing down everyone else in the pile up... including you.
+
+{From your editor — this applies to repeater conversations as well.  Larry, W1DYJ]
+----------
+
+October Business Meeting Minutes
+
+The October business meeting of the MMRA was held on 17 October 2018 in Lancaster MA.  The meeting was called to order at 7:38 PM EDT by Vice President John Spencer, WA1MDD. 
+
+Present were 7 MMRA members: James, N1DDK; John, WA1MDD; Kevin, K1KWP; Dave, N1DCH, Clark, N1NVK; Larry, W1DYJ, and one other.
+
+Election of President and Clerk
+Dave, N1DCH has agreed to be nominated as president, to serve out the unfinished term of our ex-President David, KG1H.  Clark, N1NVK, has agree to be nominated for our empty office of Clerk.  Both of these positions will be voted on at our next membership meeting, on 28 November. 
+
+Topics, venues, etc., for upcoming Meetings
+A discussion about potential meeting speakers and topics led to some ideas that will be pursued.  Our November meeting will be a “streamlined” CHIRP talk by James, N1DDK, with Bryan, W1BRI, and the Service Monitor, held at New England SciTech in Natick.  March’s meeting will be in Burlington with Larry, W1DYJ as the speaker – topic to be determined later.  We still need additional meeting venues and topics, including for business meetings.   
+
+Additional discussion led to a decision to move toward adding a teleconferencing option for business meetings.  Dave, N1DCH will bring his “audio puck” to the December meeting as a trial.  The February meeting is slated to be teleconference only. 
+
+An offer, advanced by Bob, K1IW, to share a Skype account with FEMARA (the Boxboro! committee) for teleconferencing was discussed.  Moved, seconded, and voted to accept this offer.  An amount not to exceed $70 was agreed upon in case we decided to purchase our own Skype account. 
+
+Treasurer’s Report
+Kevin, K1KWP, led a discussion concerning Boxboro! 2018 finances.  There were some issues around the number of dinner tickets purchased and sold, and some issues about the seating arrangements.  Move, seconded, and voted to resolve these issues.   
+
+Repeater Status
+All is basically OK.  An earlier issue about IDs seems to be resolved. 
+
+Official MMRA Letterhead
+Kevin suggested that we should have some official letterhead.   Larry, W1DYJ, volunteered to generate something.  (This is now available, contact K1KWP.)
+
+Too many emails???
+Some members of the Board of Directors felt there were too many “unofficial” emails being generated on the BoD email reflector.  No obvious solution was developed for this conundrum as it is very hard to tell “up-front” which BoD members will be interested in/concerned about any one email. 
+
+Control Operators
+Some control operators do not feel that have the knowledge/experience for controlling the repeaters they are the control operator for.  A suggestion of some formal training for control operators was put forward. 
+
+The meeting was adjourned at 9:10 pm.
+
+(Captured by Larry, W1DYJ)
+----------
+
+MMRA Project Update ~ Bob DeMattia, K1IW
+
+As some may remember, the Quincy Raspberry Pi was put online on May 14, 2017.  It ran reliably, sending out a once-daily heartbeat packet every morning at 2:16 AM until July 8th when it stopped for no apparent reason.  (You can check the connection status of all the MMRA internet-connected repeaters at: http://mmra.org/last_heard.log)
+
+On Sunday, November 4th, the Quincy R-Pi came back to life.  I suspect there was a power outage during the wind storms on the previous day (we had two outages at the home QTH.)  So the power cycle: OFF provided by Mother Nature and  ON provided National Grid repair crews, did the trick.   A bit of a hammer to solve a relatively simple problem.
+
+I do have a power cycle assembly so that we will be able to do this remotely from the 7330 controller, but it needs to be installed.  There are similar arrangements at several other sites which have come in useful a many times.  In the meantime, the only remedy if it happens again is to either drive to QCY to cycle the power, or wait for the next outage.
+
+In May the board approved two projects:
+
+	(1) For the Prudential transmitter: Fix the PL encode on 146.82 and fix the internet connectivity problem (a problem with the box we use at the site).  All this equipment arrived a long time ago, but unfortunately too close to my moving to a new house.  I need to do some final testing on the Raspberry Pi (by next weekend), then this will be ready to installed.
+
+	(2) Upgrade of Belmont to 7330 controller and establish internet connectivity.
+
+This one is going to take a little longer.  It will require some semblance of a workshop to build and test everything.  When I moved, we knew we were going to need additional storage in the new house, so the plan was to construct a garage beginning in August.  That construction didn't begin until October.  What we have now is a framed and plywood sided building (no roof shingles yet).  Why this is important is because all the stuff that is supposed to be in the garage is filling up the workshop.  So no garage, no workshop.  No workshop, no progress.  I'm told the shingles are coming soon, followed quickly by doors and windows.  Then we have to move all the stuff out there and build the workshop.  I suspect the Belmont project will come to fruition 
+some time over the winter.
+----------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay League, through which Amateur Radio in the United States is represented nationally and internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+----------
+
+Upcoming MMRA Meetings
+Note: Meeting locations are subject to change. Consult the MMRA website for the most up-to-date information
+
+Wednesday, 28 November ~ Membership Meeting
+Speaker/Topic: James Lee, N1DDK: CHIRP / HT Workshop
+Location: New England Sci-Tech Inc., Natick
+
+Wednesday, 19 December ~ Business Meeting
+Location: tbd + Teleconference
+
+Wednesday, 16 January ~ Membership Meeting
+Speaker/Topic: tbd
+Location: tbd
+
+Wednesday, 20 February ~ Business Meeting
+Location: Teleconference
+
+Tuesday, 20 Mar ~ Membership Meeting 
+Speaker/Topic: Larry Banks, W1DYJ: 
+Location: Burlington
+
+Wednesday, 17 April ~ Business Meeting
+Location: tbd + Teleconference
+
+Wednesday, 15 May ~ Annual Meeting
+Speaker/Topic: tbd
+Location: Weston
+
+Wednesday, 19 June ~ Business Meeting
+Location: tbd + Teleconference
+----------
+
+Don’t Forget! Join Us.
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Net Control Operators:
+Week 1	WA1JIM	Jimmy Devaire	
+Week 2	W1DYJ	Larry Banks	
+Week 3 	KC1CLA	Ed Curley
+Week 4	K1KWP	Kevin Paetzold	
+Week 5 	KB1OQA	Tom Turner
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+
+www.mmra.org è Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+
+Check here for the schedule:
+http://www.mmra.org/exam.html
+Contact: Bill Wade, K1IJ      617-699-3670 
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+MMRA Leaders
+
+
+Executive Board — Officers
+President	open
+Vice President	John Spencer		WA1MDD
+Secretary	David Hornbaker 	N1DCH 
+Treasurer	Kevin Paetzold		K1KWP
+Clerk	open
+
+Executive Board — Directors
+Director  	»2019	Bob DeMattia	K1IW
+Director  	»2019	Roger Coulson	WA1NVC
+Director  	»2020	Clark Conti	N1NVK
+Director  	»2020	James Lee	N1DDK
+
+Technical Officer
+* Technical Officer	Bryan Cerqua	W1BRI
+
+Repeater Trustees
+* Belmont 145.430	Ed Curley	KC1CLA
+* Boston 146.820	John Mullaney 	K1BOS
+* Brookline Rcv 146.82	Bob Phinney	K5TEC
+* Boston 927.0625	Rick Zach	K1RJZ
+* Hopkinton 223.940	James Cahill	KB1LOY
+* Hopkinton 449.575	Bryan Cerqua	W1BRI
+* Lowell 442.250	Vince De La Flor	K1LVF
+* Marlborough 53.810,  Quincy 146.670; 
+	Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.390, 147.270, 224.880,
+	448.225, 449.925,  927.700 — all as W1MRA
+
+	Bill Northup	N1QPR
+* Mendon 146.610	Kevin Paetzold	K1KWP
+* N. Reading 146.715	Bruce Pigott	KC1US
+* N. Reading 446.775	Larry Banks	W1DYJ
+* Quincy 224.400	Bill Dunn	N1KUG
+* Weston 146.790	Bob Evans	N1BE
+* Weston 224.700	Eddie Mulhern	N1NOM
+* Weston 442.700	David Wolfe	KG1H
+
+
+Additional, non-Voting
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	David Wolfe	KG1H
+* VEC Liaison		Bill Wade	K1IJ
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+
+* Appointed
+----------
+
+Calendar of Ham Radio Flea Markets
+
+For more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+ 1 Dec	Windsor CT 	VR+C Mus 115 Pierson LN
+19 Jan	Whitman MA	WARC @KoC Rt18
+16 Feb 	Marlboro MA	AARC  @MidSch
+23 Feb	S Burlington VT	RAoNV @HI
+ 3 Mar	Nashua NH	NEARC/NEVEC Radio50@Marriot CourtYard
+ 9 Mar	Chicopee MA	MtTomARA @Castle
+24 Mar 	Southington CT 	SARA
+29,30 Mar Lewiston ME	AARC ME Conv @Ramada
+ 7 Apr	Framingham MA 	FARA 9AM@KeefeHS
+28 Apr	Thompson CT	ECARA @ Raceway
+3-4 May Deerfield NH 	NEARfest XXV @FG
+12 May	E Greenbush NY	EGARA FireCo
+  2 Jun	Queens, NY 	HOSARC @HOS
+25 Aug	Newtown CT	CARA @TownHall
+11-12 Oct Deerfield NH 	NEARfest XXVI @FG
+----------
+
+[END OF NEWSLETTER]
+

@@ -1,0 +1,357 @@
+The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+Volume 47, Number 3
+January 2018
+----------
+
+Membership Meeting ~ Wednesday, 17 January 7:00 PM
+
+PiPtr Project Update
+James Lee, N1DDK
+Location: Northborough Free Library
+Talk-in: 147.27  pl 146.2
+
+
+NOTE: There will be two votes of the membership at this meeting to approve
+
+expenditures for:
+The PiPtr Project  --  Amount not to exceed $1250
+Replacing Hub 1  --  Amount not to exceed $2000
+Note: A quorum of twelve (12) members must be present, including at least three (3) members of the Executive Board and seven (7) non-Executive Board members.
+
+PiPtr (short for Raspberry Pi based Repeater Controller) a next
+generation repeater controller.  In this presentation you will learn about the project.  You will learn the answers to such questions as: What is a repeater controller? What are the concepts behind the
+project? What are the goals?  Why is this repeater controller more
+appropriate for the MMRA than other controller? Why this is a good idea for the MMRA? What is the current hardware and software status?
+
+The presentation will discuss the projects progression from an idea in the fall of 2016 to the
+current state of the prototypes.  Attendees will get an introduction to the hardware and software.  Some of the potential capabilities of the project will be presented.  The presentation will hopefully culminate with a live demo of the prototype and users will be able to use the demo repeater(s) and try some of the current capabilities.
+
+We hope your attendance will also inspire you to help with some of the software development and testing to help further the project.
+
+As this project exceeds the $500 limit that the board can vote on its own, the membership present will asked to vote on the budget for sponsoring the current phase of the project.  See the official vote announcement above.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Can’t wait for the meeting and want to learn more, keep reading!  
+
+The speaker, James Lee N1DDK designed his first repeater controller in 1980, based on an 8080 microprocessor and a bunch of dedicated timer and sound generation hardware.  The PiPtr controller still has dedicated hardware but replaces basic hardware like the touch tone decoder or a PL decoder with software.  By using the compute power of the Raspberry Pi and interfacing a computer “sound card” to the radio, you can use the computer to generate all kinds of sound like Morse code, tones, play back audio files and even generate text to speech. The computer can “listen” to the radio and decode touch tone, PL tones, DCS codes, be a radio modem, or even understand you like “Google Assistant” or Alexa.  While not all of these features may currently be implemented, the possibilities of this project are endless.
+
+Some of the goals of the project are geared to ease of use and maintenance.  There are no switches, jumpers or mechanical adjustments on the PiPtr board, everything is software controlled.  Repeaters are housed in harsh and remote environments, so environmental monitoring and logging is included.  This monitoring can even answer the question: Did you forget to turn off the lights when you left the site? 
+
+Of course the software is “open source” so it can be remotely collaborated on and upgrades can be done via the internet. Programming is in Python and C the two most popular programming languages.  Configuration is done via simple text files and there is a GUI for setup and programming.
+
+The Hardware is developed on the open source KiCad platform and also contained on our Git Hub repository.
+Come to the meeting and vote!
+----------
+
+Directions to the 
+Northborough Free Library from I-495:
+* From I-495, take Exit 24B which is Rt. 20 West toward Northborough.
+* Follow Rt. 20 West about 3.5 miles, into the center of Northborough.
+* Opposite the Gulf Station on the right, turn left into Patty Lane.
+* The Northborough Free Library parking lot will be on the left.
+
+LIBRARY PARKING:  Patty Lane is right across from the Gulf station.  
+Follow Patty Lane to the library parking lot.   
+The red brick building next to the library has a tempting driveway, being right next to the library, but it is private property.  Please respect the owners' property, and use the library lot.  Additional parking is available on the corner of Hudson and Pierce, or at Town Hall.  
+Traffic exiting Patty Lane should stay to far right, even for left turns, to avoid traffic turning in. The lane closest to the pizza shop is for INCOMING traffic ONLY from Rt. 20 eastbound.
+----------
+
+>From Rick Zach, K1RJZ
+
+Gunstock Mountain Resort has donated three and possibly four Motorola CM200 UHF BASE STATIONS to NEDECN.org as a fundraiser to help fund a ham UHF DMR repeater on the summit of Gunstock Mountain.  These are obviously superb link radios among other more common tasks.  So Gunstock is gifting not only a superb location but also help with funding the project.  They are being very generous indeed!
+
+If you are aware of anyone who may be interested in purchasing one or multiple base stations, please contact K1RJZ at 603-703-4740 or rick@rickzach.com .  
+
+$95 each (the custom power supply alone is worth that much).  Payable to NEDECN’s PayPal account plus shipping at cost or hand deliver when convenient
+
+MOTOROLA CM200   Model AAM50RPC9AA1AN
+438-470 MHz out of the box
+4CH 40W adjustable
+Will do both wide and narrowband analog FM
+Bench tested with hand mike 
+Includes a model-specific base station power supply.   Astron SL-15M/GTX/M1225 
+
+https://www.motorolasolutions.com/content/dam/msi/docs/business/products/two-way_radios_and_pagers_business/mobile_radios/wide_area_large_business/_documents/static_files/cm200_2010_specs_mot.pdf 
+----------
+
+President’s Corner
+
+David Wolfe ~ KG1H
+
+Another interesting year is about to wind-up for the MMRA.   Thanks to a few dedicated members, improvements have been implemented to many of the repeaters in the MMRA network and more changes to come.  Stay tuned!
+
+Our Website logins have been updated with an IP-based authentication scheme. 
+
+Out of 16 MMRA repeaters, only 4 repeaters remain not-internet controllable:  BEL, HOP, HPC, and MDN.  This permits configuration changes without having to drive to the repeater sites.
+
+The MMRA received a donation of a FreedomPop from N1BE, and has one in reserve already.  It is in some cases the only way to get internet to a site, especially without being overly costly.  Something for the future?
+
+The Yaesu DR2X System Fusion repeater has been received.  Suggestions for where to put it were Weston (146.79), Marlborough East (new UHF), and North Reading (to replace the existing 446.775 equipment).  The board voted unanimously to install it in North Reading.
+
+We are experimenting with a Netgear 6100D 4G+router - getting on the Internet is very easy with it.  It could be used to replace the Marlborough DSL connection (~$27/mo) once our annual contract is up. The 6100D router gets Internet for free.  However, there are some complications with reconfiguring the VPN setup in order to do the switch.
+
+Heads up:  
+January meeting: Wednesday, January 17: James N1DDK will be making a presentation on the ongoing PiPeater project.  His original vision for this project was that MMRA could use the PiPeater as the primary controller at its many sites.  Negotiations with James are underway.  Stay tuned!
+
+We will also be discussing the recent failure of our primary Hub 1, 449.925 MHz, and voting on the funds to replace it.  To do this properly we will perhaps need as much as $2000.
+
+March meeting: Tuesday, March 20: DX engineering presentation on K3LR super contest station.  Invite your friends!
+----------
+
+Next MMRA Business Meeting: Wednesday 21 February, 6:30 PM
+Location: Marlborough MA library  
+35 W Main St,
+Marlborough, MA 01752 
+
+Bigelow Auditorium
+Parking: 22 Witherbee Street
+All are invited.
+----------
+
+INVITATION to the CLAY CENTER
+
+The Clay Center Amateur Radio Club invites members of the Minuteman Radio Association (MMRA) to join us for an evening with Mike Corey KI1U, the ARRL Emergency Preparedness Manager.
+
+When: Tuesday, January 16, 2018, at 6:30-8:00 p.m.
+Where: The Clay Center at Dexter Southfield School, 20 Newton St. Brookline MA, top floor at the observatory.
+Topic: Mike Corey, KI1U, the ARRL Emergency Preparedness Manager, will talk about how he led an expedition of 
+50 volunteers to Puerto Rico after Hurricane Maria to help with emergency communications. 
+Hosts: The officers and student members of the Clay Center Amateur Radio Club, a youth and family club of over 340 
+members and growing, and by New England Amateur Radio, NE1AR, facilitating ham radio education and public service.
+RSVP: Email Bob K5TEC, club secretary, for more information or to register: Bphinney@dextersouthfield.org 
+Refreshments: Pizza and snacks.
+Door Prize: Free pen/toolkit for first 100 people at the event
+----------
+
+November Membership Meeting
+
+Astronomy! Radio! Cubes in Space!
+Host: Bob Phinney, K5TEC
+Location: Clay Center, 20 Newton St., Brookline
+
+Here are some photos from November’s Membership Meeting.  For those of you who couldn’t make it, you really need to visit the clay Center at your next opportunity!
+
+The “Formal” part of the meeting -- seven photos of KG1H starting the meeting and K5TEC discussiong the Clay Center AARC, and also the Cobes iin Space program.
+
+Other things... seven more photos showing KG1H on a Segway, the 146.82 receiver, the Clay Center Observatory, two of the younger hams playing the Theremin, and Bostion at night from the Cla Center.
+----------
+
+December Business Meeting ~ Bob DeMatia, K1IW, clerk pro tem
+
+The meeting was brought to order at 6:30 pm.  Present were: K1KWP, N1NVK, N1DDK, WA1MDD, KG1H, K1IW, W1BRI.
+
+Kevin Paetzold presented the club finances.
+
+MMRA meeting calendar is on the MMRA website, David KG1H is open to suggestions for other meeting locations.
+
+The ARRL New England Division Cabinet Meeting is January 6th, KG1H and WA1MDD to attend as MMRA representatives.  Tom Frenaye, K1KI, host.
+
+Bob K1IW updated the club on the Larcan amplifiers.  Twenty one (21) are left in inventory.  Amps are being sold with bad transistors + replacement transistors which the buyer can fix.  The price is $100 less than a 100% board due to the inconvenience and to help get them sold.
+
+The Yaesu DR2X has been received.  Suggestions for where to put it were Weston (146.79), Marlborough East (new UHF), and North Reading (to replace existing 446.775 equipment).  The board voted unanimously to install in North Reading.  Bryan will make up the connector cable, Bob will update the 7330 code to handle the extra control of the DR2X mode inputs.
+
+Website logins have been updated with an IP-based authentication scheme.
+
+Only 4 repeaters remain not-internet controllable:  BEL, HOP, HPC, MDN.  MMRA received a donation of a FreedomPop from N1BE, and has one in reserve already.  Bob K1IW experimented with a Netgear 6100D 4G+router - getting on internet is very easy with it.  This could be used to replace Marlborough DSL connection (~ $27/mo)  once our annual contract is up.  The 6100D router gets internet for free.  There are some complications with reconfigured the VPN setup in order to do the switch.
+
+The March meeting of 3/20/18:  DX engineering presentation on K3LR super contest station.
+
+Please send submissions for the January newsletter to W1DYJ by December 29th.
+
+?K1IW to investigate the status of the affiliated networks N1JBC and KA1RCI in Rhode Island.  It appears 147.000 was linked in to the TIOS the other night, though no one in the room knew how this was being done.?
+
+James N1DDK made a presentation on the ongoing PiPeater project.  His original vision for this project was that the MMRA could use the PiPeater as the primary controller at its many sites.  MMRA could also sell the board similar to the way TAPR and the NJQRP sell theirs.  The project is at the stage where 5 prototype boards are built and working at a cost of $1700.  He presented two options for the board to consider:
+
+	Option (1): to pay James the original $450 previously authorized and cancel the project.  
+
+	Option (2) to approve a budget of approximately $4200, which would cover the cost of the project so far plus an additional 10 prototypes.  
+
+After some discussion, K1IW made the motion that the club approve an expenditure of $1250.  This plus the original $450 covers the costs so far.  The club would assume ownership of the prototypes.  MMRA and N1DDK would enter into an MOU as to how the 5 prototypes will distributed/used, with the payment subject to the MOU being signed.  The motion was approved with N1DDK abstaining.  Because the expenditure exceeds $500, the motion must be brought before the general membership at the January meeting.
+
+The meeting adjourned at 8:15PM.
+----------
+
+Early Ham History – Part 3
+
+
+>From W1DYJ: I recently obtained an ARRL Handbook from 1962, the year I was first licensed. The first few pages are a wonderful, short history of the early years of Ham radio. I hope you enjoy reading this as much as I did.  It is in 5 parts.
+
+Here is Part 3: The Transalantics 
+
+As DX became 1000, then 1500 and then 2000 miles, amateurs began to dream of transatlantic work. Could they get across? In December, 1921, ARRL sent abroad an expert amateur, Paul F. Godley, 2ZE, with the best receiving equipment available. Tests were run, and thirty American stations were heard in Europe. In 1922 another transatlantic test was carried out and 315 American calls were logged by European amateurs and one French and two British stations were heard on this side.
+
+Everything now was centered on one objective: two-way amateur communication across the Atlantic! It must be possible—but somehow it couldn't quite be done. More power? Many already were using the legal maximum. Better receivers? They had superheterdynes. Another wavelength? What about those undisturbed wavelengths below 200 meters? The engineering world thought they were worthless — but they had said that about 200 meters. So, in 1922, tests between Hartford and Boston were made on 130 meters with encouraging results. Early in 1923, ARRL-sponsored tests on wavelengths down to 90 meters were successful. Reports indicated that as the wavelength dropped the results were better. Excitement began to spread through amateur ranks.
+
+Finally, in November, 1923, after some months of careful preparation, two-way amateur transatlantic communication was accomplished, when Schnell, 1MO, and Reinartz, 1XAM (now W4CF and K6BJ, respectively) worked for several hours with Deloy, 8AB, in France, with all three stations on 110 meters! Additional stations dropped down to 100 meters and found that they, too, could easily work two-way across the Atlantic. The exodus from the 200-meter region had started. The "short-wave" era had begun!
+
+By 1924 dozens of commercial companies had rushed stations into the 100-meter region. Chaos threatened, until the first of a series of national and international radio conferences partitioned off various bands of frequencies for the different services. Although thought still centered around 100 meters, League officials at the first of these frequency-determining conferences, in 1924, wisely obtained amateur bands not only at 80 meters but at 40, 20, and even 5 meters.
+
+Eighty meters proved so successful that "forty" was given a try, and QSOs with Australia, New Zealand and South Africa soon became commonplace. Then how about 20 meters? This new band revealed entirely unexpected possibilities when 1XAM worked 6TS on the West Coast, direct, at high noon. The dream of amateur radio—daylight DX!—was finally true.
+
+The above is COPYRIGHT 1962 by ARRL.  The Handbook back then cost $3.50. 
+Next time Part 4: Public Service
+----------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay League, through which Amateur Radio in the United States is represented nationally and internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+----------
+
+Upcoming MMRA Meetings
+Note: Meeting locations are subject to change. Consult the MMRA website for the most up-to-date information.
+
+Wednesday, 17 Jan ~ Membership Meeting
+Topic: PiPtr Project Update
+James Lee, N1DDK
+Location: Northborough Free Library
+
+Wednesday, 21 Feb ~ Business Meeting
+Location: Marlborough MA library 
+
+Tuesday, 20 Mar ~ Membership Meeting — note one day early
+Topic: The K3LR Super-Contest station (via Skype)
+Tim Duffy, K3LR
+Location: Northborough Free Library 
+
+Wednesday, 18 April ~ Business Meeting
+Location: TBD
+
+Wednesday, 16 May ~ Annual Meeting
+Topic: Some Useful Antenna Structures
+Larry Banks, W1DYJ
+Location: Campion Center, Weston
+
+Wednesday, 20 June ~ Business Meeting
+Location: TBD
+----------
+
+Don’t Forget! Join Us.
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Net Control Operators:
+Week 1	WA1JIM	Jimmy Devaire	
+Week 2	W1DYJ	Larry Banks	
+Week 3 	KC1CLA	Ed Curley
+Week 4	K1KWP	Kevin Paetzold	
+Week 5 	KB1OQA	Tom Turner
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+Previous issues of the MMRA Newsletter are available at: 
+www.mmra.org >> Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+
+Third Saturday
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+MMRA Leaders
+
+Executive Board — Officers
+President	David Wolfe	KG1H
+Vice President	John Spencer	WA1MDD
+Secretary	John McGovern	W1JMC
+Treasurer	Kevin Paetzold	K1KWP
+Clerk		open
+
+Executive Board — Directors
+Director  »2018	Clark Conti	N1NVK
+Director  »2018	James Lee	N1DDK
+Director  »2019	Bob DeMattia	K1IW
+Director  »2019	Roger Coulson	WA1NVC
+
+Technical Officer
+* Technical Officer	Bryan Cerqua	W1BRI
+
+Repeater Trustees
+* Belmont 145.430	Ed Curley	KC1CLA
+* Boston 146.820	John Mullaney 	K1BOS
+* Brookline Rcv 146.82	Bob Phinney	K5TEC
+* Boston 927.0625	Rick Zach	K1RJZ
+* Hopkinton 223.940	James Cahill	KB1LOY
+* Hopkinton 449.575	Bryan Cerqua	W1BRI
+* Lowell 442.250	Vince De La Flor K1LVF
+* Marlborough 53.810,  Quincy 146.670
+		 
+	Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.390, 147.270, 224.880,
+
+       448.225, 449.925,  927.700 — all as W1MRA
+		
+	Bill Northup	N1QPR
+* Mendon 146.610	Kevin Paetzold	K1KWP
+* N. Reading 146.715	Bruce Pigott	KC1US
+* N. Reading 446.775	Larry Banks	W1DYJ
+* Quincy 224.400	Bill Dunn	N1KUG
+* Weston 146.790	Bob Evans	N1BE
+* Weston 224.700	Eddie Mulhern	N1NOM
+* Weston 442.700	David Wolfe	KG1H
+
+
+Additional, non-Voting
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	David Wolfe	KG1H
+* VEC Liaison		Bill Wade	K1IJ
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+
+* Appointed
+----------
+
+Calendar of Ham Radio Flea Markets
+
+For more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+20 Jan 	Whitman MA 	WARC @KoC Rt18  
+ 3 Feb 	Springfield VT 	CVFMA @VFW 
+17 Feb 	Marlboro MA 	AARC @MidSch 
+24 Feb 	S Burlington VT 	RAoNV @HI  
+25 Feb 	Hicksvile NY 	LIMARC @LevitHall
+ 4 Mar 	Nashua NH 	NEARC RadioXLIX
+	@CrtYdMarriott
+10 Mar 	Chicopee MA 	MtTomARA @Castle
+18 Mar 	Southington CT 	SARA @HS
+30,31 Mar Lewiston ME 	AARC ME Conv @Ramada
+ 7 Apr 	Hampton NH 	PCARC @Masonic
+14 Apr 	Newton MA 	PHSNE Photographica
+ Sat Only @AmLegion
+4-5 May Deerfield NH 	NEARfest XXIII @FG
+11 Aug 	St Albans VT 	STARC @VFW
+ 9 Sep 	Ballston Spa	NY SCRACES @FG
+12-13 Oct Deerfield NH 	NEARfest XXIV @FG
+27 Oct 	Gales Ferry CT 	TCARC @FireCo
+3-4 May Deerfield NH 	NEARfest XXV @FG
+----------
+
+END OF NEWSLETTER

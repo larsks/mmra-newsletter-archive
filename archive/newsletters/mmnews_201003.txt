@@ -1,0 +1,260 @@
+The Minuteman Repeater Association
+The Minuteman
+Volume 39, Number 4
+March 2010
+
+-------------
+
+Membership Meeting
+Wednesday, 24 March, 2010 @ 7:00 PM
+
+ARRL Laboratory Manager Ed Hare, W1RFI
+
+The ARRL Lab
+Framingham MEMA
+Talk in on Marlborough, 147.27
+
+Ed will be visiting from Newington to tell us about the latest activities at the ARRL lab.
+ 
+First licensed in 1963, and after 16 years in the electronics industry, Ed came to ARRL HQ in 1986. He started as ARRL's Product Review test engineer, moved on to becoming ARRL's RFI guru (notice his call!) and now holds the position of Laboratory Manager. Over the years he has written quite a number of RFI articles, ranging from articles for QST and The ARRL Handbook to articles that have appeared in professional trade journals. He is also one of the editors and authors of The ARRL RFI Book and the author of the ARRL book on RF exposure, RF Exposure and You. 
+
+Ed is very active in several RFI programs at ARRL, holding membership on the Society of Automotive Engineers EMC/EMR Committee, the ANSI accredited C63 EMC committee as Chair of Subcommittee 5 (Immunity) and as the elected Secretary of the IEEE EMC Society’s Standards Development Committee, serving in a leadership role in helping the IEEE oversee the development of EMC standards. 
+
+-----------------
+
+The ARRL New England Convention (Boxboro) is on for August 26-29 at the Holiday Inn in Boxboro.  Tickets are on sale on line at the convention website  http://www.boxboro.org.
+
+----------------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM   Weekends 8 AM to 10 PM.
+Accredited by the ARRL VEC
+
+-----------------
+
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in Eastern
+Massachusetts.
+
+The MMRA meets (usually) on the 3rd Wednesday of September, November, January, March, and May.  Meeting time, locations and talk-in frequency vary.  These are announced in the newsletter and on weekly nets.  Meetings are open to all interested parties.
+
+The Minuteman newsletter is Emailed one week before each meeting.  Members are encouraged to submit articles.  Articles may be sent to the editor via email to newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+
+Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+
+Email to the club leadership should be sent to contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+
+An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/
+
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
+
+--------------
+
+MMRA QRM Policy
+
+MMRA members and all other operators are strongly encouraged to report repeater
+activity that does not abide by Part 97 rules or accepted amateur radio practice to the board of directors at contact@mmra.org or via other means.
+
+The most effective (and probably the only effective) way to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are
+being taken to make audio recordings of
+repeater activity.
+
+---------------
+
+Public Service
+Bruce Pigott —  KC1US — Public Service Coordinator
+
+With the warmer weather scheduled to begin, more activities that request radio support are being organized.  One event that makes extensive use of hams is the Walk for Hunger.  Around sixty operators are located along the twenty mile route, tying together many volunteers and the walk functions.  There are different positions available; some are stationary and others are mobile by foot and vehicle. MMRA members shadow many of the key coordinators.  The event is an enjoyable day, with the walkers and volunteers having a good time at this worthwhile cause.  Come on out and see more than 40,000 walkers on the route starting in Boston and looping through Newton and back.  Easy sign up can be done at <http://www.mmra.org/wfh> or from the MMRA home page.  
+
+Another club active in public service is the North Shore Radio Association, which does 15 events a year.  Their activities include supporting parades, road races, fund raising scenic bicycle tours, and rowing races.  Check out their list of events and the sign up page at <http://www.nsradio.org/events/index.htm>.  The Walk for Hunger ham coordination is a combined effort of the NSRA and the MMRA.  
+
+The "Public Service Volunteer Opportunities in the New England Division" list gives many events that are looking for more assistance.  You get to see areas that are normally just cute names on a map.  There is a link on the MMRA web page under Public Service to see available activities. The current list of events is at the end of this newsletter.  When signing up for a new activity, talk with the event coordinator about your skill level.  This is one of the many considerations that organizers make when doing operator assignments.  Equipment type, physical ability and transportation availability are also taken into consideration.  Additional events will be mentioned in future articles.
+
+------------
+
+President’s Corner ~ PUBLIC SERVICE!
+
+Bob DeMattia — K1IW 
+
+The days are getting longer - and this can mean only one thing: Ham radio public service season is upon us. OK, OK.  The days have actually been getting longer for two months now, and the arrival of spring can mean many things.  So, perhaps I exaggerate.  But in any case, spring does bring about a number of events in the Boston area that use amateur radio to support their efforts.  The MMRA is proud to be the primary sponsor of two of these events - the Boston Marathon on April 19th and the Boston Walk for Hunger on May 2nd.
+
+MMRA members, Steve Schwarm (W3EVE) and myself, captain two of the teams for the marathon, and Eric Horwitz (KA1NCF) organizes the Walk for Hunger effort.  In additional to recruiting the volunteers for these operations, many of the MMRA repeaters will be part of these events.  These sort of events provide good practice in operating procedures for emergencies, as well as provide important public service.  If you've volunteered in the past, you got my many thanks - and I hope to see you this year.  If you've never participated, why not give it a try?  All you need is a two meter portable, and extra battery, and a bit of your time.  You can volunteer for either of these events by visiting our website
+
+------------
+
+MMRA February Board of Directors Meeting
+Bob Evans — N1BE — Clerk
+
+The MMRA Board met telephonically due to inclement weather on the evening of February 10th.  Present were WA1NVC, K1KWP, KC1US, W1MPN, N1BE, W1DYJ, W3EVE, N1BE, N1BDA and K1IW.
+
+Plans for the MMRA table at the Marlborough Flea Market were discussed.  This included linking for the talk-in and what items would be brought to the flea.
+
+K1KWP provided a treasurer's report which highlighted revenues from donated Analog TV Transmitters.  (Thanks to WCVB and WYFF!)  Looking at the totals for the last 6 years, donations provided an amount of funds roughly equal to the miscellaneous income and dues that were collected.  We have a few more members than two years ago.   This is a good sign given the weak economy.  The attraction of 900 MHz repeaters is credited with strong membership numbers.
+
+224.400 is being serviced at Bryan's home.
+
+146.67 and 146.61 are having problems:  The 61 link transmitter comes up at inappropriate times, interfering with the network.  When it is linked, 61 kerchunks the network; it has been changed to not be full-time linked.  67 and its link transmitter lock up and time out the network.  Despite some changes to the macros at 67, which seemed to clear up the problem, the problem re-occurred when 224.400 was removed from Quincy.  The 67 automatic scheduler has been turned off to avoid this problem.
+
+More research of the de-sense problems at 146.82 is planned for March 6th. 
+
+At MRE we are considering antenna improvements for 6M and 10M and some site work to trim many tree branches that interfere with the guy wires. 
+
+Given that the March membership meeting has been moved to March 24th, newsletter articles are due to W1DYJ by March 5th.
+
+------------
+
+Treasurer's Update ~ Kevin Paetzold (K1KWP)
+
+In the 2009-2010 membership year a large amount has been spent on repeater system repairs and improvements.  Using the last 6 years as a guide more than 3 times the average amount spent directly on the system and more than 2 times the amount spent in any of those other years.  These improvements were made possible by the membership dues and generous donations from previous years.  However because donations in this membership year, the funds balance has actually increased over what it was when the year started on Sep 1, 2009!  This is allowing the club to continue to proceed with projects which have been long needed and/or even more system improvements.  For example see the MRE project discussed below in this newsletter.
+
+191 members joined or renewed in the 2008-2009 membership year (ended Aug 31, 2009).
+
+So far 178 members have renewed or joined in this 2009-2010 year (ends Aug 31,2010).   More than 40 members from 2008-2009 have not yet renewed for 2009-2010 which indicates that there are almost 30 new members.  I do hear several of the members which have not renewed on the repeaters on an almost daily basis.
+
+Total spending for this year has been about $9000 and about $140 in additional known expenses remain (this does not count the $2000 proposed for the MRE project discussed below).
+
+--------------
+
+Maintenance/Upgrade Project at MRE
+Kevin Paetzold (K1KWP) Treasurer
+
+The club has been undertaking various projects in recent times to perform large maintenance tasks and upgrades at various repeater sites.  This includes projects to add lightning protection, fix antennas, and/or upgrade the  sites.  The board of directors is now proposing a project at the MRE (Marlborough East) site.  MRE currently hosts the transmitter (and controller) sides of the 53.81 and 29.68 split site repeaters.
+
+The initial and primary motivation for this project is a need to have some tree trimming performed.  The  repeater site is in a semi-wooded area and the trees have grown a lot over the years.  The trees are now touching the 53.81 antenna.  In addition the guy wires for the 53.81 tower are mounted to trees and there is a danger of large branches (or trees) falling on the guys and potentially bringing down the tower.  Prudence dictates that we should take some proactive steps to reduce any likelihood of this happening.  Of course having trees touching the antenna has performance implications for the repeater.  In addition the MRE site has not yet received an upgrade to add lightning protectors.
+
+It does not seem to be a good idea to have hams climbing trees with chainsaws J.   A tree service with a bucket truck is called for.   Having a bucket truck on site is an opportunity to work on the antenna systems.  Besides improving the antennas themselves some of the coax feed lines which have been in place for many years need to be replaced.  Some of the link antennas at this site have been problematic and also need to be replaced.
+
+The result is that in addition to the tree service, the club plans to purchase new coax and an antenna for the  6m transmitter and a proper lightning protection system for the entire facility.  The board of directors is asking for a membership vote/approval at the March meeting for an estimated expenditure of $2000 for this project.  It is quite possible that the eventual overall cost for this project may end up being less.   There is also a chance the costs may go up if surprises are encountered.  We expect to have a more definitive estimate in time for the actual vote at the meeting.  However $2000 does seem to be a good estimate.
+
+As treasurer I have no concerns or issues supporting this expenditure.  MMRA finances are well positioned for this expense thanks to the donation income from selling the Larcan 6M Amplifiers.
+Making the antenna system improvements at this time leverages the cost of the tree service which is not optional and needs to be done.
+
+---------------
+
+Noise Investigation at 146.82 ~ Brookline
+
+Anyone who uses Brookline 2M — 146.82 — knows that it is not operating up to the level we expect at such a perfect site at the Clay Center Observatory.  There is a higher noise level than expected so the receiver is not as sensitive as it should be.  This has been an ongoing issue.  On Saturday, 6 March, W1BRI, WA1NVC, N1BDA, N1BE, K1JWB, K5TEC, and K1KWP met at the center to investigate the situation and take many measurements.  Although no definitive answer has been discovered, some future work has been determined.  Hopefully this repeater will soon be working at its potential.
+
+-------------
+
+Larcan Amps
+
+You all have heard of the donation made by WCVB to the MMRA of their obsolete Channel 5 amps.  Here are two pictures from a February 9th work party, where K1IW, K1KWP, N1BE, N1OWA, KC1US, N1BDA and W1DYJ repacked some amps for delivery. 
+
+President Bob, K1IW, checking the list of purchasers, with the KW amps in the background.
+
+
+Some KW amps on the left, and some ½ KW amps on the right.
+
+-------------
+
+Don’t Forget!
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  We need another net control!
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use to start with.  This is good practice for a number of ham related operations, from emergency preparedness to contesting.
+
+Current Net Control Operators:
+
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	???		OPEN	
+Week 3	W1DYJ		Larry Banks
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+---------------
+
+MMRA Leaders
+
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2010		Clark Conti	N1NVK
+Director  »2010		Mike Neilsen	W1MPN
+Director  »2011		Steve Schwarm	W3EVE
+Director  »2011		Roger Coulson	WA1NVC
+
+Repeater Trustees, Appointed
+Belmont 145.430		Larry Arone	WA1RTT
+Boston 927.0625		Rick Zach	K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Chris Conti	N1NVL
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Marlboro 53.810, Quincy 146.670, Southboro 449.575
+			Bryan Cerqua	W1BRI
+Marlboro 144.390, 145.160, 147.270, 224.880, 449.925, Weston 442.700, 927.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Quincy 224.400		Bill Dunn	N1KUG
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  	Bruce Pigott	KC1US
+VEC Liaison		Bill Wade	K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+
+--------------
+
+Calendar of Ham Radio Events
+
+Public Service Events
+
+See this web site for contact information
+
+http://purl.org/hamradio/publicservice/nediv
+
+Apr 11 Brighton MA	MS Boston Walk 
+Apr 17 Townsend MA	Squannacook River Canoe Race
+Apr 18 Boston MA	BAA 5K & 1 Mile Races 
+Apr 19 Hopkinton MA	Boston Marathon
+Apr 25 Needham MA	Run of the Charles
+Apr 25 Groton MA	Groton Road Race 
+May  2 Boston MA	Project Bread Walk for Hunger
+May 22 Natick MA	MS Journey of Hope Walk
+May 23 Devens MA	Parker Classic 
+Jun 26-27 Quincy MA	MS Cape Cod Getaway
+Jul  3-5 Fitchburg MA	Longsjo Classic
+Jul 17 Concord MA	MS Minuteman Ride
+Jul 24 Devens MA	Alzheimer's Memory Ride
+
+New England Area Ham - Electronic Flea Markets 
+See this web site for contact information
+
+http://mit.edu/w1gsl/Public/ne-fleas
+
+20 Mar	Rockport MA	CAARA @PigeonCove
+21 Mar	Southington CT	SARA @HS
+21 Mar	Henniker NH	CVRC @CommSch
+27 Mar	Lewiston ME	AARC ME Conv @Ramada
+27 Mar 	Windsor CT		VR+C Mus 115 Pierson LN
+10 Apr	Gales Ferry CT	RASON Auction
+11 Apr	Framingham MA	FARA @KeefeTech
+17,18 Apr	Wakefield MA	Photographica @AmericalCtr
+17 Apr	S Portland ME	PAWA @AmLegion
+17 Apr	Manchester NH	NHAntqRC @Bingo
+18 April	Cambridge MA	FLEA at MIT
+30 April	1 May Deerfield NH	Nearfest
+
+-------------
+EMD OF NEWSLETTER
+-------------

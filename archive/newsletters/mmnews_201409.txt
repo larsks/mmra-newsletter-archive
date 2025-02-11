@@ -1,0 +1,464 @@
+The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+Volume 44, Number 1
+September 2014
+----------
+
+Membership Meeting ~ Wednesday, Sept 24 ~ 7 PM
+
+The Art and Science of Radio Direction Finding
+
+Bob Ravenstein, W1FDR 
+
+Bob is an ardent fox hunter and has a great home-built dish he often uses. 
+He recently entered the ARDF < http://www.homingin.com/farsnews.html > and < http://www.bostonardf.org/?event=the-fourteenth-usa-ardf-championships-boston-massachusetts-june-5-8-2014 >  and won a silver medal.
+
+Location: Northborough Public Library
+
+Talkin: 147.27
+----------
+
+President’s Corner — SLIGO is BACK!
+
+
+As you may have heard, the club's main site in Marlborough is finally being restored to its full glory.  Work began September 11 to put our five antennas back on the top of the water tank, and is likely finished by the time this article gets to your inbox.  It's been a trying time for club members and officers alike as we patiently, and perhaps sometimes impatiently, waited for the go-ahead from city officials.  That go ahead came the last week of July.  In the next few weeks, we made the last few purchases needed and awaited the availability of the tower climber.
+
+I want to thank all club members that continued their memberships through this period - even though for many their "favorite repeater" was made inaccessible from many locations.  I hope you enjoy the renewed coverage.  If you know of someone that got discouraged and let their membership lapse, please let them know that things are back to normal and invite them to rejoin the club.
+----------
+
+Have you renewed your
+membership yet?
+
+All 2014 memberships expired on August 31st! Time to renew either on the Member's login link at www.mmra.org or by U.S. Mail with a check to MMRA, PO Box 669, Stow, MA 01665.
+----------
+
+Directions to The Northborough Free Library
+
+Directions from I-495:
+
+>From I-495, take Exit 24B which is Rt. 20 West toward Northborough.
+Follow Rt. 20 West about 3.5 miles, into the center of Northborough..
+Opposite the Gulf Station on the right, turn left into Patty Lane.
+The Northborough Free Library parking lot will be on the left.
+
+LIBRARY PARKING 
+
+Patty Lane is right across from the Gulf station.  Follow Patty Lane to the library parking lot.  
+ 
+The red brick building next to the library has a tempting driveway, being right next to the library, but it is private 
+property.  Please respect the owners' property, and use the library lot.  Additional parking is available on the corner of Hudson and Pierce, or at Town Hall.  
+
+Traffic exiting Patty Lane should stay to far right, even for left turns, to avoid traffic turning in. The lane closest to the pizza shop is for INCOMING traffic ONLY from Rt. 20 eastbound.
+----------
+
+Bryron Piette, K1YCQ, SK
+
+Thanks to Tom Turner, KB1OQA
+
+Bryron Piette, K1YCQ, passed on 3 July.   Byron was very active in NTS on various Nets in CT, MA, and RI, served as Communications Officer for his home town of Somerset and also was a Skywarn Spotter. 
+He often joined the TIAOS net on Tuesday evenings
+----------
+
+New Trustees for MMRA Repeaters
+
+By a vote of the Executive Board, James Lee, N1DDK was elected Trustee of Belmont 145.43 repeater and James Cahill, KB1LOY, was elected Trustee of Hopkinton 223.94 repeater.  
+
+Both N1DDK and KB1LOY have made significant contributions toward the Sligo shelter project.
+----------
+
+Unlocking your Car with your Brain
+
+Larry, W1DYJ, Editor
+
+This is a great way to demonstrate some of the laws of physics, especially if you’ve lost your car in a parking lot.  I tried this and it works — and proves that my brain is just a bag of salt water!  The video is about 4 minutes long.  [Thanks to my friend Bruce, W1ZE.]  
+ < www.youtube.com/embed/0Uqf71muwWc?feature=player_embedded >
+----------
+
+
+Sligo is Back! — The Story
+Bob DeMattia, President  — K1IW
+
+In May, 2012 the City of Marlborough began the phase of its Sligo Hill water tower restoration project in which the tower's iconic cone-shaped top was to be removed.  The tower, built in the late 1800's, had fallen into disrepair.  The iron structure was rusted through in many places.  Earlier phases of the restoration included sandblasting and painting of the tower's sides and removal of the remains of the towers 6' 
+diameter standpipe.  These were completed without disruption to MMRA.   However, for the next phase to proceed, MMRA's antennas (as well as all others) needed to be removed.  We were told that we would be back up in about three months.
+
+True to schedule, the tower's new, RF-transparent cone was installed the following August.  Having experienced three months of terrible coverage on the clubs' flagship repeaters, members were looking forward to completion.
+
+Alas, things took a turn for the worse.  There were issues with the tower's installation.  Months passed as the city negotiated with the installers.  Finally, almost a year later, in mid-2013, an agreement was reached.  However, the club now had to wait while the paying tenants completed their work. In November 2013 we were told we could relocate our shelter to its new position inside the RF yard perimeter.  On the Wednesday before Thanksgiving, we found out that a crew hired by National Grid would have a 30-ton crane on site at the end of the following week.  It was tough getting hold of someone at the company during the holiday week, but miraculously we were able to get permission to utilize the crane, while it was onsite, to relocate the shelter.  We also managed to get a National Grid work order completed so that the service mains would be disconnected in time for the move.  On December 6, the shelter was relocated.   It took about 3 days for our electrician to wire temporary service to the shelter, another week to get the installation inspected and approved, then two days to get it powered up.   We really felt like we were on our way.
+
+Amidst all this, winter happened!  December 12 was a very frigid day and the tower crew tried but couldn't make very much progress on an installation.  To make matters worse, five days later the city called and asked us to hold up for a couple weeks while other issues were resolved.  It didn't really matter much because winter continued for the next 4 months, making work impossible.  During this time very few days saw forty degrees and most were in the teens and twenties. 
+
+When spring finally arrived, the club still hadn't received a go-ahead from the city.  We made a push to get it done in time for the Boston Marathon, but the city just wasn't ready.  April passed.  After a few insistent (but not pestering!) phone calls, we received a call back from the city - curiously enough while I was on the way to the Dayton Hamvention - stating that we needed to wait at least four more weeks.
+
+June passed, and then almost of all of July when I finally received the phone call we'd been waiting for.  It took a few weeks to order and receive supplies and to schedule the climbing company, but on September 11 our installation began.
+
+The 147.27 antenna was previously mounted on the top of the tank, now it joins the others on the perimeter.  Hopefully the 20 or 30 feet or so difference won't affect things much.  However, the 53.91, 224.880, 449.925, 927.700, and the APRS antennas are all mounted on the tank perimeter. Prior to the restoration, the iron cone cast a large RF shadow for these antennas.  The new cone-top is made of RF-transparent material.   So this should mean no more shadows and better coverage.  Hopefully, the wait was worth the increased coverage.  Please send your coverage reports to contact@mmra.org or better yet, check into our club net on Tuesday nights, 8PM, and tell us in person.
+
+PHOTO: This is why we hire professionals! 
+[KG1H Photo]
+----------
+
+The SLIGO Timeline
+
+5/11/2012	Antennas removed from water tank
+8/2/2012	New cone top is installed on water tank
+9/9/2012	City is not happy with installation of cone.  All future work is put on hold while the situation is resolved.
+7/17/2013	Cone installed is approved by city - MMRA will be able to move antennas in a few weeks
+11/20/2013	MMRA given go ahead to move shelter and relocate antennas to top of tank
+11/27/2013	We discover that National Grid will have a crane on site on December 6
+11/30/2013	All MRW repeaters except '27, '925 off-air
+12/4/2013	Power cut, all repeaters off air & removed from shelter, site is graded by landscaper
+12/6/2013	Shelter is relocated courtesy of National Grid and Hampden Communications
+12/7/2013	Shelter is repopulated
+12/8/2013	Cable Bridge installed
+12/12/2013	Attempt to install antennas fails due to icy conditions on tower
+12/15/2013	Electrician completes temporary service work
+12/16/2013	Electrical Inspection complete
+12/19/2013	Received call from City of Marlborough - hold off on reinstalling antennas until they talk to AT&T
+12/21/2013	Electric service restored to Sligo.
+12/22/2013	'27, '925 back on air from temporary antennas. Temperature drops from 53 to 39 degrees in a few hours
+12/22/2013 - 3/31/2014	Sligo (& the northern half of the US) enters a worm hole, transporting it to 80 deg N latitude and rendering all outdoor work of any kind an exercise in futility
+2/1/2014- 4/22/2014	Ongoing conversations with AT&T yields information that AT&T has no plans to do anything on Sligo Hill
+4/1/2014	Reverse worm hole returns US to its normal weather conditions
+4/22/2014	Set up appointment with City of Marlborough official
+4/29/2014	Meeting: City Official tells me things should be OK to proceed - call him back in one week to confirm
+5/6,9,13/2014	Called official, left message (three times)
+5/16/2016	Secretary calls back - official is waiting for additional information and will call me back in two weeks.
+6/20/2014	Follow-up call to May 15 response
+6/27/2014	No answer to follow-up call, tried again
+7/11/2014	Spoke to a different official at city who said he will look into it
+7/22/2014	Spoke to 2nd official again - we will know something within a week
+7/24/2014	Received call back - we have a go.  Immediately contacted tower climber is in on vacation next week.  Need to call him when he gets back
+8/4/2014	Called tower climber, disconnected in middle of call.  No answer when I call back.
+8/5-8/2014	All attempts to contact climber fail
+8/9/2014	Heard back from climber:  phone dropped off tower during 8/11 phone call.  It took a few days to get a replacement.
+8/15/2014	Site visit to review what needs to be done.  Need to order 2 coax runs.
+8/26/2014	Coax arrives.  Call climber to set up date for work to be done.
+9/11/2014	Tower work begins
+9/12/2014	Tower work complete
+9/13/2014	MMRA work crew connects and checks everything.  Some noise on 53.81 and 147.27 that needs to be worked out but everything is essentially on the air.
+
+
+PHOTO: New cone top being installed on Sligo tank, August 2012. [K1IW photo]
+PHOTO: Can you identify this Photo?  [S&S Tower Photo]
+----------
+
+Highlights from the May Membership Meeting 
+Annual Meeting: Officers Report to the Membership & Elections
+
+Election Results
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Director  »2016		Clark Conti	N1NVK
+Director  »2016		Mike Neilsen	W1MPN
+
+
+Public Service Activity Summary
+David Wolfe, KG1H
+
+MMRA Member Participation
+
+Ashland Half-Marathon & 5k, 27 Oct 13
+Sutton Festival of lights, 07 Dec 13 
+Ashland Marathon Park Prep, 16 March 14
+BAA 5k Marathon, 19 April 14
+BAA Tribute Marathon, 19 April 14
+BAA Marathon, 21 April 14
+Groton Road Race, 27 April 14
+Run of the Charles Canoe and Kayak race, 27 April 14
+Project Bread Walk for Hunger, 04 May 14
+Westford Apple Blossom Parade, 17 May 14
+Brain Tumor Ride, 18 May 14
+Heartbreak Hill Marathon and Half Marathon, 7 & 8 June 14
+BAA 10K, 22 June 14
+Bike MS: Minuteman Ride 2014, 19 July 14
+Cystic Fibrosis Foundation Cycle for Life, 11 Oct 14
+
+
+Value Added
+
+Be proactive when supporting events
+Be flexible where the situation changes, it always does
+Have a sense of humor
+Be effective; hams besides being experienced communicators, have an extensive skill set; make use of them
+EMTs, photography, net control, bus control, personnel supervision, etc.
+Identify areas where ham operators have been beneficial; as an example:
+Support and Gear (SAG) vehicles; route sweeps to pick up stragglers; identify road safety/hazards; vehicle/event/participant conflicts; etc.
+Rest Stops, medic transport, shadowing and logistical support
+Help medical teams identify unsteady runners
+Medical post/sweep communication
+Safety teams
+Parking/bus control
+Tracking VIP runners for the awaiting media at the finish line
+Locating missing parents
+Etc.
+----------
+
+June Business Meeting ~ Bob Evans, Clerk, N1BE
+
+The MMRA Board met for a business meeting at 7PM on June 18th at the headquarters of Stratus Technologies.  In attendance were K1KWP, K1IW, W1DYJ, N1BDA, K1BOS, KB5JR, W1BRI, WA1NVC, N1BE, W3EVE and N1NVK. 
+
+Treasurer's report by Kevin, K1KWP:  There has been virtually no financial activity since the close of the prior fiscal year.  We reviewed expected expenses for the new fiscal year and expect to outspend our income because of the remaining work to put MMRA antennas on the tower at MRW. 
+
+Repeater Report by Bob, K1IW: Marlboro 147.27 PA died.  DR-1 from Weston was tried but it failed and has been returned to Yaesu for repair.  In the meantime Bob tried a spare GM-300 portable repeater.  Onsite measurement showed a diplexer failed and Bob took that home for repair. 
+
+We are still awaiting permission from the City of Marlborough to put MMRA antennas back on the MRW tower.  The board approved a motion that we are officially tired of dealing with the Slygo site issues.
+ 
+Bryan, W1BRI reported that Rick, K1RJZ is donating a 6-meter repeater at Hopkinton to the MMRA.  Rick also is donating some hardline from Hopkinton.  The Board considered using this equipment as a remote receiver for the MMRA 53.81 MHz repeater.  We also considered moving the MRF5000 900 MHz repeater that was previously at MRW and is now in storage in Weston to the Teneco Hopkinton site where the 223.94 repeater is located.
+
+ARRL Convention booth:  K1IW reports that 6 people signed up to staff the MMRA booth.  As this is barely enough people, we would like a second person to staff during the hours when the booth is open.  We need a list of expired and about to expire MMRA memberships.  We also need application forms for collecting info with dues payments. 
+
+July MMRA get-together:  The Board discussed alternatives for a meeting in July without reaching a consensus. 
+
+Speakers for meetings next year:  K1IW sought volunteers to find speakers for next year.  These people volunteered: N1BDA September, K1BOS November, W3EVE January, W1DYJ (weak signal vhf/uhf) March, W1IW (MMRA officers reports) May.  K1IW will arrange for meeting venues as speakers are found. 
+
+Finally we previewed a vintage 1996 MMRA video.  This will be shown at a future general membership meeting. 
+
+The meeting adjourned at 8:45 PM.
+----------
+
+Testing Batteries
+
+Thanks to Bruce Randell, W1ZE
+
+Ever need to test your batteries without a meter? I had never heard of this before but pretty cool,  watch to the end, only 90 seconds long, Bruce.
+ < www.youtube.com/embed/Y_m6p99l6ME >
+----------
+
+W1MPN new SEC for EMA
+>From the AUGUST 2014 ARRL EMA SECTION NEWS
+
+I'd like to welcome as our new Section Emergency Coordinator Mike Neilsen, W1MPN.  Our previous SEC, Rob Macedo, KD1CY, has decided to step down due to the demands of his professional work commitments.  W1MPN is certainly no stranger to the position, having served previous terms as both Section Emergency Coordinator and Section Manager. Welcome aboard, Mike!
+
+Section Manager (SM) - Phil Temples, K9HI
+
+[Mike is one of our Directors—Ed.]
+----------
+
+
+Next MMRA Business Meeting: 
+Wednesday 15 October, 7PM
+Stratus, Maynard
+----------
+
+August Business Meeting ~ Bob Evans, Clerk, N1BE
+
+The MMRA conducted a business meeting at 7:00 PM on August 20 at the headquarters of Stratus Technologies in Maynard, MA. K1KWP, K1IW, W1DYJ, N1BDA, WA1NVC, N1DDK, N1NVK, K1BOS, KG1H, N1BE, W1MPN, W3EVE and KB1LOY participated at this meeting. 
+
+Treasurer’s Report: 
+The meeting opened with a treasurer's report by Kevin, K1KWP.  We reviewed the current balance, current and expected spending for the 2014-2015 fiscal year, income and spending per fiscal year, power consumption at sites where MMRA pays for electricity and progress on member renewals for the new fiscal year. 
+
+MMRA participation in the ARRL convention in Hartford was essentially cost free since we collected dues to cover the club's costs.  The MMRA sold 8 more LARCAN transmitters for a profit of about $1160.  It is not known whether additional LARCANs will be available for the MMRA to sell. 
+
+We reviewed costs of the MRW project in detail.  One unexpected expense was $1463 for two feedlines for the MRW antennas to be placed back on the Slygo tower.  We discussed how to summarize the entire project to better understand the complexity of the project and the value of many things donated to reduce cost to the MMRA.  Kevin's report finished with photos of the inside of the tank at the top of the tower.  We are waiting for a tower climber to be available to replace the MMRA antennas on the tower; we are hopeful this will happen in the next several weeks. 
+
+Repeater Report: 
+Bob, K1IW gave a report of repeater status.  A replacement Yaesu Fusion repeater is back online in Weston.  In Mendon, the 146.61 antenna likely will move to a new tower.  We had mixed reports of problems and fixes to the link receiver for the 6-Meter transmitter at MRE.  In Burlington, we need new UPS batteries for the 146.75 repeater; the board decided to try running that site without a UPS.  We considered possibly using the UPS at MRW for 147.27; replacement batteries will cost about $200. 
+
+New Business: 
+K1BOS brought to the meeting a proposal to link the Broadcast Engineers Amateur Radio Society network to the MMRA system.  This is an internet link that would connect to their network at sites in New York, Florida and California.  K1IW proposed that the Belmont site be used for the MMRA end of this link since there is Internet connectivity at Belmont.  The board was in favor of moving forward with this proposal.
+ 
+We next discussed speakers and locations for the general membership meetings in the coming year. 
+
+Dave, KG1H brought a proposal to the board that newly licensed amateurs at the MMRA VE sessions be offered a first year of individual membership at zero cost for dues.  A motion to this effect was approved by the board. 
+
+K1IW brought a proposal that we consider perpetual (life) memberships for a cost of about 20 times the annual dues.  The board needs time to consider this and to get input from members.  We took no action on this issue. 
+
+Larry, W1DYJ noted that we need to replace one of the TIAOS net control operators who has been absent for the last few months. 
+
+The meeting adjourned at 8:45 PM.
+----------
+
+MMRA’s Technical, Informational and Other Stuff Net 
+needs another Net Control
+
+Larry, W1DYJ, Net Manager
+
+Those of you who participate in our Tuesday evening net (see page 11 for details) have probably noticed that now and then there is no net.  This is due to the need for another net control. My requests:
+
+If you would like to try your hand at being a net control, send me a note at w1dyj@mmra.org.
+
+If you are waiting for the net to start and hear nothing by 8:05 pm, feel free to jump in and BE net control.  The example script is below and on the MMRA web site.
+
+Nets are important for both testing our equipment and improving our skills.  Please consider the above.
+
+TIaOS Net Script
+7:55	This is [call], net control for this weeks MMRA technical, informational, and other stuff net.  The net is scheduled to begin in 5 minutes at 8PM.  Please make any last minute calls before the net at this time.  Thank you.  This is [call], [name] in [town].
+
+
+8:00	This is [call], [name] in [town].  I am the net control for this week’s MMRA technical, informational, and other stuff net.  This net meets weekly @ 8 PM eastern time on the linked repeaters of the MMRA system.  The system has over 20 repeaters on the 10, 6, 2, 1¼M, and the 70 and 33cm bands plus EchoLink & IRLP. We also have an equal number of affiliated repeaters that can be linked.  
+
+Most of these repeaters are capable of being linked into one large system for public service and emergency communications.  The primary purpose of this net is to test this linked system.  This net also allows the exchange of any technical, informational, or other stuff related to Ham radio that the members of the net wish to announce or discuss. (Good place to break.)
+
+I will go up the list of repeaters by frequency and accept check-ins from each repeater.  I will then proceed back up the list asking for comments from each you.  Note that I will ask for check-ins from the MMRA 6M, 2M and 220 repeaters, then EchoLink & IRLP, then the MMRA 440 and 900 repeaters, and finally all of the Affiliate Repeaters.
+
+This is very important:  When checking-in, wait a good two seconds after keying up to talk as there are many links interconnecting.  Then please say “This is” (then break to check for doubling, and key up again, wait that two seconds and give…) “your call, your name and your location.” 
+
+This is an open system, so everyone is invited to check in.  If you can hear me, you can check in!  I will start with check-ins on the: Marlboro 53.81 repeater, PL of 71.9…
+
+MMRA advertisement at some point…  Remember to ask for late check-ins often…  Remember to remind the members of the 2-second wait and to check for doubling…
+
+
+End	This is [call], net control and this is the conclusion of this weeks MMRA technical, informational, and other stuff net.  Thank you to all the stations that checked in and thank you to all the stations that stood by while we held the net.  Also thanks to all those people in the MMRA whose behind the scenes actions make this repeater network possible.  The repeaters will stay linked until 11PM. Stations are encouraged to stay on the air and utilize the network. This is [call], [name] in [town], clear.
+----------
+
+Upcoming MMRA Meetings
+
+
+Wed, 24 Sept ~ Membership Meeting
+The Art and Science of Radio Direction Finding, Bob Ravenstein—W1FDR
+Northborough Public Library
+
+Wed, 15 Oct ~ Business Meeting
+Stratus, Maynard
+
+Saturday, 15 Nov ~ Membership Meeting
+Our November meeting will be at the WTAG radio station transmitter in Holden.  Don't miss this special event!
+
+Wed, 17 Dec ~ Business Meeting
+Stratus, Maynard
+
+Wed, 21 Dec ~ Membership Meeting
+Amateur Radio and the Weather, Mike Neilsen—W1MPN
+Location TBA
+
+Wed, 18 Feb ~ Business Meeting
+Stratus, Maynard
+
+Wed, 18 Mar ~ Membership Meeting
+Weak Signals and DX’ing
+Location TBA
+
+Wed, 15 Apr ~ Business Meeting
+Stratus, Maynard
+
+Wed, 20 May ~ Membership Meeting
+Annual Meeting: Officers Report and General Elections
+Location TBA
+
+Wed, 17 June ~ Business Meeting
+Stratus, Maynard
+
+Wed, 21 July ~ Mid-summer Get Together
+Location TBA
+
+Wed, 19 Aug ~ Business Meeting
+Stratus, Maynard
+----------
+
+Don’t Forget! Join Us.
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+
+The MMRA’s repeaters are linked Tuesday nights for the TIaOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Want to try your hand at Net Control?  Contact me at W1DYJ@mmra.org  – we have a script you can use.
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	??????		OPEN
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+MMRA Leaders
+
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+* Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2015		Steve Schwarm	W3EVE
+Director  »2015		Roger Coulson	WA1NVC
+Director  »2016		Clark Conti	N1NVK
+Director  »2016		Mike Neilsen	W1MPN
+
+Repeater Trustees
+* Belmont 145.430	James Lee	N1DDK
+* Boston 927.0625	Rick Zach	K1RJZ
+* Boston 146.820	John Mullaney 	K1BOS
+*  Brookline 146.820 Rcvr Bob Phinney	K5TEC
+* Burlington 146.715	Bruce Pigott	KC1US
+* Burlington 446.775	Larry Banks	W1DYJ
+* Hopkinton 223.940	James Cahill	KB1LOY
+* Lowell 442.250	Vince De La Flor K1LVF
+* Marlboro 53.810; Quincy 146.670; Southboro 449.575
+	
+			Bryan Cerqua	W1BRI
+* Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
+         Weston 442.700 — all as W1MRA
+			Bill Northup	N1QPR
+* Mendon 146.610	Jim Podsiadlo	AE1C
+* Quincy 224.40		Bill Dunn	N1KUG
+* Weston 146.790	Bob Evans	N1BE
+* Weston 224.700	Eddie Mulhern	N1NOM
+
+Other, non-Voting
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg.  Coord.	Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	David Wolfe	KG1H
+* VEC Liaison		Bill Wade	K1IJ
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+
+* Appointed
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+
+www.mmra.org
+Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+Oct 11, Nov 8, Dec 13
+9 AM at the Marlboro Public Library
+
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+----------
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+20 Sep	Forestdale RI	RIAFMRS @VFW
+20 Sep	Riverview NB	MAARC @Lions
+20 Sep	Alexander ME	StCVARC @elSch
+21 Sep	Cambridge MA	FLEA at MIT
+27 Sep	Brookline NH	NEARC Antique
+ 5 Oct	Queens NY	HoSARC
+10,11 Oct Deerfield NH	NEARfest XVI @FG
+12 Oct	Meriden CT	Nutmeg @Sheraton
+12 Oct	Fishkill NY	MtBARC @Corectional
+18,19 Oct Wakefield MA	Photographica @AmericalCt
+19 Oct	Cambridge MA	FLEA at MIT
+25 Oct	Gales Ferry CT	TCARC Auction @FireCo
+26 Oct	Hicksville NY	LIMARC 
+@Levittown Hall
+ 8 Nov	Bourne MA	FARA @UpperCC
+29 Nov	Windsor CT	VR+C Mus 
+115 Pierson LN
+
+——2015——
+7 Mar	Chicopee MA	MtTomARA @MooseLodge
+27,28 Mar Lewiston ME	AARC ME Conv @Ramada
+1,2 May Deerfield NH	NEARfest XVII @FG
+6 Jun	Hermon ME	PSARA @8 @HS
+21,23 Aug Boxboro MA	FEMARA NE Conv
+----------
+
+END OF NEWSLETTER

@@ -1,0 +1,341 @@
+The Minuteman Repeater Association
+
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+
+The Minuteman
+Volume 45, Number 6
+May 2016
+----------
+
+Annual Meeting ~ Wednesday, May 25 ~ 7 PM
+
+MMRA Officers Report to Members & General Election
+
+** plus **
+
+Programming Your Radio with CHIRP
+James Lee N1DDK 
+
+Location:   Northborough Public Library ~ Talk-in 147.27
+
+CHIRP is universal software that supports programming of just about any modern radio. N1DDK will show us how easy it is to use. Best of all, 
+the software is FREE! 
+
+James was originally licensed as KA1KUB in 1982.  He became active 
+developing Chirp software when he purchased a  TYT9800 quad band 
+6, 10, 2, 440 mobile radio and wanted to easily program it.    He is currently 
+a hardware development Engineer for Qualcomm in Boxborough.
+
+Nominations
+ David Wolfe, 		KG1H	President
+  Mike Neilsen, 	W1MPN	Vice President,
+  John McGovern		W1JMC	(incumbent) Secretary
+  Kevin Paetzold	K1KWP	(incumbent) Treasurer
+  Bob Evans		N1BE	(incumbent) Clerk
+  Clark Conti		N1NVK
+	(incumbent) for Director > 2018 
+  James Lee		N1DDK
+	Director >  2018. 
+----------
+
+LIBRARY PARKING 	
+Patty Lane is right across from the Gulf station.  Follow Patty Lane to the library parking lot. The red brick building next to the library has a tempting driveway, being right next to the library, but it is private property.  Please respect the owners' property, and use the library lot.  Additional parking is available on the corner of Hudson and Pierce, or at Town Hall.  
+Traffic exiting Patty Lane should stay to far right, even for left turns, to avoid traffic turning in. The lane closest to the pizza shop is for INCOMING traffic ONLY from Rt. 20 eastbound.
+
+Directions from I-495:
+>From I-495, take Exit 24B which is Rt. 20 West toward Northborough.
+Follow Rt. 20 West about 3.5 miles, into the center of Northborough.
+Opposite the Gulf Station on the right, turn left into Patty Lane.
+The Northborough Free Library parking lot will be on the left.
+----------
+
+President’s Corner ~ Bob DeMattia ~ K1IW
+
+When I wrote my first president's corner in September 2004, I outlined where we were as a club and some areas I'd work to improve.  My main concern was meeting attendance, which ranged from maybe a dozen at some meetings to occasionally close to forty.  I'm happy to report that at our last few general meetings, the average has moved to about 25, though the maximum is still about forty.  Progress, yes - but it's taken us twelve years to improve to this point. 
+
+Activity at other club events is good - we have the core group of officers and directors. We also have another dozen and a half that will show up for the occasional work parties.  We've had no shortage of volunteers at recent projects such as the Sligo renovation or the Burlington relocation.
+
+Our biggest growth has been in memberships and repeaters.  When I took the reigns, I recall club membership being around 120-130 members.  We now have 264 active memberships.  The club has gone from operating twelve repeaters to twenty-two:  two of the new ones are digital technology and another two are on the 900MHz band - a band that had an entirety of six operating repeaters in Eastern Massachusetts, by any club, in '04.
+
+Going forward, I hope to see the club continue to grow.  While we have spent significant cash on new systems and upgrading old ones, we are on solid financial ground thanks to the wisdom of the MMRA governing board.  I would be remiss if I didn't call out Rick Zach K1RJZ, who through his connections gave the club access to the largest and most successful fund raising effort the club has ever seen.  The Sligo renovation project may not have been possible without these funds.
+
+I'd also like to thank Larry Banks, who has been our newsletter editor since May 2006.  It is one of the best club newsletters that I am familiar with.  Thanks go to  Kevin Paetzold K1KWP for the onerous tasks of managing the clubs finances, John McGovern W1JMC for fighting with the club's membership database, Bob Evans for recording our minutes and filing our corporation status with the commonwealth, and Steve Telsey, N1BDA for being my backup.  All of these officers have been with the club throughout my term.  Finally, I'd like to thank Bryan Cerqua who keeps our systems running.  Without this team, the club would not keep running.
+
+But that team can always use your help.  I'd like to ask all our club members, to please consider getting involved.  Come to one of our events - volunteer to help at the Boxboro convention in September, or just join us at the club banquet table.  Maybe you'd like to assist with keeping one of our repeaters running, or maybe being a net control on our Tuesday night net.  The opportunities are all out there for you - summarized neatly in this bimonthly newsletter.
+
+As I retire from my role as president, I believe the club is in a good position to keep growing.  My many thanks to all our members - your continue membership provides the funds that enable the club to do great things.  It has been an honor to serve as your club president.
+
+73, Bob DeMattia, K1IW
+----------
+
+BOXBORO 2016!
+SEPTEMBER 9, 10, & 11
+
+At the Holiday Inn in Boxborough, MA
+
+Major Manufacturers!
+Flea Markets!
+First-Class Forums and Seminars!
+Friday DXCC/Contest Dinner with David Collingham K3LP of the VP8S DXpedition
+Saturday Grand Banquet with noted Radio Historian Donna Halper
+
+PRIZES!
+PRIZES!
+
+PRIZES!
+
+See http://www.boxboro.org for info and to purchase tickets
+Tickets also available at Ham Radio Outlet in Salem, NH and
+at Electronics Plus in Littleton, MA
+
+The MMRA needs people the help at the Convention.
+
+Contact David, KG1H, for details:  KG1H@ MMRA.org
+----------
+
+Burlington Repeaters have moved to North Reading
+
+The MMRA Burlington repeaters - 146.715 and 446.775 have been relocated to North Reading.  Input PL has not changed.  This site is expected to improve coverage, especially to the North, but generally in all directions.
+
+Please give them a try and send us your signal reports!  Some photos from the move are below.  (KG1H photos unless noted.)
+
+Thanks to K3FG, KC1US, N1NVK, WH6DSN, WA1MDD, KG1H, and KC1DRH.  Without any of you, this would not have been possible!  Kevin, KC1DRH, is also our contact in North Reading who got us access to the site - so a special thanks to him for doing this, and for climbing the tower and working with me at the top to install the antennas.
+Bob DeMattia, K1IW
+
+Photo 1: From K1IW: This image of the Boston skyline is similar to pretty much every other direction. 
+There are no nearby obstructions in any direction.  You can see:
+	The Needham TV towers, Prospect Hill, Nobscot Hill, 
+	Sligo Hill, including the "Witch Hat", Mt. Wachusett, 
+	And the Lahey Hospital building on the hill in Peabody.
+It was a little too hazy to see more than ~ 50-60 miles.		[K1IW photo]
+----------
+
+Marathon Thank You letter
+
+From: Matthew Forman
+Subject: Thank You for your Support during the 2016 Boston Marathon
+Date: April 25, 2016 at 5:27:59 AM EDT
+To: kg1h@mmra.org
+
+Good Morning David,
+
+As we approach the one week mark since the 120 Running Boston Marathon I wanted to take a moment an express my sincere gratitude towards you and the organization your represent for allowing us to use your amateur radio infrastructure during the Marathon. Your equipment helped approximately 280 communication volunteers provide a critical communication network for the Boston Athletic Association as well as numerous public safety and event partners. 
+
+Initial reports indicate that everything went extremely well and that is in no small part to the robust communications you and your organization helped enable. 
+
+If you have any feedback with regards to how things went in 2016 or feel we could improve in any way for 2017 please feel free to let us know. You can always reach me directly at k6mcf@HamRadioBoston.org or the Amateur Radio Communication Committee at contact@HamradioBoston.org.   
+ 
+Thank You,
+Matthew Forman
+310-806-1273
+k6mcf@HamRadioBoston.org
+Chain, Technical Infrastructure Committee
+BAA Communication Committee
+----------
+
+Public Service Repor
+t
+David Wolfe, KG1H 
+
+Public Service Events sponsored by the MMRA or other ham organizations that members of the MMRA participate in and/or MMRA repeaters support:
+
+Sutton Chain of Lights – 05 Dec 2015
+Ashland Half-Marathon & 5K Race – 19 March 2016 
+2016 Boston Marathon – 18 April 2016	
+Run of the Charles – 24 April 2016
+Westford Kiwanis Apple Blossom Parade– 14 May 2016
+Brain Tumor Association Boston Ride– 15 May 2016
+Wellesley Parade, 22 May 2016
+----------
+
+Photo: Your Board of Directors at work...
+----------
+
+April Business Meeting
+Bob Evans, Clerk, N1BE
+
+The MMRA board met for a business meeting at the new office of Stratus in Maynard, MA at 7:00 PM on April 27.  In attendance were K1KWP, N1DDK, W1DYJ, N1BE, W3EVE, W1BRI, KG1H, W1MPN, N1BDA, N1NVK and K1IW. 
+The first agenda item was a Treasurer Report by K1KWP reviewing income, expenses and balances.  Kevin reminded us that MMRA fiscal years run from June 1 through the following May 31st.  No deficit is expected with the projected spending for this year being less than the projected income.
+Kevin also reviewed a list of past members who did not renew this year.  We have some concern because the number of such ex-members is higher than in any recent year. 
+Bob, K1IW, then led a discussion of status of various repeaters as follows. 
+  In Hopkinton, the situation has not changed.  We have a 220MHz repeater and link radio.  With advance notice, we can access the radios but antenna work is not possible. 
+  Bob is in discussions to find a new home for the 449.575 machine in Hopkinton.  The board approved an expenditure not to exceed $300 to purchase equipment for using this 70-cm repeater at another site. 
+  The Burlington repeater is scheduled to move to North Reading on April 30.  K1IW has enlisted about 6 volunteers to help do this move.  We expect no equipment expenses associated with this move. 
+  The split-site MRE/Weston 10-M repeater has receive problems at both sites.  K1IW took the link receiver from the MRE half of this repeater to his house to investigate PL decode problems.  W1BRI volunteered to go to Weston to investigate cause of poor 10-M receive sensitivity.  The board considered purchase of a new 10-M receive antenna for Weston, but took no action pending the result of Bryan's investigation. 
+  The IRLP node 4136 is still in the process of being built by K1IW. 
+
+The board discussed sharing the Quincy site with a GMRS repeater.  We had concerns about how to provide access to the site while maintaining security of our equipment.  We also wanted to be reimbursed for electricity use by GMRS and some of our costs to be at Quincy.  W1BRI was selected to represent the MMRA in discussions with this group.  The board approved these terms: rent is $300 per year, paid in in advance.  Site access will be possible only when an MMRA trustee is present. 
+Two of our repeater power supplies need replacing.  The linear 12V power supply at Clay Center emits a disturbing hum.  At MRW, we chose to replace the power with a more efficient one to reduce the electric utility cost.  The board approved an expenditure of $220 for a metered rack-mount Astron switching power supply for the Clay Center, and an expenditure not to exceed $300 for a metered rack-mount switching power supply with a provision for battery backup for Sligo. 
+James, N1DDK, reported problems with pests entering the MRE shelter and a rotting wooden mast that needs replacing.  The board approved an expenditure not to exceed $300 to effect repairs and to construct a "tilt-a-ma-jig" in place of the mast.  This work is not scheduled, but will be coordinated with a June work party to do yard work and general maintenance at the site. 
+Mike, W1MPN, reported the following slate has been selected by the Nomination Committee:
+  David Wolfe, KG1H, for President,
+  Mike Neilsen, W1MPN, for Vice President,
+  John McGovern, W1JMC, (incumbent) for Secretary,
+  Kevin Paetzold, K1KWP, (incumbent) for Treasurer,
+  Bob Evans, N1BE, (incumbent) for Clerk,
+  Clark Conti, N1NVK, (incumbent) for Director through May 2018,
+  James Lee, N1DDK for Director through May 2018. 
+Steve Schwarm, W3EVE, and Roger Coulson, WA1NVC will continue as Directors in terms that run through May, 2017. 
+Outgoing president, Bob DeMattia, K1IW, indicated his willingness to assume a seat on the Executive Board as an additional director for a term of one year, in accordance with the MMRA bylaws. 
+W1MPN also provided an update from the budget committee that was mentioned in the January 2016 newsletter.  With the change in board membership, it was too early to lock into a budget before the annual meeting in May.  Consequently Mike and the board plan to develop a long range technology and financial plan after the elections.  The board is in general agreement that this needs to be done. 
+We discussed a new trustee for Belmont but took no action. 
+K1IW reminded us that the Boxboro! convention is on Sept 9, 10, 11.  The MMRA efforts for the event is being coordinated by KG1H.  K1IW advocated for again, like last year, getting an MMRA table together for the Saturday dinner.  This gets one a seat with fellow MMRA members and saves a few dollars on the cost of your dinner.  Contact K1IW or KG1H if you are interested. 
+Steve, W3EVE, followed up with the board on his action item with MAVOAD.  The MMRA is now signed up with the MAVOAD network, but we have had little communication with them.  National VOAD (Voluntary Organizations Active in Disaster) is recognized nationwide as the non-governmental leader building community resiliency throughout the disaster cycle. 
+Per the bylaws, the board moved to stop sending paper newsletters at no cost after May 2016.  Newsletters will not be sent by US mail to anyone who has not paid an additional $10 per year to cover the costs of printing and mailing. 
+The meeting adjourned at 8:45 PM.
+----------
+
+Next MMRA Business Meeting: Wednesday 15 June, 7PM
+Location: Stratus, Maynard
+----------
+
+March Membership Meeting
+
+Antenna Modeling ~ Larry Banks, W1DYJ
+
+Larry’s presentation started with some history about why Larry started modeling antennas.  It then highlighted the various software packages available in three ARRL Books: The Handbook, OH4UN’s Low Band DXing, and The Antenna Book.  Using some of his homebrew antennas as examples, Larry showed how to use four packages – TLW, YW, HFTA, and EZNEC.
+
+A few of his slides are below.
+----------
+
+Upcoming MMRA Meetings
+
+
+Wed, 25 May ~ Membership Meeting
+Programming Your Radio with CHIRP ~ James Lee N1DDK 
+and Annual Meeting: Officers Report and General Elections
+Northborough Public Library 
+
+Wed, 15 June ~ Business Meeting
+Location: Stratus, Maynard
+
+Saturday, 10 Sept ~ Mid-summer Get Together
+Boxboro ARRL Convention
+Holiday Inn, Boxborough 
+----------
+
+Work Party!
+
+Marlborough East
+June 18th at 10AM 
+Contact Bob, K1IW,
+for details:
+K1IW @ mmra.org
+----------
+
+Don’t Forget! Join Us.
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Net Control Operators:
+Week 1	WA1JIM	Jimmy Devaire	
+Week 2	W1DYJ	Larry Banks	
+Week 3 	KC1CLA	Ed Curley
+Week 4	K1KWP	Kevin Paetzold	
+Week 5 	KB1OQA	Tom Turner
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+www.mmra.org
+Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+
+Third Saturday
+
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+* Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2017		Steve Schwarm	W3EVE
+Director  »2017		Roger Coulson	WA1NVC
+Director  »2016		Clark Conti	N1NVK
+Director  »2016		Mike Neilsen	W1MPN
+
+Repeater Trustees
+* Belmont 145.430	James Lee	N1DDK
+* Boston 927.0625	Rick Zach	K1RJZ
+* Boston 146.820	John Mullaney 	K1BOS
+* Brookline 145.160	Joyce DeMattia	N1QPH
+* Brookline 146.820 	Rcvr  Bob Phinney	K5TEC
+* Hopkinton 223.940	James Cahill	KB1LOY
+* Hopkinton 449.575	Bryan Cerqua	W1BRI
+* Lowell 442.250	Vince De La Flor	K1LVF
+* Marlborough 53.810,  Quincy 146.670; 
+	Bryan Cerqua	W1BRI
+* Marlborough: 29.68, 144.390, 147.270, 224.880,
+
+       448.225, 449.925,  927.700 — all as W1MRA
+	Bill Northup	N1QPR
+* Mendon 146.610	Kevin Paetzold	K1KWP
+* N. Reading 146.715	Bruce Pigott	KC1US
+* N. Reading 446.775	Larry Banks	W1DYJ
+* Quincy 224.40		Bill Dunn	N1KUG
+* Weston 146.790	Bob Evans	N1BE
+* Weston 224.700	Eddie Mulhern	N1NOM
+* Weston 442.700	David Wolfe	KG1H
+
+
+Additional, non-Voting
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	David Wolfe	KG1H
+* VEC Liaison		Bill Wade	K1IJ
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+
+* Appointed
+----------
+
+Calendar of Ham Radio Flea Markets
+
+For more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+14 May	E Greenbush NY	EGARA @FireCo
+21 May	Goshen CT	SoBARC  @FG
+21 May	Brookline NH	NEARC Antiqe @EvntCr
+ 4 Jun	Hermon ME	PSARA @8 @HS
+ 5 Jun	Bethpage NY	LIMARC @Briercliff
+ 5 Jun	Fishkill NY 	MtBARC @CorrectionalQWL
+11 Jun	Windsor CT	VR+C Mus 115 Pierson LN
+13 Aug	St Albans VT	STARC @VFW @8
+ 6 Aug	Milo ME	PARC 8AM@Kiwanis
+20 Aug	Windsor ME	AARA @FG
+28 Aug	Adams MA	NoBARC @BoweFld
+28 Aug	Newtown CT	CARA @TownHall
+17 Sep	Forestdale RI	RIAFMRS @VFW
+9,11 Sep	Boxboro MA 	FEMARA NE Conv
+10 Sep	Windsor CT	VR+C Mus 115 Pierson LN
+24 Sep	Brookline NH	NEARC Antiqe @EvntCr
+ 9 Oct	Queens NY	HoSARC @HoS
+14,15 Oct Deerfield NH 	NEARfest XX    @FG
+16 Oct	Meriden CT	Nutmeg @Sheraton
+29 Oct	Gails Ferry CT	TCARC @FireCo
+30 Oct	Hicksville NY	LIMARC @Levitt Hall
+12 Nov	Bourne MA	FARA @UpperCC VoTech
+ 3 Dec 	Windsor CT 	VR+C Mus 115 Pierson LN 
+----------
+
+	end of newsletter
+----------

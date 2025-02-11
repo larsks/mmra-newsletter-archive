@@ -1,0 +1,287 @@
+The Minuteman Repeater Association
+A non-profit organization providing communications infrastructure and volunteers for community and emergency events.  
+----------
+
+The Minuteman
+Volume 47, Number 2
+November 2017
+----------
+
+Membership Meeting ~ Wednesday, 15 November
+
+Astronomy! Radio! Cubes in Space!
+Host: Bob Phinney, K5TEC
+Location: Clay Center, 20 Newton St., Brookline
+
+Talk-in: 146.82  pl 146.2
+
+
+Remember when you first got your amateur license?  What was it that got you hooked on the hobby?  Now YOU are the mentors and role models for a new generation of hams. They are into everything – it’s not your grandfather's old radio hobby any more. You know the new buzzword in education: “STEM” - Science, Technology, Engineering, Math. Amateur Radio is the ULTIMATE STEM activity! See how new hams are delving into the hobby in a new way that may surprise you, yet this is the future of amateur radio. You can be a part of it too! After the meeting, try out a Segway, a Theremin, play with Oobleck, use the club radio room, and visit the Clay Center Observatory for some deep space viewing.
+
+Directions:
+----------
+>From the West:  Follow Route 9 into Brookline. At the intersection with Chestnut Hill Ave near the Brookline Reservoir turn south onto Lee Street, keeping right at merge with Clyde Street. Continue to the end at the traffic lights and get in left lane. Turn left onto Newton Street, stay in right lane, and look for red tile and stucco buildings on your right. Turn right onto St. Paul's Avenue (some maps call it Mt. Walley Ave.)
+
+>From the East: Follow the Jamaicaway into Jamaica Plain. Follow the Jamaicaway south, keeping Jamaica Pond on your right. (Ignore the Pond Street that goes east at the pond.) When the road is split by a tree-lined park, get in the right lane and turn right at the traffic lights onto the Pond Street that heads west, up hill, and around many sharp curves. When the road straightens out look for Hopkins Road on your left. Take your next left onto St. Paul's Avenue (some maps call it Mt. Walley Ave.)
+
+>From the South: Follow the VFW Parkway into West Roxbury. After Corey Street get in left lane. Look for signs for "Village at Chestnut Hill" and Bertucci's. Turn left onto Independence Drive, follow through lights, then straight through rotary onto Grove Street. Stay in right lane, and go straight ahead at lights by Exxon Station. You are now on Newton Street. Follow Newton Street through traffic lights at Clyde Street. Stay in right lane, and look for red tile and stucco buildings on your right. Turn right onto St. Paul's Avenue (some maps call it Mt. Walley Ave.)
+
+Parking: For the Clay Center: Take 2nd right through main gate, travel up the hill, bear LEFT, over top of hill, and park on Athletic Center roof deck.
+----------
+
+President’s Corner
+
+David Wolfe ~ KG1H
+
+Repeaters, as time flies
+
+First a little history.  When I first got my Novice ham ticket around 1958 and shortly afterwards my General license, there were no repeaters, and hams were communicating, yes communicating, in multitudes on the many ham shortwave and VHF bands; back when propagation was at its peak.   As time passed more and more hams were experimenting in the VHF frequencies, and ham repeaters were conceived.  See  https://en.wikipedia.org/wiki/Amateur_radio_repeater for a history report.
+
+As time progressed, more and repeaters were being activated by many ham radio clubs due to the crowding of the repeater channels when it was almost impossible to break into a conversation, except in an emergency, when a break, break, break was transmitted.  While operating mobile, I needed to use it several times to report an accident that needed the police to be contacted on a landline telephone; i.e., before the cell phone was invented.
+
+It is amazing how many repeaters have appeared on the VHF and UHF bands, and it is also obvious how their utilization has greatly decreased over time.  This gets to the point of my message.  Does the MMRA really need its 22+ repeaters?   I have monitored, and put out calls on the MMRA repeaters, and also repeaters of other clubs in the area, and it is apparent their utilization has also greatly decreased by their obvious lack of repeater activity.
+
+Yes, the influx of DMR repeaters impacted the utilization of our and other FM repeaters, however monitoring and calling on their digital repeaters is also symptomatic of their lack of use.  I have mentioned this to other DMR users and they reported the same.  Where did all those hams disappear to?  Maybe Twitter replaced ham radio.
+
+I propose that we identify those MMRA repeaters that are greatly unused and consider their demise.   This should reduce our cost of maintaining and operating those systems.  However, this may require that electronics be installed to determine their utilization as part of the general repeater upgrade currently under way.
+----------
+
+The Amateur's Code
+
+The Radio Amateur is:
+
+CONSIDERATE...never knowingly operates in such a way as to lessen the pleasure of others.
+
+LOYAL...offers loyalty, encouragement and support to other amateurs, local clubs, and the American Radio Relay
+League, through which Amateur Radio in the United States is represented nationally and internationally.
+
+PROGRESSIVE...with knowledge abreast of science, a well-built and efficient station and operation above reproach.
+
+FRIENDLY...slow and patient operating when requested; friendly advice and counsel to the beginner; kindly assistance, cooperation and consideration for the interests of others. These are the hallmarks of the amateur spirit.
+
+BALANCED...radio is an avocation, never interfering with duties owed to family, job, school or community.
+
+PATRIOTIC...station and skill always ready for service to country and community.
+
+Paul M. Segal, W9EEA, 1928
+----------
+
+Technical Update
+ 
+Bob DeMattia, K1IW
+
+Since the club last met, there were two problems with the MMRA systems.  The first is the 146.82 
+repeater.  In late August, the equipment was 
+relocated (not by us!) inside the building.  The move was not without issues.  It took the repeater off the air and off the internet.  First, an RF problem sprang up affecting the auxiliary link transmitter.  This was repaired.  Next, a router configuration problem was found affecting internet connectivity.   With both 
+problems resolved, the next layer of the onion was a problem with the link radio.  A bad op-amp inside the radio was preventing PL tone generation.  
+
+Furthermore, a bad transistor in the power control circuitry was preventing the link radio from putting out any power.   Both component problems have been fixed.  The link radio was reinstalled on 
+November 7th, just in time for the weekly TIOS net!
+
+On another front, internet connectivity at 
+Marlborough West was lost on October 19.   A quick check at the site found a blown wall-wart power 
+supply on the router.  This was easily replaced - but even with the router working, there was no internet.  Further investigation found there was no DSL signal on the incoming copper pair.  A call to dsl extreme (our provider) was made, who promised us Verizon would be out to fix the problem on November 30th - that's right - over a month away.  This turned out to be false, however, and Verizon was there the next day to repair the line.  Someone had cut our 
+connection at the top of the service pole!
+
+So much for the bad stuff!   On a more positive front, we are making progress toward meeting 100% internet control of the MMRA network.  To do this, two requirements need to be met:
+
+	(1) The repeater controller itself has to have a serial port (a way to connect it to a computer)
+
+	(2) There needs to be an internet connection at the site.
+
+Currently, internet service is provided free of charge to six MMRA sites.  At an additional three: Quincy, North Reading, and Marlborough East, we have cellular modems to provide the connections at $3.99 per month each. Finally, at Marlborough West, we have a DSL line at $30 a month.
+
+There are only three sites that have no internet service at all - Mendon, Hopkinton South, and Hopkinton Center. These sites also don't have a repeater 
+controller that can be connected to a computer.
+
+We are waiting on the Pi-peater project (described in a previous newsletter) to make further progress.  When the first Pi-peater is available, it will replace the three controllers currently at Marlborough West.  When these are freed up, they will be redeployed to the other three sites.
+
+Currently, internet control means manually 
+connecting to the individual repeater and sending it commands.  Future plans involve commands being sent from a centralized server, which also hosts a website.  You will be able to see the MMRA network, including which systems are linked.  Authorized 
+users will have the ability to link/delink systems with a click of the mouse.
+----------
+
+Next MMRA Business Meeting: Wednesday 20 December, 7 PM
+Location: Marlborough MA library  
+35 W Main St,
+Marlborough, MA 01752 
+Bigelow Auditorium
+Parking: 22 Witherbee Street
+All are invited.
+----------
+
+Early Ham History – Part 2
+
+
+>From W1DYJ: I recently obtained an ARRL Handbook from 1962, the year I was first licensed. The first few pages are a wonderful, short history of the early years of Ham radio. I hope you enjoy reading this as much as I did.  It is in 5 parts.
+
+Here is Part 2: The Birth of the ARRL
+-----
+Most important of all, this period witnessed the birth of the American Radio Relay League, the amateur radio organization whose name was to be virtually synonymous with subsequent amateur progress and short-wave development. Conceived and formed by the famous inventor, the late Hiram Percy Maxim, ARRL was formally launched in early 1914. It had just begun to exert its full force in amateur activities when the United States declared war in 1917, and by that act sounded the knell for amateur radio for the next two and a half years. There were then over 6000 amateurs. Over 4000 of them served in the armed forces during that war.
+
+Today, few amateurs realize that World War I not only marked the close of the first phase of amateur development but came very near marking its end for all time. The fate of amateur radio was in the balance in the days immediately following the signing of the Armistice. The Government, having had a taste of supreme authority over communications in wartime, was more than half inclined to keep it. The war had not been ended a month before Congress was considering legislation that would have made it impossible for the amateur radio of old ever to be resumed. ARRL's President Maxim rushed to Washington, pleaded, argued, and the bill was defeated. But there was still no amateur radio; the war ban continued. Repeated representations to Washington met only with silence. The League's offices had been closed for a year and a half, its records stored away. Most of the former amateurs had gone into service; many of them would never come back. Would those returning be interested in such things as amateur radio? Mr. Maxim, determined to find out, called a meeting of the old Board of Directors. The situation was discouraging: amateur radio still banned by law, former members scattered, no organization, no membership, no funds. But those few determined men financed the publication of a notice to all the former amateurs that could be located, hired Kenneth B. Warner as the League's first paid secretary, floated a bond issue among old League members to obtain money for immediate running expenses, bought the magazine QST to be the League's official organ, started activities, and dunned officialdom until the wartime ban was lifted and amateur radio resumed again, on October 1, 1919. There was a headlong rush by amateurs to get back on the air. Gangway for King Spark! Manufacturers were hard put to supply radio apparatus fast enough. Each night saw additional dozens of stations crashing out over the air. Interference? It was bedlam!
+
+But it was an era of progress. Wartime needs had stimulated technical development. Vacuum tubes were being used both for receiving and transmitting. Amateurs immediately adapted the new gear to 200-meter work. Ranges promptly increased and it became possible to bridge the continent with but one intermediate relay
+-----
+The above is COPYRIGHT 1962 by ARRL.  The Handbook back then cost $3.50. 
+Next time Part 3: The Transatlantics
+----------
+
+Upcoming MMRA Meetings
+Note: Meeting locations are subject to change. 
+Consult the MMRA website for the most up-to-date information.
+
+Wednesday, 15 Nov ~ Membership Meeting
+Topic: Astronomy! Radio! Cubes in Space!
+Host: Bob Phinney, K5TEC
+Location: Clay Center, Brookline
+
+Wednesday, 20 Dec ~ Business Meeting
+Location: Marlborough MA library 
+
+Wednesday, 17 Jan ~ Membership Meeting
+Topic: PiPtr Project Update
+James Lee, N1DDK
+Location: Northborough Free Library
+
+Wednesday, 21 Feb ~ Business Meeting
+Location: Marlborough MA library 
+
+Tuesday, 20 Mar ~ Membership Meeting — note one day early
+Topic: The K3LR Super-Contest station (via Skype) 
+Tim Duffy, K3LR
+Location: Northborough Free Library 
+
+Wednesday, 18 April ~ Business Meeting
+Location: TBD
+
+Wednesday, 16 May ~ Annual Meeting
+Topic: Some Useful Antenna Structures
+Larry Banks, W1DYJ
+Location: Campion Center, Weston
+
+Wednesday, 20 June ~ Business Meeting
+Location: TBD
+----------
+
+Don’t Forget! Join Us.
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIOS Net.  Keep up with what’s happening in the MMRA and ask your ham related questions.  
+
+Net Control Operators:
+Week 1	WA1JIM	Jimmy Devaire	
+Week 2	W1DYJ	Larry Banks	
+Week 3 	KC1CLA	Ed Curley
+Week 4	K1KWP	Kevin Paetzold	
+Week 5 	KB1OQA	Tom Turner
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 4133
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+
+www.mmra.org 
+Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+
+Third Saturday
+
+9 AM at the Marlboro Public Library
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM
+Weekends 8 AM to 10 PM.
+Accredited by the ARRL VEC
+----------
+
+MMRA Leaders
+
+
+Officers
+
+President	David Wolfe	KG1H
+Vice President	John Spencer	WA1MDD
+Secretary	John McGovern	W1JMC
+Treasurer	Kevin Paetzold	K1KWP
+Clerk	open
+* Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+
+Director  »2018	Clark Conti	N1NVK
+Director  »2018	James Lee	N1DDK
+Director  »2019	Bob DeMattia	K1IW
+Director  »2019	Roger Coulson	WA1NVC
+
+Repeater Trustees
+
+* Belmont 145.430	Ed Curley		KC1CLA
+* Boston 146.820	John Mullaney 		K1BOS
+* Brookline Rcv 146.82	Bob Phinney		K5TEC
+* Boston 927.0625	Rick Zach		K1RJZ
+* Hopkinton 223.940	James Cahill		KB1LOY
+* Hopkinton 449.575	Bryan Cerqua		W1BRI
+* Lowell 442.250	Vince De La Flor	K1LVF
+* Marlborough 53.810,  Quincy 146.670;
+		 
+	Bryan Cerqua		W1BRI
+* Marlborough: 29.68, 144.390, 147.270, 224.880,
+	
+       448.225, 449.925,  927.700 — all as W1MRA
+		
+	Bill Northup	N1QPR
+* Mendon 146.610	Kevin Paetzold		K1KWP
+* N. Reading 146.715	Bruce Pigott		KC1US
+* N. Reading 446.775	Larry Banks		W1DYJ
+* Quincy 224.400	Bill Dunn		N1KUG
+* Weston 146.790	Bob Evans		N1BE
+* Weston 224.700	Eddie Mulhern		N1NOM
+* Weston 442.700	David Wolfe		KG1H
+
+
+Additional, non-Voting
+
+* Newsletter Editor	Larry Banks	W1DYJ
+* Emerg. Coord.		Kevin Paetzold	K1KWP
+* Pub. Serv. Coord.	David Wolfe	KG1H
+* VEC Liaison		Bill Wade	K1IJ
+* Net Manager		Larry Banks	W1DYJ
+* Web Page Editor	Bob DeMattia	K1IW
+
+* Appointed
+----------
+
+Calendar of Ham Radio Flea Markets
+
+For more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+ 2 Dec 	Windsor CT 	VR+C Mus 
+	115 Pierson LN @8AM Indoor       
+20 Jan 	Whitman MA 	WARC @KoC Rt18  
+ 3 Feb 	Springfield VT 	CVFMA @VFW @8 
+17 Feb 	Marlboro MA 	AARC @MidSch 
+24 Feb 	S Burlington VT RAoNV @HI  
+25 Feb 	Hicksvile NY 	LIMARC @LevitHall
+ 4 Mar 	Nashua NH 	NEARC RadioXLIX 
+	@CrtYdMarriott
+10 Mar 	Chicopee MA 	MtTomARA @Castle
+18 Mar 	Southington CT 	SARA @HS
+30,31 Mar Lewiston ME 	AARC ME Conv @Ramada
+ 7 Apr	Hampton NH 	PCARC @Masonic
+14 Apr 	Newton MA 	PHSNE Photographica 
+	Sat Only @AmLegion
+4-5 May 	Deerfield NH 	NEARfest XXIII @FG
+11 Aug 	St Albans VT 	STARC @VFW 
+ 9 Sep 	Ballston Spa NY SCRACES @FG
+12-13 Oct Deerfield NH 	NEARfest XXIV @FG
+27 Oct Gales Ferry CT TCARC @FireCo
+----------
+
+END OF NEWSLETTER
+----------

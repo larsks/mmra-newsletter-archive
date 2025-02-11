@@ -1,0 +1,326 @@
+The Minuteman Repeater Association
+The Minuteman
+Volume 42, Number 3
+January 201
+-----
+
+Membership Meeting ~ Wednesday, January 16 ~ 7 PM
+Technological Evolution in Disaster Communications
+Tom Carrigan, NE1R, will discuss disaster communications from 1970 to present and the implications for Amateur Radio as an emergency communications resource.
+Northborough Free Library, 34 Main Street, Northborough
+
+Talk-in: 147.27
+
+Directions to The Northborough Free Library from I-495:
+>From I-495, take Exit 24B which is Rt. 20 West toward Northborough.
+Follow Rt. 20 West about 3.5 miles, into the center of Northborough..
+Opposite the Gulf Station on the right, turn left into Patty Lane.
+The Northborough Free Library parking lot will be on the left.
+
+LIBRARY PARKING 
+
+Rt. 20 construction has made it difficult to see the library parking sign on the corner of Main St. (Rt. 20) and Patty Lane.  Patty Lane is right across from the Gulf station.  Whether you're coming from out of town, or just not sure where to park, follow Patty Lane to the library parking lot.  
+ 
+The red brick building next to the library has a tempting driveway, being right next to the library, but it is private 
+property.  The property has recently been sold, so the building won't be vacant much longer.  Please respect the owners' property, and use the library lot.  Additional parking is available on the corner of Hudson and Pierce, or at Town Hall.  
+-----
+
+The Minuteman Repeater Association (MMRA) is dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in Eastern
+Massachusetts.
+The MMRA meets (usually) on the 3rd Wednesday of each month from September to June.  Meeting times, locations, and talk-in frequency vary and are announced in this newsletter and on weekly nets.  Meetings are open to all interested parties.  Guest speakers and programs of general interest occur in September, November, January, March, and May.  The intervening meetings are also open to all members and are for general business.
+The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+Membership in the MMRA is open to all radio amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+Email to the club leadership should be sent to 
+contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
+-----
+
+MMRA QRM Policy
+MMRA members and all other operators are strongly encouraged to report repeater 
+activity that does not abide by Part 97 rules or accepted amateur radio practice to the board of directors at contact@mmra.org or via other means.
+
+The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
+-----
+
+President’s Corner ~ Selecting an HF Transceiver
+Bob DeMattia — K1IW 
+
+I realize MMRA is primarily a VHF/UHF club, but many of us are also active, or would like to be active, on the HF bands as well.  A question that comes up often is “what’s the best HF transceiver”?  As is almost always the answer – it depends!
+
+I found thirty-four HF transceivers currently on the market.  When I compiled my list, I excluded anything that wasn’t ready to operate “out of the box”.  For example, one manufacturer in particular, FlexRadio systems, specializes in transceivers which you must control from a PC.  Kenwood also offers a transceiver like this.  There are also a few manufacturers that offer transceivers in kit form.  These may very well be excellent products, but for the purpose of comparison, I wanted to keep my list restricted to main line traditional radio forms.
+
+The first question you need to ask is – how am I going to use this radio?  Casual use?  DX? Contesting?  Awards?   The more serious you want to get about contesting, the more you are going to need better receiver sensitivity and selectivity.  More expensive radios often include additional features to eliminate locally generated noise or to handle QRM.  The second question might be “what is my budget”?   In fact, this might be the first question.  Almost everyone I know is on a budget.  If you are the exception, then lucky you.
+
+Estimated prices range from $520 to over $12000.  There are actually some specialty companies that go higher, but I figure $12000 is more than enough.  You will find that radios at the lower ends have simpler displays, poorer receiver performance, or may lack features such as a band scope that lets you see where the activity is on the band.  Most transceivers include coverage up through 54 MHz, but there are exceptions.  There are a handful of radios that also include the 2m and 440 bands.  These transceivers may be in the same price class as others with VHF/UHF, but may sacrifice other features or HF performance.
+
+Are you in the market?  Use this list as a guide, but investigate further the ones that are in your price range.  Keep in mind that some radios include an AC power supply.  If they don’t, you may need to add the cost of the supply to your purchase.  Many radios include, or have available, at extra cost an automatic antenna tuner.  Unless you are really lucky, you will probably need to have one of these if you want full access to all of the bands.   To help you here, I included columns to indicate which radios have a built supply and/or tuner.
+
+(Editors note: Reviews of most of these rigs can be found in ARRL’s archives.  Additional comparison specs can also be found on Sherwood Engineering’s site:  http://www.sherweng.com/table.html .)
+
+Mfg		Model		b/c/m	price	TX power	6m	2m	440	AC pwr supply	auto tuner
+Alinco		DX-SR8T		compact	520	100	NO				$350 
+Yaesu		FT-817ND	mobile	700	5	5	5	5		
+Icom		IC-718		compact	740	100	NO				$350 
+Yaesu		FT-857D		mobile	800	100	100	50	20		
+Yaesu		FT-450D		compact	900	100	100				
+Yaesu		FT-897D		mobile	1000	100	100	50	20		
+Elecraft	KX3		mobile	1000	10	10				$170 
+Kenwood		TS-480SAT	compact	1000	100	100				yes
+Icom		IC-7200		mobile	1100	100	100				$350 
+Kenwood		TS-480HX	compact	1100	200	100				
+Icom		IC-7000		mobile	1300	100	100	50	35		$500 
+Yaesu		FT-950		base	1500	100	100				yes
+Kenwood		TS-2000		base	1600	100	100	100	50		yes
+Kenwood		TS-590S		base	1600	100	100				yes
+Icom		IC-7410		base	1800	100	100				$350 
+Elecraft	K3/10-F		base	1800	10	10				$300 
+Ten Tec		Eagle		base	1800	100	100				$250 
+Kenwood		TS-2000X	base	2000	100	100	100	50		yes
+Elecraft	K3/100-F	base	2300	100	100				$350 
+Yaesu		FT-2000		base	2500	100	100			yes	
+Yaesu		FT DX 3000	base	2700	100	100				yes
+Ten Tec		Omni VII	base	2800	100	100				$300 
+Yaesu		FT-2000D	base	3200	200	200			yes	
+Icom		IC-9100		base	3200	100	100	100	75		yes
+Icom		IC-7600		base	3800	100	100				$350 
+Ten Tec		Orion II	base	4400	100	NO				$300 
+Yaesu		FT DX 5000	base	5200	200	200			yes	yes
+Yaesu		FT DX 5000D	base	5400	200	200			yes	yes
+Yaesu		FT-DX9000 Contest base	5600	200	200			yes	yes
+Yaesu		FT DX 5000MP	base	5800	200	200			yes	yes
+Icom		IC-7700	base	7000	200	200			yes	yes
+Yaesu		FT-DX9000D	base	10200	200	200			yes	yes
+Yaesu		FT-DX9000MP	base	11400	400	400			yes	yes
+Icom		IC-7800	base	12300	200	200			yes	yes
+
+-----
+
+A New Antenna for Lowell
+Bob DeMattia — K1IW 
+
+	At the end of December, club members were asked to approve funds to replace the Lowell Repeater antenna which has failed.  This measure passed by a vote  of 72 to 3, with 2 abstentions.  The new antenna will be a Decibel Products ANT450D6-9.  This antenna will provide a gain of approximately 9dB.  In order to do this, radiation outside the horizontal plane of the antenna is pushed into that plane.
+	Think of the pattern as donut shaped.  The donut is laying on its side with the repeater in the center.  As the gain increases, the donut gets flatter.  More signal is pushed horizontally so locations above or below the horizontal plane of the antenna get less signal.  There are situations in which a higher gain antenna can actually be detrimental.  Lowell is not one of these cases.
+	The vertical beamwidth of a 6dB antenna is 34 degrees, for a 9dB antenna is 15 degrees.  This makes the beamwidth a little over twice as large for the lower gain antenna.  When everything is located in the same +/- 400 feet of the  antenna, the narrower beamwidth will have no effect and the advantages of the 9dB antenna are clear.   Below is a plot showing the 225 deg radial from the Lowell repeater.  This radial is of particular interest because it  follows I-495.
+	As the plot below documents, the higher gain antenna will provide superior coverage for [continued] the Lowell site.   To show some contrast, I also superimposed the same pattern on our Prudential site (right).  In this plot you can see how the Prudential site is so high up that the higher gain antenna is hurting locations that are too far outside the antenna's plane.  Fortunately, we are using a 3dB gain antenna at the Prudential site and this is why.
+-----
+
+Donations and Membership
+Kevin K1KWP, Treasurer
+
+The MMRA receives donations from members every year.  Historically it seems that we do not publicize donations or even say thank you.  At a recent business meeting we discussed this and decided to list the donators from the last two membership years.
+
+Donations during Membership Year 2011-2012 (last year):
+AB1IV	K1BC	KB1VQE	KD1CY	KD1TE	KG1H	N1DDU
+N1KFV	N1YAZ	N1YDF	NV1W	WA1JIM
+
+Donations during Membership Year 2012-2013 (this year):
+K5TEC	KB1LY	KD1TE	KT4OK	KX1M	N1DDU	N1NUS
+N6QXA	W1CWJ	W1HBR	W1WRV	WA1JIM
+
+As of 4 January, 172 members have joined or renewed for this year.   This is 11 members short of of the 183 from last year.  46 members from last year have not yet renewed.  This indicates that 35 new members have joined this year.  It was my hope to publish a list of the new members but for multiple reasons it was determined that our current database makes that query problematic.  Stay tuned for list of new members in an upcoming newsletter.
+
+Also as a result of recent discussion at a business meeting we decided to publish the list of all members who are renewed .  If your callsign is not on one of these lists and you think that it should be please email/notify the board.
+
+Paid Members through 31 August 2013
+AB1IV	AE1C	K1IW	K1IX	K1JWB	K1KWP	K1LCQ
+K1LRS	K1LVF	K1NR	K1NZQ	K1PRO	K1ST	K1THR
+K1UR	K9NPD	KA1AS	KA1CEW	KA1JMF	KA1NCF	KA1NXH
+KA1U	KA2CNN	KB1DY	KB1EB	KB1HAZ	KB1ISZ	KB1IUM
+KB1JFG	KB1JLA	KB1KCO	KB1LKR	KB1LY	KB1NTJ	KB1OEI
+KB1SCG	KB1SMN	KB1SZZ	KB1TNN	KB1TOZ	KB1UMH	KB1URF
+KB1VQE	KB1VXJ	KB1VXY	KB1WOD	KB1YMA	KB5JR	KC1SO
+KD1BC	KD1LV	KG1H	KI1S	KI6MEV	KN1Q	KQ1Y
+KT4OK	KX1M	N1BD	N1BE	N1COY	N1CPE	N1DAM
+N1DDU	N1DFL	N1ELC	N1GWY	N1IZ	N1JKL	N1KFV
+N1KUG	N1NVL	N1QD	N1QPR	N1UPY	N1YAZ	N1ZCE
+N6QXA	N7FYO	NE1R	NH0CXM	NV1W	W1BP	W1BRI
+W1CWJ	W1DDO	W1FDK	W1GFF	W1HAI	W1HIT	W1ICU
+W1JMC	W1LSB	W1PMA	W1QEC	W1WH	W1WRV	W1WSN
+W2NRL	WA1AOS	WA1MXO	WA1PZK	WB1AAT	WB1FIY	WG1L
+WH6DSN	WN9T	WO1VES
+
+Paid Members through 31 August 2014
+AA1VS	AB1II	AB1PH	K1ALL	K1HK	K1IJ	K1RJZ
+K1RWS	K1UCY	K1VEA	K1YSO	K3FG	K5TEC	KA1MN
+KB1JKJ	KB1JSW	KB1LOY	KB1MSR	KB1NCG	KB1NXL	KB1OQA
+KB1PRE	KB1SUA	KB1TTF	KB1UKU	KB1UXT	KC1US	KD1TE
+KK1X	N1BDA	N1DDK	N1DM	N1KLK	N1KMM	N1LCY
+N1LWK	N1NOM	N1NUS	N1NVK	N1OTY	N1TMK	N1ZCD
+N1ZZN	N2IOF	N3EVL	NE1RD	W1DYJ	W1EZ	W1MPN
+W1MVP	W1NGS	W1RJC	W1TGA	W3EVE	WA1CFX	WA1JIM
+WA1NVC	WA1QGU	WE1L
+
+Paid Members through 31 August 2015
+AB1IC	K1BOS	KA1RCI	KI6MEU
+W1NOX	WA1WDQ	
+
+Lifetime Members:
+K1BC	KB1FZ	N1HBR	W4WR
+-----
+Have you renewed your membership yet?
+
+
+All 2012 memberships expired on August 31st! If you haven't renewed - it's time!  Go to the Member's login link at www.mmra.org to renew online.  If you prefer to renew by U.S. Mail, you can print out a membership application and mail it with a check to MMRA, PO Box 669, Stow, MA 01665.
+-----
+
+November Membership Meeting
+What We Owe The Early Hams
+
+How ham radio operators made friends, saved lives,
+and helped to create commercial radio.
+
+Donna Halper
+
+Tatnuck Bookseller in Westborough
+
+Our November guest speaker was Donna Halper. Donna told us many stories about what ham radio operators did over the past 100 years to help their communities and help build the commercial broadcast industry. Ms. Halper is a respected and experienced media historian, who makes regular appearances on WBZ's Jordan Rich Show. She is also heard on WBUR-FM and WGBH-FM and is frequently quoted in the Boston Globe and other newspapers. She is the author of five books, the most recent of which is "Boston Radio 1920-2010," a history of Boston radio in words and pictures.   [Editors note: I purchased this book from Donna that evening and really enjoyed it!]  You can read more about Donna at http://www.donnahalper.com/bio.html.
+
+>From Donna’s Web Site
+
+Boston's radio history begins with pioneering station 1XE/WGI, one of America's first radio stations, and includes the first station to receive a commercial license, WBZ; the first FM radio network, W1XOJ and W1XER; and one of the first news networks, the Yankee News Service. Nationally known bandleaders like Joe Rines and Jacques Renard were first heard on Boston radio, as was one of the first weathercasters, E. B. Rideout. The city has been home to a number of legendary announcers, such as Bob and Ray, Arnie Ginsburg, Dick Summer, Dale Dorman, and Charles Laquidara; talk show giants like Jerry Williams and David Brudnoy; and sports talkers like Eddie Andelman and Glenn Ordway. Many Boston radio personalities, such as Curt Gowdy, "Big Brother" Bob Emery, Don Kent, and Louise Morgan, found fame on television but first established themselves on Boston's airwaves. Since 1920, Boston radio has remained vibrant, proving that live and local stations are as important as ever.
+-----
+
+2012—2013 Meetings
+
+16 January ~ Membership Meeting
+Technical Evolution in Disaster Communications  & Free Pizza Night
+Northborough Public Library ~ 7:00 PM
+
+13 February ~ Business Meeting
+Southborough House of Pizza ~ 7:00 PM
+
+20 March ~ Membership Meeting
+WRTC 2014 ~ Dave Pascoe KM3T & Doug Grant K1DG
+Chelmsford Police Station ~ 7:00 PM
+
+10 April ~ Business Meeting
+Tech Projects Planning Meeting
+Champion Center, Weston
+
+22 May ~ Membership Meeting
+Annual Meeting & Elections
+Northborough Public Library ~ 7:00 PM
+
+19 June ~ Business Meeting
+Stratus, Maynard ~ 7:00 PM
+
+17 July ~ Summer Get Together
+Location TBA 
+
+21 August ~ Business Meeting
+Location TBA 
+-----
+
+Don’t Forget!
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	KQ1Y		Tim Wortley 
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using the digital modes during the Net: 
+Echolink node *NEW-ENG* (9123)
+IRLP node 4133
+-----
+
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2014		Clark Conti	N1NVK
+Director  »2014		Mike Neilsen	W1MPN
+Director  »2013		Steve Schwarm	W3EVE
+Director  »2013		Roger Coulson	WA1NVC
+
+Repeater Trustees, Appointed
+Boston 927.0625		Rick Zach	K1RJZ
+Brookline 146.820	Bob Phinney	K5TEC
+Burlington 146.715	Bruce Pigott	KC1US
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Lowell 442.250		Vince De La Flor  K1LVF
+Marlboro 53.810; Quincy 146.670; Southboro 449.575
+
+			Bryan Cerqua	W1BRI
+Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
+Belmont 145.430;  Weston 442.700 — all as W1MRA
+			Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  	Bruce Pigott	KC1US
+VEC Liaison		Bill Wade		K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+-----
+
+Previous issues of the MMRA Newsletter are available at:
+www.mmra.org è Newsletter Archive (on the left)
+-----
+
+MMRA VE Sessions
+3rd Saturday of each Month
+9 AM at the Marlboro Public Library
+
+Contact: Bill Wade, K1IJ, 781-891-9079
+Evenings 6 - 10 PM
+Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+-----
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+2 Feb		Windsor CT	Pierson LN
+ 2 Feb		Augusta ME	AARA Clb Calumet
+ 9 Feb		Springfield VT	CVFMA VFW
+16 Feb		Marlboro MA	AARC MidSc 
+17 Feb		Westford MA	NEARC
+23 Feb 		S Burlington VT 	HAM-CON HI 
+ 2 Mar 		Feeding Hills MA MtTARA 
+ 3 Mar 		Hicksville NY 	LIMARC
+16 Mar 		Dayville CT 	ECARA 
+23 Mar		Laval PQ 	CRAL-L
+29,30 Mar	Lewiston ME	AARC Conv
+ 7 Apr		Southington CT	SARA
+ 7 Apr		Framingham MA	FARA
+13,14 Ap	Wakefield MA	Photographica
+14 Apr		Middletown NY	OCARA
+20 Apr		Gales Ferry CT	RASON 
+21 Apr		Cambridge MA	FLEA at MIT
+3,4 May		Deerfield NH	NEARFest XIII
+19 May		Cambridge MA	FLEA at MIT
+ 1 Jun		Hermon ME	PSARA
+ 1 Jun		Windsor CT	VR+C Mus 
+15 Jun		Newington CT	NARL
+16 Jun		Cambridge MA	FLEA at MIT
+21 Jul		Cambridge MA	FLEA at MIT
+18 Aug		Cambridge MA	FLEA at MIT
+ 7 Sep		Ballston Spa NY	SCRACES
+ 7 Sep		Windsor CT	VR+C
+ 8 Sep		Newtown CT	CARA
+-----
+
+END OF NEWSLETTER
+

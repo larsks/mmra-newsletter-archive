@@ -1,0 +1,398 @@
+The Minuteman Repeater Association
+The Minuteman
+Volume 46, Number 2
+November 2013
+----------
+
+Membership Meeting ~ Wednesday, November 20 ~ 7 PM
+
+
+2300 MHz and Up!    
+Tony Sousa, NN1D 
+
+Dedham Public Library, 43 Church Street, Dedham 
+
+Talk-in: 146.67
+
+Ever operated on 2.3GHz? 5.6?  How about 10GHz?  It's not as difficult as you think.  Tony is very active on these bands and will be showing us how to get on them, and what to expect when we get there. 
+
+DIRECTIONS: http://www.mmra.org/dir/dedhampl.html
+From the North & West:
+Take I-95/Route 128 to exit 17 (Route 135)
+At the bottom of the ramp, turn right on Rt 135/Common St. toward Dedham square.
+Follow Common St. for 1.1 miles, at the intersection with route 109, Common St. becomes High St.
+Follow High St. 0.4 miles, then turn right on Court St.
+Follow Court St. 0.1 mile and turn left on Church St.
+The library will be on your left.
+
+From the South & East:
+Take I-95/Route 128 to exit 16A onto High St.
+Follow High St. 1.7 miles, then turn right on Village Ave.
+Follow Village Ave 0.6 miles, where you will intersect Court St.
+At this intersection, you will make a SLIGHT bend to the left - do NOT turn left onto Court!
+At the bend, you will now be on Church St. The library will be on your left.
+----------
+
+Have you renewed your membership yet?
+All 2012 memberships expired on August 31st! 
+Time to renew either on the Member's login link at www.mmra.org or by U.S. Mail with a check to MMRA, PO Box 669, Stow, MA 01665.
+----------
+
+About the Minuteman Repeater Association
+
+The Minuteman Repeater Association (MMRA) is 
+dedicated to Amateur Radio and public service.  The MMRA maintains a large system of repeaters in 
+Eastern Massachusetts.
+
+The MMRA meets (usually) on the 3rd Wednesday of each month from September to June.  Meeting times, locations, and talk-in frequency vary and are 
+announced in this newsletter and on weekly nets.  Meetings are open to all interested parties.  Guest speakers and programs of general interest occur in September, November, January, March, and May.  The intervening meetings are also open to all members and are for general business.
+
+The Minuteman newsletter is Emailed one week before each general interest meeting.  Members are encouraged to submit articles which can be sent to the editor at newsletter@mmra.org.  The deadline for articles is the last Friday of the month preceding the meeting.
+Each Tuesday evening at 8PM the MMRA links most of the repeaters for an open net.  The topic is “Technical Information and Other Stuff”.   Join us!
+
+Membership in the MMRA is open to all radio 
+amateurs.  Annual dues are $25 per individual or $35 per family.  See our website for details.
+
+Email to the club leadership should be sent to 
+contact@mmra.org. The MMRA maintains a web site at:  http://www.mmra.org/
+An email distribution list for club members named “MMRA” is at: www.yahoogroups.com/
+
+No part of this newsletter can be copied or posted elsewhere without prior approval from the club. Your cooperation in this matter is appreciated.
+----------
+
+MMRA QRM Policy
+MMRA members and all other operators are strongly encouraged to report repeater 
+activity that does not abide by Part 97 rules or accepted amateur radio practice to the board of directors at contact@mmra.org or via other means.
+
+The most effective way (and probably the only effective way) to deal with an individual causing QRM is to NOT engage that individual on the air.  Please include the time and date of any incident.  Measures are being taken to make audio recordings of repeater activity.
+----------
+
+MMRA September Membership Meeting
+
+Larry Banks ~ W1DYJ ~ Editor
+
+The membership met at the Northborough Public Library on September 18 for a talk by Andy Stewart, KB1OIQ about Linux in Your Hamshack.
+Here are some photos and slides from Andy’s presentation:
+
+Photo 1: Bob running the meeting
+Photo 2: Andy before the meeting
+
+Slide 1: Linux® in Your Ham Shack
+Presented by:
+Andy Stewart
+KB1OIQ
+September 2013
+
+Slide 2: Motivation
+Promote Linux
+* Give back to ham community
+* Reduce pain of installing ham radio software
+* Typically downloaded from vendor repository
+* Some software must be built from source
+* Not always easy...lots of dependencies, etc.
+* Help get people started
+* Could be used at install fests for hams
+* Maybe useful for Field Day or EMCOMM
+
+Slide 3: Initial Desktop (Photo)
+
+Slide 4: System Software Highlights
+* Wicd Network Manager (wired and wireless)
+* Midori Browser (lightweight, no proprietary Flash)
+* Ubiquity hard drive installation program
+* live-usb-install – create a bootable thumb drive
+* Shutdown/reboot by menu
+* Graphical file manager, PDF viewer, text editor
+* PulseAudio sound and utilities
+* xosview system monitor
+* Smart package manager
+
+Slide 5: Documentation
+* Programs have their own documentation
+	* Search the Internet for the program's website
+* Docs specific to this DVD
+	* Menu->Documentation->
+		* RELEASE_NOTES
+		* CHANGES (from release to release)
+		* Icewm docs
+		* List of software sources (if not from repository)
+
+Slide 6: Ham Radio Software Summary
+* Logging: cqrlog, xlog, TQSL (for LoTW)
+* APRS: Xastir, soundmodem
+* Digital modes: Fldigi and friends (NBEMS)
+* Qsstv, wsjt, Echolink client
+* CW: xcwcp, qrq, cwwav (text to CW)
+* Antenna analysis:
+* Xnec2c, Fl_Moxgen, aa-analyzer
+* Propagation: VOACAP for Linux
+* Satellite: Gpredict
+
+Slide 7: Recent Additions
+* EDA Software
+	* gschem – schematic capture
+	* pcb – board layout
+	* Spice and GUI with waveform viewer (gwave)
+* SDR
+	* gqrx – sdr radio receiver used with USB dongle
+* Future Version
+	* gnuradio companion
+	* ax.25 packet software
+
+News Flash — New Release:
+
+"Andy's Ham Radio Linux", version 14.
+
+This software collection is a remix of Ubuntu 12.04.3 LTS.   It contains a lot more software than version 13.   It can be run as a live medium, which means that nothing needs to be written to the hard drive to test drive this software. It can also be installed on a USB thumb drive or standard hard drive.
+
+Version 14 has both 32-bit and 64-bit versions which can be downloaded freely from this website, where a summary of the available software, and some screenshots, can also be found:
+
+https://sourceforge.net/projects/kb1oiq-andysham
+----------
+
+Next Business Meeting: 
+Wednesday December 18, 7PM  
+Stratus, Maynard
+----------
+
+October Business Meeting ~ Bob Evans — N1BE ~ Clerk
+
+The MMRA held a business meeting October 16 at the office of Stratus  Technologies in Maynard.  The meeting began at 7 PM with K1KWP, K1IW, W1DYJ, N1BDA, W1BRI, N1NVK, W1MPN, N1DDK, N1BE, WA1NVC and KG1H present.
+
+Kevin, K1KWP presented a report of the state of the treasury.  This reviewed our account balances, historic and expected expenditures, historic and expected income, and a categorization of expenses for this year.  Kevin also provided historic and expected number of members and historic electricity usage and electricity costs for the MRW site.  More details will appear elsewhere in this newsletter.
+
+Bob, K1IW, presented an update of the status of a few of the repeaters.  These are all at the MRW site.  On 147.27 the tone was fixed.  224.88 is off the air.  A new Quantar 900 MHz repeater was purchased; this should provide payback due to reduced electricity costs in about two years.  KB1ISZ donated a VPN capable router/gateway; this will enable hosting of IRLP and Echo Link directly at MRW without needing an Internet connection at another site.
+
+Bob then discussed the various computers in service for the MMRA.  We are running six computers at various repeater sites and purchase access to a commercial web server for www.mmra.org.  Also two APC power controllers are used to allow a remote reset of the computers at BOS and PRU sites.
+
+Considering the increased functions at MRW, two expenditures were approved to improve reliability of that site.  Purchase of an APC AP9211 power controller to allow reset of various devices remotely by power cycling on demand was approved, (not to exceed $105).  And purchase of a secondary (whole-house) surge protector for MRW was approved for an expenditure not exceed $150.
+
+Bob also reported on progress of MRW site work by the City of Marlborough. As already expected, the MMRA shelter will eventually need to move.  We also heard that utilities will be re-routed underground.  We expect to be able to move antennas back onto the tank before those other site changes; Bob expects to know when antennas can move before the next meeting.
+
+
+New Business:
+
+An MMRA member requests that the MMRA pay $40 per month for his internet access at a Southboro site in exchange for repeater sites he facilitated at Menden DPW and Southboro EMC office.  The board considered this proposal and did not approve the expenditure.
+
+Change of trustee for 146.82 from K5TEC to K1BOS.  John Mullaney, K1BOS, was approved by the board as the new trustee for this repeater.  [Note: K5TEC remains the trustee of the receiver at the Clay Center.  ...ed]
+
+ARRL Convention Update.  As previously reported, the ARRL will hold a national convention during July 2014 in Hartford.  As a result, the Boxboro convention will not occur in 2014.  A Boxboro convention for 2015 has already been approved.
+
+2014 Flea Market Update.  K1IW again discussed the possibility of a local ham event due to there being no Boxboro convention in 2014.  Our consensus was there is interest in having such an event on the typical Boxboro weekend.  A location very near Boston was suggested to allow easy access by many hams in our region.
+
+Dave, KG1H got email from N1OWA who recently was badly injured. John, N1OWA is looking for help with some antenna and feedline work.  One of the board members agreed to contact John and get details of what is needed so we can organize a work party.
+
+The MRE shelter and the surrounding area needs a cleanup.  K1IW will organize a work party.
+
+KG1H is organizing communication for the Ashland half-marathon on Oct 27. Dave suggested using hams; this innovation was not previously under consideration by the event organizers.
+
+The meeting adjourned at 9 PM.
+----------
+
+Treasurer’s Update ~ Kevin Paetzold  — K1KWP
+
+The MMRA membership year goes from September 1 until August 31 each year.  The MMRA fiscal year goes from June 1 until May 31.  The current MMRA fiscal year (which started on June 1, 2013) is called the 2013-2014 year.  The previous fiscal year (which started on June 1, 2012 and ended on May 31,2013) was called the 2012-2013 year.
+
+
+2012-2013:
+
+2012-2013 was a “Boxborough” year.  That means that it was a year that the biannual Boxborough convention occurred.  During a “Boxborough” year the club generally receives many 2 year renewals and as a result takes in extra dues and memberships than in non-“Boxborough” years.
+
+The club finances at the end of the 2012-2013 year were an actual surplus of $854.62.   However $1950 of the money taken in was actually dues for future years (2013-2014 and beyond).  Total income in 2012-2013 was 8008.55:  $6175 in dues;  $477.86 in donations; $1315.69 in miscellaneous (which includes 121 raffle tickets).
+
+Total spending was $7313.04:  $4412.01 on making improvements to the system and $248.43 on fixing something that was broken;  $764.11 was spent on electricity for MRW (4680 KWH);  $205 in shipping and PO BOX costs;  $372.41 in meeting expenses (among other things we sponsored a regional/open invite digital repeater informational meeting); $409.05 was spent at Boxboro (mostly the raffle prizes).  DSL and VOIP charges for MRW were $335.  The Website cost us $150.  There were $250 for the club's insurance and $150 for “rent” at MRE.
+
+
+2013-2014:
+
+More than 88% of members have already renewed (or prepaid) their memberships for this year.  If you have not yet renewed I expect you have received email reminders.
+
+The club has already spent $1627.57 on improvements to the system this current fiscal year.
+
+For many years WUMB was paying for the electricity at Quincy.  We thought this was OK because they were on our tower.  However WUMB is no longer located at Quincy and the MMRA was required to take over the power costs for the site.  Early indications are that this will cost the club $322 per year of recurring costs that we were previously not spending.  Regular users of Quincy repeaters who are not members are encouraged to join.  Total electric bills for the club will exceed $1000 this year.
+
+The club (at a membership vote) previously authorized $8000 to be spent in order to return the antennas at MRW back to the top of the water tower.  In addition it is likely we will be required to move the shelter at the site.  I do not expect we will need/spend all of that $8000 but if we did I project that the club would run in the red by $8617 this year.  That sounds like a lot or money but keep in mind we have known about and been planning for this project for more than 10 years.  We have received donations for this project for over 5 years.  Even after this expense we will have more money in the club accounts than we had in 2008 and more than twice what we had in 2004 (when I changed roles to become the treasurer and K1IW became the president).
+
+
+2014-2015:
+
+2014-2015 would have been a “Boxborough” year.  As we know the Boxborough convention will not be held in deference to the ARRL Centennial in Hartford.  We have plans to represent the MMRA at the convention (any volunteers?) but it is likely we will not generate the membership renewals that we would have normally received.  Lets hope that this does not cause a significant drop in the dues we will receive in the summer of 2014.
+
+If you have any questions about the club finances do not hesitate to contact me.  All of the above (and more) is presented/discussed at the business meetings which generally occur every 2 months on the months that do not have membership meetings.  All members are invited to the business meetings.  Location are publicized on the web site but they are usually in Maynard, MA.  I recommend that members be punctual for the business meetings as they are often held at somewhat secure corporate office sites where we often have to let people into a locked building (and the meeting room is not at the front door).   Also we generally meet at a local restaurant for dinner before the meeting so if you are interested in coming to the meeting and meeting for dinner please let us know.   We have been seeing some new faces at the business meetings and it would be good to see more.
+
+73,
+
+Kevin (K1KWP)
+MMRA Treasurer
+----------
+
+President’s Corner
+Bob DeMattia — K1IW 
+Marlboro West
+
+Probably the biggest topic of conversation for the MMRA over the past year has been the status of our main repeater site on Sligo Hill in Marlborough.  Because of work on the water tower there, all of our repeaters have been running on temporary antennas 20 - 30 feet off the ground, a loss of over 100 feet in elevation.   This has drastically affected the coverage of 53.81, 147.27, 224.88, 449.925, 927.7, and our APRS digipeater on 144.39.  This situation was supposed last three months, but here we are a year and a half later, still waiting.
+
+As a quick update to this situation, things are definitely moving at the site.  Recently, one of the cell companies completed their installation on the tower.  I've personally had two meetings with the city and will be having a third in the next week.  I'm now mildly optimistic that we will have coverage restored at this site in the near future.
+
+I want to thank everyone for their patience.  I, as well as the rest of the board, are just as frustrated as anyone. 
+
+73 — Bob
+----------
+
+Repeater Update - Quincy
+
+Photo 1: WUMB left the “building” inside of which reside our Quincy repeaters.  Here are some photos of what is currently there:
+Photo 2: WUMB antennas are gone.
+Photo 3: The mystery box is labeled "Data Collector Quincy Water" on the fuse box.
+Photo 4: MMRA Repeaters.
+
+Repeater Update - Belmont
+
+Photo: The MMRA now fully owns the removable portions of the Belmont repeater (everything except the antenna and feedline).
+----------
+
+2013—2014 Meetings
+
+20 November ~ Membership Meeting
+Tony Sousa, NN1D — 2300 MHz and Up! 
+Dedham Public Library
+
+18 December ~ Business Meeting
+Stratus, Maynard
+
+15 January ~ Membership Meeting
+Steve Schwarm W3EVE — Reflections on the 2013 Boston Marathon 
+Clay Center, Brookline 
+
+12 February ~ Business Meeting
+Stratus, Maynard
+
+19 March ~ Membership Meeting
+A Peek into the World of Nanotechnology
+Tatnuck Bookseller, Westborough 
+
+16 April ~ Business Meeting
+Stratus, Maynard
+
+21 May ~ Membership Meeting
+Topic TBD
+Location TBA 
+
+18 June ~ Business Meeting
+Stratus, Maynard
+
+16 July ~ Summer Get Together
+Location TBA 
+
+20 August ~ Business Meeting
+Stratus, Maynard
+----------
+
+Don’t Forget!
+
+Every Tuesday @ 8 PM
+Technical, Informational and Other Stuff Net
+
+The MMRA’s repeaters are linked Tuesday nights for the TIAOS Net.  Join us!  This is a good way to keep up with what is happening in the MMRA and ask your ham related questions.  
+
+If you would like to try your hand at Net Control contact me at W1DYJ@mmra.org  – we have a script you can use.  
+
+Current Net Control Operators:
+Week 1	WA1JIM		Jimmy Devaire	
+Week 2	W1DYJ		Larry Banks	
+Week 3	KQ1Y		Tim Wortley 
+Week 4	K1KWP		Kevin Paetzold	
+Week 5 	W1DYJ		Larry Banks
+
+To connect using Echolink / IRLP during the Net: 
+Echolink Conference *NEW-ENG2*
+IRLP node 9127
+----------
+
+MMRA Leaders
+Officers
+President		Bob DeMattia	K1IW
+Vice President		Steve Telsey	N1BDA
+Secretary		John McGovern	W1JMC
+Treasurer		Kevin Paetzold	K1KWP
+Clerk			Bob Evans	N1BE
+Technical Officer	Bryan Cerqua	W1BRI
+
+Board of Directors
+Director  »2015		Steve Schwarm	W3EVE
+Director  »2015		Roger Coulson	WA1NVC
+Director  »2014		Clark Conti	N1NVK
+Director  »2014		Mike Neilsen	W1MPN
+
+Repeater Trustees, Appointed
+Boston 927.0625		Rick Zach	K1RJZ
+Boston 146.820		John Mullaney 	K1BOS
+Brookline 146.820 Rcvr	Bob Phinney	K5TEC
+Burlington 146.715	Bruce Pigott	KC1US
+Burlington 446.775	Larry Banks	W1DYJ
+Hopkinton 223.940	Kevin Paetzold	K1KWP
+Lowell 442.250		Vince De La Flor  K1LVF
+Marlboro 53.810; Quincy 146.670; Southboro 449.575
+
+			Bryan Cerqua	W1BRI
+Marlboro 144.390, 147.270, 224.880, 449.925, 927.700
+Belmont 145.430;  Weston 442.700 — all as W1MRA
+		Bill Northup	N1QPR
+Mendon 146.610		Jim Podsiadlo	AE1C
+Weston 146.790		Bob Evans	N1BE
+Weston 224.700		Eddie Mulhern	N1NOM
+
+Appointed, non-Voting
+Newsletter Editor	Larry Banks	W1DYJ
+Emergency  Coord.	Kevin Paetzold	K1KWP
+Public Service Coord.  	David Wolfe	KG1H
+VEC Liaison		Bill Wade	K1IJ
+Net Manager		Larry Banks	W1DYJ
+Web Page Editor		Bob DeMattia	K1IW
+----------
+
+Previous issues of the MMRA Newsletter are available at:
+www.mmra.org è Newsletter Archive (on the left)
+----------
+
+MMRA VE Sessions
+3rd Saturday of each Month
+EXCEPT: September session is on the 14th
+November session is on the 9th
+9 AM at the Marlboro Public Library
+
+Contact: Bill Wade, K1IJ      781-891-9079
+Evenings 6 - 10 PM           
+Weekends 8 AM to 10 PM.
+
+Accredited by the ARRL VEC
+----------
+
+Calendar of Ham Radio Flea Markets
+See this web site for more information:  http://mit.edu/w1gsl/Public/ne-fleas
+
+30 Nov	Windsor CT	VR+C Mus 115 Pierson LN
+16 Feb	Westford MA	NEARC 
+22 Feb	S Burlington VT	HAM-CON @HI 
+15 Mar	Dayville CT	ECARA @StJosephCh
+16 Mar	Southington CT	SARA 
+28,29 Mar Lewiston ME	AARC ME Conv 
+12,13 Apr Wakefield MA	Photographica @AmericalCtr
+18 Apr	S.Portland ME	PAWA @AmLegion
+20 Apr	Cambridge MA	FLEA at MIT
+27 Apr	Middletown NY	OCARA @CommCtr
+2,3 May	Deerfield NH	NEARfest XV @FG
+10 May	E Greenbush NY	EGARA @FireCo
+18 May	Cambridge MA	FLEA at MIT
+ 7 Jun	Hermon ME	PSARA @8 @HS
+15 Jun	Cambridge MA	FLEA at MIT
+18,19 Jul Hartford CT	ARRL Nat Conv 100th Anv.
+20 July	Cambridge MA	FLEA at MIT
+17 Aug	Cambridge MA	FLEA at MIT
+20 Sep	Forestdale RI	RIAFMRS @VFW 
+21 Sep	Cambridge MA	FLEA at MIT 
+12 Oct	Meriden CT	Nutmeg @Sheraton
+19 Oct	Cambridge MA	FLEA at MIT
+----------
+
+END of NEWSLETTER
